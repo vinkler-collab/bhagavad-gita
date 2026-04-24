@@ -1324,16 +1324,30 @@ body.sand-mode .analysis-container b {
     color: #555;
 }
 
+/* --- Barevné režimy pro audio --- */
+
 /* Tmavý režim (Dark Mode) */
 body.dark-mode .verse-audio-container audio {
-    color-scheme: dark; /* Kouzelné slůvko: vynutí nativní černý přehrávač */
-    filter: none; /* Zrušíme předchozí inverzi, už není potřeba */
+    color-scheme: dark !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important; /* Odstraní ten světlý stín/rámeček */
+    appearance: none !important;  /* Vypne systémové styly mobilu */
 }
 
 /* Režim Kafe (Sand Mode) */
 body.sand-mode .verse-audio-container audio {
-    color-scheme: light;
-    filter: sepia(50%) contrast(90%);
+    color-scheme: light !important;
+    filter: sepia(60%) contrast(90%) !important;
+    background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+
+/* Pojistka pro všechny režimy - odstranění defaultních okrajů */
+audio {
+    outline: none !important;
+    user-select: none;
 }
 </style>
 </head>
