@@ -36,8 +36,7 @@ Dhritarashtra said: Having assembled on the holy plain in Kurukshetra desirous o
 {eoc}
 
 {sov: Verse 1.2}
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-1.mp3
-
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-2.mp3
 सञ्जय उवाच ।
 दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।
 आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ।। 2।।
