@@ -21,7 +21,6 @@
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="//open.spotify.com/embed/episode/7hfRQab6EVK5t861oQCw7R?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 {sov: Verse 1.1}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-1.mp3 | var a
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-1.mp3 | var b
 धृतराष्ट्र उवाच |
 धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |
 मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||
