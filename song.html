@@ -1349,6 +1349,41 @@ audio {
     outline: none !important;
     user-select: none;
 }
+
+/* --- BARVY PRO IAST VÝRAZY (**text**) VE SLOKÁCH I V ŠUPLÍKU --- */
+
+/* 1. Denní režim (světlý) */
+.analysis-container strong, 
+.analysis-container b,
+.lyric strong, 
+.lyric b,
+.comment strong,
+.comment b {
+    color: #a04040; /* Pokud používáš ve světlém režimu jinou barvu, tady si ji přepiš */
+    font-weight: normal !important;
+}
+
+/* 2. Tmavý režim (Dark Mode) */
+body.dark-mode .analysis-container strong, 
+body.dark-mode .analysis-container b,
+body.dark-mode .lyric strong, 
+body.dark-mode .lyric b,
+body.dark-mode .comment strong,
+body.dark-mode .comment b {
+    color: #ff9da6; /* Světle růžová/pastelová (zachováno z tvého nastavení) */
+    font-weight: normal !important;
+}
+
+/* 3. Režim Kafe (Sand Mode) */
+body.sand-mode .analysis-container strong, 
+body.sand-mode .analysis-container b,
+body.sand-mode .lyric strong, 
+body.sand-mode .lyric b,
+body.sand-mode .comment strong,
+body.sand-mode .comment b {
+    color: #8b4513; /* Tmavší rezavá/hnědá (zachováno z tvého nastavení) */
+    font-weight: normal !important;
+}
 </style>
 </head>
 <body>
@@ -2027,6 +2062,31 @@ window.toggleAnalysis = function() {
     }
 });
   </script>
+<script>
+  setInterval(() => {
+      // Vybereme všechna místa, kde se může vyskytovat text veršů nebo slovníček
+      // .lyric = verše a slovníček nad šuplíkem
+      // .comment = poznámky pod čarou
+      // .analysis-content = vnitřek šuplíku
+      const areas = document.querySelectorAll('.lyric, .comment, .analysis-content');
+
+      areas.forEach(area => {
+          // Zpracujeme pouze pokud ještě nebylo obarveno
+          if (!area.classList.contains('iast-auto-processed')) {
+              let html = area.innerHTML;
+
+              // Vylepšený regulární výraz:
+              // 1. (^|;\s*|<br>\s*) -> začátek řádku, nebo středník, nebo nový řádek (<br>)
+              // 2. ([^—<>\n]+)      -> text před pomlčkou (nesmí obsahovat jiný tag nebo nový řádek)
+              // 3. (—)              -> samotná dlouhá pomlčka
+              html = html.replace(/(^|;\s*|<br>\s*)([^—<>\n]+)(—)/g, '$1<strong>$2</strong>$3');
+
+              area.innerHTML = html;
+              area.classList.add('iast-auto-processed');
+          }
+      });
+  }, 500);
+</script>
 <script>
   setInterval(() => {
       const links = document.querySelectorAll('a');
