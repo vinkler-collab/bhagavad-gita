@@ -1,9 +1,9 @@
 {title: 1. Chapter 1 Summary }
-{subtitle: }
+{subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 # ODZNAČIT JEDNU Z KATEGORIÍ:
-# {category: Buddhistické}
-{category: Indické - základní}
+{category: Chapter 1}
+# {category: Indické - základní}
 # {category: Indické - Kršna} 
 # {category: Indické - Šiva}
 # {category: Indické - Ráma}
@@ -14,12 +14,14 @@
 # {capo: 0}
 # {time: 4/4}
 # {tempo: 80}
-{tags: tag1, tag2}
+{tags: }
 {audio: https://samhita.cz/zpivani/audio/hanuman_bolo_ih5_2016_04_06_k.mp3 | Samhita: Verze 1 - 2016_04_06}
 ##########################################
 <iframe width="100%" height="315" src="//www.youtube.com/embed/y9Kt7Db9MxA?si=0DE0ku3pnogPYGSF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="//open.spotify.com/embed/episode/7hfRQab6EVK5t861oQCw7R?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 {sov: Verse 1.1}
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-1.mp3 | var a
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-1.mp3 | var b
 धृतराष्ट्र उवाच |
 धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः |
 मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ||1||
@@ -34,6 +36,8 @@ Dhritarashtra said: Having assembled on the holy plain in Kurukshetra desirous o
 {eoc}
 
 {sov: Verse 1.2}
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-1.mp3
+
 सञ्जय उवाच ।
 दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा ।
 आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ।। 2।।

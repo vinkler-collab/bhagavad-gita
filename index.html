@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Samhita zpěvník</title>
+<title>Bhagavad Gita - SwaSarva</title>
 <link href="https://fonts.googleapis.com/css2?family=Gentium+Book+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
 <style>
   * { box-sizing: border-box; }
@@ -874,7 +874,7 @@ body.sand-mode .filter-pill strong {
     <header>
       <div class="header-inner">
         <div class="header-text">
-          <h1>♫ Samhita Songbook</h1>
+          <h1>Bhagavad Gita - SwaSarva</h1>
           <div class="last-update" id="last-update">Aktualizováno: —</div>
         </div>
         <div class="header-actions">
@@ -986,7 +986,7 @@ let sortMode = 'az';
 let categoryFilter = null;
 
 const CATEGORY_ORDER = [
-  'Buddhistické',
+  'Chapter 1',
   'Indické - základní',
   'Indické - Kršna',
   'Indické - Šiva',
@@ -994,6 +994,7 @@ const CATEGORY_ORDER = [
   'Indické - Bohyně',
   'Indické - ostatní',
   'Písně',
+  'Odkazy'
 ];
 
 // Načteme songs.json
@@ -1109,7 +1110,7 @@ function renderSongs(list) {
     const li = document.createElement('li');
     li.innerHTML = `
       <a href="${buildUrl(song)}">
-        <span class="song-icon">♫</span>
+        <span class="song-icon">🔆</span>
         <span class="song-info">
           <span class="song-name">${song.name}</span>
           ${song.subtitle ? `<span class="song-sub">${song.subtitle}</span>` : ''}

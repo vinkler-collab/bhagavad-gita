@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Zpěvník</title>
+<title>Bhagavad Gita</title>
 <style>
 /* --- Sjednocený vzhled prvků pod písní --- */
 .analysis-container, .pdf-link {
@@ -1317,6 +1317,24 @@ body.sand-mode .analysis-container b {
     margin: 0 !important;
 }
 
+/* --- Barevné režimy pro audio přehrávač a popisek --- */
+
+/* Výchozí (světlý) režim */
+.audio-label {
+    color: #555;
+}
+
+/* Tmavý režim (Dark Mode) */
+body.dark-mode .verse-audio-container audio {
+    color-scheme: dark; /* Kouzelné slůvko: vynutí nativní černý přehrávač */
+    filter: none; /* Zrušíme předchozí inverzi, už není potřeba */
+}
+
+/* Režim Kafe (Sand Mode) */
+body.sand-mode .verse-audio-container audio {
+    color-scheme: light;
+    filter: sepia(50%) contrast(90%);
+}
 </style>
 </head>
 <body>
@@ -1915,7 +1933,7 @@ window.toggleAnalysis = function() {
 };
   
   if (songName) {
-    document.title = songName + " - Zpěvník";
+    document.title = songName + " - BG";
     fetch(`songs/${songName}.pro`)
       .then(r => {
         if (!r.ok) throw new Error('Network response was not ok');
@@ -1995,5 +2013,84 @@ window.toggleAnalysis = function() {
     }
 });
   </script>
+<script>
+  setInterval(() => {
+      const links = document.querySelectorAll('a');
+      links.forEach(link => {
+          if (link.href.toLowerCase().includes('.mp3') && !link.classList.contains('audio-processed')) {
+              link.classList.add('audio-processed'); 
+              
+              // 1. Zpracování popisku
+              let customLabel = ''; 
+              let nextNode = link.nextSibling;
+              
+              if (nextNode && nextNode.nodeType === Node.TEXT_NODE && nextNode.textContent.trim() === '') {
+                  nextNode = nextNode.nextSibling;
+              }
+              
+              if (nextNode && nextNode.nodeType === Node.TEXT_NODE && nextNode.textContent.includes('|')) {
+                  const parts = nextNode.textContent.split('|');
+                  if (parts[1] && parts[1].trim() !== '') {
+                      customLabel = parts[1].trim(); 
+                  }
+                  nextNode.textContent = parts[0]; 
+              }
+              
+              // 2. Tvorba kontejneru (Absolutní nula pro mezery)
+              const container = document.createElement('div');
+              container.className = 'verse-audio-container';
+              container.style.cssText = 'display: flex; flex-direction: column; width: 100%; box-sizing: border-box; margin: 0 !important; padding: 0 !important;';
+              
+              // 3. Vložení popisku
+              if (customLabel !== '') {
+                  const label = document.createElement('span');
+                  label.className = 'audio-label';
+                  label.textContent = customLabel; 
+                  // Tady držíme line-height 1.2, aby se text neusekl
+                  label.style.cssText = 'font-size: 0.85em; font-weight: bold; padding-left: 5px; margin-bottom: 2px; line-height: 1.2;';
+                  container.appendChild(label);
+              }
+              
+              // 4. Přehrávač
+              const audio = document.createElement('audio');
+              audio.controls = true;
+              audio.preload = 'none';
+              audio.style.cssText = 'height: 40px; width: 100%; outline: none; border-radius: 30px; margin: 0 !important; padding: 0 !important; display: block;';
+              
+              const source = document.createElement('source');
+              source.src = link.href;
+              source.type = 'audio/mpeg';
+              
+              audio.appendChild(source);
+              container.appendChild(audio);
+              
+              // 5. NUKLEÁRNÍ ZBRAŇ NA MEZERY
+              // Najdeme hlavní odstavec, ve kterém se nacházíme
+              const parentP = link.closest('p') || link.parentNode;
+              
+              if (parentP && parentP.tagName && parentP.tagName.toLowerCase() === 'p') {
+                  // Totálně zničíme veškeré okraje u odstavce
+                  parentP.style.setProperty('margin', '0', 'important');
+                  parentP.style.setProperty('padding', '0', 'important');
+                  parentP.style.setProperty('line-height', '0', 'important'); // Smrskne prázdné místo
+                  
+                  // Nyní se podíváme pod tento odstavec a zničíme všechny <br> tagy nebo prázdné odstavce
+                  let siblingAfter = parentP.nextElementSibling;
+                  while (siblingAfter && (
+                      siblingAfter.tagName.toLowerCase() === 'br' || 
+                      (siblingAfter.tagName.toLowerCase() === 'p' && siblingAfter.innerHTML.trim() === '')
+                  )) {
+                      let toTrash = siblingAfter;
+                      siblingAfter = siblingAfter.nextElementSibling;
+                      toTrash.remove(); // Smaže prázdný blok z HTML
+                  }
+              }
+              
+              // 6. Výměna na stránce
+              link.parentNode.replaceChild(container, link);
+          }
+      });
+  }, 500);
+</script>
 </body>
 </html>
