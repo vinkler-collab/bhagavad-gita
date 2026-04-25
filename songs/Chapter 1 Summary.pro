@@ -261,146 +261,303 @@ O King! Now seeing the Kauravas arrayed in battle order and the discharge of wea
 
 {sov: Verse 1.21-22}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-21-22.mp3
-devanagariIASTslovnik
+अर्जुन उवाच |
+सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत || 21||
+यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् |
+कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे || 22||
+
+arjuna uvācha
+senayor ubhayor madhye rathaṁ sthāpaya me ’chyuta
+yāvadetān nirīkṣhe ’haṁ yoddhu-kāmān avasthitān
+kairmayā saha yoddhavyam asmin raṇa-samudyame
+
+arjunaḥ uvācha—Arjun said; senayoḥ—armies; ubhayoḥ—both; madhye—in the middle; ratham—chariot; sthāpaya—place; me—my; achyuta—Shree Krishna, the infallible One; yāvat—as many as; etān—these; nirīkṣhe—look; aham—I; yoddhu-kāmān—for the battle; avasthitān—arrayed; kaiḥ—with whom; mayā—by me; saha—together; yoddhavyam—must fight; asmin—in this; raṇa-samudyame—great combat
 {eov}
 {soc}
-translation
+Arjuna said: O Achyuta, between the two armies draw up my chariot, that I may behold those who stand there eager to fight, and may know, on the eve of battle, with whom I must contend.
 {eoc}
 
 {sov: Verse 1.23}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-23.mp3
-devanagariIASTslovnik
+योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागता: |
+धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षव: || 23||
+
+yotsyamānān avekṣhe ’haṁ ya ete ’tra samāgatāḥ
+dhārtarāṣhṭrasya durbuddher yuddhe priya-chikīrṣhavaḥ
+
+yotsyamānān—those who have come to fight; avekṣhe aham—I desire to see; ye—who; ete—those; atra—here; samāgatāḥ—assembled; dhārtarāṣhṭrasya—of Dhritarashtra’s son; durbuddheḥ—evil-minded; yuddhe—in the fight; priya-chikīrṣhavaḥ—wishing to please
 {eov}
 {soc}
-translation
+I would observe these warriors assembled here for the battle wishing to please the evil-minded Duryodhana.
 {eoc}
 
 {sov: Verse 1.24-25}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-24-25.mp3
-devanagariIASTslovnik
+सञ्जय उवाच |
+एवमुक्तो हृषीकेशो गुडाकेशेन भारत |
+सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् || 24||
+भीष्मद्रोणप्रमुखत: सर्वेषां च महीक्षिताम् |
+उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति || 25||
+
+sañjaya uvācha
+evam ukto hṛiṣhīkeśho guḍākeśhena bhārata
+senayor ubhayor madhye sthāpayitvā rathottamam
+bhīṣhma-droṇa-pramukhataḥ sarveṣhāṁ cha mahī-kṣhitām
+uvācha pārtha paśhyaitān samavetān kurūn iti
+
+sañjayaḥ uvācha—Sanjay said; evam—thus; uktaḥ—addressed; hṛiṣhīkeśhaḥ—Shree Krishna, the Lord of the senses; guḍākeśhena—by Arjun, the conqueror of sleep; bhārata—descendant of Bharat; senayoḥ—armies; ubhayoḥ—the two; madhye—between; sthāpayitvā—having drawn; ratha-uttamam—magnificent chariot; bhīṣhma—Grandsire Bheeshma; droṇa—Dronacharya; pramukhataḥ—in the presence; sarveṣhām—all; cha—and; mahī-kṣhitām—other kings; uvācha—said; pārtha—Arjun, the son of Pritha; paśhya—behold; etān—these; samavetān—gathered; kurūn—descendants of Kuru; iti—thus
 {eov}
 {soc}
-translation
+Sanjaya said: Advised thus by Arjuna Lord Krishna placed the noble chariot in the middle of the two armies, and in front of Bhishma and Drona, and all the Kings, and said: ‘O Arjuna! Behold those Kauravas gathered here.’
 {eoc}
 
 {sov: Verse 1.26}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-26.mp3
-devanagariIASTslovnik
+तत्रापश्यत्स्थितान् पार्थ: पितृ नथ पितामहान् |
+आचार्यान्मातुलान्भ्रातृ न्पुत्रान्पौत्रान्सखींस्तथा || 26||
+श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि |
+
+tatrāpaśhyat sthitān pārthaḥ pitṝīn atha pitāmahān
+āchāryān mātulān bhrātṝīn putrān pautrān sakhīṁs tathā
+śhvaśhurān suhṛidaśh chaiva senayor ubhayor api
+
+tatra—there; apaśhyat—saw; sthitān—stationed; pārthaḥ—Arjun; pitṝīn—fathers; atha—thereafter; pitāmahān—grandfathers; āchāryān—teachers; mātulān—maternal uncles; bhrātṝīn—brothers; putrān—sons; pautrān—grandsons; sakhīn—friends; tathā—also; śhvaśhurān—fathers-in-law; suhṛidaḥ—well-wishers; cha—and; eva—indeed; senayoḥ—armies; ubhayoḥ—in both armies; api—also
 {eov}
 {soc}
-translation
+There Arjuna saw fathers, grand-fathers, teachers, uncles, brothers, sons, grandsons, companions, fathers-in-law, and friends in both the armies.
 {eoc}
 
 {sov: Verse 1.27}
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-27x.mp3
-devanagariIASTslovnik
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-27.mp3
+तान्समीक्ष्य स कौन्तेय: सर्वान्बन्धूनवस्थितान् || 27||
+कृपया परयाविष्टो विषीदन्निदमब्रवीत् |
+
+tān samīkṣhya sa kaunteyaḥ sarvān bandhūn avasthitān
+kṛipayā parayāviṣhṭo viṣhīdann idam abravīt
+
+tān—these; samīkṣhya—on seeing; saḥ—they; kaunteyaḥ—Arjun, the son of Kunti; sarvān—all; bandhūn—relatives; avasthitān—present; kṛipayā—by compassion; parayā—great; āviṣhṭaḥ—overwhelmed; viṣhīdan—deep sorrow; idam—this; abravīt—spoke
 {eov}
 {soc}
-translation
+Casting his eyes on all these kinsmen stationed on opposing sides, the son of Kunti was overcome with deep pity and sorrowfully spoke.
 {eoc}
 
 {sov: Verse 1.28-30}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-28-30.mp3
-devanagariIASTslovnik
+अर्जुन उवाच |
+दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् || 28||
+सीदन्ति मम गात्राणि मुखं च परिशुष्यति |
+वेपथुश्च शरीरे मे रोमहर्षश्च जायते || 29||
+गाण्डीवं स्रंसते हस्तात्त्वक्चै व परिदह्यते |
+न च शक्नोम्यवस्थातुं भ्रमतीव च मे मन: || 30||
+
+arjuna uvācha
+dṛiṣhṭvemaṁ sva-janaṁ kṛiṣhṇa yuyutsuṁ samupasthitam
+sīdanti mama gātrāṇi mukhaṁ cha pariśhuṣhyati
+vepathuśh cha śharīre me roma-harṣhaśh cha jāyate
+gāṇḍīvaṁ sraṁsate hastāt tvak chaiva paridahyate
+na cha śhaknomy avasthātuṁ bhramatīva cha me manaḥ
+
+arjunaḥ uvācha—Arjun said; dṛiṣhṭvā—on seeing; imam—these; sva-janam—kinsmen; kṛiṣhṇa—Krishna; yuyutsum—eager to fight; samupasthitam—present; sīdanti—quivering; mama—my; gātrāṇi—limbs; mukham—mouth; cha—and; pariśhuṣhyati—is drying up; vepathuḥ—shuddering; cha—and; śharīre—on the body; me—my; roma-harṣhaḥ—standing of bodily hair on end; cha—also; jāyate—is happening; gāṇḍīvam—Arjun’s bow; sraṁsate—is slipping; hastāt—from (my) hand; tvak—skin; cha—and; eva—indeed; paridahyate—is burning all over; na—not; cha—and; śhaknomi—am able; avasthātum—remain steady; bhramati iva—whirling like; cha—and; me—my; manaḥ—mind; 
 {eov}
 {soc}
-translation
+Arjuna said: O Krishna, at the sight of these my kinsmen, assembled here eager to give battle, my limbs fail and my mouth is parched. My body is shaken and my hair stands on end. The bow Gāndiva slips from my hand and my skin is on fire. I cannot hold myself steady; my mind seems to whirl. O Keśava, I see omens of evil.
 {eoc}
 
 {sov: Verse 1.31}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-31.mp3
-devanagariIASTslovnik
+निमित्तानि च पश्यामि विपरीतानि केशव |
+न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे || 31||
+
+nimittāni cha paśhyāmi viparītāni keśhava
+na cha śhreyo ’nupaśhyāmi hatvā sva-janam āhave
+
+nimittāni—omens; cha—and; paśhyāmi—I see; viparītāni—misfortune; keśhava—Shree Krishna, killer of the Keshi demon; na—not; cha—also; śhreyaḥ—good; anupaśhyāmi—I foresee; hatvā—from killing; sva-janam—kinsmen; āhave—in battle
 {eov}
 {soc}
-translation
+O Krishna! I see many ill-omens and I do not understand what good could come by killing my own people in battle.
 {eoc}
 
 {sov: Verse 1.32}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-32.mp3
-devanagariIASTslovnik
+न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च |
+किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा || 32||
+
+na kāṅkṣhe vijayaṁ kṛiṣhṇa na cha rājyaṁ sukhāni cha
+kiṁ no rājyena govinda kiṁ bhogair jīvitena vā
+
+na—nor; kāṅkṣhe—do I desire; vijayam—victory; kṛiṣhṇa—Krishna; na—nor; cha—as well; rājyam—kingdom; sukhāni—happiness; cha—also; kim—what; naḥ—to us; rājyena—by kingdom; govinda—Krishna, he who gives pleasure to the senses, he who is fond of cows; kim—what?; bhogaiḥ—pleasures; jīvitena—life; vā—or;
 {eov}
 {soc}
-translation
+O Krishna! I do not desire victory or kingdom or pleasures. Of what avail are these kingdom, enjoyment, or even life itself to us.
 {eoc}
 
 {sov: Verse 1.33-34}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-33-34.mp3
-devanagariIASTslovnik
+येषामर्थे काङ्क्षितं नो राज्यं भोगा: सुखानि च |
+त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च || 33||
+आचार्या: पितर: पुत्रास्तथैव च पितामहा: |
+मातुला: श्वशुरा: पौत्रा: श्याला: सम्बन्धिनस्तथा || 34||
+
+yeṣhām arthe kāṅkṣhitaṁ no rājyaṁ bhogāḥ sukhāni cha
+ta ime ’vasthitā yuddhe prāṇāṁs tyaktvā dhanāni cha
+āchāryāḥ pitaraḥ putrās tathaiva cha pitāmahāḥ
+mātulāḥ śhvaśhurāḥ pautrāḥ śhyālāḥ sambandhinas tathā
+
+yeṣhām—for whose; arthe—sake; kāṅkṣhitam—coveted for; naḥ—by us; rājyam—kingdom; bhogāḥ—pleasures; sukhāni—happiness; cha—also; te—they; ime—these; avasthitāḥ—situated; yuddhe—for battle; prāṇān—lives; tyaktvā—giving up; dhanāni—wealth; cha—also; āchāryāḥ—teachers; pitaraḥ—fathers; putrāḥ—sons; tathā—as well; eva—indeed; cha—also; pitāmahāḥ—grandfathers; mātulāḥ—maternal uncles; śhvaśhurāḥ—fathers-in-law; pautrāḥ—grandsons; śhyālāḥ—brothers-in-law; sambandhinaḥ—kinsmen; tathā—as well;
 {eov}
 {soc}
-translation
+Those for whose sake we desire kingdom, enjoyments, and pleasures—teachers, fathers, sons, grandfathers, maternal uncles, fathers-in law, brothers-in-law, grandsons and other relations are all standing here ready for battle, having abandoned their wealth and very life even.
 {eoc}
 
 {sov: Verse 1.35}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-35.mp3
-devanagariIASTslovnik
+एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन |
+अपि त्रैलोक्यराज्यस्य हेतो: किं नु महीकृते || 35||
+
+etān na hantum ichchhāmi ghnato ’pi madhusūdana
+api trailokya-rājyasya hetoḥ kiṁ nu mahī-kṛite
+
+etān—these; na—not; hantum—to slay; ichchhāmi—I wish; ghnataḥ—killed; api—even though; madhusūdana—Shree Krishna, killer of the demon Madhu; api—even though; trai-lokya-rājyasya—dominion over three worlds; hetoḥ—for the sake of; kim nu—what to speak of; mahī-kṛite—for the earth
 {eov}
 {soc}
-translation
+These, O Madhusudana, I would not kill, though they should kill me, even for the sake of sovereignty over the three worlds - how much less for this earth!
 {eoc}
 
 {sov: Verse 1.36}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-36.mp3
-devanagariIASTslovnik
+निहत्य धार्तराष्ट्रान्न: का प्रीति: स्याज्जनार्दन |
+पापमेवाश्रयेदस्मान्हत्वैतानाततायिन: || 36 ||
+
+nihatya dhārtarāṣhṭrān naḥ kā prītiḥ syāj janārdana
+pāpam evāśhrayed asmān hatvaitān ātatāyinaḥ
+
+nihatya—by killing; dhārtarāṣhṭrān—the sons of Dhritarashtra; naḥ—our; kā—what; prītiḥ—pleasure; syāt—will there be; janārdana—he who looks after the public, Shree Krishna; pāpam—vices; eva—certainly; āśhrayet—must come upon; asmān—us; hatvā—by killing; etān—all these; ātatāyinaḥ—aggressors;
 {eov}
 {soc}
-translation
+O Janārdana, what joy can be ours in killing these sons of Dhritarāshtra? Sin alone will possess us if we kill these felons.
 {eoc}
 
 {sov: Verse 1.37}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-37.mp3
-devanagariIASTslovnik
+तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् |
+स्वजनं हि कथं हत्वा सुखिन: स्याम माधव || 37||
+
+tasmān nārhā vayaṁ hantuṁ dhārtarāṣhṭrān sa-bāndhavān
+sva-janaṁ hi kathaṁ hatvā sukhinaḥ syāma mādhava
+
+tasmāt—hence; na—never; arhāḥ—behoove; vayam—we; hantum—to kill; dhārtarāṣhṭrān—the sons of Dhritarashtra; sva-bāndhavān—along with friends; sva-janam—kinsmen; hi—certainly; katham—how; hatvā—by killing; sukhinaḥ—happy; syāma—will we become; mādhava—Shree Krishna, the husband of Yogmaya
 {eov}
 {soc}
-translation
+Therefore we ought not to kill our kinsmen, the sons of Dhritarāshtra; for, O Mādhava, how can we ever be happy by killing our own people?
 {eoc}
 
 {sov: Verse 1.38-39}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-38-39.mp3
-devanagariIASTslovnik
+यद्यप्येते न पश्यन्ति लोभोपहतचेतस: |
+कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् || 38||
+कथं न ज्ञेयमस्माभि: पापादस्मान्निवर्तितुम् |
+कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन || 39||
+
+yady apy ete na paśhyanti lobhopahata-chetasaḥ
+kula-kṣhaya-kṛitaṁ doṣhaṁ mitra-drohe cha pātakam
+kathaṁ na jñeyam asmābhiḥ pāpād asmān nivartitum
+kula-kṣhaya-kṛitaṁ doṣhaṁ prapaśhyadbhir janārdana
+
+yadi api—even though; ete—they; na—not; paśhyanti—see; lobha—greed; upahata—overpowered; chetasaḥ—thoughts; kula-kṣhaya-kṛitam—in annihilating their relatives; doṣham—fault; mitra-drohe—to wreak treachery upon friends; cha—and; pātakam—sin; katham—why; na—not; jñeyam—should be known; asmābhiḥ—we; pāpāt—from sin; asmāt—these; nivartitum—to turn away; kula-kṣhaya—killing the kindered; kṛitam—done; doṣham—crime; prapaśhyadbhiḥ—who can see; janārdana—he who looks after the public, Shree Krishna
 {eov}
 {soc}
-translation
+Though they, their understanding overcome by greed, perceive no evil in the decay of families and no sin in hostility to friends, why, O Janārdana, should not we, who clearly perceive the evil in the decay of families, learn to refrain from this sin?
 {eoc}
 
 {sov: Verse 1.40-42}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-40-42.mp3
-devanagariIASTslovnik
+कुलक्षये प्रणश्यन्ति कुलधर्मा: सनातना: |
+धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत || 40||
+अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रिय: |
+स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्कर: || 41||
+सङ्करो नरकायैव कुलघ्नानां कुलस्य च |
+पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रिया: || 42||
+
+kula-kṣhaye praṇaśhyanti kula-dharmāḥ sanātanāḥ
+dharme naṣhṭe kulaṁ kṛitsnam adharmo ’bhibhavaty uta
+adharmābhibhavāt kṛiṣhṇa praduṣhyanti kula-striyaḥ
+strīṣhu duṣhṭāsu vārṣhṇeya jāyate varṇa-saṅkaraḥ
+saṅkaro narakāyaiva kula-ghnānāṁ kulasya cha
+patanti pitaro hy eṣhāṁ lupta-piṇḍodaka-kriyāḥ
+
+kula-kṣhaye—in the destruction of a dynasty; praṇaśhyanti—are vanquished; kula-dharmāḥ—family traditions; sanātanāḥ—eternal; dharme—religion; naṣhṭe—is destroyed; kulam—family; kṛitsnam—the whole; adharmaḥ—irreligion; abhibhavati—overcome; uta—indeed; adharma—irreligion; abhibhavāt—preponderance; kṛiṣhṇa—Shree Krishna; praduṣhyanti—become immoral; kula-striyaḥ—women of the family; strīṣhu—of women; duṣhṭāsu—immorality; vārṣhṇeya—descendant of Vrishni; jāyate—are born; varṇa-saṅkaraḥ—unwanted progeny; saṅkaraḥ—unwanted children; narakāya—hellish; eva—indeed; kula-ghnānām—for those who destroy the family; kulasya—of the family; cha—also; patanti—fall; pitaraḥ—ancestors; hi—verily; eṣhām—their; lupta—deprived of; piṇḍodaka-kriyāḥ—performances of sacrificial offerings
 {eov}
 {soc}
-translation
+With the decay of a family, perish its dharmas, which have existed from time out of mind. With the ending of the dharmas, adharma overwhelms the whole family.
+
+When adharma overwhelms the family, O Krishna, the women of the family become corrupt; and when, O Krishna, the women are corrupt, there arises a mixing of castes.
+
+This mixture leads into hell the family itself as well as those who destroy it; for their ancestors fall, deprived of the offerings of rice-balls and water.
 {eoc}
 
 {sov: Verse 1.43-44}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-43-44.mp3
-devanagariIASTslovnik
+दोषैरेतै: कुलघ्नानां वर्णसङ्करकारकै: |
+उत्साद्यन्ते जातिधर्मा: कुलधर्माश्च शाश्वता: || 43||
+उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन |
+नरकेऽनियतं वासो भवतीत्यनुशुश्रुम || 44||
+
+doṣhair etaiḥ kula-ghnānāṁ varṇa-saṅkara-kārakaiḥ
+utsādyante jāti-dharmāḥ kula-dharmāśh cha śhāśhvatāḥ
+utsanna-kula-dharmāṇāṁ manuṣhyāṇāṁ janārdana
+narake ‘niyataṁ vāso bhavatītyanuśhuśhruma
+
+doṣhaiḥ—through evil deeds; etaiḥ—these; kula-ghnānām—of those who destroy the family; varṇa-saṅkara—unwanted progeny; kārakaiḥ—causing; utsādyante—are ruined; jāti-dharmāḥ—social and family welfare activities; kula-dharmāḥ—family traditions; cha—and; śhāśhvatāḥ—eternal; utsanna—destroyed; kula-dharmāṇām—whose family traditions; manuṣhyāṇām—of such human beings; janārdana—he who looks after the public, Shree Krishna; narake—in hell; aniyatam—indefinite; vāsaḥ—dwell; bhavati—is; iti—thus; anuśhuśhruma—I have heard from the learned
 {eov}
 {soc}
-translation
+By these evil deeds of the destroyers of families, which result in the mixing of castes, the eternal dharmas of caste and family are uprooted.
+
+We have heard it said, O Janārdana, that inevitably the men whose family dharmas are destroyed dwell in hell.
 {eoc}
 
 {sov: Verse 1.45}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-45.mp3
-devanagariIASTslovnik
+अहो बत महत्पापं कर्तुं व्यवसिता वयम् |
+यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यता: || 45||
+
+aho bata mahat pāpaṁ kartuṁ vyavasitā vayam
+yad rājya-sukha-lobhena hantuṁ sva-janam udyatāḥ
+
+aho—alas; bata—horrible results; mahat—great; pāpam—sins; kartum—to perform; vyavasitāḥ—have decided; vayam—we; yat—because; rājya-sukha-lobhena—driven by the desire for kingly pleasure; hantum—to kill; sva-janam—kinsmen; udyatāḥ—intending;
 {eov}
 {soc}
-translation
+Alas, we are resolved to commit a great sin, in that we are ready to slay our kinsmen to satisfy our greed for the pleasure of a kingdom!
 {eoc}
 
 {sov: Verse 1.46}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-46.mp3
-devanagariIASTslovnik
+यदि मामप्रतीकारमशस्त्रं शस्त्रपाणय: |
+धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् || 46||
+
+yadi mām apratīkāram aśhastraṁ śhastra-pāṇayaḥ
+dhārtarāṣhṭrā raṇe hanyus tan me kṣhemataraṁ bhavet
+
+yadi—if; mām—me; apratīkāram—unresisting; aśhastram—unarmed; śhastra-pāṇayaḥ—those with weapons in hand; dhārtarāṣhṭrāḥ—the sons of Dhritarashtra; raṇe—on the battlefield; hanyuḥ—shall kill; tat—that; me—to me; kṣhema-taram—better; bhavet—would be
+
 {eov}
 {soc}
-translation
+Far better would it be for me if the sons of Dhritarāshtra, weapons in hand, should slay me in the battle, unarmed and unresisting.
 {eoc}
 
 {sov: Verse 1.47}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-47.mp3
-devanagariIASTslovnik
+सञ्जय उवाच |
+एवमुक्त्वार्जुन: सङ्ख्ये रथोपस्थ उपाविशत् |
+विसृज्य सशरं चापं शोकसंविग्नमानस: || 47||
+
+sañjaya uvācha
+evam uktvārjunaḥ saṅkhye rathopastha upāviśhat
+visṛijya sa-śharaṁ chāpaṁ śhoka-saṁvigna-mānasaḥ
+
+sañjayaḥ uvācha—Sanjay said; evam uktvā—speaking thus; arjunaḥ—Arjun; saṅkhye—in the battlefield; ratha upasthe—on the chariot; upāviśhat—sat; visṛijya—casting aside; sa-śharam—along with arrows; chāpam—the bow; śhoka—with grief; saṁvigna—distressed; mānasaḥ—mind
 {eov}
 {soc}
-translation
+Sanjaya said: Arjuna, having spoken thus on the battlefield, cast aside his bow and arrow and sank down on his chariot-seat, his mind overcome with grief.
 {eoc}
 
 {sov: Verse 1.x}
