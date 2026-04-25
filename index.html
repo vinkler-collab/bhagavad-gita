@@ -1118,10 +1118,31 @@ function renderSongs(list) {
 }
 
 function applyFiltersAndRender() {
-  const qNorm = normalizeText(document.getElementById('search').value);
-  const filtered = songs
-    .filter(s => !categoryFilter || (s.category ?? '') === categoryFilter)
-    .filter(s => songMatchesQuery(s, qNorm));
+  // 1. Získáme text z vyhledávače (používáme tvé ID 'search')
+  const searchElement = document.getElementById('search');
+  const searchTerm = searchElement ? searchElement.value.toLowerCase() : '';
+  
+  // Vytvoříme si "čistou" verzi hledaného textu bez teček a mezer (např. "28" z "2.8")
+  const cleanSearch = searchTerm.replace(/[\s.]/g, '');
+
+  // 2. Filtrování
+  const filtered = songs.filter(s => {
+    // A) Filtr kategorie
+    const matchesCategory = !categoryFilter || (s.category ?? '') === categoryFilter;
+    
+    // B) Filtr hledání
+    const nameLower = s.name.toLowerCase();
+    // Čistá verze názvu pro čísla (např. z "Verse 2.8" udělá "28")
+    const cleanName = nameLower.replace('verse', '').replace(/[\s.]/g, '');
+    
+    // Matchuje, pokud je shoda v celém názvu NEBO v těch očištěných číslech
+    const matchesSearch = nameLower.includes(searchTerm) || 
+                         (cleanSearch !== '' && cleanName.includes(cleanSearch));
+    
+    return matchesCategory && matchesSearch;
+  });
+
+  // 3. Seřazení a vykreslení (používáme tvé původní funkce)
   const sorted = sortSongs(filtered);
   renderActiveFilter();
   renderSongs(sorted);
