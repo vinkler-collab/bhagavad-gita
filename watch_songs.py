@@ -24,7 +24,7 @@ if __name__ == "__main__":
     path = "songs/"  # Sledujeme pouze ostrou složku
     event_handler = SongHandler()
     observer = Observer()
-    observer.schedule(event_handler, path, recursive=False)
+    observer.schedule(event_handler, path, recursive=True)
     
     print(f"Sleduji složku {path}... (Ukončíš pomocí Ctrl+C)")
     observer.start()

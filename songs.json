@@ -2,7 +2,7 @@
   {
     "name": "1. Chapter 1 Summary",
     "category": "Chapter 1",
-    "file": "Chapter 1 Summary",
+    "file": "01_Chapter/1. Chapter 1 Summary",
     "audio": [
       {
         "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_01.mp3",
@@ -11,14 +11,14 @@
       }
     ],
     "tags": [],
-    "dateAdded": "2026-04-24",
+    "dateAdded": "2026-04-25",
     "hasPDF": false,
     "analysis": "**kolo**"
   },
   {
     "name": "2. Chapter 2 Verses 1-10",
     "category": "Chapter 2",
-    "file": "Chapter 2 Verses 1-10",
+    "file": "02_Chapter/2. Chapter 2 Verses 1-10",
     "audio": [
       {
         "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
@@ -34,7 +34,39 @@
   {
     "name": "3. Chapter 2 Verses 11-12",
     "category": "Chapter 2",
-    "file": "Chapter 2 Verses 11-12",
+    "file": "02_Chapter/3. Chapter 2 Verses 11-12",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
+        "label": "Gaiea Sanskrit 2021 - Chapter 2",
+        "title": "Gaiea Sanskrit 2021 - Chapter 2"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-25",
+    "hasPDF": false,
+    "analysis": "Comming soon..."
+  },
+  {
+    "name": "4. Chapter 2 Verses 13-15",
+    "category": "Chapter 2",
+    "file": "02_Chapter/4. Chapter 2 Verses 13-15",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
+        "label": "Gaiea Sanskrit 2021 - Chapter 2",
+        "title": "Gaiea Sanskrit 2021 - Chapter 2"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-25",
+    "hasPDF": false,
+    "analysis": "Comming soon..."
+  },
+  {
+    "name": "5. Chapter 2 Verse 16",
+    "category": "Chapter 2",
+    "file": "02_Chapter/5. Chapter 2 Verses 16",
     "audio": [
       {
         "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",

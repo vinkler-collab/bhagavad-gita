@@ -113,58 +113,60 @@ def update_songs_json():
         return
 
     # HLAVNÍ CYKLUS
-    for filename in os.listdir(SONGS_DIR):
-        if filename.endswith('.pro') and not filename.startswith('_'):
-            file_slug = filename[:-4]
-            file_path = os.path.join(SONGS_DIR, filename)
+    for root, _, files in os.walk(SONGS_DIR):
+        for filename in files:
+            if filename.endswith('.pro') and not filename.startswith('_'):
+                file_path = os.path.join(root, filename)
+                relative_path = os.path.relpath(file_path, SONGS_DIR)
+                file_slug = os.path.splitext(relative_path)[0].replace(os.sep, '/')
             
-            print(f"-> Zpracovávám: {filename}")
+                print(f"-> Zpracovávám: {relative_path}")
             
-            # Získáme metadata i analýzu
-            meta = extract_metadata_and_analysis(file_path)
+                # Získáme metadata i analýzu
+                meta = extract_metadata_and_analysis(file_path)
             
-            # Kontrola existence PDF
-            pdf_path = os.path.join(PDF_DIR, f"{file_slug}.pdf")
-            has_pdf = os.path.exists(pdf_path)
+                # Kontrola existence PDF
+                pdf_path = os.path.join(PDF_DIR, f"{file_slug}.pdf")
+                has_pdf = os.path.exists(pdf_path)
 
-            # --- NOVÁ LOGIKA PRO AUDIO ---
-            audio_final = None
-            if meta['audio']:
-                # Pokud jsme v .pro souboru našli aspoň jeden {audio: ...}
-                if len(meta['audio']) == 1 and meta['audio'][0]['label'] is None:
-                    # Jen jedna nahrávka bez popisku -> čistý string
-                    audio_final = meta['audio'][0]['url']
+                # --- NOVÁ LOGIKA PRO AUDIO ---
+                audio_final = None
+                if meta['audio']:
+                    # Pokud jsme v .pro souboru našli aspoň jeden {audio: ...}
+                    if len(meta['audio']) == 1 and meta['audio'][0]['label'] is None:
+                        # Jen jedna nahrávka bez popisku -> čistý string
+                        audio_final = meta['audio'][0]['url']
+                    else:
+                        # Více nahrávek nebo nahrávka s popiskem -> pole objektů
+                        audio_final = meta['audio']
                 else:
-                    # Více nahrávek nebo nahrávka s popiskem -> pole objektů
-                    audio_final = meta['audio']
-            else:
-                # Pokud v .pro souboru NENÍ žádný {audio: } tag, 
-                # zkusíme automatiku jako doteď
-                audio_final = f"audio/{file_slug}.mp3"
-            # -----------------------------
+                    # Pokud v .pro souboru NENÍ žádný {audio: } tag, 
+                    # zkusíme automatiku jako doteď
+                    audio_final = f"audio/{file_slug}.mp3"
+                # -----------------------------
             
-            if file_slug in existing_data:
-                song = existing_data[file_slug]
-                song['name'] = meta['title']
-                if meta['category']: song['category'] = meta['category']
-                if meta['tags'] is not None: song['tags'] = meta['tags']
-                
-                # Aktualizujeme nové položky včetně audia
-                song['audio'] = audio_final
-                song['hasPDF'] = has_pdf
-                song['analysis'] = meta['analysis']
-            else:
-                song = {
-                    "name": meta['title'],
-                    "category": meta['category'] if meta['category'] else "Ostatní",
-                    "file": file_slug,
-                    "audio": audio_final, # Naše nové flexibilní audio
-                    "tags": meta['tags'] if meta['tags'] is not None else [],
-                    "dateAdded": str(date.today()),
-                    "hasPDF": has_pdf,
-                    "analysis": meta['analysis']
-                }
-            new_songs_list.append(song)
+                if file_slug in existing_data:
+                    song = existing_data[file_slug]
+                    song['name'] = meta['title']
+                    if meta['category']: song['category'] = meta['category']
+                    if meta['tags'] is not None: song['tags'] = meta['tags']
+                    
+                    # Aktualizujeme nové položky včetně audia
+                    song['audio'] = audio_final
+                    song['hasPDF'] = has_pdf
+                    song['analysis'] = meta['analysis']
+                else:
+                    song = {
+                        "name": meta['title'],
+                        "category": meta['category'] if meta['category'] else "Ostatní",
+                        "file": file_slug,
+                        "audio": audio_final, # Naše nové flexibilní audio
+                        "tags": meta['tags'] if meta['tags'] is not None else [],
+                        "dateAdded": str(date.today()),
+                        "hasPDF": has_pdf,
+                        "analysis": meta['analysis']
+                    }
+                new_songs_list.append(song)
 
     # Řazení
     new_songs_list.sort(key=lambda x: normalize_for_sort(x['name']))
