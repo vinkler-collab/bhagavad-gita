@@ -1,26 +1,18 @@
 {title: 1. Chapter 1 Summary }
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-# ODZNAČIT JEDNU Z KATEGORIÍ:
 {category: Chapter 1}
-# {category: Indické - základní}
-# {category: Indické - Kršna} 
-# {category: Indické - Šiva}
-# {category: Indické - Ráma}
-# {category: Indické - Bohyně}
-# {category: Indické - ostatní}
-# {category: Písně}
-##########################################
-# {capo: 0}
-# {time: 4/4}
-# {tempo: 80}
 {tags: }
-{audio: https://samhita.cz/zpivani/audio/hanuman_bolo_ih5_2016_04_06_k.mp3 | Samhita: Verze 1 - 2016_04_06}
-############  YOUTUBE: ##############################
-<iframe width="100%" height="315" src="//www.youtube.com/embed/y9Kt7Db9MxA?si=0DE0ku3pnogPYGSF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-################   SPOTY:   ##########################
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="//open.spotify.com/embed/episode/7hfRQab6EVK5t861oQCw7R?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-##########################################
+# 
+########## -- mp3 Gaiea - celá kapitola - nahoře v liště #############
+{audio: https://vinkler-collab.github.io/gita-audio/gaiea/ch_01.mp3 | Gaiea Sanskrit 2021 - Chapter 1}
+################################
+# 
+############  YOUTUBE + SPOTIFY -- zkopírovat pouze odkaz "sdílet" -- můj skript už to bude embedovat sám.
+https://youtu.be/y9Kt7Db9MxA
+https://open.spotify.com/episode/7hfRQab6EVK5t861oQCw7R
+################################
+# 
 {sov: Verse 1.1}
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-1.mp3
 धृतराष्ट्र उवाच |

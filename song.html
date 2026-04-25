@@ -1385,6 +1385,69 @@ body.sand-mode .comment b {
     font-weight: normal !important;
 }
 </style>
+<script>
+  // Tato funkce provede veškerou magii
+  function transformMedia() {
+      const links = document.querySelectorAll('a:not(.media-processed)');
+      
+      links.forEach(link => {
+          const url = link.href;
+          const isYouTube = url.includes('youtube.com/watch') || url.includes('youtu.be/');
+          const isSpotify = url.includes('spotify.com');
+
+          if (isYouTube || isSpotify) {
+              link.classList.add('media-processed');
+              
+              const container = document.createElement('div');
+              // Sjednocený vzhled (zakulacení a mezery)
+              container.style.cssText = 'margin: 5px 0; border-radius: 12px; overflow: hidden; line-height: 0;';
+
+              if (isYouTube) {
+                  let videoId = url.includes('v=') ? url.split('v=')[1].split('&')[0] : url.split('/').pop().split('?')[0];
+                  if (videoId) {
+                      container.style.aspectRatio = '16/9';
+                      container.innerHTML = `
+                          <iframe width="100%" height="100%" 
+                              src="https://www.youtube.com/embed/${videoId}" 
+                              style="border-radius: 12px; border: none;" 
+                              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                              allowfullscreen>
+                          </iframe>`;
+                  }
+              } else if (isSpotify) {
+                  // Převede link na embed verzi
+                  let embedUrl = url.includes('/embed/') ? url : url.replace('spotify.com/', 'spotify.com/embed/');
+                  embedUrl = embedUrl.split('?')[0]; // Očista od balastu
+
+                  container.innerHTML = `
+                      <iframe style="border-radius:12px; border: none;" 
+                          src="${embedUrl}" 
+                          width="100%" height="152" 
+                          allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" 
+                          loading="lazy">
+                      </iframe>`;
+              }
+
+              // --- ČIŠTĚNÍ MEZER ---
+              const parentP = link.closest('p') || link.parentNode;
+              if (parentP && parentP.tagName && parentP.tagName.toLowerCase() === 'p') {
+                  parentP.style.setProperty('margin', '0', 'important');
+                  parentP.style.setProperty('padding', '0', 'important');
+                  parentP.style.setProperty('line-height', '0', 'important');
+              }
+
+              link.parentNode.replaceChild(container, link);
+          }
+      });
+  }
+
+  // SPUŠTĚNÍ:
+  // Jakmile je struktura připravena, hned to transformuj (proti probliknutí)
+  document.addEventListener('DOMContentLoaded', transformMedia);
+  
+  // Pojistka (kdyby se něco načetlo později)
+  setInterval(transformMedia, 300);
+</script>
 </head>
 <body>
   <div class="song-topbar" id="song-topbar">
@@ -1400,7 +1463,7 @@ body.sand-mode .comment b {
       
       <div class="topbar-actions">
         <button class="icon-btn audio-btn" type="button" id="audio-toggle" aria-label="Nahrávky">
-          🎧<span class="audio-text">Nahrávky</span>
+          🎶<span class="audio-text">Chanting</span>
         </button>        <button class="icon-btn" type="button" onclick="changeSize(-2)" aria-label="Zmenšit písmo">A−</button>
         <button class="icon-btn" type="button" onclick="changeSize(2)" aria-label="Zvětšit písmo">A+</button>
         
@@ -2166,5 +2229,6 @@ window.toggleAnalysis = function() {
       });
   }, 500);
 </script>
+
 </body>
 </html>

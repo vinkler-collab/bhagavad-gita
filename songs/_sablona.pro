@@ -1,28 +1,26 @@
-{title: Šablona}
-{subtitle: Podtitul}
-{author: Autor}
-# ODZNAČIT JEDNU Z KATEGORIÍ:
-# {category: Buddhistické}
-{category: Indické - základní}
-# {category: Indické - Kršna} 
-# {category: Indické - Šiva}
-# {category: Indické - Ráma}
-# {category: Indické - Bohyně}
-# {category: Indické - ostatní}
-# {category: Písně}
+{title: x. Chapter x Verses x }
+{subtitle: Bhagavad Gita}
+{author: Swami Sarvapriyananda}
+{category: Chapter x}
+{tags: }
+# 
+########## -- mp3 Gaiea - celá kapitola - nahoře v liště #############
+{audio: https://vinkler-collab.github.io/gita-audio/gaiea/ch_xx.mp3 | Gaiea Sanskrit 2021 - Chapter x}
+################################
+# 
+############  YOUTUBE + SPOTIFY -- zkopírovat pouze odkaz "sdílet" -- můj skript už to bude embedovat sám.
+YOUTUBE URL
+SPOTIFY URL
 ##########################################
-{capo: 0}
-{time: 4/4}
-{tempo: 80}
-{tags: tag1, tag2}
-##########################################
-{sov: Verse 1}
-[G]Rāma  
+# 
+{sov: Verse x.x}
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-x-Verse-x.mp3
+devanagariIASTslovnik
 {eov}
-#
-{soc: REF}
-refrén 
+{soc}
+translation
 {eoc}
+
 ##########################################
 {start_of_analysis}
 Comming soon...
