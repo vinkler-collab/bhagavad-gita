@@ -5,9 +5,9 @@
     "file": "01_Chapter/001. Chapter 1 Summary",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_01.mp3",
-        "label": "Gaiea Sanskrit 2021 - Chapter 1",
-        "title": "Gaiea Sanskrit 2021 - Chapter 1"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch01/001.mp3",
+        "label": "Gaiea Sanskrit 1.1-47",
+        "title": "Gaiea Sanskrit 1.1-47"
       }
     ],
     "tags": [],
@@ -21,9 +21,9 @@
     "file": "02_Chapter/002. Chapter 2 Verses 1-10",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
-        "label": "Gaiea Sanskrit 2021 - Chapter 2",
-        "title": "Gaiea Sanskrit 2021 - Chapter 2"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/002.mp3",
+        "label": "Gaiea Sanskrit 2.1-10",
+        "title": "Gaiea Sanskrit 2.1-10"
       }
     ],
     "tags": [],
@@ -37,9 +37,9 @@
     "file": "02_Chapter/003. Chapter 2 Verses 11-12",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
-        "label": "Gaiea Sanskrit 2021 - Chapter 2",
-        "title": "Gaiea Sanskrit 2021 - Chapter 2"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/003.mp3",
+        "label": "Gaiea Sanskrit 2.11-12",
+        "title": "Gaiea Sanskrit 2.11-12"
       }
     ],
     "tags": [],
@@ -53,7 +53,7 @@
     "file": "02_Chapter/004. Chapter 2 Verses 13-15",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/004.mp3",
         "label": "Gaiea Sanskrit 2021 - Chapter 2",
         "title": "Gaiea Sanskrit 2021 - Chapter 2"
       }
@@ -69,9 +69,9 @@
     "file": "02_Chapter/005. Chapter 2 Verse 16",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
-        "label": "Gaiea Sanskrit 2021 - Chapter 2",
-        "title": "Gaiea Sanskrit 2021 - Chapter 2"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/005.mp3",
+        "label": "Gaiea Sanskrit 2.16",
+        "title": "Gaiea Sanskrit 2.16"
       }
     ],
     "tags": [],
@@ -85,9 +85,9 @@
     "file": "02_Chapter/006. Chapter 2 Verses 17-18",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
-        "label": "Gaiea Sanskrit 2021 - Chapter x",
-        "title": "Gaiea Sanskrit 2021 - Chapter x"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/006.mp3",
+        "label": "Gaiea Sanskrit 2.17-18",
+        "title": "Gaiea Sanskrit 2.17-18"
       }
     ],
     "tags": [],
@@ -101,9 +101,9 @@
     "file": "02_Chapter/007. Chapter 2 Verse 19",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
-        "label": "Gaiea Sanskrit 2021 - Chapter 2",
-        "title": "Gaiea Sanskrit 2021 - Chapter 2"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/007.mp3",
+        "label": "Gaiea Sanskrit 2.19",
+        "title": "Gaiea Sanskrit 2.19"
       }
     ],
     "tags": [],
@@ -117,9 +117,9 @@
     "file": "02_Chapter/008. Chapter 2 Verse 20-22",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
-        "label": "Gaiea Sanskrit 2021 - Chapter 2",
-        "title": "Gaiea Sanskrit 2021 - Chapter 2"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/008.mp3",
+        "label": "Gaiea Sanskrit 2.20-22",
+        "title": "Gaiea Sanskrit 2.20-22"
       }
     ],
     "tags": [],
@@ -133,9 +133,9 @@
     "file": "02_Chapter/009. Chapter 2 Verse 23-25",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
-        "label": "Gaiea Sanskrit 2021 - Chapter 2",
-        "title": "Gaiea Sanskrit 2021 - Chapter 2"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/009.mp3",
+        "label": "Gaiea Sanskrit 2.23-25",
+        "title": "Gaiea Sanskrit 2.23-25"
       }
     ],
     "tags": [],
@@ -149,9 +149,265 @@
     "file": "02_Chapter/010. Chapter 2 Verse 26-27",
     "audio": [
       {
-        "url": "https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3",
-        "label": "Gaiea Sanskrit 2021 - Chapter 2",
-        "title": "Gaiea Sanskrit 2021 - Chapter 2"
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/010.mp3",
+        "label": "Gaiea Sanskrit 2.26-27",
+        "title": "Gaiea Sanskrit 2.26-27"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "011. Chapter 2 Verses 28-29",
+    "category": "Chapter 2",
+    "file": "02_Chapter/011. Chapter 2 Verses 28-29",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/011.mp3",
+        "label": "Gaiea Sanskrit 2.28-29",
+        "title": "Gaiea Sanskrit 2.28-29"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "012. Chapter 2 Verses 30-31",
+    "category": "Chapter 2",
+    "file": "02_Chapter/012. Chapter 2 Verses 30-31",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/012.mp3",
+        "label": "Gaiea Sanskrit 2.30-31",
+        "title": "Gaiea Sanskrit 2.30-31"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "013. Chapter 2 Verses 32-38",
+    "category": "Chapter 2",
+    "file": "02_Chapter/013. Chapter 2 Verses 32-38",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/013.mp3",
+        "label": "Gaiea Sanskrit 2.32-38",
+        "title": "Gaiea Sanskrit 2.32-38"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "014. Chapter 2 Verses 39-40",
+    "category": "Chapter 2",
+    "file": "02_Chapter/014. Chapter 2 Verses 39-40",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/014.mp3",
+        "label": "Gaiea Sanskrit 2.39-40",
+        "title": "Gaiea Sanskrit 2.39-40"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "015. Chapter 2 Verses 41-44",
+    "category": "Chapter 2",
+    "file": "02_Chapter/015. Chapter 2 Verses 41-44",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/015.mp3",
+        "label": "Gaiea Sanskrit 2.41-44",
+        "title": "Gaiea Sanskrit 2.41-44"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "016. Chapter 2 Verses 45-47",
+    "category": "Chapter 2",
+    "file": "02_Chapter/016. Chapter 2 Verses 45-47",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/016.mp3",
+        "label": "Gaiea Sanskrit 2.45-47",
+        "title": "Gaiea Sanskrit 2.45-47"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "017. Chapter 2 Verses 47",
+    "category": "Chapter 2",
+    "file": "02_Chapter/017. Chapter 2 Verses 47",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/017.mp3",
+        "label": "Gaiea Sanskrit 2.45-47",
+        "title": "Gaiea Sanskrit 2.45-47"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "018. Chapter 2 Verses 48-51",
+    "category": "Chapter 2",
+    "file": "02_Chapter/018. Chapter 2 Verses 48-51",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/018.mp3",
+        "label": "Gaiea Sanskrit 2.48-51",
+        "title": "Gaiea Sanskrit 2.48-51"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "019. Chapter 2 Verses 52-54",
+    "category": "Chapter 2",
+    "file": "02_Chapter/019. Chapter 2 Verses 52-54",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/019.mp3",
+        "label": "Gaiea Sanskrit 2.52-54",
+        "title": "Gaiea Sanskrit 2.52-54"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "020. Chapter 2 Verses 55-56",
+    "category": "Chapter 2",
+    "file": "02_Chapter/020. Chapter 2 Verses 55-56",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/020.mp3",
+        "label": "Gaiea Sanskrit 2.55-56",
+        "title": "Gaiea Sanskrit 2.55-56"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "021. Chapter 2 Verses 56-57",
+    "category": "Chapter 2",
+    "file": "02_Chapter/021. Chapter 2 Verses 56-57",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/021.mp3",
+        "label": "Gaiea Sanskrit 2.56-57",
+        "title": "Gaiea Sanskrit 2.56-57"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "022. Chapter 2 Verses 58",
+    "category": "Chapter 2",
+    "file": "02_Chapter/022. Chapter 2 Verses 58",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/022.mp3",
+        "label": "Gaiea Sanskrit 2.58",
+        "title": "Gaiea Sanskrit 2.58"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "023. Chapter 2 Verses 59-63",
+    "category": "Chapter 2",
+    "file": "02_Chapter/023. Chapter 2 Verses 59-63",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/023.mp3",
+        "label": "Gaiea Sanskrit 2.59-63",
+        "title": "Gaiea Sanskrit 2.59-63"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "024. Chapter 2 Verses 64-66",
+    "category": "Chapter 2",
+    "file": "02_Chapter/024. Chapter 2 Verses 64-66",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/024.mp3",
+        "label": "Gaiea Sanskrit 2.64-66",
+        "title": "Gaiea Sanskrit 2.64-66"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "025. Chapter 2 Verses 67-69",
+    "category": "Chapter 2",
+    "file": "02_Chapter/025. Chapter 2 Verses 67-69",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/025.mp3",
+        "label": "Gaiea Sanskrit 2.67-69",
+        "title": "Gaiea Sanskrit 2.67-69"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-04-26",
+    "hasPDF": false,
+    "analysis": "***"
+  },
+  {
+    "name": "026. Chapter 2 Verses 70-72",
+    "category": "Chapter 2",
+    "file": "02_Chapter/026. Chapter 2 Verses 70-72",
+    "audio": [
+      {
+        "url": "https://vinkler-collab.github.io/gita-audio/ch02/026.mp3",
+        "label": "Gaiea Sanskrit 2.70-72",
+        "title": "Gaiea Sanskrit 2.70-72"
       }
     ],
     "tags": [],

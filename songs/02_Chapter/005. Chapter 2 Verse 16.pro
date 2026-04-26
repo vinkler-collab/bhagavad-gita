@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 2}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3 | Gaiea Sanskrit 2021 - Chapter 2}
+{audio: https://vinkler-collab.github.io/gita-audio/ch02/005.mp3 | Gaiea Sanskrit 2.16}
 
 https://youtu.be/XDPmbom12wM?si=61hE8bGznrbyxW7a
 

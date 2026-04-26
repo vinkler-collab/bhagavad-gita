@@ -1,0 +1,30 @@
+{title: 022. Chapter 2 Verses 58}
+{subtitle: Bhagavad Gita}
+{author: Swami Sarvapriyananda}
+{category: Chapter 2}
+{tags: }
+{audio: https://vinkler-collab.github.io/gita-audio/ch02/022.mp3 | Gaiea Sanskrit 2.58}
+
+https://youtu.be/mT1atwDSRMY?si=7RmBV8Vo7fn9VI3T
+
+https://open.spotify.com/episode/6Z9McEdzu5mOMEvZqxV6F6?si=0c68953c4ae04a96
+
+{sov: Verse 2.58}
+
+https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-Verse-58.mp3
+
+यदा संहरते चायं कूर्मोऽङ्गानीव सर्वश: |
+इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता || 58||
+
+yadā sanharate chāyaṁ kūrmo ’ṅgānīva sarvaśhaḥ
+indriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā
+
+yadā—when; sanharate—withdraw; cha—and; ayam—this; kūrmaḥ—tortoise; aṅgāni—limbs; iva—as; sarvaśhaḥ—fully; indriyāṇi—senses; indriya-arthebhyaḥ—from the sense objects; tasya—his; prajñā—divine wisdom; pratiṣhṭhitā—fixed in
+{eov}
+
+{soc}
+When the yogi, like the tortoise drawing back its limbs into its own shell, withdraws all the senses from the sense objects, his wisdom is firmly fixed.
+{eoc}
+
+{start_of_analysis}
+***

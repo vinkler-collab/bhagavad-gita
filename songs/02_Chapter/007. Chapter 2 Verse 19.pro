@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 2}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/gaiea/ch_02.mp3 | Gaiea Sanskrit 2021 - Chapter 2}
+{audio: https://vinkler-collab.github.io/gita-audio/ch02/007.mp3 | Gaiea Sanskrit 2.19}
 
 https://youtu.be/8-FLPjQVmsg?si=WCajCd6oy5dZ1z1O
 
@@ -11,20 +11,18 @@ https://open.spotify.com/episode/1iNOAiAY8HxRCuqW2VB5Jl?si=11b93bdc3a2e4ffc
 
 {sov: Verse 2.19}
 
-https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-Verse-18.mp3
+https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-Verse-19.mp3
 
-अन्तवन्त इमे देहा नित्यस्योक्ता: शरीरिण: |
-अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत || 18||
+य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् |
+उभौ तौ न विजानीतो नायं हन्ति न हन्यते || 19||
 
-antavanta ime dehā nityasyoktāḥ śharīriṇaḥ
-anāśhino ’prameyasya tasmād yudhyasva bhārata
+ya enaṁ vetti hantāraṁ yaśh chainaṁ manyate hatam
+ubhau tau na vijānīto nāyaṁ hanti na hanyate
 
-anta-vantaḥ—having an end; ime—these; dehāḥ—material bodies; nityasya—eternally; uktāḥ—are said; śharīriṇaḥ—of the embodied soul; anāśhinaḥ—indestructible; aprameyasya—immeasurable; tasmāt—therefore; yudhyasva—fight; bhārata—descendant of Bharat, Arjun
-{eov}
+yaḥ—one who; enam—this; vetti—knows; hantāram—the slayer; yaḥ—one who; cha—and; enam—this; manyate—thinks; hatam—slain; ubhau—both; tau—they; na—not; vijānītaḥ—in knowledge; na—neither; ayam—this; hanti—slays; na—nor; hanyate—is killed{eov}
 
 {soc}
-These bodies which belong to the real imperishable, unknowable Atma are said to be subject to an end; therefore fight, O Arjuna!
-{eoc}
+He who thinks that Atma slays, or he who thinks that Atma is Slain, both these do not know the Truth. Atma does not slay, nor is slain.{eoc}
 
 {start_of_analysis}
 ***
