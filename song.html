@@ -1835,11 +1835,52 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
       });
     }
   
-    function formatLyrics(text) {
+    function formatLyrics(text, isInVerseContext = false) {
     if (!text) return '';
+
+    // Barvení slovníčku aplikujeme pouze uvnitř bloků {sov ...} ... {eov}.
+    const glossarySeparatorsPattern = /(^|;\s*)([^<>\n]+?)(\s*—\s*|\s*–\s*|\s+-\s+)/g;
+    const hasVerseTags = /\{sov(?::\s*.*)?\}|\{eov\}/i.test(text);
+    if (hasVerseTags) {
+      let inVerseBlock = false;
+      text = text
+        .split(/\r?\n/)
+        .map((line) => {
+          const trimmed = line.trim();
+          if (/^\{sov(?::\s*.*)?\}$/i.test(trimmed)) {
+            inVerseBlock = true;
+            return line;
+          }
+          if (/^\{eov\}$/i.test(trimmed)) {
+            inVerseBlock = false;
+            return line;
+          }
+          if (!inVerseBlock) return line;
+          return line.replace(glossarySeparatorsPattern, '$1<strong>$2</strong>$3');
+        })
+        .join('\n');
+    } else if (isInVerseContext) {
+      text = text.replace(glossarySeparatorsPattern, '$1<strong>$2</strong>$3');
+    }
 
     // --- TENTO ŘÁDEK PŘIDEJ: Odstraní tagy {audio: ...} z viditelného textu ---
     text = text.replace(/\{audio:.*?\}/gi, '');
+
+    // ChordPro bloky ve slovníčku/analýze ({sov: ...}/{eov}, {soc}/{eoc})
+    // Spotřebujeme i koncový newline, aby nevznikal prázdný řádek navíc.
+    text = text.replace(/^[ \t]*\{sov:\s*([^}]+)\}[ \t]*(?:\r?\n)?/gim, '<div class="verse-block"><div class="verse-label">$1</div>');
+    text = text.replace(/^[ \t]*\{sov\}[ \t]*(?:\r?\n)?/gim, '<div class="verse-block">');
+    text = text.replace(/^[ \t]*\{eov\}[ \t]*(?:\r?\n)?/gim, '</div>');
+    text = text.replace(/^[ \t]*\{soc:\s*([^}]+)\}[ \t]*(?:\r?\n)?/gim, '<div class="chorus-block"><div class="chorus-label">$1</div>');
+    text = text.replace(/^[ \t]*\{soc\}[ \t]*(?:\r?\n)?/gim, '<div class="chorus-block">');
+    text = text.replace(/^[ \t]*\{eoc\}[ \t]*(?:\r?\n)?/gim, '</div>');
+    // Fallback: pokud tag nezůstane na samostatném řádku, pořád ho převedeme.
+    text = text.replace(/\{sov:\s*([^}]+)\}/gi, '<div class="verse-block"><div class="verse-label">$1</div>');
+    text = text.replace(/\{sov\}/gi, '<div class="verse-block">');
+    text = text.replace(/\{eov\}/gi, '</div>');
+    text = text.replace(/\{soc:\s*([^}]+)\}/gi, '<div class="chorus-block"><div class="chorus-label">$1</div>');
+    text = text.replace(/\{soc\}/gi, '<div class="chorus-block">');
+    text = text.replace(/\{eoc\}/gi, '</div>');
 
     // Zbytek tvého kódu zůstává stejný
     text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
@@ -1869,6 +1910,7 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
 
   const lines = songData.trim().split('\n');
   let html = `<div id="output-area" style="font-size: ${currentFontSize}px;">`;
+  let activeBlockType = null;
 
   for (let i = 0; i < lines.length; i++) {
     let line = lines[i];
@@ -1942,27 +1984,34 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
       continue;
     }
 
-    if (trimmed.toLowerCase().startsWith('{soc')) {
-      let labelMatch = line.match(/\{soc:\s*(.*?)\}/i);
-      let labelText = labelMatch && labelMatch[1] ? labelMatch[1] : '';
-      let labelHtml = labelText ? `<div class="chorus-label" style="font-size:${currentFontSize * 0.9}px;">${labelText}</div>` : '';
-      html += `<div class="chorus-block">${labelHtml}`; 
-      continue; 
+    const socMatch = trimmed.match(/^\{soc(?::\s*(.*?))?\}$/i);
+    if (socMatch) {
+      const labelText = socMatch[1] ? socMatch[1].trim() : '';
+      const labelHtml = labelText ? `<div class="chorus-label" style="font-size:${currentFontSize * 0.9}px;">${labelText}</div>` : '';
+      html += `<div class="chorus-block">${labelHtml}`;
+      activeBlockType = 'chorus';
+      continue;
     }
-    if (trimmed.toLowerCase().startsWith('{eoc')) { 
-      html += '</div>'; 
-      continue; 
+
+    if (/^\{eoc\}$/i.test(trimmed)) {
+      html += '</div>';
+      if (activeBlockType === 'chorus') activeBlockType = null;
+      continue;
     }
-    if (trimmed.toLowerCase().startsWith('{sov')) {
-      let labelMatch = line.match(/\{sov:\s*(.*?)\}/i);
-      let labelText = labelMatch && labelMatch[1] ? labelMatch[1] : '';
-      let labelHtml = labelText ? `<div class="verse-label" style="font-size:${currentFontSize * 0.9}px;">${labelText}</div>` : '';
-      html += `<div class="verse-block">${labelHtml}`; 
-      continue; 
+
+    const sovMatch = trimmed.match(/^\{sov(?::\s*(.*?))?\}$/i);
+    if (sovMatch) {
+      const labelText = sovMatch[1] ? sovMatch[1].trim() : '';
+      const labelHtml = labelText ? `<div class="verse-label" style="font-size:${currentFontSize * 0.9}px;">${labelText}</div>` : '';
+      html += `<div class="verse-block">${labelHtml}`;
+      activeBlockType = 'verse';
+      continue;
     }
-    if (trimmed.toLowerCase().startsWith('{eov')) { 
-      html += '</div>'; 
-      continue; 
+
+    if (/^\{eov\}$/i.test(trimmed)) {
+      html += '</div>';
+      if (activeBlockType === 'verse') activeBlockType = null;
+      continue;
     }
 
     if (trimmed.toLowerCase().startsWith('{c:') || trimmed.toLowerCase().startsWith('{comment:')) {
@@ -1975,16 +2024,16 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
     if (line.includes('[')) {
       let parts = line.split(/\[([^\]]+)\]/);
       if (parts[0]) {
-        lineHtml += `<span class="chord-stack"><span class="chord">&nbsp;</span><span class="lyric">${formatLyrics(parts[0])}</span></span>`;
+        lineHtml += `<span class="chord-stack"><span class="chord">&nbsp;</span><span class="lyric">${formatLyrics(parts[0], activeBlockType === 'verse')}</span></span>`;
       }
       for (let j = 1; j < parts.length; j += 2) {
         let chord = parts[j];
         let lyric = parts[j+1] || '';
         let transposed = transposeChord(chord, currentShift);
-        lineHtml += `<span class="chord-stack"><span class="chord">${transposed}</span><span class="lyric">${lyric === '' ? '&nbsp;' : formatLyrics(lyric)}</span></span>`;
+        lineHtml += `<span class="chord-stack"><span class="chord">${transposed}</span><span class="lyric">${lyric === '' ? '&nbsp;' : formatLyrics(lyric, activeBlockType === 'verse')}</span></span>`;
       }
     } else {
-      lineHtml = `<span class="lyric">${formatLyrics(line)}</span>`;
+      lineHtml = `<span class="lyric">${formatLyrics(line, activeBlockType === 'verse')}</span>`;
     }
 
     if (trimmed === '') {
@@ -2131,27 +2180,8 @@ window.toggleAnalysis = function() {
   </script>
 <script>
   setInterval(() => {
-      // Vybereme všechna místa, kde se může vyskytovat text veršů nebo slovníček
-      // .lyric = verše a slovníček nad šuplíkem
-      // .comment = poznámky pod čarou
-      // .analysis-content = vnitřek šuplíku
-      const areas = document.querySelectorAll('.lyric, .comment, .analysis-content');
-
-      areas.forEach(area => {
-          // Zpracujeme pouze pokud ještě nebylo obarveno
-          if (!area.classList.contains('iast-auto-processed')) {
-              let html = area.innerHTML;
-
-              // Vylepšený regulární výraz:
-              // 1. (^|;\s*|<br>\s*) -> začátek řádku, nebo středník, nebo nový řádek (<br>)
-              // 2. ([^—<>\n]+)      -> text před pomlčkou (nesmí obsahovat jiný tag nebo nový řádek)
-              // 3. (—)              -> samotná dlouhá pomlčka
-              html = html.replace(/(^|;\s*|<br>\s*)([^—<>\n]+)(—)/g, '$1<strong>$2</strong>$3');
-
-              area.innerHTML = html;
-              area.classList.add('iast-auto-processed');
-          }
-      });
+    // Barvení slovníčku je nyní řízené výhradně ve formatLyrics,
+    // aby se aplikovalo jen uvnitř {sov} bloků.
   }, 500);
 </script>
 <script>
