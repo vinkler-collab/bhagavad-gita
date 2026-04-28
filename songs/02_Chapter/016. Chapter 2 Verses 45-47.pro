@@ -22,9 +22,9 @@ nirdvandvo nitya-sattva-stho niryoga-kṣhema ātmavān
 trai-guṇya—of the three modes of material nature; viṣhayāḥ—subject matter; vedāḥ—Vedic scriptures; nistrai-guṇyaḥ—above the three modes of material nature, transcendental; bhava—be; arjuna—Arjun; nirdvandvaḥ—free from dualities; nitya-sattva-sthaḥ—eternally fixed in truth; niryoga-kṣhemaḥ—unconcerned about gain and preservation; ātma-vān—situated in the self
 {eov}
 
-{soc}
+{sot}
 The first part of the Vedas (Karma Kanda) deal with material things pertaining to the three Gunas. One should transcend the three Gunas, become free from the operation of the pairs of opposites, take refuge in the pure sattvic state, and firmly establish himself in Atma.
-{eoc}
+{eot}
 
 {sov: Verse 2.46}
 
@@ -39,9 +39,9 @@ tāvānsarveṣhu vedeṣhu brāhmaṇasya vijānataḥ
 yāvān—whatever; arthaḥ—purpose; uda-pāne—a well of water; sarvataḥ—in all respects; sampluta-udake—by a large lake; tāvān—that many; sarveṣhu—in all; vedeṣhu—Vedas; brāhmaṇasya—one who realises the Absolute Truth; vijānataḥ—who is in complete knowledge
 {eov}
 
-{soc}
+{sot}
 To an enlightened person who has known the Self, all the Vedas are of as much use as is a reservoir of water in a place where there is a flood.
-{eoc}
+{eot}
 
 {sov: Verse 2.47}
 
@@ -56,9 +56,9 @@ mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi
 karmaṇi—in prescribed duties; eva—only; adhikāraḥ—right; te—your; mā—not; phaleṣhu—in the fruits; kadāchana—at any time; mā—never; karma-phala—results of the activities; hetuḥ—cause; bhūḥ—be; mā—not; te—your; saṅgaḥ—attachment; astu—must be; akarmaṇi—in inaction
 {eov}
 
-{soc}
+{sot}
 You have the right to work only, and not to the fruits of work. Let not the fruit of action be your motive, nor let your attachment be to inaction.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

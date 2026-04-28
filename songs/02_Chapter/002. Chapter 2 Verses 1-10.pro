@@ -24,9 +24,9 @@ viṣhīdantamidaṁ vākyam uvācha madhusūdanaḥ
 sañjayaḥ uvācha—Sanjay said; tam—to him (Arjun); tathā—thus; kṛipayā—with pity; āviṣhṭam—filled; aśhrupūrṇākulekṣhaṇam—with eyes blurred with tears; viṣhīdantam—grief-stricken; idam vākyam—these words; uvācha—said; madhusūdanaḥ—Krishna
 {eov}
 
-{soc}
+{sot}
 In this manner, when Arjuna was plunged in a state of despondency, with eyes blurred with tears, Lord Krishna addressed these words to him.
-{eoc}
+{eot}
 
 {sov: Verse 2.2}
 
@@ -43,9 +43,9 @@ anārya-juṣhṭamaswargyam akīrti-karam arjuna
 Arjuna—O Arjuna!; śhrī-bhagavān uvācha—the Supreme Lord said; kutaḥ—wherefrom; tvā—to you; kaśhmalam—dejection; idam—this; viṣhame—in this hour of peril; samupasthitam—taken hold; anāryajuṣhṭam—unworthy; aswargyam—heaven-excluding; akīrti-karam—shameful
 {eov}
 
-{soc}
+{sot}
 The Lord said: O Arjuna! Whence, in this critical situation, has this mental dejection takes hold of you, shameful and Heaven-excluding?
-{eoc}
+{eot}
 
 {sov: Verse 2.3}
 
@@ -60,9 +60,9 @@ kṣhudraṁ hṛidaya-daurbalyaṁ tyaktvottiṣhṭha parantapa
 klaibyam—impotence; mā sma gamaḥ—do not yield to; pārtha—O Arjuna!; etat—this; tvayi—to you; na upapadyate—is not fit; kṣhudram—mean; hṛidaya-daurbalyaṁ—weak-heartedness; tyaktvā—giving up; uttiṣhṭha—arise; param-tapa—scorcher of enemies
 {eov}
 
-{soc}
+{sot}
 O Arjuna! Do not yield to impotence. It does not befit you. Cast off this wretched weakness of heart. Arise, O scorcher of enemies!
-{eoc}
+{eot}
 
 {sov: Verse 2.4}
 
@@ -79,9 +79,9 @@ iṣhubhiḥ pratiyotsyāmi pūjārhāvari-sūdana
 arjunaḥ uvācha—Arjun said; katham—how; bhīṣhmam—Bheeshma; aham—I; sankhye—in battle; droṇam—Dronacharya; cha—and; madhu-sūdana—Shree Krishn, slayer of the Madhu demon; iṣhubhiḥ—with arrows; pratiyotsyāmi—shall I shoot; pūjā-arhau—worthy of worship; ari-sūdana—destroyer of enemies
 {eov}
 
-{soc}
+{sot}
 Arjuna Said: O Krishna! Bhishma and Drona are my teachers fit to be worshipped. How can I attack them with arrows in the battle?
-{eoc}
+{eot}
 
 {sov: Verse 2.5}
 
@@ -100,9 +100,9 @@ bhuñjīya bhogān rudhira-pradigdhān
 gurūn—teachers; ahatvā—not killing; hi—certainly; mahā-anubhāvān—noble elders; śhreyaḥ—better; bhoktum—to enjoy life; bhaikṣhyam—by begging; api—even; iha loke—in this world; hatvā—killing; artha—gain; kāmān—desiring; tu—but; gurūn—noble elders; iha—in this world; eva—certainly; bhuñjīya—enjoy; bhogān—pleasures; rudhira—blood; pradigdhān—tainted with
 {eov}
 
-{soc}
+{sot}
 It would be better, indeed, to live on alms in this world rather than to slay these high-souled teachers. But if I kill them, even here I shall enjoy wealth and desires stained with their blood.
-{eoc}
+{eot}
 
 {sov: Verse 2.6}
 
@@ -121,9 +121,9 @@ te ’vasthitāḥ pramukhe dhārtarāṣhṭrāḥ
 na—not; cha—and; etat—this; vidmaḥ—we know; katarat—which; naḥ—for us; garīyaḥ—is preferable; yat vā—whether; jayema—we may conquer; yadi—if; vā—or; naḥ—us; jayeyuḥ—they may conquer; yān—whom; eva—certainly; hatvā—after killing; na—not; jijīviṣhāmaḥ—we desire to live; te—they; avasthitāḥ—are standing; pramukhe—before us; dhārtarāṣhṭrāḥ—the sons of Dhritarashtra
 {eov}
 
-{soc}
+{sot}
 We do not know which would be the better for us: that we should conquer them or they should conquer us. Arrayed against us stand the very sons of Dhritarāshtra, after slaying whom we should not wish to live.
-{eoc}
+{eot}
 
 {sov: Verse 2.7}
 
@@ -142,9 +142,9 @@ yach-chhreyaḥ syānniśhchitaṁ brūhi tanme
 kārpaṇya-doṣha—the flaw of cowardice; upahata—besieged; sva-bhāvaḥ—nature; pṛichchhāmi—I am asking; tvām—to you; dharma—duty; sammūḍha—confused; chetāḥ—in heart; yat—what; śhreyaḥ—best; syāt—may be; niśhchitam—decisively; brūhi—tell; tat—that; me—to me; śhiṣhyaḥ—disciple; te—your; aham—I; śhādhi—please instruct; mām—me; tvām—unto you; prapannam—surrendered
 {eov}
 
-{soc}
+{sot}
 (O Krishna!) My mind is distracted by the taint of pity and I am ignorant of what my duty is, and so, I ask you to teach me what is good for me. I am your disciple. I take refuge in you.
-{eoc}
+{eot}
 
 {sov: Verse 2.8}
 
@@ -163,9 +163,9 @@ rājyaṁ surāṇāmapi chādhipatyam
 na—not; hi—certainly; prapaśhyāmi—I see; mama—my; apanudyāt—drive away; yat—which; śhokam—anguish; uchchhoṣhaṇam—is drying up; indriyāṇām—of the senses; avāpya—after achieving; bhūmau—on the earth; asapatnam—unrivalled; ṛiddham—prosperous; rājyam—kingdom; surāṇām—like the celestial gods; api—even; cha—also; ādhipatyam—sovereignty
 {eov}
 
-{soc}
+{sot}
 I can find no means to drive away this grief which is drying up my senses. I will not be able to dispel it even if I win a prosperous, unrivaled kingdom on earth with sovereignty like the demigods in heaven.
-{eoc}
+{eot}
 
 {sov: Verse 2.9}
 
@@ -182,9 +182,9 @@ na yotsya iti govindam uktvā tūṣhṇīṁ babhūva ha
 sañjayaḥ uvācha—Sanjay said; evam—thus; uktvā—having spoken; hṛiṣhīkeśham—to Shree Krishna, the master of the mind and senses; guḍākeśhaḥ—Arjun, the conquerer of sleep; parantapaḥ—Arjun, the chastiser of the enemies; na yotsye—I shall not fight; iti—thus; govindam—Krishna, the giver of pleasure to the senses; uktvā—having addressed; tūṣhṇīm—silent; babhūva—became ha
 {eov}
 
-{soc}
+{sot}
 Sanjaya Said: Having spoke thus, Arjuna, the destroyer of foes, finally said to Lord Krishna, “I will not fight” and became silent.
-{eoc}
+{eot}
 
 {sov: Verse 2.10}
 
@@ -199,9 +199,9 @@ senayorubhayor-madhye viṣhīdantam-idaṁ vachaḥ
 tam—to him; uvācha—said; hṛiṣhīkeśhaḥ—Shree Krishna, the master of mind and senses; prahasan—smilingly; iva—as if; bhārata—Dhritarashtra, descendant of Bharat; senayoḥ—of the armies; ubhayoḥ—of both; madhye—in the midst of; viṣhīdantam—to the grief-stricken; idam—this; vachaḥ—words
 {eov}
 
-{soc}
+{sot}
 O king Dhritarashtra! Seeing Arjuna lamenting in the middle of two armies, Lord Krishna, as if laughing loud, spoke these words.
-{eoc}
+{eot}
 
 ##########################################
 {start_of_analysis}

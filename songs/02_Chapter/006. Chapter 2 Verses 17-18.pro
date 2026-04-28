@@ -22,9 +22,9 @@ vināśham avyayasyāsya na kaśhchit kartum arhati
 avināśhi—indestructible; tu—indeed; tat—that; viddhi—know; yena—by whom; sarvam—entire; idam—this; tatam—pervaded; vināśham—destruction; avyayasya—of the imperishable; asya—of it; na kaśhchit—no one; kartum—to cause; arhati—is able
 {eov}
 
-{soc}
+{sot}
 (O Arjuna!) Know that Atma by which the whole universe is pervaded is indestructible. No one can cause the destruction of the imperishable.
-{eoc}
+{eot}
 
 {sov: Verse 2.18}
 
@@ -38,9 +38,9 @@ anāśhino ’prameyasya tasmād yudhyasva bhārata
 
 anta-vantaḥ—having an end; ime—these; dehāḥ—material bodies; nityasya—eternally; uktāḥ—are said; śharīriṇaḥ—of the embodied soul; anāśhinaḥ—indestructible; aprameyasya—immeasurable; tasmāt—therefore; yudhyasva—fight; bhārata—descendant of Bharat, Arjun{eov}
 
-{soc}
+{sot}
 These bodies which belong to the real imperishable, unknowable Atma are said to be subject to an end; therefore fight, O Arjuna!
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

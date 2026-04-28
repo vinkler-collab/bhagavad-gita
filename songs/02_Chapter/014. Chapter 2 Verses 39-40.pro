@@ -26,9 +26,9 @@ karma-bandhaṁ prahāsyasi
 eṣhā—hitherto; te—to you; abhihitā—explained; sānkhye—by analytical knowledge; buddhiḥ yoge—by the yog of intellect; tu—indeed; imām—this; śhṛiṇu—listen; buddhyā—by understanding; yuktaḥ—united; yayā—by which; pārtha—Arjun, the son of Pritha; karma-bandham—bondage of karma; prahāsyasi—you shall be released from
 {eov}
 
-{soc}
+{sot}
 O Arjuna! So far the knowledge of Sankhya Yoga about Atma is declared. Now hear the knowledge of Karma Yoga, knowing which you shall cast off the bondage of work.
-{eoc}
+{eot}
 
 {sov: Verse 2.40}
 
@@ -43,9 +43,9 @@ svalpam apyasya dharmasya trāyate mahato bhayāt
 na—not; iha—in this; abhikrama—efforts; nāśhaḥ—loss; asti—there is; pratyavāyaḥ—adverse result; na—not; vidyate—is; su-alpam—a little; api—even; asya—of this; dharmasya—occupation; trāyate—saves; mahataḥ—from great; bhayāt—danger
 {eov}
 
-{soc}
+{sot}
 In this, no effort is ever lost and no harm is ever done. Even very little of this dharma saves a man from the Great Fear.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

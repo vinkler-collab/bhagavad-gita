@@ -24,9 +24,9 @@ prajahāti yadā kāmān sarvān pārtha mano-gatān
 śhrī-bhagavān uvācha—The Supreme Lord said; prajahāti—discards; yadā—when; kāmān—selfish desires; sarvān—all; pārtha—Arjun, the son of Pritha; manaḥ-gatān—of the mind; ātmani—of the self; eva—only; ātmanā—by the purified mind; tuṣhṭaḥ—satisfied; sthita-prajñaḥ—one with steady intellect; tadā—at that time; uchyate—is said
 {eov}
 
-{soc}
+{sot}
 The Blessed Lord said: When a man renounces completely all the desires of the mind, and when he is fully satisfied with his mind fixed in Atma, then he is declared to be a man of steady wisdom.
-{eoc}
+{eot}
 
 {sov: Verse 2.56}
 
@@ -41,9 +41,9 @@ vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate
 duḥkheṣhu—amidst miseries; anudvigna-manāḥ—one whose mind is undisturbed; sukheṣhu—in pleasure; vigata-spṛihaḥ—without craving; vīta—free from; rāga—attachment; bhaya—fear; krodhaḥ—anger; sthita-dhīḥ—enlightened person; muniḥ—a sage; uchyate—is called
 {eov}
 
-{soc}
+{sot}
 He whose mind is not troubled in sorrow, who does not hanker after pleasures and is free from attachment fear and hatred, is called the sage of steady wisdom.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

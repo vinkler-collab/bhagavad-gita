@@ -22,9 +22,9 @@ bahu-śhākhā hyanantāśh cha buddhayo ’vyavasāyinām
 vyavasāya-ātmikā—resolute; buddhiḥ—intellect; ekā—single; iha—on this path; kuru-nandana—descendent of the Kurus; bahu-śhākhāḥ—many-branched; hi—indeed; anantāḥ—endless; cha—also; buddhayaḥ—intellect; avyavasāyinām—of the irresolute
 {eov}
 
-{soc}
+{sot}
 O Arjuna! There is only one faith and thought for those who practice this Karma Yoga. The minds of others are divided into various branches, and their thoughts and speculations are endless. 
-{eoc}
+{eot}
 
 {sov: Verse 2.42-44}
 
@@ -49,13 +49,13 @@ kāma-ātmānaḥ—desirous of sensual pleasure; swarga-parāḥ—aiming to ac
 bhoga—gratification; aiśhwarya—luxury; prasaktānām—whose minds are deeply attached; tayā—by that; apahṛita-chetasām—bewildered in intellect; vyavasāya-ātmikā—resolute; buddhiḥ—intellect; samādhau—fulfilment; na—never; vidhīyate—occurs
 {eov}
 
-{soc}
+{sot}
 O Arjuna! The unwise utter flowery speech, taking pleasure in the laudatory words of the Vedas, and say that there is nothing else but pleasures and enjoyments either here or in Heaven. 
 
 They are full of desire, with heaven as their highest goal, leading to new births as the effect of their own Karma, and they engage themselves in a multiplicity of specific works for the purpose of acquiring enjoyments and prosperity.
 
 The mind of such men who are drawn away by attachment to pleasure and wealth, cannot be concentrated to remain fixed in the ecstasy of divine contemplation.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

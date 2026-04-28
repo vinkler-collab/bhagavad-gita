@@ -21,8 +21,8 @@ ubhau tau na vijānīto nāyaṁ hanti na hanyate
 
 yaḥ—one who; enam—this; vetti—knows; hantāram—the slayer; yaḥ—one who; cha—and; enam—this; manyate—thinks; hatam—slain; ubhau—both; tau—they; na—not; vijānītaḥ—in knowledge; na—neither; ayam—this; hanti—slays; na—nor; hanyate—is killed{eov}
 
-{soc}
-He who thinks that Atma slays, or he who thinks that Atma is Slain, both these do not know the Truth. Atma does not slay, nor is slain.{eoc}
+{sot}
+He who thinks that Atma slays, or he who thinks that Atma is Slain, both these do not know the Truth. Atma does not slay, nor is slain.{eot}
 
 {start_of_analysis}
 ***

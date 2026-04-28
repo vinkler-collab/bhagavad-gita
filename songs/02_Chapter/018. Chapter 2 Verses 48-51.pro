@@ -22,9 +22,9 @@ siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate
 yoga-sthaḥ—being steadfast in yog; kuru—perform; karmāṇi—duties; saṅgam—attachment; tyaktvā—having abandoned; dhanañjaya—Arjun; siddhi-asiddhyoḥ—in success and failure; samaḥ—equipoised; bhūtvā—becoming; samatvam—equanimity; yogaḥ—Yog; uchyate—is called
 {eov}
 
-{soc}
+{sot}
 O Arjuna! Steadfast in Yoga, giving up all attachment, unmindful of success or failure, do your work. Such equanimity of mind is called Yoga.
-{eoc}
+{eot}
 
 {sov: Verse 2.49}
 
@@ -39,9 +39,9 @@ buddhau śharaṇam anvichchha kṛipaṇāḥ phala-hetavaḥ
 dūreṇa—(discrad) from far away; hi—certainly; avaram—inferior; karma—reward-seeking actions; buddhi-yogāt—with the intellect established in Divine knowledge; dhanañjaya—Arjun; buddhau—divine knowledge and insight; śharaṇam—refuge; anvichchha—seek; kṛipaṇāḥ—miserly; phala-hetavaḥ—those seeking fruits of their work
 {eov}
 
-{soc}
+{sot}
 O Arjuna! Work with attachment is far inferior to nishkama karma. Therefore seek refuge in desireless action with equanimity of mind. Those who work for fruits and rewards are wrecked.
-{eoc}
+{eot}
 
 {sov: Verse 2.50}
 
@@ -56,9 +56,9 @@ tasmād yogāya yujyasva yogaḥ karmasu kauśhalam
 buddhi-yuktaḥ—endowed with wisdom; jahāti—get rid of; iha—in this life; ubhe—both; sukṛita-duṣhkṛite—good and bad deeds; tasmāt—therefore; yogāya—for Yog; yujyasva—strive for; yogaḥ—yog is; karmasu kauśhalam—the art of working skillfully
 {eov}
 
-{soc}
+{sot}
 The man of equanimity born of wisdom releases himself both from good and bad even in this life. Therefore strive for nishkama karma with an equal mind. Yoga is skill in action. 
-{eoc}
+{eot}
 
 {sov: Verse 2.51}
 
@@ -73,9 +73,9 @@ janma-bandha-vinirmuktāḥ padaṁ gachchhanty-anāmayam
 karma-jam—born of fruitive actions; buddhi-yuktāḥ—endowed with equanimity of intellect; hi—as; phalam—fruits; tyaktvā—abandoning; manīṣhiṇaḥ—the wise; janma-bandha-vinirmuktāḥ—freedom from the bondage of life and death; padam—state; gachchhanti—attain; anāmayam—devoid of sufferings
 {eov}
 
-{soc}
+{sot}
 Wise men endowed with equanimity, having abandoned the fruits of action, go to the abode beyond all sorrow and evil.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

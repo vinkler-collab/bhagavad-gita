@@ -22,9 +22,9 @@ mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi
 karmaṇi—in prescribed duties; eva—only; adhikāraḥ—right; te—your; mā—not; phaleṣhu—in the fruits; kadāchana—at any time; mā—never; karma-phala—results of the activities; hetuḥ—cause; bhūḥ—be; mā—not; te—your; saṅgaḥ—attachment; astu—must be; akarmaṇi—in inaction
 {eov}
 
-{soc}
+{sot}
 You have the right to work only, and not to the fruits of work. Let not the fruit of action be your motive, nor let your attachment be to inaction.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

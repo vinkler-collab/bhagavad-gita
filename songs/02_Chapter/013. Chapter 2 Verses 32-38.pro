@@ -22,9 +22,9 @@ sukhinaḥ kṣhatriyāḥ pārtha labhante yuddham īdṛiśham
 yadṛichchhayā—unsought; cha—and; upapannam—come; swarga—celestial abodes; dvāram—door; apāvṛitam—wide open; sukhinaḥ—happy; kṣhatriyāḥ—warriors; pārtha—Arjun, the son of Pritha; labhante—obtain; yuddham—war; īdṛiśham—such
 {eov}
 
-{soc}
+{sot}
 Happy indeed are the kshatriyas, O Pārtha, to whom comes such a war, offering itself unsought, opening the gate to heaven. 
-{eoc}
+{eot}
 
 {sov: Verse 2.33}
 
@@ -39,9 +39,9 @@ tataḥ sva-dharmaṁ kīrtiṁ cha hitvā pāpam avāpsyasi
 atha chet—if, however; tvam—you; imam—this; dharmyam saṅgrāmam—righteous war; na—not; kariṣhyasi—act; tataḥ—then; sva-dharmam—one’s duty in accordance with the Vedas; kīrtim—reputation; cha—and; hitvā—abandoning; pāpam—sin; avāpsyasi—will incur
 {eov}
 
-{soc}
+{sot}
 But if you do not fight this righteous war you would incur sin by abandoning your own duty, name, and fame.
-{eoc}
+{eot}
 
 {sov: Verse 2.34}
 
@@ -60,9 +60,9 @@ maraṇād atirichyate
 akīrtim—infamy; cha—and; api—also; bhūtāni—people; kathayiṣhyanti—will speak; te—of your; avyayām—everlasting; sambhāvitasya—of a respectable person; cha—and; akīrtiḥ—infamy; maraṇāt—than death; atirichyate—is greater
 {eov}
 
-{soc}
+{sot}
 And also, these people will speak of your everlasting dishonor, and to one who is honored, dishonor is worse than death.
-{eoc}
+{eot}
 
 {sov: Verse 2.35}
 
@@ -77,9 +77,9 @@ yeṣhāṁ cha tvaṁ bahu-mato bhūtvā yāsyasi lāghavam
 bhayāt—out of fear; raṇāt—from the battlefield; uparatam—have fled; maṁsyante—will think; tvām—you; mahā-rathāḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors; yeṣhām—for whom; cha—and; tvam—you; bahu-mataḥ—high esteemed; bhūtvā—having been; yāsyasi—you will loose; lāghavam—decreased in value
 {eov}
 
-{soc}
+{sot}
 Moreover, those great warriors from whom you received honor formerly would think that you turned away from battle out of fear, and regard you with little respect hereafter.
-{eoc}
+{eot}
 
 {sov: Verse 2.36}
 
@@ -94,9 +94,9 @@ nindantastava sāmarthyaṁ tato duḥkhataraṁ nu kim
 avāchya-vādān—using harsh words; cha—and; bahūn—many; vadiṣhyanti—will say; tava—your; ahitāḥ—enemies; nindantaḥ—defame; tava—your; sāmarthyam—might; tataḥ—than that; duḥkha-taram—more painful; nu—indeed; kim—what
 {eov}
 
-{soc}
+{sot}
 Your enemies belittle your ability, and in various ways speak words of ill-fame and shame about you. What is there more painful than this?
-{eoc}
+{eot}
 
 {sov: Verse 2.37}
 
@@ -111,9 +111,9 @@ tasmād uttiṣhṭha kaunteya yuddhāya kṛita-niśhchayaḥ
 hataḥ—slain; vā—or; prāpsyasi—you will attain; swargam—celestial abodes; jitvā—by achieving victory; vā—or; bhokṣhyase—you shall enjoy; mahīm—the kingdom on earth; tasmāt—therefore; uttiṣhṭha—arise; kaunteya—Arjun, the son of Kunti; yuddhāya—for fight; kṛita-niśhchayaḥ—with determination
 {eov}
 
-{soc}
+{sot}
 If you are killed in the battle, you will go to heaven; if you win, you will enjoy the earth. Therefore arise, O son of Kunti, resolved to fight.
-{eoc}
+{eot}
 
 {sov: Verse 2.38}
 
@@ -128,9 +128,9 @@ tato yuddhāya yujyasva naivaṁ pāpam avāpsyasi
 sukha—happiness; duḥkhe—in distress; same kṛitvā—treating alike; lābha-alābhau—gain and loss; jaya-ajayau—victory and defeat; tataḥ—thereafter; yuddhāya—for fighting; yujyasva—engage; na—never; evam—thus; pāpam—sin; avāpsyasi—shall incur
 {eov}
 
-{soc}
+{sot}
 Having an equal mind in pain and pleasure, gain and loss, victory and defeat, engage in battle and thereby you will not incur sin.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

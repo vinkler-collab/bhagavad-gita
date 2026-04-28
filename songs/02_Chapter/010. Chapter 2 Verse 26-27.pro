@@ -22,9 +22,9 @@ tathāpi tvaṁ mahā-bāho naivaṁ śhochitum arhasi
 atha—if, however; cha—and; enam—this soul; nitya-jātam—taking constant birth; nityam—always; vā—or; manyase—you think; mṛitam—dead; tathā api—even then; tvam—you; mahā-bāho—mighty-armed one, Arjun; na—not; evam—like this; śhochitum—grieve; arhasi—befitting
 {eov}
 
-{soc}
+{sot}
 O mighty-armed Arjuna! Even if you think that Self is constantly born and dies, you should not grieve in this way.
-{eoc}
+{eot}
 
 {sov: Verse 2.27}
 
@@ -39,9 +39,9 @@ tasmād aparihārye ’rthe na tvaṁ śhochitum arhasi
 jātasya—for one who has been born; hi—for; dhruvaḥ—certain; mṛityuḥ—death; dhruvam—certain; janma—birth; mṛitasya—for the dead; cha—and; tasmāt—therefore; aparihārye arthe—in this inevitable situation; na—not; tvam—you; śhochitum—lament; arhasi—befitting
 {eov}
 
-{soc}
+{sot}
 For to that which is born, death is certain, and to that which is dead, birth is certain. Therefore you should not grieve over the unavoidable.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

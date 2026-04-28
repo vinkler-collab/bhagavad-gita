@@ -26,9 +26,9 @@ na hanyate hanyamāne śharīre
 na jāyate—is not born; mriyate—dies; vā—or; kadāchit—at any time; na—not; ayam—this; bhūtvā—having once existed; bhavitā—will be; vā—or; na—not; bhūyaḥ—further; ajaḥ—unborn; nityaḥ—eternal; śhāśhvataḥ—immortal; ayam—this; purāṇaḥ—the ancient; na hanyate—is not destroyed; hanyamāne—is destroyed; śharīre—when the body
 {eov}
 
-{soc}
+{sot}
 Atma is not born, nor does it ever die; after having been it does not cease to be, unborn, eternal, changeless and ancient, it is not killed when the body is destroyed.
-{eoc}
+{eot}
 
 {sov: Verse 2.21}
 
@@ -43,9 +43,9 @@ kathaṁ sa puruṣhaḥ pārtha kaṁ ghātayati hanti kam
 veda—knows; avināśhinam—imperishable; nityam—eternal; yaḥ—who; enam—this; ajam—unborn; avyayam—immutable; katham—how; saḥ—that; puruṣhaḥ—person; pārtha—Parth; kam—whom; ghātayati—causes to be killed; hanti—kills; kam—whom
 {eov}
 
-{soc}
+{sot}
 O Arjuna! He who knows that Atma is birthless, deathless, real, and imperishable, whom can he slay or cause to be slain?
-{eoc}
+{eot}
 
 {sov: Verse 2.22}
 
@@ -64,9 +64,9 @@ nyāni sanyāti navāni dehī
 vāsānsi—garments; jīrṇāni—worn-out; yathā—as; vihāya—sheds; navāni—new; gṛihṇāti—accepts; naraḥ—a person; aparāṇi—others; tathā—likewise; śharīrāṇi—bodies; vihāya—casting off; jirṇāni—worn-out; anyāni—other; sanyāti—enters; navāni—new; dehī—the embodied soul
 {eov}
 
-{soc}
+{sot}
 Just as a man casts off his worn-out clothes and puts on new ones so also the Self throws away its worn-out bodies and takes other fresh bodies.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

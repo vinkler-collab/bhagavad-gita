@@ -16,9 +16,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

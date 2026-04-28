@@ -24,9 +24,9 @@ māmakāḥ pāṇḍavāśhchaiva kimakurvata sañjaya
 dhṛitarāśhtraḥ uvācha—Dhritarashtra said; dharma-kṣhetre—the land of dharma; kuru-kṣhetre—at Kurukshetra; samavetāḥ—having gathered; yuyutsavaḥ—desiring to fight; māmakāḥ—my sons; pāṇḍavāḥ—the sons of Pandu; cha—and; eva—certainly; kim—what; akurvata—did they do; sañjaya—Sanjay
 {eov}
 
-{soc}
+{sot}
 Dhritarashtra said: Having assembled on the holy plain in Kurukshetra desirous of fighting the battle, what did my people and the Pandavas do? O Sanjaya! 
-{eoc}
+{eot}
 
 {sov: Verse 1.2}
 
@@ -43,9 +43,9 @@ dṛiṣhṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanastadā
 sanjayaḥ uvācha—Sanjay said; dṛiṣhṭvā—on observing; tu—but; pāṇḍava-anīkam—the Pandava army; vyūḍham—standing in a military formation; duryodhanaḥ—King Duryodhan; tadā—then; āchāryam—teacher; upasaṅgamya—approached; rājā—the king; vachanam—words; abravīt—spoke
 {eov}
 
-{soc}
+{sot}
 Sanjaya said: On seeing the Pāndava army arrayed for battle, King Duryodhana went to his teacher and spoke these words:
-{eoc}
+{eot}
  
 {sov: Verse 1.3}
 
@@ -60,9 +60,9 @@ vyūḍhāṁ drupada-putreṇa tava śhiṣhyeṇa dhīmatā
 paśhya—behold; etām—this; pāṇḍu-putrāṇām—of the sons of Pandu; āchārya—respected teacher; mahatīm—mighty; chamūm—army; vyūḍhām—arrayed in a military formation; drupada-putreṇa—son of Drupad, Dhrishtadyumna; tava—by your; śhiṣhyeṇa—disciple; dhī-matā—intelligent
 {eov}
 
-{soc}
+{sot}
 O teacher, behold the great army of the sons of Pāndu arrayed by your talented disciple, the son of Drupada.
-{eoc}
+{eot}
 
 {sov: Verse 1.4-6}
 
@@ -85,13 +85,13 @@ saubhadro draupadeyāśhcha sarva eva mahā-rathāḥ
 atra—here; śhūrāḥ—powerful warriors; mahā-iṣhu-āsāḥ—great bowmen; bhīma-arjuna-samāḥ—equal to Bheem and Arjun; yudhi—in military prowess; yuyudhānaḥ—Yuyudhan; virāṭaḥ—Virat; cha—and; drupadaḥ—Drupad; cha—also; mahā-rathaḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors; dhṛiṣhṭaketuḥ—Dhrishtaketu; chekitānaḥ—Chekitan; kāśhirājaḥ—Kashiraj; cha—and; vīrya-vān—heroic; purujit—Purujit; kuntibhojaḥ—Kuntibhoj; cha—and; śhaibyaḥ—Shaibya; cha—and; nara-puṅgavaḥ—best of men; yudhāmanyuḥ—Yudhamanyu; cha—and; vikrāntaḥ—courageous; uttamaujāḥ—Uttamauja; cha—and; vīrya-vān—gallant; saubhadraḥ—the son of Subhadra; draupadeyāḥ—the sons of Draupadi; cha—and; sarve—all; eva—indeed; mahā-rathāḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors
 {eov}
 
-{soc}
+{sot}
 In that army are mighty archers and heroes, in battle equal to Bhima and Arjuna: Yuyudhāna, Virāta, and Drupada, each a mahāratha;
 
 Heroic Dhrishtaketu, Chekitāna, and the king of Kāśi; Purujit, Kuntibhoja, and Śaivya, all the best of men;
 
 Powerful Yudhāmanyu, brave Uttamaujā, Subhadrā’s son, and the sons of Draupadi - all mahārathas indeed.
-{eoc}
+{eot}
 
 {sov: Verse 1.7}
 
@@ -108,9 +108,9 @@ nāyakā mama sainyasya sanjñārthaṁ tānbravīmi te
 asmākam—ours; tu—but; viśhiṣhṭāḥ—special; ye—who; tān—them; nibodha—be informed; dwija-uttama—best of Brahmins; nāyakāḥ—principal generals; mama—our; sainyasya—of army; sanjñā-artham—for information; tān—them; bravīmi—I recount; te—unto you
 {eov}
 
-{soc}
+{sot}
 O best of the twice-born, let me also recount to you the leaders of my own army, those distinguished amongst ourselves. I shall name them, that you may know them all:
-{eoc}
+{eot}
 
 {sov: Verse 1.8-9}
 
@@ -129,11 +129,11 @@ nānā-śhastra-praharaṇāḥ sarve yuddha-viśhāradāḥ
 bhavān—yourself; bhīṣhmaḥ—Bheeshma; cha—and; karṇaḥ—Karna; cha—and; kṛipaḥ—Kripa; cha—and; samitim-jayaḥ—victorious in battle; aśhvatthāmā—Ashvatthama; vikarṇaḥ—Vikarna; cha—and; saumadattiḥ—Bhurishrava; tathā—thus; eva—even; cha—also; anye—others; cha—also; bahavaḥ—many; śhūrāḥ—heroic warriors; mat-arthe—for my sake; tyakta-jīvitāḥ—prepared to lay down their lives; nānā-śhastra-praharaṇāḥ—equipped with various kinds of weapons; sarve—all; yuddha-viśhāradāḥ—skilled in the art of warfare
 {eov}
 
-{soc}
+{sot}
 Yourself and Bhishma and Karna; Kripa, who is ever victorious in war; Aśvatthāmā, Vikarna, Jayadratha, and Somadatta’s son;
 
 And many other heroes besides, armed with many weapons, each well skilled in battle, and all resolved to lay down their lives to serve my cause.
-{eoc}
+{eot}
 
 {sov: Verse 1.10}
 
@@ -150,9 +150,9 @@ paryāptaṁ tvidameteṣhāṁ balaṁ bhīmābhirakṣhitam
 aparyāptam—unlimited; tat—that; asmākam—ours; balam—strength; bhīṣhma—by Grandsire Bheeshma; abhirakṣhitam—safely marshalled; paryāptam—limited; tu—but; idam—this; eteṣhām—their; balam—strength; bhīma—Bheem; abhirakṣhitam—carefully marshalled
 {eov}
 
-{soc}
+{sot}
 But this army of ours, protected by Bhishma, is unlimited, and that army of theirs, protected by Bhima, is limited.
-{eoc}
+{eot}
 
 {sov: Verse 1.11}
 
@@ -167,9 +167,9 @@ bhīṣhmamevābhirakṣhantu bhavantaḥ sarva eva hi
 ayaneṣhu—at the strategic points; cha—also; sarveṣhu—all; yathā-bhāgam—in respective position; avasthitāḥ—situated; bhīṣhmam—to Grandsire Bheeshma; eva—only; abhirakṣhantu—defend; bhavantaḥ—you; sarve—all; eva hi—even as
 {eov}
 
-{soc}
+{sot}
 Now take your proper places in front of your marshalled troops and protect Bhishma alone.
-{eoc}
+{eot}
 
 {sov: Verse 1.12}
 
@@ -184,9 +184,9 @@ siṁha-nādaṁ vinadyochchaiḥ śhaṅkhaṁ dadhmau pratāpavān
 tasya—his; sañjanayan—causing; harṣham—joy; kuru-vṛiddhaḥ—the grand old man of the Kuru dynasty (Bheeshma); pitāmahaḥ—grandfather; sinha-nādam—lion’s roar; vinadya—sounding; uchchaiḥ—very loudly; śhaṅkham—conch shell; dadhmau—blew; pratāpa-vān—the glorious
 {eov}
 
-{soc}
+{sot}
 Bhishma the grandsire, the glorious, the oldest of the Kurus, gave forth a lion-roar and blew his conch, causing joy to Duryodhana.
-{eoc}
+{eot}
 
 {sov: Verse 1.13}
 
@@ -203,9 +203,9 @@ sahasaivābhyahanyanta sa śhabdastumulo ’bhavat
 tataḥ—thereafter; śhaṅkhāḥ—conches; cha—and; bheryaḥ—bugles; cha—and; paṇava-ānaka—drums and kettledrums; go-mukhāḥ—trumpets; sahasā—suddenly; eva—indeed; abhyahanyanta—blared forth; saḥ—that; śhabdaḥ—sound; tumulaḥ—overwhelming; abhavat—was
 {eov}
 
-{soc}
+{sot}
 Then conchs and kettle-drums, tabors and trumpets and cow-horns suddenly blared forth; and the sound was stupendous.
-{eoc}
+{eot}
 
 {sov: Verse 1.14}
 
@@ -220,9 +220,9 @@ mādhavaḥ pāṇḍavaśhchaiva divyau śhaṅkhau pradadhmatuḥ
 tataḥ—then; śhvetaiḥ—by white; hayaiḥ—horses; yukte—yoked; mahati—glorious; syandane—chariot; sthitau—seated; mādhavaḥ—Shree Krishna, the husband of the goddess of fortune, Lakshmi; pāṇḍavaḥ—Arjun; cha—and; eva—also; divyau—Divine; śhaṅkhau—conch shells; pradadhmatuḥ—blew
 {eov}
 
-{soc}
+{sot}
 Whereupon Mādhava and Pāndava, seated in their magnificent chariot yoked to white horses, also blew their celestial conchs.
-{eoc}
+{eot}
 
 {sov: Verse 1.15-18}
 
@@ -249,9 +249,9 @@ saubhadraśhcha mahā-bāhuḥ śhaṅkhāndadhmuḥ pṛithak pṛithak
 pāñchajanyam—the conch shell named Panchajanya; hṛiṣhīka-īśhaḥ—Shree Krishna, the Lord of the mind and senses; devadattam—the conch shell named Devadutta; dhanañ-jayaḥ—Arjun, winner of wealth; pauṇḍram—the conch named Paundra; dadhmau—blew; mahā-śhaṅkham—mighty conch; bhīma-karmā—one who performs herculean tasks; vṛika-udaraḥ—Bheem, the voracious eater; ananta-vijayam—the conch named Anantavijay; rājā—king; kuntī-putraḥ—son of Kunti; yudhiṣhṭhiraḥ—Yudhishthir; nakulaḥ—Nakul; sahadevaḥ—Sahadev; cha—and; sughoṣha-maṇipuṣhpakau—the conche shells named Sughosh and Manipushpak; kāśhyaḥ—King of Kashi; cha—and; parama-iṣhu-āsaḥ—the excellent archer; śhikhaṇḍī—Shikhandi; cha—also; mahā-rathaḥ—warriors who could single handedly match the strength of ten thousand ordinary warriors; dhṛiṣhṭadyumnaḥ—Dhrishtadyumna; virāṭaḥ—Virat; cha—and; sātyakiḥ—Satyaki; cha—and; aparājitaḥ—invincible; drupadaḥ—Drupad; draupadeyāḥ—the five sons of Draupadi; cha—and; sarvaśhaḥ—all; pṛithivī-pate—Ruler of the earth; saubhadraḥ—Abhimanyu, the son of Subhadra; cha—also; mahā-bāhuḥ—the mighty-armed; śhaṅkhān—conch shells; dadhmuḥ—blew; pṛithak pṛithak—individually
 {eov}
 
-{soc}
+{sot}
 Hrishikeśa blew His conch, the Pānchajanya; Dhananjaya, the Devadatta; and Vrikodara, the doer of fearful deeds, blew his great conch, the Paundra. King Yudhishthira, the son of Kunti, blew his conch, the Anantavijaya; and Nakula and Sahadeva blew the Sughosha and the Manipushpaka. The great archer, the king of Kāśi; the great warrior Śikhandi; Dhristadyumna and Virāta; the unconquered Sātyaki; Drupada, and the sons of Draupadi, and the mighty son of Subhadrā, O Lord of the Earth, each blew his own conch.
-{eoc}
+{eot}
 
 {sov: Verse 1.19}
 
@@ -266,9 +266,9 @@ nabhaśhcha pṛithivīṁ chaiva tumulo abhyanunādayan
 saḥ—that; ghoṣhaḥ—sound; dhārtarāṣhṭrāṇām—of Dhritarashtra’s sons; hṛidayāni—hearts; vyadārayat—shattered; nabhaḥ—the sky; cha—and; pṛithivīm—the earth; cha—and; eva—certainly; tumulaḥ—terrific sound; abhyanunādayan—thunderingSTslovnik
 {eov}
 
-{soc}
+{sot}
 And that tumult, resounding through heaven and earth, rent the hearts of Dhritarāshtra’s followers. 
-{eoc}
+{eot}
 
 {sov: Verse 1.20}
 
@@ -285,9 +285,9 @@ hṛiṣhīkeśhaṁ tadā vākyam idam āha mahī-pate
 atha—thereupon; vyavasthitān—arrayed; dṛiṣhṭvā—seeing; dhārtarāṣhṭrān—Dhritarashtra’s sons; kapi-dwajaḥ—the monkey bannered; pravṛitte—about to commence; śhastra-sampāte—to use the weapons; dhanuḥ—bow; udyamya—taking up; pāṇḍavaḥ—Arjun, the son of Pandu; hṛiṣhīkeśham—to Shree Krishna; tadā—at that time; vākyam—words; idam—these; āha—said; mahī-pate—king
 {eov}
 
-{soc}
+{sot}
 O King! Now seeing the Kauravas arrayed in battle order and the discharge of weapons about to begin, Arjuna took up his bow and spoke these words to Lord Krishna.
-{eoc}
+{eot}
 
 {sov: Verse 1.21-22}
 
@@ -306,9 +306,9 @@ kairmayā saha yoddhavyam asmin raṇa-samudyame
 arjunaḥ uvācha—Arjun said; senayoḥ—armies; ubhayoḥ—both; madhye—in the middle; ratham—chariot; sthāpaya—place; me—my; achyuta—Shree Krishna, the infallible One; yāvat—as many as; etān—these; nirīkṣhe—look; aham—I; yoddhu-kāmān—for the battle; avasthitān—arrayed; kaiḥ—with whom; mayā—by me; saha—together; yoddhavyam—must fight; asmin—in this; raṇa-samudyame—great combat
 {eov}
 
-{soc}
+{sot}
 Arjuna said: O Achyuta, between the two armies draw up my chariot, that I may behold those who stand there eager to fight, and may know, on the eve of battle, with whom I must contend.
-{eoc}
+{eot}
 
 {sov: Verse 1.23}
 
@@ -323,9 +323,9 @@ dhārtarāṣhṭrasya durbuddher yuddhe priya-chikīrṣhavaḥ
 yotsyamānān—those who have come to fight; avekṣhe aham—I desire to see; ye—who; ete—those; atra—here; samāgatāḥ—assembled; dhārtarāṣhṭrasya—of Dhritarashtra’s son; durbuddheḥ—evil-minded; yuddhe—in the fight; priya-chikīrṣhavaḥ—wishing to please
 {eov}
 
-{soc}
+{sot}
 I would observe these warriors assembled here for the battle wishing to please the evil-minded Duryodhana.
-{eoc}
+{eot}
 
 {sov: Verse 1.24-25}
 
@@ -346,9 +346,9 @@ uvācha pārtha paśhyaitān samavetān kurūn iti
 sañjayaḥ uvācha—Sanjay said; evam—thus; uktaḥ—addressed; hṛiṣhīkeśhaḥ—Shree Krishna, the Lord of the senses; guḍākeśhena—by Arjun, the conqueror of sleep; bhārata—descendant of Bharat; senayoḥ—armies; ubhayoḥ—the two; madhye—between; sthāpayitvā—having drawn; ratha-uttamam—magnificent chariot; bhīṣhma—Grandsire Bheeshma; droṇa—Dronacharya; pramukhataḥ—in the presence; sarveṣhām—all; cha—and; mahī-kṣhitām—other kings; uvācha—said; pārtha—Arjun, the son of Pritha; paśhya—behold; etān—these; samavetān—gathered; kurūn—descendants of Kuru; iti—thus
 {eov}
 
-{soc}
+{sot}
 Sanjaya said: Advised thus by Arjuna Lord Krishna placed the noble chariot in the middle of the two armies, and in front of Bhishma and Drona, and all the Kings, and said: ‘O Arjuna! Behold those Kauravas gathered here.’
-{eoc}
+{eot}
 
 {sov: Verse 1.26}
 
@@ -365,9 +365,9 @@ tatrāpaśhyat sthitān pārthaḥ pitṝīn atha pitāmahān
 tatra—there; apaśhyat—saw; sthitān—stationed; pārthaḥ—Arjun; pitṝīn—fathers; atha—thereafter; pitāmahān—grandfathers; āchāryān—teachers; mātulān—maternal uncles; bhrātṝīn—brothers; putrān—sons; pautrān—grandsons; sakhīn—friends; tathā—also; śhvaśhurān—fathers-in-law; suhṛidaḥ—well-wishers; cha—and; eva—indeed; senayoḥ—armies; ubhayoḥ—in both armies; api—also
 {eov}
 
-{soc}
+{sot}
 There Arjuna saw fathers, grand-fathers, teachers, uncles, brothers, sons, grandsons, companions, fathers-in-law, and friends in both the armies.
-{eoc}
+{eot}
 
 {sov: Verse 1.27}
 
@@ -382,9 +382,9 @@ kṛipayā parayāviṣhṭo viṣhīdann idam abravīt
 tān—these; samīkṣhya—on seeing; saḥ—they; kaunteyaḥ—Arjun, the son of Kunti; sarvān—all; bandhūn—relatives; avasthitān—present; kṛipayā—by compassion; parayā—great; āviṣhṭaḥ—overwhelmed; viṣhīdan—deep sorrow; idam—this; abravīt—spoke
 {eov}
 
-{soc}
+{sot}
 Casting his eyes on all these kinsmen stationed on opposing sides, the son of Kunti was overcome with deep pity and sorrowfully spoke.
-{eoc}
+{eot}
 
 {sov: Verse 1.28-30}
 
@@ -407,9 +407,9 @@ na cha śhaknomy avasthātuṁ bhramatīva cha me manaḥ
 arjunaḥ uvācha—Arjun said; dṛiṣhṭvā—on seeing; imam—these; sva-janam—kinsmen; kṛiṣhṇa—Krishna; yuyutsum—eager to fight; samupasthitam—present; sīdanti—quivering; mama—my; gātrāṇi—limbs; mukham—mouth; cha—and; pariśhuṣhyati—is drying up; vepathuḥ—shuddering; cha—and; śharīre—on the body; me—my; roma-harṣhaḥ—standing of bodily hair on end; cha—also; jāyate—is happening; gāṇḍīvam—Arjun’s bow; sraṁsate—is slipping; hastāt—from (my) hand; tvak—skin; cha—and; eva—indeed; paridahyate—is burning all over; na—not; cha—and; śhaknomi—am able; avasthātum—remain steady; bhramati iva—whirling like; cha—and; me—my; manaḥ—mind; 
 {eov}
 
-{soc}
+{sot}
 Arjuna said: O Krishna, at the sight of these my kinsmen, assembled here eager to give battle, my limbs fail and my mouth is parched. My body is shaken and my hair stands on end. The bow Gāndiva slips from my hand and my skin is on fire. I cannot hold myself steady; my mind seems to whirl. O Keśava, I see omens of evil.
-{eoc}
+{eot}
 
 {sov: Verse 1.31}
 
@@ -424,9 +424,9 @@ na cha śhreyo ’nupaśhyāmi hatvā sva-janam āhave
 nimittāni—omens; cha—and; paśhyāmi—I see; viparītāni—misfortune; keśhava—Shree Krishna, killer of the Keshi demon; na—not; cha—also; śhreyaḥ—good; anupaśhyāmi—I foresee; hatvā—from killing; sva-janam—kinsmen; āhave—in battle
 {eov}
 
-{soc}
+{sot}
 O Krishna! I see many ill-omens and I do not understand what good could come by killing my own people in battle.
-{eoc}
+{eot}
 
 {sov: Verse 1.32}
 
@@ -441,9 +441,9 @@ kiṁ no rājyena govinda kiṁ bhogair jīvitena vā
 na—nor; kāṅkṣhe—do I desire; vijayam—victory; kṛiṣhṇa—Krishna; na—nor; cha—as well; rājyam—kingdom; sukhāni—happiness; cha—also; kim—what; naḥ—to us; rājyena—by kingdom; govinda—Krishna, he who gives pleasure to the senses, he who is fond of cows; kim—what?; bhogaiḥ—pleasures; jīvitena—life; vā—or;
 {eov}
 
-{soc}
+{sot}
 O Krishna! I do not desire victory or kingdom or pleasures. Of what avail are these kingdom, enjoyment, or even life itself to us.
-{eoc}
+{eot}
 
 {sov: Verse 1.33-34}
 
@@ -462,9 +462,9 @@ mātulāḥ śhvaśhurāḥ pautrāḥ śhyālāḥ sambandhinas tathā
 yeṣhām—for whose; arthe—sake; kāṅkṣhitam—coveted for; naḥ—by us; rājyam—kingdom; bhogāḥ—pleasures; sukhāni—happiness; cha—also; te—they; ime—these; avasthitāḥ—situated; yuddhe—for battle; prāṇān—lives; tyaktvā—giving up; dhanāni—wealth; cha—also; āchāryāḥ—teachers; pitaraḥ—fathers; putrāḥ—sons; tathā—as well; eva—indeed; cha—also; pitāmahāḥ—grandfathers; mātulāḥ—maternal uncles; śhvaśhurāḥ—fathers-in-law; pautrāḥ—grandsons; śhyālāḥ—brothers-in-law; sambandhinaḥ—kinsmen; tathā—as well;
 {eov}
 
-{soc}
+{sot}
 Those for whose sake we desire kingdom, enjoyments, and pleasures—teachers, fathers, sons, grandfathers, maternal uncles, fathers-in law, brothers-in-law, grandsons and other relations are all standing here ready for battle, having abandoned their wealth and very life even.
-{eoc}
+{eot}
 
 {sov: Verse 1.35}
 
@@ -479,9 +479,9 @@ api trailokya-rājyasya hetoḥ kiṁ nu mahī-kṛite
 etān—these; na—not; hantum—to slay; ichchhāmi—I wish; ghnataḥ—killed; api—even though; madhusūdana—Shree Krishna, killer of the demon Madhu; api—even though; trai-lokya-rājyasya—dominion over three worlds; hetoḥ—for the sake of; kim nu—what to speak of; mahī-kṛite—for the earth
 {eov}
 
-{soc}
+{sot}
 These, O Madhusudana, I would not kill, though they should kill me, even for the sake of sovereignty over the three worlds - how much less for this earth!
-{eoc}
+{eot}
 
 {sov: Verse 1.36}
 
@@ -496,9 +496,9 @@ pāpam evāśhrayed asmān hatvaitān ātatāyinaḥ
 nihatya—by killing; dhārtarāṣhṭrān—the sons of Dhritarashtra; naḥ—our; kā—what; prītiḥ—pleasure; syāt—will there be; janārdana—he who looks after the public, Shree Krishna; pāpam—vices; eva—certainly; āśhrayet—must come upon; asmān—us; hatvā—by killing; etān—all these; ātatāyinaḥ—aggressors;
 {eov}
 
-{soc}
+{sot}
 O Janārdana, what joy can be ours in killing these sons of Dhritarāshtra? Sin alone will possess us if we kill these felons.
-{eoc}
+{eot}
 
 {sov: Verse 1.37}
 
@@ -513,9 +513,9 @@ sva-janaṁ hi kathaṁ hatvā sukhinaḥ syāma mādhava
 tasmāt—hence; na—never; arhāḥ—behoove; vayam—we; hantum—to kill; dhārtarāṣhṭrān—the sons of Dhritarashtra; sva-bāndhavān—along with friends; sva-janam—kinsmen; hi—certainly; katham—how; hatvā—by killing; sukhinaḥ—happy; syāma—will we become; mādhava—Shree Krishna, the husband of Yogmaya
 {eov}
 
-{soc}
+{sot}
 Therefore we ought not to kill our kinsmen, the sons of Dhritarāshtra; for, O Mādhava, how can we ever be happy by killing our own people?
-{eoc}
+{eot}
 
 {sov: Verse 1.38-39}
 
@@ -534,9 +534,9 @@ kula-kṣhaya-kṛitaṁ doṣhaṁ prapaśhyadbhir janārdana
 yadi api—even though; ete—they; na—not; paśhyanti—see; lobha—greed; upahata—overpowered; chetasaḥ—thoughts; kula-kṣhaya-kṛitam—in annihilating their relatives; doṣham—fault; mitra-drohe—to wreak treachery upon friends; cha—and; pātakam—sin; katham—why; na—not; jñeyam—should be known; asmābhiḥ—we; pāpāt—from sin; asmāt—these; nivartitum—to turn away; kula-kṣhaya—killing the kindered; kṛitam—done; doṣham—crime; prapaśhyadbhiḥ—who can see; janārdana—he who looks after the public, Shree Krishna
 {eov}
 
-{soc}
+{sot}
 Though they, their understanding overcome by greed, perceive no evil in the decay of families and no sin in hostility to friends, why, O Janārdana, should not we, who clearly perceive the evil in the decay of families, learn to refrain from this sin?
-{eoc}
+{eot}
 
 {sov: Verse 1.40-42}
 
@@ -559,13 +559,13 @@ patanti pitaro hy eṣhāṁ lupta-piṇḍodaka-kriyāḥ
 kula-kṣhaye—in the destruction of a dynasty; praṇaśhyanti—are vanquished; kula-dharmāḥ—family traditions; sanātanāḥ—eternal; dharme—religion; naṣhṭe—is destroyed; kulam—family; kṛitsnam—the whole; adharmaḥ—irreligion; abhibhavati—overcome; uta—indeed; adharma—irreligion; abhibhavāt—preponderance; kṛiṣhṇa—Shree Krishna; praduṣhyanti—become immoral; kula-striyaḥ—women of the family; strīṣhu—of women; duṣhṭāsu—immorality; vārṣhṇeya—descendant of Vrishni; jāyate—are born; varṇa-saṅkaraḥ—unwanted progeny; saṅkaraḥ—unwanted children; narakāya—hellish; eva—indeed; kula-ghnānām—for those who destroy the family; kulasya—of the family; cha—also; patanti—fall; pitaraḥ—ancestors; hi—verily; eṣhām—their; lupta—deprived of; piṇḍodaka-kriyāḥ—performances of sacrificial offerings
 {eov}
 
-{soc}
+{sot}
 With the decay of a family, perish its dharmas, which have existed from time out of mind. With the ending of the dharmas, adharma overwhelms the whole family.
 
 When adharma overwhelms the family, O Krishna, the women of the family become corrupt; and when, O Krishna, the women are corrupt, there arises a mixing of castes.
 
 This mixture leads into hell the family itself as well as those who destroy it; for their ancestors fall, deprived of the offerings of rice-balls and water.
-{eoc}
+{eot}
 
 {sov: Verse 1.43-44}
 
@@ -584,11 +584,11 @@ narake ‘niyataṁ vāso bhavatītyanuśhuśhruma
 doṣhaiḥ—through evil deeds; etaiḥ—these; kula-ghnānām—of those who destroy the family; varṇa-saṅkara—unwanted progeny; kārakaiḥ—causing; utsādyante—are ruined; jāti-dharmāḥ—social and family welfare activities; kula-dharmāḥ—family traditions; cha—and; śhāśhvatāḥ—eternal; utsanna—destroyed; kula-dharmāṇām—whose family traditions; manuṣhyāṇām—of such human beings; janārdana—he who looks after the public, Shree Krishna; narake—in hell; aniyatam—indefinite; vāsaḥ—dwell; bhavati—is; iti—thus; anuśhuśhruma—I have heard from the learned
 {eov}
 
-{soc}
+{sot}
 By these evil deeds of the destroyers of families, which result in the mixing of castes, the eternal dharmas of caste and family are uprooted.
 
 We have heard it said, O Janārdana, that inevitably the men whose family dharmas are destroyed dwell in hell.
-{eoc}
+{eot}
 
 {sov: Verse 1.45}
 
@@ -603,9 +603,9 @@ yad rājya-sukha-lobhena hantuṁ sva-janam udyatāḥ
 aho—alas; bata—horrible results; mahat—great; pāpam—sins; kartum—to perform; vyavasitāḥ—have decided; vayam—we; yat—because; rājya-sukha-lobhena—driven by the desire for kingly pleasure; hantum—to kill; sva-janam—kinsmen; udyatāḥ—intending;
 {eov}
 
-{soc}
+{sot}
 Alas, we are resolved to commit a great sin, in that we are ready to slay our kinsmen to satisfy our greed for the pleasure of a kingdom!
-{eoc}
+{eot}
 
 {sov: Verse 1.46}
 
@@ -621,9 +621,9 @@ yadi—if; mām—me; apratīkāram—unresisting; aśhastram—unarmed; śhastr
 
 {eov}
 
-{soc}
+{sot}
 Far better would it be for me if the sons of Dhritarāshtra, weapons in hand, should slay me in the battle, unarmed and unresisting.
-{eoc}
+{eot}
 
 {sov: Verse 1.47}
 
@@ -640,9 +640,9 @@ visṛijya sa-śharaṁ chāpaṁ śhoka-saṁvigna-mānasaḥ
 sañjayaḥ uvācha—Sanjay said; evam uktvā—speaking thus; arjunaḥ—Arjun; saṅkhye—in the battlefield; ratha upasthe—on the chariot; upāviśhat—sat; visṛijya—casting aside; sa-śharam—along with arrows; chāpam—the bow; śhoka—with grief; saṁvigna—distressed; mānasaḥ—mind
 {eov}
 
-{soc}
+{sot}
 Sanjaya said: Arjuna, having spoken thus on the battlefield, cast aside his bow and arrow and sank down on his chariot-seat, his mind overcome with grief.
-{eoc}
+{eot}
 
 ##########################################
 {start_of_analysis}

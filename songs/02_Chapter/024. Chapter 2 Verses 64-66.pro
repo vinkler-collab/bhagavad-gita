@@ -22,9 +22,9 @@ rāga-dveṣha-viyuktais tu viṣhayān indriyaiśh charan
 rāga—attachment; dveṣha—aversion; viyuktaiḥ—free; tu—but; viṣhayān—objects of the senses; indriyaiḥ—by the senses; charan—while using; ātma-vaśhyaiḥ—controlling one’s mind; vidheya-ātmā—one who controls the mind; prasādam—the Grace of God; adhigachchhati—attains
 {eov}
 
-{soc}
+{sot}
 But the self-controlled man free from attraction and repulsion, with his senses under restraint though moving among objects, attains peace.
-{eoc}
+{eot}
 
 {sov: Verse 2.65}
 
@@ -39,9 +39,9 @@ prasanna-chetaso hyāśhu buddhiḥ paryavatiṣhṭhate
 prasāde—by divine grace; sarva—all; duḥkhānām—of sorrows; hāniḥ—destruction; asya—his; upajāyate—comes; prasanna-chetasaḥ—with a tranquil mind; hi—indeed; āśhu—soon; buddhiḥ—intellect; paryavatiṣhṭhate—becomes firmly established
 {eov}
 
-{soc}
+{sot}
 When a man attains peace, all sorrow and suffering caused by the unbalanced mind and rebellious senses come to an end. By peace and purity, the mind is soon fixed in the Self. 
-{eoc}
+{eot}
 
 {sov: Verse 2.66}
 
@@ -56,9 +56,9 @@ na chābhāvayataḥ śhāntir aśhāntasya kutaḥ sukham
 na—not; asti—is; buddhiḥ—intellect; ayuktasya—not united; na—not; cha—and; ayuktasya—not united; bhāvanā—contemplation; na—nor; cha—and; abhāvayataḥ—for those not united; śhāntiḥ—peace; aśhāntasya—of the unpeaceful; kutaḥ—where; sukham—happiness
 {eov}
 
-{soc}
+{sot}
 The man whose mind is not under his control has no Self-knowledge and no contemplation either. Without contemplation he can have no peace; and without peace, how can he have happiness?
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

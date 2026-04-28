@@ -22,9 +22,9 @@ tasmāt sarvāṇi bhūtāni na tvaṁ śhochitum arhasi
 dehī—the soul that dwells within the body; nityam—always; avadhyaḥ—immortal; ayam—this soul; dehe—in the body; sarvasya—of everyone; bhārata—descendant of Bharat, Arjun; tasmāt—therefore; sarvāṇi—for all; bhūtāni—living entities; na—not; tvam—you; śhochitum—mourn; arhasi—should
 {eov}
 
-{soc}
+{sot}
 O Arjuna! The Self existing in the body of all beings is never slain. So it is not right for you to grieve for any creature.
-{eoc}
+{eot}
 
 {sov: Verse 2.31}
 
@@ -39,9 +39,9 @@ dharmyāddhi yuddhāch chhreyo ’nyat kṣhatriyasya na vidyate
 swa-dharmam—one’s duty in accordance with the Vedas; api—also; cha—and; avekṣhya—considering; na—not; vikampitum—to waver; arhasi—should; dharmyāt—for righteousness; hi—indeed; yuddhāt—than fighting; śhreyaḥ—better; anyat—another; kṣhatriyasya—of a warrior; na—not; vidyate—exists
 {eov}
 
-{soc}
+{sot}
 And moreover, considering your own duty, you should not waver, for, there is nothing higher for a Kshatriya than a righteous war.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

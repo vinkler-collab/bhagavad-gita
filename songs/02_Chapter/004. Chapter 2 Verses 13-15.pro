@@ -22,9 +22,9 @@ tathā dehāntara-prāptir dhīras tatra na muhyati
 dehinaḥ—of the embodied; asmin—in this; yathā—as; dehe—in the body; kaumāram—childhood; yauvanam—youth; jarā—old age; tathā—similarly; deha-antara—another body; prāptiḥ—achieves; dhīraḥ—the wise; tatra—thereupon; na muhyati—are not deluded
 {eov}
 
-{soc}
+{sot}
 Just as the man in this body passes through the various stages of boyhood, youth, and old age, like so, he passes into another body after death. The wise know it and are not deluded.
-{eoc}
+{eot}
 
 {sov: Verse 2.14}
 
@@ -39,9 +39,9 @@ mātrā-sparśhās tu kaunteya śhītoṣhṇa-sukha-duḥkha-dāḥ
 mātrā-sparśhāḥ—contact of the senses with the sense objects; tu—indeed; kaunteya—Arjun, the son of Kunti; śhīta—winter; uṣhṇa—summer; sukha—happiness; duḥkha—distress; dāḥ—give; āgama—come; apāyinaḥ—go; anityāḥ—non-permanent; tān—them; titikṣhasva—tolerate; bhārata—descendant of the Bharat
 {eov}
 
-{soc}
+{sot}
 Contact of the senses with the objects produces heat and cold, pain and pleasure. These experiences come and go, and are impermanent. Endure them, O Arjuna!
-{eoc}
+{eot}
 
 {sov: Verse 2.15}
 
@@ -56,9 +56,9 @@ sama-duḥkha-sukhaṁ dhīraṁ so ’mṛitatvāya kalpate
 yam—whom; hi—verily; na—not; vyathayanti—distressed; ete—these; puruṣham—person; puruṣha-ṛiṣhabha—the noblest amongst men, Arjun; sama—equipoised; duḥkha—distress; sukham—happiness; dhīram—steady; saḥ—that person; amṛitatvāya—for liberation; kalpate—becomes eligible
 {eov}
 
-{soc}
+{sot}
 The firm man who is not affected by pain and pleasure, who remains equal-minded, surely is fit for immortality, O Arjuna, Chief of mortals!
-{eoc}
+{eot}
 
 ##########################################
 {start_of_analysis}

@@ -22,9 +22,9 @@ ubhayorapi dṛiṣhṭo ’nta stvanayos tattva-darśhibhiḥ
 na—no; asataḥ—of the temporary; vidyate—there is; bhāvaḥ—is; na—no; abhāvaḥ—cessation; vidyate—is; sataḥ—of the eternal; ubhayoḥ—of the two; api—also; dṛiṣhṭaḥ—observed; antaḥ—conclusion; tu—verily; anayoḥ—of these; tattva—of the truth; darśhibhiḥ—by the seers
 {eov}
 
-{soc}
+{sot}
 The unreal has no being, the real has no non-being. The final truth of these two has been seen indeed by those who have experienced the essence of things. 
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

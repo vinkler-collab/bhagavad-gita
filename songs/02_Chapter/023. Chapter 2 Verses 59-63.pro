@@ -22,9 +22,9 @@ rasa-varjaṁ raso ’pyasya paraṁ dṛiṣhṭvā nivartate
 viṣhayāḥ—objects for senses; vinivartante—restrain; nirāhārasya—practicing self restraint; dehinaḥ—for the embodied; rasa-varjam—cessation of taste; rasaḥ—taste; api—however; asya—person’s; param—the Supreme; dṛiṣhṭvā—on realisation; nivartate—ceases to be
 {eov}
 
-{soc}
+{sot}
 When a man rejects the sense objects by withdrawing the senses, he becomes free from the sense world only. The longing or taste for them still remains in the mind. Even this longing is removed when the self is perceived.
-{eoc}
+{eot}
 
 {sov: Verse 2.60}
 
@@ -39,9 +39,9 @@ indriyāṇi pramāthīni haranti prasabhaṁ manaḥ
 yatataḥ—while practicing self-control; hi—for; api—even; kaunteya—Arjun, the son of Kunti; puruṣhasya—of a person; vipaśhchitaḥ—one endowed with discrimination; indriyāṇi—the senses; pramāthīni—turbulent; haranti—carry away; prasabham—forcibly; manaḥ—the mind
 {eov}
 
-{soc}
+{sot}
 O Arjuna! The turbulent senses carry away the mind even of the learned man though he is striving to control them.
-{eoc}
+{eot}
 
 {sov: Verse 2.61}
 
@@ -56,9 +56,9 @@ vaśhe hi yasyendriyāṇi tasya prajñā pratiṣhṭhitā
 tāni—them; sarvāṇi—all; sanyamya—subduing; yuktaḥ—united; āsīta—seated; mat-paraḥ—toward me (Shree Krishna); vaśhe—control; hi—certainly; yasya—whose; indriyāṇi—senses; tasya—their; prajñā—perfect knowledge; pratiṣhṭhitā—is fixed;
 {eov}
 
-{soc}
+{sot}
 Having restrained all the senses the harmonized should sit intent on me. His wisdom is steady whose senses are under control.
-{eoc}
+{eot}
 
 {sov: Verse 2.62-63}
 
@@ -78,9 +78,9 @@ dhyāyataḥ—contemplating; viṣhayān—sense objects; puṁsaḥ—of a per
 krodhāt—from anger; bhavati—comes; sammohaḥ—clouding of judgement; sammohāt—from clouding of judgement; smṛiti—memory; vibhramaḥ—bewilderment; smṛiti-bhranśhāt—from bewilderment of memory; buddhi-nāśhaḥ—destruction of intellect; buddhi-nāśhāt—from destruction of intellect; praṇaśhyati—one is ruined
 {eov}
 
-{soc}
+{sot}
 As a man contemplates sense-objects, attachment for them arises, from attachment, desire for them will be born, from desire arises anger, from anger comes delusion, from delusion, comes loss of memory, from loss of memory, comes destruction of discrimination, and from destruction of discrimination he perishes.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

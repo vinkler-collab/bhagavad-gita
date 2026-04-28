@@ -22,9 +22,9 @@ indriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā
 yadā—when; sanharate—withdraw; cha—and; ayam—this; kūrmaḥ—tortoise; aṅgāni—limbs; iva—as; sarvaśhaḥ—fully; indriyāṇi—senses; indriya-arthebhyaḥ—from the sense objects; tasya—his; prajñā—divine wisdom; pratiṣhṭhitā—fixed in
 {eov}
 
-{soc}
+{sot}
 When the yogi, like the tortoise drawing back its limbs into its own shell, withdraws all the senses from the sense objects, his wisdom is firmly fixed.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

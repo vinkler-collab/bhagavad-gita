@@ -22,9 +22,9 @@ avyakta-nidhanānyeva tatra kā paridevanā
 avyakta-ādīni—unmanifest before birth; bhūtāni—created beings; vyakta—manifest; madhyāni—in the middle; bhārata—Arjun, scion of Bharat; avyakta—unmanifest; nidhanāni—on death; eva—indeed; tatra—therefore; kā—why; paridevanā—grieve
 {eov}
 
-{soc}
+{sot}
 All beings are unmanifest in their beginning, O Bhārata, manifest in their middle state, and unmanifest again in their end. Why, then, lament for them?
-{eoc}
+{eot}
 
 {sov: Verse 2.29}
 
@@ -43,9 +43,9 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 āśhcharya-vat—as amazing; paśhyati—see; kaśhchit—someone; enam—this soul; āśhcharya-vat—as amazing; vadati—speak of; tathā—thus; eva—indeed; cha—and; anyaḥ—other; āśhcharya-vat—similarly amazing; cha—also; enam—this soul; anyaḥ—others; śhṛiṇoti—hear; śhrutvā—having heard; api—even; enam—this soul; veda—understand; na—not; cha—and; eva—even; kaśhchit—some
 {eov}
 
-{soc}
+{sot}
 Some look on the Self as a wonder; some speak of It as a wonder; some hear of It as a wonder; still others, though hearing, do not understand It at all.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

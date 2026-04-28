@@ -26,9 +26,9 @@ sa śhāntim āpnoti na kāma-kāmī
 āpūryamāṇam—filled from all sides; achala-pratiṣhṭham—undisturbed; samudram—ocean; āpaḥ—waters; praviśhanti—enter; yadvat—as; tadvat—likewise; kāmāḥ—desires; yam—whom; praviśhanti—enter; sarve—all; saḥ—that person; śhāntim—peace; āpnoti—attains; na—not; kāma-kāmī—one who strives to satisfy desires
 {eov}
 
-{soc}
+{sot}
 As the ocean is filled with water flowing into it from all sides and remains immovable, so the man into whom all desires flow, but is not a bit affected attains peace and not the man who craves the desires. 
-{eoc}
+{eot}
 
 {sov: Verse 2.71}
 
@@ -43,9 +43,9 @@ nirmamo nirahankāraḥ sa śhāntim adhigachchhati
 vihāya—giving up; kāmān—material desires; yaḥ—who; sarvān—all; pumān—a person; charati—lives; niḥspṛihaḥ—free from hankering; nirmamaḥ—without a sense of proprietorship; nirahankāraḥ—without egoism; saḥ—that person; śhāntim—perfect peace; adhigachchhati—attains
 {eov}
 
-{soc}
+{sot}
 That man who lives completely free from desires, without longing, devoid of the sense of “I” and “mine,” attains peace.
-{eoc}
+{eot}
 
 {sov: Verse 2.72}
 
@@ -60,9 +60,9 @@ sthitvāsyām anta-kāle ’pi brahma-nirvāṇam ṛichchhati
 eṣhā—such; brāhmī sthitiḥ—state of God-realisation; pārtha—Arjun, the son of Pritha; na—never; enām—this; prāpya—having attained; vimuhyati—is deluded; sthitvā—being established; asyām—in this; anta-kāle—at the hour of death; api—even; brahma-nirvāṇam—liberation from Maya; ṛichchhati—attains
 {eov}
 
-{soc}
+{sot}
 Having obtained this Brahmi state man is not deluded. Being established in this even at the end of life man attains oneness with Brahman (Moksha).
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

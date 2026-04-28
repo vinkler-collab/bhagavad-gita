@@ -24,9 +24,9 @@ gatāsūn-agatāsūnśh-cha nānuśhochanti paṇḍitāḥ
 śhrī-bhagavān uvācha—the Supreme Lord said; aśhochyān—not worthy of grief; anvaśhochaḥ—are mourning; tvam—you; prajñā-vādān—words of wisdom; cha—and; bhāṣhase—speaking; gata āsūn—the dead; agata asūn—the living; cha—and; na—never; anuśhochanti—lament; paṇḍitāḥ—the wise
 {eov}
 
-{soc}
+{sot}
 The Lord said: O Arjuna! You grieve for those for whom there need be no sorrow, yet you speak words of wisdom. The wise do not grieve for the dead or living.
-{eoc}
+{eot}
 
 {sov: Verse 2.12}
 
@@ -41,9 +41,9 @@ na chaiva na bhaviṣhyāmaḥ sarve vayamataḥ param
 na—never; tu—however; eva—certainly; aham—I; jātu—at any time; na—nor; āsam—exist; na—nor; tvam—you; na—nor; ime—these; jana-adhipāḥ—kings; na—never; cha—also; eva—indeed; na bhaviṣhyāmaḥ—shall not exist; sarve vayam—all of us; ataḥ—from now; param—after
 {eov}
 
-{soc}
+{sot}
 Never was there a time when I did not exist, nor you, nor these kings of men. Never will there be a time hereafter when any of us shall cease to be.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

@@ -22,9 +22,9 @@ vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate
 duḥkheṣhu—amidst miseries; anudvigna-manāḥ—one whose mind is undisturbed; sukheṣhu—in pleasure; vigata-spṛihaḥ—without craving; vīta—free from; rāga—attachment; bhaya—fear; krodhaḥ—anger; sthita-dhīḥ—enlightened person; muniḥ—a sage; uchyate—is called
 {eov}
 
-{soc}
+{sot}
 He whose mind is not troubled in sorrow, who does not hanker after pleasures and is free from attachment fear and hatred, is called the sage of steady wisdom.
-{eoc}
+{eot}
 
 {sov: Verse 2.57}
 
@@ -39,9 +39,9 @@ nābhinandati na dveṣhṭi tasya prajñā pratiṣhṭhitā
 yaḥ—who; sarvatra—in all conditions; anabhisnehaḥ—unattached; tat—that; tat—that; prāpya—attaining; śhubha—good; aśhubham—evil; na—neither; abhinandati—delight in; na—nor; dveṣhṭi—dejected by; tasya—his; prajñā—knowledge; pratiṣhṭhitā—is fixed
 {eov}
 
-{soc}
+{sot}
 He who has no attachment to anything anywhere, who does not rejoice and hate when good and bad things happen, his wisdom is fixed and steady.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

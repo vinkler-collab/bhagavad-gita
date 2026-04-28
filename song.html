@@ -5,6 +5,12 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Bhagavad Gita</title>
 <style>
+.verse-block {
+    display: block; /* Zajistí, že se blok chová jako krabička */
+    margin-top: 40px !important; /* Zkusíme schválně víc, abys viděl, jestli to reaguje */
+    margin-bottom: 10px;
+    clear: both; /* Pojistka, aby do sebe bloky nezasahovaly */
+}
 /* Skryje syrové odkazy na YT a Spotify, aby neproblikávaly před načtením přehrávače */
 a[href*="youtube.com"], a[href*="youtu.be"], a[href*="spotify.com"] {
     display: none !important;
@@ -440,8 +446,13 @@ body.dark-mode .analysis-header:hover {
 
 .verse-block {
   display: block;
+  margin-top: 0;
   margin-bottom: var(--mezera-mezi-slokami);
   break-inside: auto;
+}
+
+.verse-block + .verse-block {
+  margin-top: 30px;
 }
 
   .verse-label {
@@ -1388,6 +1399,48 @@ body.sand-mode .comment b {
     color: #8b4513; /* Tmavší rezavá/hnědá (zachováno z tvého nastavení) */
     font-weight: normal !important;
 }
+/* --- STYLY PRO PŘEKLADY {sot} --- */
+.translation-block {
+    display: block;
+    margin-top: 30px; /* Mezera nad překladem */
+    margin-bottom: 15px; /* Mezera pod překladem */
+    margin-left: 0;
+    margin-right: 0;
+    
+    padding: 12px 15px;
+    border-left: 5px solid #888;
+    background: rgba(0, 0, 0, 0.03);
+    border-radius: 0 4px 4px 0;
+    font-style: normal;
+    color: #444;
+    line-height: 1.5;
+}
+
+.translation-label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #333;
+}
+
+/* Úprava pro Noční režim */
+body.dark-mode .translation-block {
+    background: rgba(255, 255, 255, 0.1);
+    color: #ddd;
+    border-left-color: #777;
+}
+body.dark-mode .translation-label {
+    color: #eee !important;
+}
+
+/* Úprava pro režim Sepie */
+body.sepia-mode .translation-block {
+    background: rgba(0, 0, 0, 0.04);
+    color: #4a3c2c;
+    border-left-color: #a69076;
+}
+body.sepia-mode .translation-label {
+    color: #4a3c2c !important;
+}
 </style>
 <script>
   // Tato funkce provede veškerou magii
@@ -1866,7 +1919,7 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
     // --- TENTO ŘÁDEK PŘIDEJ: Odstraní tagy {audio: ...} z viditelného textu ---
     text = text.replace(/\{audio:.*?\}/gi, '');
 
-    // ChordPro bloky ve slovníčku/analýze ({sov: ...}/{eov}, {soc}/{eoc})
+    // ChordPro bloky ve slovníčku/analýze ({sov: ...}/{eov}, {sot}/{eot}, {sot}/{eot})
     // Spotřebujeme i koncový newline, aby nevznikal prázdný řádek navíc.
     text = text.replace(/^[ \t]*\{sov:\s*([^}]+)\}[ \t]*(?:\r?\n)?/gim, '<div class="verse-block"><div class="verse-label">$1</div>');
     text = text.replace(/^[ \t]*\{sov\}[ \t]*(?:\r?\n)?/gim, '<div class="verse-block">');
@@ -1874,6 +1927,9 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
     text = text.replace(/^[ \t]*\{soc:\s*([^}]+)\}[ \t]*(?:\r?\n)?/gim, '<div class="chorus-block"><div class="chorus-label">$1</div>');
     text = text.replace(/^[ \t]*\{soc\}[ \t]*(?:\r?\n)?/gim, '<div class="chorus-block">');
     text = text.replace(/^[ \t]*\{eoc\}[ \t]*(?:\r?\n)?/gim, '</div>');
+    text = text.replace(/^[ \t]*\{sot:\s*([^}]+)\}[ \t]*(?:\r?\n)?/gim, '<div class="translation-block"><div class="translation-label">$1</div>');
+    text = text.replace(/^[ \t]*\{sot\}[ \t]*(?:\r?\n)?/gim, '<div class="translation-block">');
+    text = text.replace(/^[ \t]*\{eot\}[ \t]*(?:\r?\n)?/gim, '</div>');
     // Fallback: pokud tag nezůstane na samostatném řádku, pořád ho převedeme.
     text = text.replace(/\{sov:\s*([^}]+)\}/gi, '<div class="verse-block"><div class="verse-label">$1</div>');
     text = text.replace(/\{sov\}/gi, '<div class="verse-block">');
@@ -1881,6 +1937,9 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
     text = text.replace(/\{soc:\s*([^}]+)\}/gi, '<div class="chorus-block"><div class="chorus-label">$1</div>');
     text = text.replace(/\{soc\}/gi, '<div class="chorus-block">');
     text = text.replace(/\{eoc\}/gi, '</div>');
+    text = text.replace(/\{sot:\s*([^}]+)\}/gi, '<div class="translation-block"><div class="translation-label">$1</div>');
+    text = text.replace(/\{sot\}/gi, '<div class="translation-block">');
+    text = text.replace(/\{eot\}/gi, '</div>');
 
     // Zbytek tvého kódu zůstává stejný
     text = text.replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>');
@@ -1908,7 +1967,15 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
   const app = document.getElementById('chord-app');
   if (!app || !songData) return;
 
-  const lines = songData.trim().split('\n');
+  // Pohltíme prázdné řádky těsně před a těsně za blokovými tagy,
+  // aby nevznikaly nadbytečné <div class="spacer"> mezi bloky.
+  const blockTagPattern = /[ \t]*\{(?:sov|eov|soc|eoc|sot|eot)(?::[^}]*)?\}[ \t]*/i;
+  let processedData = songData.trim()
+    // Prázdný řádek PŘED tagovým řádkem → smaž ho
+    .replace(/(\r?\n)[ \t]*\r?\n([ \t]*\{(?:sov|eov|soc|eoc|sot|eot)(?::[^}]*)?\}[ \t]*)/gi, '\n$2')
+    // Prázdný řádek ZA tagovým řádkem → smaž ho
+    .replace(/([ \t]*\{(?:sov|eov|soc|eoc|sot|eot)(?::[^}]*)?\}[ \t]*)(\r?\n)[ \t]*\r?\n/gi, '$1\n');
+  const lines = processedData.split('\n');
   let html = `<div id="output-area" style="font-size: ${currentFontSize}px;">`;
   let activeBlockType = null;
 
@@ -1999,6 +2066,21 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
       continue;
     }
 
+    const sotMatch = trimmed.match(/^\{sot(?::\s*(.*?))?\}$/i);
+    if (sotMatch) {
+      const labelText = sotMatch[1] ? sotMatch[1].trim() : '';
+      const labelHtml = labelText ? `<div class="translation-label" style="font-size:${currentFontSize * 0.9}px;">${labelText}</div>` : '';
+      html += `<div class="translation-block">${labelHtml}`;
+      activeBlockType = 'translation';
+      continue;
+    }
+
+    if (/^\{eot\}$/i.test(trimmed)) {
+      html += '</div>';
+      if (activeBlockType === 'translation') activeBlockType = null;
+      continue;
+    }
+
     const sovMatch = trimmed.match(/^\{sov(?::\s*(.*?))?\}$/i);
     if (sovMatch) {
       const labelText = sovMatch[1] ? sovMatch[1].trim() : '';
@@ -2024,16 +2106,16 @@ document.addEventListener('touchstart', preventScreenSleep, { once: true, passiv
     if (line.includes('[')) {
       let parts = line.split(/\[([^\]]+)\]/);
       if (parts[0]) {
-        lineHtml += `<span class="chord-stack"><span class="chord">&nbsp;</span><span class="lyric">${formatLyrics(parts[0], activeBlockType === 'verse')}</span></span>`;
+        lineHtml += `<div class="chord-stack"><span class="chord">&nbsp;</span><div class="lyric">${formatLyrics(parts[0], activeBlockType === 'verse')}</div></div>`;
       }
       for (let j = 1; j < parts.length; j += 2) {
         let chord = parts[j];
         let lyric = parts[j+1] || '';
         let transposed = transposeChord(chord, currentShift);
-        lineHtml += `<span class="chord-stack"><span class="chord">${transposed}</span><span class="lyric">${lyric === '' ? '&nbsp;' : formatLyrics(lyric, activeBlockType === 'verse')}</span></span>`;
+        lineHtml += `<div class="chord-stack"><span class="chord">${transposed}</span><div class="lyric">${lyric === '' ? '&nbsp;' : formatLyrics(lyric, activeBlockType === 'verse')}</div></div>`;
       }
     } else {
-      lineHtml = `<span class="lyric">${formatLyrics(line, activeBlockType === 'verse')}</span>`;
+      lineHtml = `<div class="lyric">${formatLyrics(line, activeBlockType === 'verse')}</div>`;
     }
 
     if (trimmed === '') {

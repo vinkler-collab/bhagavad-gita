@@ -22,9 +22,9 @@ tadasya harati prajñāṁ vāyur nāvam ivāmbhasi
 indriyāṇām—of the senses; hi—indeed; charatām—roaming; yat—which; manaḥ—the mind; anuvidhīyate—becomes constantly engaged; tat—that; asya—of that; harati—carries away; prajñām—intellect; vāyuḥ—wind; nāvam—boat; iva—as; ambhasi—on the water
 {eov}
 
-{soc}
+{sot}
 As a strong wind sweeps away a boat on the water, even one of the senses on which the mind focuses can carry away the discrimination.
-{eoc}
+{eot}
 
 {sov: Verse 2.68}
 
@@ -39,9 +39,9 @@ indriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā
 tasmāt—therefore; yasya—whose; mahā-bāho—mighty-armed one; nigṛihītāni—restrained; sarvaśhaḥ—completely; indriyāṇi—senses; indriya-arthebhyaḥ—from sense objects; tasya—of that person; prajñā—transcendental knowledge; pratiṣhṭhitā—remains fixed
 {eov}
 
-{soc}
+{sot}
 Therefore, O Arjuna! his knowledge is steady whose senses are completely restrained from all sense objects.
-{eoc}
+{eot}
 
 {sov: Verse 2.69}
 
@@ -56,9 +56,9 @@ yasyāṁ jāgrati bhūtāni sā niśhā paśhyato muneḥ
 yā—which; niśhā—night; sarva-bhūtānām—of all living beings; tasyām—in that; jāgarti—is awake; sanyamī—self-controlled; yasyām—in which; jāgrati—are awake; bhūtāni—creatures; sā—that; niśhā—night; paśhyataḥ—see; muneḥ—sage
 {eov}
 
-{soc}
+{sot}
 That which is, night to all beings, in it the sage is awake; where all beings are awake, that is the night for the sage who sees (the Self).
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

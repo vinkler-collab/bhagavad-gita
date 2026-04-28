@@ -27,12 +27,12 @@ manas—mysl; buddhi — rozum, intelekt; ahaṅkāra — ego; citta — mysl, m
 
 {eov}
 
-{soc}
+{sot}
 Nejsem mysl, rozum, ego ani vnímání
 Nejsem sluch, jazyk, čich ani zrak
 Nejsem prostor, země, oheň ani vítr
 Jsem ztělesněním Vědomí a Blaženosti, jsem Šiva, jsem Šiva
-{eoc}
+{eot}
 
 {sov: Verse 3.2}
 
@@ -41,9 +41,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {sov: Verse 3.3}
 
@@ -52,9 +52,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***
@@ -75,9 +75,9 @@ cidānandarūpaḥ śivo’ham śivo’ham ||
 manas—mysl; buddhi — rozum, intelekt; ahaṅkāra — ego; citta — mysl, myšlení, vnímání; na — ne; aham — já; ca — a; śrotra — sluch; jihvā — jazyk; ghrāṇa — čich; netra — zrak, oko; vyoman — éter, prostor; bhūmi — země; tejas — oheň, záře; vāyu — vítr; cit — vědomí; ānanda — blaženost; rūpa — podoba, přirozenost, forma; śivaḥ — Šiva; aham — jsem
 {eov}
 
-{soc}
+{sot}
 Nejsem mysl, rozum, ego ani vnímání
 Nejsem sluch, jazyk, čich ani zrak
 Nejsem prostor, země, oheň ani vítr
 Jsem ztělesněním Vědomí a Blaženosti, jsem Šiva, jsem Šiva
-{eoc}
+{eot}

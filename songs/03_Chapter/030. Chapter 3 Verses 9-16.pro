@@ -16,9 +16,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {sov: Verse 3.10}
 
@@ -27,9 +27,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {sov: Verse 3.11}
 
@@ -38,9 +38,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {sov: Verse 3.12}
 
@@ -49,9 +49,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {sov: Verse 3.13}
 
@@ -60,9 +60,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {sov: Verse 3.14}
 
@@ -71,9 +71,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {sov: Verse 3.15}
 
@@ -82,9 +82,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {sov: Verse 3.16}
 
@@ -93,9 +93,9 @@ MP3VIVEKAVANI
 DEVAGIASTSLOVNIK
 {eov}
 
-{soc}
+{sot}
 TRANSLATION
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

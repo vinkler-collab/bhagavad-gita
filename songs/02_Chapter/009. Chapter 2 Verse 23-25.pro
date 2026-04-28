@@ -22,9 +22,9 @@ na chainaṁ kledayantyāpo na śhoṣhayati mārutaḥ
 na—not; enam—this soul; chhindanti—shred; śhastrāṇi—weapons; na—nor; enam—this soul; dahati—burns; pāvakaḥ—fire; na—not; cha—and; enam—this soul; kledayanti—moisten; āpaḥ—water; na—nor; śhoṣhayati—dry; mārutaḥ—wind
 {eov}
 
-{soc}
+{sot}
 Weapons cannot cut, fire cannot burn, water cannot wet, wind cannot dry up this Atma.
-{eoc}
+{eot}
 
 {sov: Verse 2.24}
 
@@ -39,9 +39,9 @@ nityaḥ sarva-gataḥ sthāṇur achalo ’yaṁ sanātanaḥ
 achchhedyaḥ—unbreakable; ayam—this soul; adāhyaḥ—incombustible; ayam—this soul; akledyaḥ—cannot be dampened; aśhoṣhyaḥ—cannot be dried; eva—indeed; cha—and; nityaḥ—everlasting; sarva-gataḥ—all-pervading; sthāṇuḥ—unalterable; achalaḥ—immutable; ayam—this soul; sanātanaḥ—primordial
 {eov}
 
-{soc}
+{sot}
 The Atma cannot be cut, cannot be burnt, cannot be wetted, and also cannot be dried up. It is eternal, all-pervading, firm, immovable, and ancient.
-{eoc}
+{eot}
 
 {sov: Verse 2.25}
 
@@ -56,9 +56,9 @@ tasmādevaṁ viditvainaṁ nānuśhochitum arhasi
 avyaktaḥ—unmanifested; ayam—this soul; achintyaḥ—inconceivable; ayam—this soul; avikāryaḥ—unchangeable; ayam—this soul; uchyate—is said; tasmāt—therefore; evam—thus; viditvā—having known; enam—this soul; na—not; anuśhochitum—to grieve; arhasi—befitting
 {eov}
 
-{soc}
+{sot}
 This self is unknowable by the senses, unthinkable by the mind, and is not subject to any kind of change. Knowing this, you should not grieve.
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***

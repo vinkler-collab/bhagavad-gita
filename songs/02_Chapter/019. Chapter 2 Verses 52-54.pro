@@ -22,9 +22,9 @@ tadā gantāsi nirvedaṁ śhrotavyasya śhrutasya cha
 yadā—when; te—your; moha—delusion; kalilam—quagmire; buddhiḥ—intellect; vyatitariṣhyati—crosses; tadā—then; gantāsi—you shall acquire; nirvedam—indifferent; śhrotavyasya—to what is yet to be heard; śhrutasya—to what has been heard; cha—and
 {eov}
 
-{soc}
+{sot}
 When your mind has crossed the mire of delusion, you will achieve indifference regarding things already heard and things yet to be heard.
-{eoc}
+{eot}
 
 {sov: Verse 2.53}
 
@@ -39,9 +39,9 @@ samādhāv-achalā buddhis tadā yogam avāpsyasi
 śhruti-vipratipannā—not allured by the fruitive sections of the Vedas; te—your; yadā—when; sthāsyati—remains; niśhchalā—steadfast; samādhau—in divine consciousness; achalā—steadfast; buddhiḥ—intellect; tadā—at that time; yogam—Yog; avāpsyasi—you will attain
 {eov}
 
-{soc}
+{sot}
 When your intellect which is perplexed by hearing the various sastras becomes steady and immovable in ecstatic concentration, then you shall attain union with the Supreme Being.
-{eoc}
+{eot}
 
 {sov: Verse 2.54}
 
@@ -58,9 +58,9 @@ sthita-dhīḥ kiṁ prabhāṣheta kim āsīta vrajeta kim
 arjunaḥ uvācha—Arjun said; sthita-prajñasya—one with steady intellect; kā—what; bhāṣhā—talk; samādhi-sthasya—situated in divine consciousness; keśhava—Shree Krishna, killer of the Keshi Demon; sthita-dhīḥ—enlightened person; kim—what; prabhāṣheta—talks; kim—how; āsīta—sits; vrajeta—walks; kim—how
 {eov}
 
-{soc}
+{sot}
 Arjuna said: O Krishna! What are the characteristics of a man of steady wisdom? How does the man merged in the super-conscious state, sit and move?
-{eoc}
+{eot}
 
 {start_of_analysis}
 ***
