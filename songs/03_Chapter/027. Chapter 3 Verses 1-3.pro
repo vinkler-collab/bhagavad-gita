@@ -5,79 +5,65 @@
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch03/027.mp3 | Gaiea Sanskrit 3.1-3}
 
-YOUTUBE
+https://youtu.be/FSV6TifcKPU?si=PRn1F2jNG40PI9S6
 
-SPOTIFY
+https://open.spotify.com/episode/4cYtvURR7ZOfqn50RkqrHd?si=400500296e844a1f
 
 {sov: Verse 3.1}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-Verse-1.mp3
 
-मनोबुद्ध्यहङ्कार चित्तानि नाहं
-न च श्रोत्रजिह्वे न च घ्राणनेत्रे ।
-न च व्योम भूमिर्न तेजो न वायुः
-चिदानन्दरूपः शिवोऽहम् शिवोऽहम् ॥१॥
+अर्जुन उवाच |
+ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन |
+तत्किं कर्मणि घोरे मां नियोजयसि केशव || 1||
 
-manobuddhyahaṅkāra cittāni nāhaṃ
-na ca śrotrajihve na ca ghrāṇanetre |
-na ca vyoma bhūmir na tejo na vāyuḥ
-cidānandarūpaḥ śivo’ham śivo’ham ||
+arjuna uvācha
+jyāyasī chet karmaṇas te matā buddhir janārdana
+tat kiṁ karmaṇi ghore māṁ niyojayasi keśhava
 
-manas—mysl; buddhi — rozum, intelekt; ahaṅkāra — ego; citta — mysl, myšlení, vnímání; na — ne; aham — já; ca — a; śrotra — sluch; jihvā — jazyk; ghrāṇa — čich; netra — zrak, oko; vyoman — éter, prostor; bhūmi — země; tejas — oheň, záře; vāyu — vítr; cit — vědomí; ānanda — blaženost; rūpa — podoba, přirozenost, forma; śivaḥ — Šiva; aham — jsem
-
+arjunaḥ uvācha—Arjun said; jyāyasī—superior; chet—if; karmaṇaḥ—than fruitive action; te—by you; matā—is considered; buddhiḥ—intellect; janārdana—he who looks after the public, Krishna; tat—then; kim—why; karmaṇi—action; ghore—terrible; mām—me; niyojayasi—do you engage; keśhava—Krishna, the killer of the demon named Keshi;
 {eov}
 
 {sot}
-Nejsem mysl, rozum, ego ani vnímání
-Nejsem sluch, jazyk, čich ani zrak
-Nejsem prostor, země, oheň ani vítr
-Jsem ztělesněním Vědomí a Blaženosti, jsem Šiva, jsem Šiva
+Arjuna said: O Krishna! If your belief is that knowledge is superior to action, then why do you engage me in this dreadful act of battle?
 {eot}
 
 {sov: Verse 3.2}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-Verse-2.mp3
 
-DEVAGIASTSLOVNIK
+व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे |
+तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् || 2||
+
+vyāmiśhreṇeva vākyena buddhiṁ mohayasīva me
+tad ekaṁ vada niśhchitya yena śhreyo ’ham āpnuyām
+
+vyāmiśhreṇa iva—by your apparently ambiguous; vākyena—words; buddhim—intellect; mohayasi—I am getting bewildered; iva—as it were; me—my; tat—therefore; ekam—one; vada—please tell; niśhchitya—decisively; yena—by which; śhreyaḥ—the highest good; aham—I; āpnuyām—may attain
 {eov}
 
 {sot}
-TRANSLATION
+With these apparently contradictory words, You seem to confuse my understanding. Therefore tell me definitely that one thing by which I shall reach the Highest Goal.
+
 {eot}
 
 {sov: Verse 3.3}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-Verse-3.mp3
 
-DEVAGIASTSLOVNIK
+श्रीभगवानुवाच |
+लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ |
+ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् || 3||
+
+śhrī bhagavān uvācha
+loke ’smin dvi-vidhā niṣhṭhā purā proktā mayānagha
+jñāna-yogena sāṅkhyānāṁ karma-yogena yoginām
+
+śhrī-bhagavān uvācha—the Blessed Lord said; loke—in the world; asmin—this; dvi-vidhā—two kinds of; niṣhṭhā—faith; purā—previously; proktā—explained; mayā—by me (Shree Krishna); anagha—sinless; jñāna-yogena—through the path of knowledge; sānkhyānām—for those inclined toward contemplation; karma-yogena—through the path of action; yoginām—of the yogis
 {eov}
 
 {sot}
-TRANSLATION
+The Blessed Lord said: O sinless Arjuna! In ancient times two paths of spiritual description were spoken by me – the Jnana yoga for the followers of the path of knowledge, and Karma yoga for the followers of the path of action. 
 {eot}
 
 {start_of_analysis}
 ***
-{sov: Verse 3.1}
-
-MP3VIVEKAVANI
-
-मनोबुद्ध्यहङ्कार चित्तानि नाहं
-न च श्रोत्रजिह्वे न च घ्राणनेत्रे ।
-न च व्योम भूमिर्न तेजो न वायुः
-चिदानन्दरूपः शिवोऽहम् शिवोऽहम् ॥१॥
-
-manobuddhyahaṅkāra cittāni nāhaṃ
-na ca śrotrajihve na ca ghrāṇanetre |
-na ca vyoma bhūmir na tejo na vāyuḥ
-cidānandarūpaḥ śivo’ham śivo’ham ||
-
-manas—mysl; buddhi — rozum, intelekt; ahaṅkāra — ego; citta — mysl, myšlení, vnímání; na — ne; aham — já; ca — a; śrotra — sluch; jihvā — jazyk; ghrāṇa — čich; netra — zrak, oko; vyoman — éter, prostor; bhūmi — země; tejas — oheň, záře; vāyu — vítr; cit — vědomí; ānanda — blaženost; rūpa — podoba, přirozenost, forma; śivaḥ — Šiva; aham — jsem
-{eov}
-
-{sot}
-Nejsem mysl, rozum, ego ani vnímání
-Nejsem sluch, jazyk, čich ani zrak
-Nejsem prostor, země, oheň ani vítr
-Jsem ztělesněním Vědomí a Blaženosti, jsem Šiva, jsem Šiva
-{eot}
