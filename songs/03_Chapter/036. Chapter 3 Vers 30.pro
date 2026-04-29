@@ -1,4 +1,4 @@
-{title: 036. Chapter 3 Verses 30}
+{title: 036. Chapter 3 Vers 30}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 3}

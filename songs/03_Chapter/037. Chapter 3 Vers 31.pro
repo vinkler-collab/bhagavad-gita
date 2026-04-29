@@ -1,4 +1,4 @@
-{title: 037. Chapter 3 Verses 31}
+{title: 037. Chapter 3 Vers 31}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 3}

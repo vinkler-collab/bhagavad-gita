@@ -1,4 +1,4 @@
-{title: 034. Chapter 3 Verses 27}
+{title: 034. Chapter 3 Verse 27}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 3}
