@@ -1,4 +1,4 @@
-{title: nazevsouboru}
+{title: 045. Chapter 4 Verses 7-8}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4}

@@ -1,4 +1,4 @@
-{title: nazevsouboru}
+{title: 047. Chapter 4 Verses 11-13}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4}

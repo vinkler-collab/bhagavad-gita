@@ -1,4 +1,4 @@
-{title: nazevsouboru}
+{title: 055. Chapter 4 Verses 31-32}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4}

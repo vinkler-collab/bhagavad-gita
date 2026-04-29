@@ -1,4 +1,4 @@
-{title: nazevsouboru}
+{title: 049. Chapter 4 Verse 18}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4}

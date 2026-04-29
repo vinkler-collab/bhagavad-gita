@@ -1,4 +1,4 @@
-{title: nazevsouboru}
+{title: 058. Chapter 4 Verses 38-41}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4}

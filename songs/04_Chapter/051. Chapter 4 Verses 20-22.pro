@@ -1,4 +1,4 @@
-{title: nazevsouboru}
+{title: 051. Chapter 4 Verses 20-22}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4}

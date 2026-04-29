@@ -1,4 +1,4 @@
-{title: nazevsouboru}
+{title: 052. Chapter 4 Verses 23-24}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4}

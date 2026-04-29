@@ -1,4 +1,4 @@
-{title: nazevsouboru}
+{title: 043. Chapter 4 Verses 1-3}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4}

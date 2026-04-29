@@ -1,4 +1,4 @@
-{title: nazevsouboru}
+{title: 053. Chapter 4 Verses 25-28}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4}

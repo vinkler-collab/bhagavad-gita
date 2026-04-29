@@ -1,4 +1,4 @@
-{title: nazevsouboru}
+{title: 057. Chapter 4 Verses 35-37}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4}
