@@ -1,15 +1,15 @@
-{title: 055. Chapter 4 Verses 31-32}
+{title: 056. Chapter 4 Verses 33-34}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Chapter 4}
+{category: Chapter 4 — jñāna yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch04/xxx.mp3 | Gaiea Sanskrit 4.x}
+{audio: https://vinkler-collab.github.io/gita-audio/ch04/056.mp3 | Gaiea Sanskrit 4.33-34}
 
-YOUTUBE
+https://youtu.be/Hsd1phDMYHA?si=eRmZpoLLooufYRw7
 
-SPOTIFY
+https://open.spotify.com/episode/2zRzr9okAIsnSMMj5D8neL?si=2a8ba25aca4e4a22
 
-{sov: Verse 4.}
+{sov: Verse 4.33}
 
 MP3VIVEKAVANI
 
@@ -20,7 +20,7 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 4.}
+{sov: Verse 4.34}
 
 MP3VIVEKAVANI
 

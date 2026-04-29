@@ -1,7 +1,7 @@
 {title: 005. Chapter 2 Verse 16 }
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Chapter 2}
+{category: Chapter 2 — sāṅkhya yoga}
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch02/005.mp3 | Gaiea Sanskrit 2.16}
 

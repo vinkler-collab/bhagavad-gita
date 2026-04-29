@@ -1,7 +1,7 @@
 {title: 027. Chapter 3 Verses 1-3}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Chapter 3}
+{category: Chapter 3 — karma yoga}
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch03/027.mp3 | Gaiea Sanskrit 3.1-3}
 

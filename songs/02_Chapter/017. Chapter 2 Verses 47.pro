@@ -1,7 +1,7 @@
 {title: 017. Chapter 2 Verses 47}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Chapter 2}
+{category: Chapter 2 — sāṅkhya yoga}
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch02/017.mp3 | Gaiea Sanskrit 2.45-47}
 

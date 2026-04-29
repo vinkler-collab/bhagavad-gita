@@ -1,7 +1,7 @@
 {title: 040. Chapter 3 Verses 38-39}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Chapter 3}
+{category: Chapter 3 — karma yoga}
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch03/040.mp3 | Gaiea Sanskrit 3.38-39}
 

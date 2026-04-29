@@ -1,7 +1,7 @@
 {title: 001. Chapter 1 Summary }
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Chapter 1}
+{category: Chapter 1 — arjuna viṣhāda yoga}
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch01/001.mp3 | Gaiea Sanskrit 1.1-47}
 

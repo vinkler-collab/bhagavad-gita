@@ -1,7 +1,7 @@
 {title: 033. Chapter 3 Verses 22-26}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Chapter 3}
+{category: Chapter 3 — karma yoga}
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch03/033.mp3 | Gaiea Sanskrit 3.22-26}
 
