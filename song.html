@@ -1564,8 +1564,8 @@ body.sepia-mode .translation-label {
 </div>
 
 <div class="scroll-nav">
-  <button class="scroll-btn" onclick="window.scrollBy({top: -window.innerHeight*0.8, behavior: 'smooth'})" title="Nahoru">⏶</button>
-  <button class="scroll-btn" onclick="window.scrollBy({top: window.innerHeight*0.8, behavior: 'smooth'})" title="Dolů">⏷</button>
+  <button class="scroll-btn" onclick="navigateLecture(-1)" title="Předchozí verš">⏴</button>
+  <button class="scroll-btn" onclick="navigateLecture(1)" title="Další verš">⏵</button>
 </div>
 
 <script>
@@ -2259,6 +2259,49 @@ window.toggleAnalysis = function() {
         });
     }
 });
+
+async function navigateLecture(direction) {
+    try {
+        // 1. Načteme JSON (songs.json)
+        const response = await fetch('songs.json'); 
+        if (!response.ok) throw new Error("Soubor songs.json nebyl nalezen.");
+        const allLectures = await response.json();
+
+        // 2. Získáme aktuální cestu z URL (parametr 's')
+        const urlParams = new URLSearchParams(window.location.search);
+        const currentPath = urlParams.get('s'); 
+        
+        console.log("Hledám v seznamu cestu:", currentPath);
+
+        // 3. Najdeme index v poli objektů podle klíče 'file'
+        const currentIndex = allLectures.findIndex(item => item.file === currentPath);
+        
+        console.log("Nalezený index:", currentIndex);
+
+        if (currentIndex !== -1) {
+            const nextIndex = currentIndex + direction;
+
+            // 4. Pokud existuje další/předchozí položka
+            if (nextIndex >= 0 && nextIndex < allLectures.length) {
+                const nextItem = allLectures[nextIndex];
+                const nextPath = nextItem.file; // Vezmeme cestu z pole 'file'
+
+                console.log("Naviguji na:", nextPath);
+
+                // 5. Přesměrujeme - použijeme opět parametr 's'
+                // Ostatní parametry jako 'audio' se vygenerují znovu při načtení stránky
+                window.location.href = `song.html?s=${encodeURIComponent(nextPath)}`;
+            } else {
+                alert(direction > 0 ? "Jste na konci Bhagavadgíty." : "Jste na úplném začátku.");
+            }
+        } else {
+            console.error("Chyba: Aktuální cesta '" + currentPath + "' nebyla v songs.json nalezena.");
+            // Tip: Zkontrolujte, zda v JSONu i v URL jsou stejná lomítka (/)
+        }
+    } catch (error) {
+        console.error("Chyba v navigaci:", error);
+    }
+}
   </script>
 <script>
   setInterval(() => {
