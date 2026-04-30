@@ -999,8 +999,8 @@ window.toggleDarkMode = function() {
 // ============================================================
 
 let songs = [];
-let sortMode = 'az';
-let categoryFilter = null;
+let sortMode = localStorage.getItem('gita_sortMode') || 'az';
+let categoryFilter = localStorage.getItem('gita_categoryFilter') || null;
 
 const CATEGORY_ORDER = [
   'Chapter 1 — arjuna viṣhāda yoga',
@@ -1028,10 +1028,25 @@ const CATEGORY_ORDER = [
 fetch('songs.json')
   .then(response => response.json())
   .then(data => {
-    songs = data;
+    songs = data; 
     document.getElementById('loading').style.display = 'none';
-    renderCategoryMenu();
+    
+    // 1. Vykreslíme menu v sidebaru (kapitoly)
+    renderCategoryMenu(); 
+
+    // 2. SYNCHRONIZACE TLAČÍTEK ŘAZENÍ (To nové)
+    // Nastavíme oranžovou barvu (is-active) na správné tlačítko řazení
+    document.getElementById('sort-az')?.classList.toggle('is-active', sortMode === 'az');
+    document.getElementById('sort-unstudied')?.classList.toggle('is-active', sortMode === 'unstudied');
+
+    // 3. Vykreslíme seznam písniček
+    // Díky tomu, že v proměnných už máme načteno z localStorage, 
+    // rovnou se to seřadí a vyfiltruje správně.
     applyFiltersAndRender();
+    
+    // 4. SYNCHRONIZACE TLAČÍTEK KAPITOL (To nové)
+    // Zajistí, aby v menu byla vybraná kapitola oranžová
+    syncCategoryButtonsActive();
   })
   .catch(error => {
     console.error('Chyba při načítání písniček:', error);
@@ -1240,12 +1255,11 @@ syncSearchClearButton();
 function setSortMode(mode) {
   sortMode = mode === 'unstudied' ? 'unstudied' : 'az';
   
-  // Přepínání aktivní barvy (oranžové) na tlačítkách
-  document.getElementById('sort-az').classList.toggle('is-active', sortMode === 'az');
-  
-  // Zde použijeme nové ID tlačítka
-  const btnUnstudied = document.getElementById('sort-unstudied');
-  if (btnUnstudied) btnUnstudied.classList.toggle('is-active', sortMode === 'unstudied');
+  // Uložíme volbu do paměti
+  localStorage.setItem('gita_sortMode', sortMode);
+
+  document.getElementById('sort-az')?.classList.toggle('is-active', sortMode === 'az');
+  document.getElementById('sort-unstudied')?.classList.toggle('is-active', sortMode === 'unstudied');
   
   closeSidebar();
   applyFiltersAndRender();
@@ -1278,6 +1292,9 @@ function syncCategoryButtonsActive() {
 
 function setCategoryFilter(cat) {
   categoryFilter = cat;
+  // Uložíme vybranou kapitolu
+  localStorage.setItem('gita_categoryFilter', cat);
+  
   closeSidebar();
   applyFiltersAndRender();
   syncCategoryButtonsActive();
@@ -1285,6 +1302,9 @@ function setCategoryFilter(cat) {
 
 function clearCategoryFilter() {
   categoryFilter = null;
+  // Smažeme záznam o kapitole
+  localStorage.removeItem('gita_categoryFilter');
+  
   applyFiltersAndRender();
   syncCategoryButtonsActive();
 }
