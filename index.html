@@ -928,7 +928,7 @@ body.sand-mode .filter-pill strong {
       <h3>Řazení</h3>
       <div class="sidebar-buttons">
         <button id="sort-az" class="pill-btn is-active" type="button" onclick="setSortMode('az')">Abeceda</button>
-        <button id="sort-new" class="pill-btn" type="button" onclick="setSortMode('newest')">Nejnovější</button>
+        <button id="sort-unstudied" class="pill-btn" type="button" onclick="setSortMode('unstudied')">Ke studiu</button>
       </div>
     </section>
 
@@ -1105,16 +1105,24 @@ function sortSongs(list) {
   const collator = new Intl.Collator('cs', { sensitivity: 'base' });
   const copy = [...list];
 
-  if (sortMode === 'newest') {
+  if (sortMode === 'unstudied') {
     copy.sort((a, b) => {
-      const aTime = Date.parse(a.dateAdded ?? '') || 0;
-      const bTime = Date.parse(b.dateAdded ?? '') || 0;
-      if (aTime !== bTime) return bTime - aTime; // nejnovější nahoře
+      // Zjistíme, zda mají položky záznam v naší paměti (zda jsou prostudované)
+      const aStudied = localStorage.getItem('studied_' + a.file) === 'true';
+      const bStudied = localStorage.getItem('studied_' + b.file) === 'true';
+      
+      // Pokud je jedna prostudovaná a druhá ne, posuneme neprostudovanou nahoru
+      if (aStudied !== bStudied) {
+        return aStudied ? 1 : -1; 
+      }
+      
+      // Pokud jsou na tom obě stejně (obě hotové, nebo obě nehotové), seřadíme je abecedně
       return collator.compare(a.name ?? '', b.name ?? '');
     });
     return copy;
   }
 
+  // Výchozí řazení (Abeceda)
   copy.sort((a, b) => collator.compare(a.name ?? '', b.name ?? ''));
   return copy;
 }
@@ -1230,9 +1238,15 @@ window.filterByTag = (e, tagName) => {
 syncSearchClearButton();
 
 function setSortMode(mode) {
-  sortMode = mode === 'newest' ? 'newest' : 'az';
+  sortMode = mode === 'unstudied' ? 'unstudied' : 'az';
+  
+  // Přepínání aktivní barvy (oranžové) na tlačítkách
   document.getElementById('sort-az').classList.toggle('is-active', sortMode === 'az');
-  document.getElementById('sort-new').classList.toggle('is-active', sortMode === 'newest');
+  
+  // Zde použijeme nové ID tlačítka
+  const btnUnstudied = document.getElementById('sort-unstudied');
+  if (btnUnstudied) btnUnstudied.classList.toggle('is-active', sortMode === 'unstudied');
+  
   closeSidebar();
   applyFiltersAndRender();
 }
