@@ -866,6 +866,23 @@ body.sand-mode .filter-pill strong {
     background-color: rgba(255, 255, 255, 0.15) !important;
     border-color: #ffffff !important; /* Rámeček se víc rozsvítí */
   }
+  /* === ZAŠKRTÁVÁTKA PROSTUDOVANÝCH LEKCÍ === */
+  .studied-checkbox { position: absolute; opacity: 0; width: 0; height: 0; }
+  .song-icon-label {
+    display: inline-flex; align-items: center; justify-content: center;
+    width: 36px; height: 36px; margin-right: 12px; border-radius: 50%;
+    cursor: pointer; font-size: 20px; transition: all 0.2s ease; flex-shrink: 0;
+  }
+  .song-icon-label .icon-symbol { opacity: 0.3; transition: opacity 0.2s ease; }
+  
+  .studied-checkbox:checked + .song-icon-label { background-color: #e6f7e8; box-shadow: 0 0 0 1px #4CAF50; }
+  .studied-checkbox:checked + .song-icon-label .icon-symbol { opacity: 1; color: #4CAF50; }
+  li:has(.studied-checkbox:checked) { opacity: 0.7; }
+
+  /* Aby fungoval hezky hover efekt (podbarvení) i přes sluníčko */
+  body:not(.dark-mode) #song-list li { transition: background 0.15s; }
+  body:not(.dark-mode) #song-list li:hover { background-color: #fdf3ec; }
+  body:not(.dark-mode) #song-list li a:hover { background-color: transparent !important; }
 </style>
 </head>
 <body>
@@ -1119,16 +1136,26 @@ function renderSongs(list) {
 
     const li = document.createElement('li');
     li.innerHTML = `
-      <a href="${buildUrl(song)}">
-        <span class="song-icon">🔆</span>
-        <span class="song-info">
-          <span class="song-name">${song.name}</span>
-          ${song.subtitle ? `<span class="song-sub">${song.subtitle}</span>` : ''}
-          ${song.category ? `<span class="song-meta">${song.category}</span>` : ''}
-          ${tagsHtml}
-        </span>
-        <span class="song-arrow">›</span>
-      </a>`;
+      <div style="display: flex; align-items: center; width: 100%;">
+        
+        <input type="checkbox" id="chk-${song.file}" class="studied-checkbox" 
+               onchange="toggleStudied(event, '${song.file}')" 
+               ${localStorage.getItem('studied_' + song.file) === 'true' ? 'checked' : ''}>
+        
+        <label for="chk-${song.file}" class="song-icon-label" style="margin-left: 16px;" onclick="event.stopPropagation();" title="Označit jako prostudované">
+          <span class="icon-symbol">🔆</span>
+        </label>
+        
+        <a href="${buildUrl(song)}" style="display: flex; flex: 1; align-items: center; text-decoration: none; color: inherit; padding: 14px 16px 14px 0;">
+          <span class="song-info">
+            <span class="song-name">${song.name}</span>
+            ${song.subtitle ? `<span class="song-sub">${song.subtitle}</span>` : ''}
+            ${song.category ? `<span class="song-meta">${song.category}</span>` : ''}
+            ${tagsHtml}
+          </span>
+          <span class="song-arrow">›</span>
+        </a>
+      </div>`;
     ul.appendChild(li);
   });
 }
@@ -1279,6 +1306,15 @@ document.getElementById('menu-btn')?.addEventListener('click', openSidebar);
 window.addEventListener('keydown', (e) => {
   if (e.key === 'Escape') closeSidebar();
 });
+// === Ukládání stavu "Prostudováno" ===
+window.toggleStudied = function(event, fileId) {
+    const isChecked = event.target.checked;
+    if (isChecked) {
+        localStorage.setItem('studied_' + fileId, 'true');
+    } else {
+        localStorage.removeItem('studied_' + fileId);
+    }
+};
 </script>
 </body>
 </html>
