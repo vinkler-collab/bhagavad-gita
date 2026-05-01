@@ -914,6 +914,21 @@ body.sand-mode .filter-pill strong {
   body:not(.dark-mode) #song-list li { transition: background 0.15s; }
   body:not(.dark-mode) #song-list li:hover { background-color: #fdf3ec; }
   body:not(.dark-mode) #song-list li a:hover { background-color: transparent !important; }
+
+/* Zneviditelnění tagů na kartičkách přednášek */
+.song-tags, 
+.song-tags-container, /* Použij tu třídu, kterou reálně máš */
+.tag {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+    padding: 0;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    border: 0;
+}
+
 </style>
 </head>
 <body>
@@ -934,7 +949,7 @@ body.sand-mode .filter-pill strong {
     </header>
     <div id="search-wrap">
       <div class="search-shell">
-        <input id="search" type="search" placeholder="Hledat písničku…" oninput="filterSongs()" />
+        <input id="search" type="search" placeholder="Find a lecture containing a verse (e.g. 3.26)" oninput="filterSongs()" />
         <button id="search-clear" class="search-clear-btn" type="button" aria-label="Vymazat hledání" onclick="clearSearch()">✕</button>
       </div>
     </div>
@@ -988,13 +1003,13 @@ window.setTheme = function(theme) {
   
   if (theme === 'dark') {
     document.body.classList.add('dark-mode');
-    if (themeBtn) themeBtn.textContent = '☕'; // Z tmavého povede krok do pískového (ikonka hrnečku)
+    if (themeBtn) themeBtn.textContent = '🌙'; // Z tmavého povede krok do pískového (ikonka hrnečku)
   } else if (theme === 'sand') {
     document.body.classList.add('sand-mode');
-    if (themeBtn) themeBtn.textContent = '☀️'; // Z pískového povede krok do světlého (sluníčko)
+    if (themeBtn) themeBtn.textContent = '🪷'; // Z pískového povede krok do světlého (sluníčko)
   } else {
     // Světlý režim
-    if (themeBtn) themeBtn.textContent = '🌙'; // Ze světlého povede krok do tmy (měsíček)
+    if (themeBtn) themeBtn.textContent = '☀️'; // Ze světlého povede krok do tmy (měsíček)
   }
   
   localStorage.setItem('samhita_theme', theme);
@@ -1215,31 +1230,36 @@ function renderSongs(list) {
 }
 
 function applyFiltersAndRender() {
-  // 1. Získáme text z vyhledávače (používáme tvé ID 'search')
   const searchElement = document.getElementById('search');
-  const searchTerm = searchElement ? searchElement.value.toLowerCase() : '';
-  
-  // Vytvoříme si "čistou" verzi hledaného textu bez teček a mezer (např. "28" z "2.8")
-  const cleanSearch = searchTerm.replace(/[\s.]/g, '');
+  const searchTerm = searchElement ? searchElement.value.toLowerCase().trim() : '';
 
-  // 2. Filtrování
   const filtered = songs.filter(s => {
-    // A) Filtr kategorie
+    // A) Filtr kategorie (levé menu)
     const matchesCategory = !categoryFilter || (s.category ?? '') === categoryFilter;
     
-    // B) Filtr hledání
-    const nameLower = s.name.toLowerCase();
-    // Čistá verze názvu pro čísla (např. z "Verse 2.8" udělá "28")
-    const cleanName = nameLower.replace('verse', '').replace(/[\s.]/g, '');
-    
-    // Matchuje, pokud je shoda v celém názvu NEBO v těch očištěných číslech
-    const matchesSearch = nameLower.includes(searchTerm) || 
-                         (cleanSearch !== '' && cleanName.includes(cleanSearch));
-    
+    // B) Filtr vyhledávače (POUZE TAGY)
+    // Pokud je vyhledávač prázdný, ukážeme vše
+    if (searchTerm === '') {
+      return matchesCategory;
+    }
+
+    // Zkontrolujeme tagy s přesnější logikou
+    const matchesSearch = s.tags && s.tags.some(tag => {
+      const tagLower = tag.toLowerCase();
+      
+      // 1. Úplně přesná shoda (např. zadáš "3.2" a tag je "3.2")
+      if (tagLower === searchTerm) return true;
+      
+      // 2. Chytřejší částečná shoda
+      // Řeší to, aby "3" nebo "3." našlo "3.22", 
+      // ale aby "3.2" ignorovalo "3.22" (protože po dvojce už nenásleduje tečka)
+      return tagLower.startsWith(searchTerm) && 
+             (searchTerm.endsWith('.') || tagLower.charAt(searchTerm.length) === '.');
+    });
+
     return matchesCategory && matchesSearch;
   });
 
-  // 3. Seřazení a vykreslení (používáme tvé původní funkce)
   const sorted = sortSongs(filtered);
   renderActiveFilter();
   renderSongs(sorted);

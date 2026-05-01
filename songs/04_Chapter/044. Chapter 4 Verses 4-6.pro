@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 4 — jñāna yoga}
-{tags: }
+{tags: 4.4, 4.5, 4.6}
 {audio: https://vinkler-collab.github.io/gita-audio/ch04/044.mp3 | Gaiea Sanskrit 4.4-6}
 
 https://youtu.be/4Yw1soBdQjE?si=Cg3BtUl9tVQR3eVq

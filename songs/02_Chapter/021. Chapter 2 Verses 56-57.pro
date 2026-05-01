@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 2 — sāṅkhya yoga}
-{tags: }
+{tags: 2.56, 2.57}
 {audio: https://vinkler-collab.github.io/gita-audio/ch02/021.mp3 | Gaiea Sanskrit 2.56-57}
 
 https://youtu.be/AnW0ml9SbtI?si=zGz9LNzk6cBzlaZu

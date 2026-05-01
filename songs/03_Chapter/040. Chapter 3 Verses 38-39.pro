@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 3 — karma yoga}
-{tags: }
+{tags: 3.38, 3.39}
 {audio: https://vinkler-collab.github.io/gita-audio/ch03/040.mp3 | Gaiea Sanskrit 3.38-39}
 
 https://youtu.be/PWfEEzBJw98?si=tavLwP6VGomeemzj
