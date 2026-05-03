@@ -44,4 +44,6 @@ Doing the work prescribed by the Sastras is superior to inaction. By inaction, e
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v7/
+
+https://vivekavani.com/b3v8/

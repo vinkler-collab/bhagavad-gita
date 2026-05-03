@@ -78,4 +78,10 @@ Others offer wealth, austerity and Yoga as sacrifice and again others, the ascet
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v25/
+
+https://vivekavani.com/b4v26/
+
+https://vivekavani.com/b4v27/
+
+https://vivekavani.com/b4v28/

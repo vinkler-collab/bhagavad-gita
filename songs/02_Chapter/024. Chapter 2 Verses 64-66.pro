@@ -61,4 +61,8 @@ The man whose mind is not under his control has no Self-knowledge and no contemp
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v64/
+
+https://vivekavani.com/b2v65/
+
+https://vivekavani.com/b2v66/

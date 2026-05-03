@@ -65,4 +65,8 @@ Though unborn and eternal in My being, the Lord and controller of all beings, co
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v4/
+
+https://vivekavani.com/b4v5/
+
+https://vivekavani.com/b4v6/

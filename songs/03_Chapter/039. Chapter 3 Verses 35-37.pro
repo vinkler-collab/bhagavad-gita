@@ -65,4 +65,8 @@ The Blessed Lord said: It is desire, it is anger, born of Rajoguna (the impulse 
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v35/
+
+https://vivekavani.com/b3v36/
+
+https://vivekavani.com/b3v37/

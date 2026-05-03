@@ -27,4 +27,4 @@ By the qualities of nature, actions are performed in all cases, but one whose mi
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v27/

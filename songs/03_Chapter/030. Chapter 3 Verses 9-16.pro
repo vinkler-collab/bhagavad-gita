@@ -135,4 +135,6 @@ The man who does not follow the cycle thus set revolving is a sinner rejoicing i
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v14/
+
+https://vivekavani.com/b3v16/

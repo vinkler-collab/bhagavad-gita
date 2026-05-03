@@ -25,4 +25,4 @@ yaḥ—one who; enam—this; vetti—knows; hantāram—the slayer; yaḥ—one
 He who thinks that Atma slays, or he who thinks that Atma is Slain, both these do not know the Truth. Atma does not slay, nor is slain.{eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v19/

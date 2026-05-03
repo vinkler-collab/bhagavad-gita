@@ -63,4 +63,8 @@ This same ancient Yoga has now been taught by Me, for you are My devotee and fri
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v1/
+
+https://vivekavani.com/b4v2/
+
+https://vivekavani.com/b4v3/

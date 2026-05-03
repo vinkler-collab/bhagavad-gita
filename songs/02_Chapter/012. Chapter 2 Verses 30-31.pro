@@ -44,4 +44,6 @@ And moreover, considering your own duty, you should not waver, for, there is not
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v30/
+
+https://vivekavani.com/b2v31/

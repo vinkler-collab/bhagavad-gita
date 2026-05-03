@@ -46,4 +46,6 @@ Never was there a time when I did not exist, nor you, nor these kings of men. Ne
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v11/
+
+https://vivekavani.com/b2v12/

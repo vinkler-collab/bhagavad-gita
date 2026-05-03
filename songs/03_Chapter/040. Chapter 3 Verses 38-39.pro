@@ -44,4 +44,6 @@ O Arjuna! Knowledge of the Self is covered by this everlasting foe of the wise i
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v38/
+
+https://vivekavani.com/b3v39/

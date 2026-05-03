@@ -27,4 +27,4 @@ Therefore, with the sword of Knowledge cut asunder the doubt born of ignorance a
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v42/

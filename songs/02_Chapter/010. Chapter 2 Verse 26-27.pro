@@ -44,4 +44,6 @@ For to that which is born, death is certain, and to that which is dead, birth is
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v26/
+
+https://vivekavani.com/b2v27/

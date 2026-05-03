@@ -78,4 +78,10 @@ The nature of action (enjoined by the Sastras) and of wrong action (prohibited b
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v14/
+
+https://vivekavani.com/b4v15/
+
+https://vivekavani.com/b4v16/
+
+https://vivekavani.com/b4v17/

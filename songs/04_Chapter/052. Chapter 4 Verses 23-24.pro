@@ -44,4 +44,6 @@ The oblation is Brahman, the offerings are Brahman, the sacrifice is Brahman, an
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v23/
+
+https://vivekavani.com/b4v24/

@@ -27,4 +27,4 @@ Who sees action in inaction and inaction in action, he is the wise man, the yogi
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v18/

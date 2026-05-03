@@ -61,4 +61,8 @@ For him, there is in this world no interest whatsoever by work done or not done.
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v16/
+
+https://vivekavani.com/b3v17/
+
+https://vivekavani.com/b3v18/

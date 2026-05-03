@@ -62,4 +62,10 @@ The firm man who is not affected by pain and pleasure, who remains equal-minded,
 
 ##########################################
 {start_of_analysis}
-***
+https://vivekavani.com/b2v12/
+
+https://vivekavani.com/b2v13/
+
+https://vivekavani.com/b2v14/
+
+https://vivekavani.com/b2v15/

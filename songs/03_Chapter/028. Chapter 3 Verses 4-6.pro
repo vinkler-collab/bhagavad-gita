@@ -61,4 +61,8 @@ The man of deluded understanding who restraining the organs of the action sits c
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v4/
+
+https://vivekavani.com/b3v5/
+
+https://vivekavani.com/b3v6/

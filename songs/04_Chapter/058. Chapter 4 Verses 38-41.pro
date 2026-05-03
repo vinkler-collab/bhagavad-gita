@@ -78,4 +78,10 @@ O Arjuna! Actions do not bind the man who has surrendered the fruits of karma by
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v38/
+
+https://vivekavani.com/b4v39/
+
+https://vivekavani.com/b4v40/
+
+https://vivekavani.com/b4v41/

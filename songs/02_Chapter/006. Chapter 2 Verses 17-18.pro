@@ -43,4 +43,6 @@ These bodies which belong to the real imperishable, unknowable Atma are said to 
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v17/
+
+https://vivekavani.com/b2v18/

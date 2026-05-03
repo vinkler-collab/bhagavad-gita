@@ -133,4 +133,16 @@ Having an equal mind in pain and pleasure, gain and loss, victory and defeat, en
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v32/
+
+https://vivekavani.com/b2v33/
+
+https://vivekavani.com/b2v34/
+
+https://vivekavani.com/b2v35/
+
+https://vivekavani.com/b2v36/
+
+https://vivekavani.com/b2v37/
+
+https://vivekavani.com/b2v38/

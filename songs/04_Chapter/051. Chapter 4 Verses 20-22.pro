@@ -61,4 +61,8 @@ Content with whatsoever he gets without efforts, free from the pairs of opposite
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v20/
+
+https://vivekavani.com/b4v21/
+
+https://vivekavani.com/b4v22/

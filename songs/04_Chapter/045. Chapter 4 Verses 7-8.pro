@@ -44,4 +44,6 @@ For the protection of the good, for the destruction of the wicked, and for estab
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v7/
+
+https://vivekavani.com/b4v8/

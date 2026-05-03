@@ -27,4 +27,4 @@ Renouncing all actions in Me with the mind fixed in Self, free from hope and ego
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v30/

@@ -83,4 +83,11 @@ As a man contemplates sense-objects, attachment for them arises, from attachment
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v59/
+
+https://vivekavani.com/b2v60/
+
+https://vivekavani.com/b2v61/
+
+https://vivekavani.com/b2v62/
+

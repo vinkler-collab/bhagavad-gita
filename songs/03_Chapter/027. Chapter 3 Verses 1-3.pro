@@ -66,4 +66,8 @@ The Blessed Lord said: O sinless Arjuna! In ancient times two paths of spiritual
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v1/
+
+https://vivekavani.com/b3v2/
+
+https://vivekavani.com/b3v3/

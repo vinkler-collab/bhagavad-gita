@@ -61,4 +61,8 @@ This self is unknowable by the senses, unthinkable by the mind, and is not subje
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v23/
+
+https://vivekavani.com/b2v24/
+
+https://vivekavani.com/b2v25/

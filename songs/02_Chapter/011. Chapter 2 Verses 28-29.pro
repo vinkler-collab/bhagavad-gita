@@ -48,4 +48,6 @@ Some look on the Self as a wonder; some speak of It as a wonder; some hear of It
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v28/
+
+https://vivekavani.com/b2v29/

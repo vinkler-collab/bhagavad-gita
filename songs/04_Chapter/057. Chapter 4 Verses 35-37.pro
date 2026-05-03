@@ -61,4 +61,8 @@ O Arjuna! Just as blazing fire reduces wood to ashes, even so, the fire of, Know
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v35/
+
+https://vivekavani.com/b4v36/
+
+https://vivekavani.com/b4v37/

@@ -63,4 +63,8 @@ Arjuna said: O Krishna! What are the characteristics of a man of steady wisdom? 
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v52/
+
+https://vivekavani.com/b2v53/
+
+https://vivekavani.com/b2v54/

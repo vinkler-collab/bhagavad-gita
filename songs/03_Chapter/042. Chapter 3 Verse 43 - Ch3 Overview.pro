@@ -27,4 +27,4 @@ O mighty-armed Arjuna! Thus, having known what is greater than the intellect (i.
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v43/

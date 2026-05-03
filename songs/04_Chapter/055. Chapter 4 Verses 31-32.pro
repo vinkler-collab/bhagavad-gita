@@ -44,4 +44,6 @@ Thus various forms of sacrifice are spread out in the Vedas; know them all to be
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v31/
+
+https://vivekavani.com/b4v32/

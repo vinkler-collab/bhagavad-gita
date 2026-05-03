@@ -61,4 +61,8 @@ What-so-ever a great man does, that other men do; whatever he sets up as the sta
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v19/
+
+https://vivekavani.com/b3v20/
+
+https://vivekavani.com/b3v21/

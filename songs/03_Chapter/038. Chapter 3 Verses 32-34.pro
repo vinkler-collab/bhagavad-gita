@@ -61,4 +61,8 @@ In each of the senses abide attraction and repulsion for the objects of the sens
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v32/
+
+https://vivekavani.com/b3v33/
+
+https://vivekavani.com/b3v34/

@@ -48,4 +48,6 @@ In this, no effort is ever lost and no harm is ever done. Even very little of th
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b2v39/
+
+https://vivekavani.com/b2v40/

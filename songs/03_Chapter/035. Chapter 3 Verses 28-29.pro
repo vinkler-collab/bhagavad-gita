@@ -44,4 +44,6 @@ The man of knowledge should not confuse the mind of those men of imperfect under
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b3v28/
+
+https://vivekavani.com/b3v29/

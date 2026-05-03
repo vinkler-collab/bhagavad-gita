@@ -61,4 +61,8 @@ The four castes were created by Me according to the division of gunas and karma.
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b4v11/
+
+https://vivekavani.com/b4v12/
+
+https://vivekavani.com/b4v13/
