@@ -1,4 +1,4 @@
-{title: 092. Chapter Verses 6-7}
+{title: 092. Chapter 7 Verses 6-7}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 7 — vijñāna yoga}

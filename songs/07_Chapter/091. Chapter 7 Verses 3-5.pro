@@ -1,15 +1,15 @@
-{title: 093. Chapter Verses 8-12}
+{title: 091. Chapter 7 Verses 3-5}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 7 — vijñāna yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch07/093.mp3 | Gaiea Sanskrit 7.8-12}
+{audio: https://vinkler-collab.github.io/gita-audio/ch07/091.mp3 | Gaiea Sanskrit 7.3-5}
 
 YOUTUBE
 
 SPOTIFY
 
-{sov: Verse 7.8}
+{sov: Verse 7.3}
 
 MP3VIVEKAVANI
 
@@ -20,7 +20,7 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 7.9}
+{sov: Verse 7.4}
 
 MP3VIVEKAVANI
 
@@ -31,29 +31,7 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 7.10}
-
-MP3VIVEKAVANI
-
-DEVAGIASTSLOVNIK
-{eov}
-
-{sot}
-TRANSLATION
-{eot}
-
-{sov: Verse 7.11}
-
-MP3VIVEKAVANI
-
-DEVAGIASTSLOVNIK
-{eov}
-
-{sot}
-TRANSLATION
-{eot}
-
-{sov: Verse 7.12}
+{sov: Verse 7.5}
 
 MP3VIVEKAVANI
 

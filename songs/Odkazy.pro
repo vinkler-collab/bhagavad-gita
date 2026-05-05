@@ -15,7 +15,9 @@ The project is open source and available on GitHub:
 
 {sov: Sources of this website}
 
-◈   (Bhagavad Gita with Swami Sarvapriyananda on YouTube|https://www.youtube.com/playlist?list=PL2imXor63HtS4ewIKryBL4ZVeiaH8Ij4R)
+◈   (Bhagavad Gita with Swami Sarvapriyananda on YouTube 1 --> lectures 001-152|https://www.youtube.com/playlist?list=PL2imXor63HtS4ewIKryBL4ZVeiaH8Ij4R)
+
+◈   (Bhagavad Gita with Swami Sarvapriyananda on YouTube 2 --> lectures 143 - ???| https://youtube.com/playlist?list=PLDqahtm2vA72IzPW1nuJohTvoTGCJUKGR&si=T-vnvDrj4LyI06jF)
 
 ◈   (Bhagavad Gita with Swami Sarvapriyananda on Spotify|https://open.spotify.com/show/44x4LrSNeCsSm01JiQZJkX?si=1ac623b369de4085)
 

@@ -1,15 +1,15 @@
-{title: 096. Chapter Verses 20-23}
+{title: 094. Chapter 7 Verses 13-16}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 7 — vijñāna yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch07/096.mp3 | Gaiea Sanskrit 7.20-23}
+{audio: https://vinkler-collab.github.io/gita-audio/ch07/094.mp3 | Gaiea Sanskrit 7.13-16}
 
 YOUTUBE
 
 SPOTIFY
 
-{sov: Verse 7.20}
+{sov: Verse 7.13}
 
 MP3VIVEKAVANI
 
@@ -20,7 +20,7 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 7.21}
+{sov: Verse 7.14}
 
 MP3VIVEKAVANI
 
@@ -31,7 +31,7 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 7.22}
+{sov: Verse 7.15}
 
 MP3VIVEKAVANI
 
@@ -42,7 +42,7 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 7.23}
+{sov: Verse 7.16}
 
 MP3VIVEKAVANI
 

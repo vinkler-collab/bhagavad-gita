@@ -1,4 +1,4 @@
-{title: 097. Chapter Verses 24-30}
+{title: 097. Chapter 7 Verses 24-30}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 7 — vijñāna yoga}

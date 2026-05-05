@@ -1,7 +1,7 @@
 {title: nazevsouboru}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Chapter 14 — vijñguṇa traya vibhāga yoga}
+{category: Chapter 14 — guṇa traya vibhāga yoga}
 {tags: }
 {audio: https://vinkler-collab.github.io/gita-audio/ch14/xxx.mp3 | Gaiea Sanskrit 14.x}
 

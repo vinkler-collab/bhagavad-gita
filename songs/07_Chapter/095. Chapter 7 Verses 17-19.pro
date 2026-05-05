@@ -1,15 +1,15 @@
-{title: 091. Chapter Verses 3-5}
+{title: 095. Chapter 7 Verses 17-19}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 7 — vijñāna yoga}
 {tags: }
-{audio: https://vinkler-collab.github.io/gita-audio/ch07/091.mp3 | Gaiea Sanskrit 7.3-5}
+{audio: https://vinkler-collab.github.io/gita-audio/ch07/095.mp3 | Gaiea Sanskrit 7.17-19}
 
 YOUTUBE
 
 SPOTIFY
 
-{sov: Verse 7.3}
+{sov: Verse 7.17}
 
 MP3VIVEKAVANI
 
@@ -20,7 +20,7 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 7.4}
+{sov: Verse 7.18}
 
 MP3VIVEKAVANI
 
@@ -31,7 +31,7 @@ DEVAGIASTSLOVNIK
 TRANSLATION
 {eot}
 
-{sov: Verse 7.5}
+{sov: Verse 7.19}
 
 MP3VIVEKAVANI
 
