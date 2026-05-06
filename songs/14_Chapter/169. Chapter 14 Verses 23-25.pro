@@ -7,7 +7,7 @@
 
 https://youtu.be/7ygTJOVTt8M?si=oorTBUmXBbFDnIDt
 
-SPOTIFY
+https://open.spotify.com/episode/4ZOfC2FbiKOpcZL2Ar1wE7?si=48face1878894268
 
 {sov: Verse 14.23}
 

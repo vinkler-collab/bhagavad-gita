@@ -7,7 +7,7 @@
 
 https://www.youtu.be/OuNxXQLt-yI?si=RyvckiOmSYLj2HLr
 
-SPOTIFY
+SPOThttps://open.spotify.com/episode/2qat32iXQYkm0jMWes3Yym?si=2d6fb08e8da2411dIFY
 
 {sov: Verse 13.10}
 

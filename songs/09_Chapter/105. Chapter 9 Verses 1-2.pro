@@ -7,7 +7,7 @@
 
 https://youtu.be/no2rZBsPSX8?si=w7VT2_4Dyd1A5HP3
 
-SPOTIFY
+https://open.spotify.com/episode/7gCq5KEHAKEeR6mSBa3yUR?si=7226350636974b7b
 
 {sov: Verse 9.1}
 

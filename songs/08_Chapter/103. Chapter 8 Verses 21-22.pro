@@ -7,7 +7,7 @@
 
 https://youtu.be/64NR8It2N2g?si=3l7ARHOk946oJ1hO
 
-SPOTIFY
+https://open.spotify.com/episode/1DfYerBx3E5t7MWtxMQpkZ?si=7c7382cfccbc42f9
 
 {sov: Verse 8.21}
 
