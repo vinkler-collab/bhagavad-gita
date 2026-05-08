@@ -11,25 +11,40 @@ https://open.spotify.com/episode/5hIy337lVmuk5LIvTzclbA?si=74b2eaeea43b4c90
 
 {sov: Verse 10.10}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10-Verse-10.mp3
 
-DEVAGIASTSLOVNIK
+तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम् |
+ददामि बुद्धियोगं तं येन मामुपयान्ति ते || 10||
+
+teṣhāṁ satata-yuktānāṁ bhajatāṁ prīti-pūrvakam
+dadāmi buddhi-yogaṁ taṁ yena mām upayānti te
+
+teṣhām—to them; satata-yuktānām—ever steadfast; bhajatām—who engage in devotion; prīti-pūrvakam—with love; dadāmi—I give; buddhi-yogam—divine knowledge; tam—that; yena—by which; mām—to me; upayānti—come; te—they
 {eov}
 
 {sot}
-TRANSLATION
+On those who are ever devoted to Me and worship Me with love, I bestow the yoga of understanding, by which they come to Me.
 {eot}
 
 {sov: Verse 10.11}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-10-Verse-11.mp3
 
-DEVAGIASTSLOVNIK
+तेषामेवानुकम्पार्थमहमज्ञानजं तम: |
+नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता || 11||
+
+teṣhām evānukampārtham aham ajñāna-jaṁ tamaḥ
+nāśhayāmyātma-bhāva-stho jñāna-dīpena bhāsvatā
+
+teṣhām—for them; eva—only; anukampā-artham—out of compassion; aham—I; ajñāna-jam—born of ignorance; tamaḥ—darkness; nāśhayāmi—destroy; ātma-bhāva—within their hearts; sthaḥ—dwelling; jñāna—of knowledge; dīpena—with the lamp; bhāsvatā—luminous
 {eov}
 
 {sot}
-TRANSLATION
+Solely out of compassion for them, I, dwelling in their hearts, dispel with the shining lamp of wisdom the darkness born of ignorance.
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b10v10/
+
+https://vivekavani.com/b10v11/
+{end_of_analysis}
