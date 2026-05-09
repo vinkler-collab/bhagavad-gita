@@ -3,7 +3,7 @@
 {author: Swami Sarvapriyananda}
 {category: Chapter 1 — arjuna viṣhāda yoga}
 {tags: 1.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.27, 3.28, 3.29, 3.30, 3.31, 3.32, 3.33, 3.34, 3.35, 3.36, 3.37, 3.38, 3.39, 3.40, 3.41, 3.42, 3.43}
-{audio: https://vinkler-collab.github.io/gita-audio/ch01/001.mp3 | Gaiea Sanskrit 1.1-47}
+{audio: https://samhita-cz.github.io/gita-audio/ch01/001.mp3 | Gaiea Sanskrit 1.1-47}
 
 https://youtu.be/y9Kt7Db9MxA
 
