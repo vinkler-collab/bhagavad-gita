@@ -11,14 +11,23 @@ https://open.spotify.com/episode/1Tf4id23685gPemK0OH8jZ?si=acb53008db864c0e
 
 {sov: Verse 13.2}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-2.mp3
 
-DEVAGIASTSLOVNIK
+श्रीभगवानुवाच |
+इदं शरीरं कौन्तेय क्षेत्रमित्यभिधीयते |
+एतद्यो वेत्ति तं प्राहु: क्षेत्रज्ञ इति तद्विद: || 2||
+
+śhrī-bhagavān uvācha
+idaṁ śharīraṁ kaunteya kṣhetram ity abhidhīyate
+etad yo vetti taṁ prāhuḥ kṣhetra-jña iti tad-vidaḥ
+
+śhrī-bhagavān uvācha—the Supreme Divine Lord said; idam—this; śharīram—body; kaunteya—Arjun, the son of Kunti; kṣhetram—the field of activities; iti—thus; abhidhīyate—is termed as; etat—this; yaḥ—one who; vetti—knows; tam—that person; prāhuḥ—is called; kṣhetra-jñaḥ—the knower of the field; iti—thus; tat-vidaḥ—those who discern the truth
 {eov}
 
 {sot}
-TRANSLATION
+The Lord said: This body, Ο son of Kunti, is called the Field, and he who knows it is called the Knower of the Field by those who describe them.
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b13v2/
+{end_of_analysis}

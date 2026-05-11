@@ -11,14 +11,21 @@ https://open.spotify.com/episode/2rX2HNXi76139RZXTybkzw?si=565f7ff5ab204662
 
 {sov: Verse 13.7}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-6-7.mp3
 
-DEVAGIASTSLOVNIK
-{eov}
+इच्छा द्वेष: सुखं दु:खं सङ्घातश्चेतना धृति: |
+एतत्क्षेत्रं समासेन सविकारमुदाहृतम् || 7||
+
+ichchhā dveṣhaḥ sukhaṁ duḥkhaṁ saṅghātaśh chetanā dhṛitiḥ
+etat kṣhetraṁ samāsena sa-vikāram udāhṛitam
+
+ ichchhā—desire; dveṣhaḥ—aversion; sukham—happiness; duḥkham—misery; saṅghātaḥ—the aggregate; chetanā—the consciousness; dhṛitiḥ—the will; etat—all these; kṣhetram—the field of activities; samāsena—comprise of; sa-vikāram—with modifications; udāhṛitam—are said
+ {eov}
 
 {sot}
-TRANSLATION
+Desire, hatred, pleasure, pain, the aggregate, intelligence, and fortitude— this, briefly stated, is the Field together with its modifications.
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b13v7/
+{end_of_analysis}

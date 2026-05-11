@@ -11,14 +11,21 @@ https://open.spotify.com/episode/7oCEICoZqMCbA4H8p0E0XU?si=2d3fd05962ed45df
 
 {sov: Verse 12.8}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-12-Verse-8.mp3
 
-DEVAGIASTSLOVNIK
+मय्येव मन आधत्स्व मयि बुद्धिं निवेशय |
+निवसिष्यसि मय्येव अत ऊर्ध्वं न संशय: || 8||
+
+mayy eva mana ādhatsva mayi buddhiṁ niveśhaya
+nivasiṣhyasi mayy eva ata ūrdhvaṁ na sanśhayaḥ
+
+mayi—on Me; eva—alone; manaḥ—mind; ādhatsva—fix; mayi—on Me; buddhim—intellect; niveśhaya—surrender; nivasiṣhyasi—you shall always live; mayi—in Me; eva—alone; ataḥ ūrdhvam—thereafter; na—not; sanśhayaḥ—doubt
 {eov}
 
 {sot}
-TRANSLATION
+Fix the mind firmly in Me only; place the intellect in Me, thereafter you shall live in Me only; there is no doubt about this.
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b12v8/
+{end_of_analysis}
