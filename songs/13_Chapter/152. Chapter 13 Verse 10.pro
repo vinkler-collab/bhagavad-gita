@@ -11,14 +11,21 @@ SPOThttps://open.spotify.com/episode/2qat32iXQYkm0jMWes3Yym?si=2d6fb08e8da2411dI
 
 {sov: Verse 13.10}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-13-Verse-8-12.mp3
 
-DEVAGIASTSLOVNIK
+असक्तिरनभिष्वङ्ग: पुत्रदारगृहादिषु |
+नित्यं च समचित्तत्वमिष्टानिष्टोपपत्तिषु || 10||
+
+asaktir anabhiṣhvaṅgaḥ putra-dāra-gṛihādiṣhu
+nityaṁ cha sama-chittatvam iṣhṭāniṣhṭopapattiṣhu
+
+asaktiḥ—non-attachment; anabhiṣhvaṅgaḥ—absence of craving; putra—children; dāra—spouse; gṛiha-ādiṣhu—home, etc; nityam—constant; cha—and; sama-chittatvam—even-mindedness; iṣhṭa—the desirable; aniṣhṭa—undesirable; upapattiṣhu—having obtained;
 {eov}
 
 {sot}
-TRANSLATION
+non-attachment; absence of clinging to spouse, children, home, and so on; even-mindedness amidst desired and undesired events in life;
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b13v8/
+{end_of_analysis}
