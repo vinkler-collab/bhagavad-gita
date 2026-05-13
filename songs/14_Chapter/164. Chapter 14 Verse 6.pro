@@ -11,14 +11,21 @@ https://open.spotify.com/episode/6v0szxnhUPRQ4ejJTVwxp8?si=0526abbdff914c63
 
 {sov: Verse 14.6}
 
-MP3VIVEKAVANI
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-14-Verse-6.mp3
 
-DEVAGIASTSLOVNIK
+तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् |
+सुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ || 6||
+
+tatra sattvaṁ nirmalatvāt prakāśhakam anāmayam
+sukha-saṅgena badhnāti jñāna-saṅgena chānagha
+
+tatra—amongst these; sattvam—mode of goodness; nirmalatvāt—being purest; prakāśhakam—illuminating; anāmayam—healthy and full of well-being; sukha—happiness; saṅgena—attachment; badhnāti—binds; jñāna—knowledge; saṅgena—attachment; cha—also; anagha—Arjun, the sinless one
 {eov}
 
 {sot}
-TRANSLATION
+Of these, sattva, being stainless, is luminous and healthful. It binds, Ο sinless Arjuna, by creating attachment to happiness and attachment to knowledge.
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b14v6/
+{end_of_analysis}
