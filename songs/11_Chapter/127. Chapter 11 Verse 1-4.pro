@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 11 — viśvarūpa sandarśana yoga}
-{tags: }
+{tags: 11.1, 11.2, 11.3, 11.4}
 {audio: https://samhita-cz.github.io/gita-audio/ch11/127.mp3 | Gaiea Sanskrit 11.1-4}
 
 https://youtu.be/wOrxTtGZbV4?si=wuzBADcXjITEXEsm

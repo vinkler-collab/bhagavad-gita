@@ -12,30 +12,34 @@
     ],
     "tags": [
       "1.1",
-      "3.2",
-      "3.3",
-      "3.4",
-      "3.5",
-      "3.6",
-      "3.7",
-      "3.8",
-      "3.27",
-      "3.28",
-      "3.29",
-      "3.30",
-      "3.31",
-      "3.32",
-      "3.33",
-      "3.34",
-      "3.35",
-      "3.36",
-      "3.37",
-      "3.38",
-      "3.39",
-      "3.40",
-      "3.41",
-      "3.42",
-      "3.43"
+      "1.2",
+      "1.3",
+      "1.4",
+      "1.5",
+      "1.6",
+      "1.7",
+      "1.8",
+      "1.27",
+      "1.28",
+      "1.29",
+      "1.30",
+      "1.31",
+      "1.32",
+      "1.33",
+      "1.34",
+      "1.35",
+      "1.36",
+      "1.37",
+      "1.38",
+      "1.39",
+      "1.40",
+      "1.41",
+      "1.42",
+      "1.43",
+      "1.44",
+      "1.45",
+      "1.46",
+      "1.47"
     ],
     "dateAdded": "2026-04-26",
     "hasPDF": false,
@@ -1180,7 +1184,9 @@
         "title": "Gaiea Sanskrit 5.1"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.1"
+    ],
     "dateAdded": "2026-05-03",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v1/"
@@ -1196,7 +1202,11 @@
         "title": "Gaiea Sanskrit 5.2-4"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.2",
+      "5.3",
+      "5.4"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v2/\n\nhttps://vivekavani.com/b5v3/\n\nhttps://vivekavani.com/b5v4/"
@@ -1212,7 +1222,10 @@
         "title": "Gaiea Sanskrit 5.5-6"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.5",
+      "5.6"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v5/\n\nhttps://vivekavani.com/b5v6/"
@@ -1228,7 +1241,12 @@
         "title": "Gaiea Sanskrit 5.7-10"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.7",
+      "5.8",
+      "5.9",
+      "5.10"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v7/\n\nhttps://vivekavani.com/b5v8/\n\nhttps://vivekavani.com/b5v10/"
@@ -1244,7 +1262,11 @@
         "title": "Gaiea Sanskrit 5.10-12"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.10",
+      "5.11",
+      "5.12"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v10/\n\nhttps://vivekavani.com/b5v11/\n\nhttps://vivekavani.com/b5v12/"
@@ -1260,7 +1282,11 @@
         "title": "Gaiea Sanskrit 5.13-15"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.13",
+      "5.14",
+      "5.15"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v13/\n\nhttps://vivekavani.com/b5v14/\n\nhttps://vivekavani.com/b5v15/"
@@ -1276,7 +1302,10 @@
         "title": "Gaiea Sanskrit 5.16-17"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.16",
+      "5.17"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v16/\n\nhttps://vivekavani.com/b5v17/"
@@ -1292,7 +1321,10 @@
         "title": "Gaiea Sanskrit 5.18-19"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.18",
+      "5.19"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v18/\n\nhttps://vivekavani.com/b5v19/"
@@ -1308,7 +1340,10 @@
         "title": "Gaiea Sanskrit 5.20-21"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.20",
+      "5.21"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v20/\n\nhttps://vivekavani.com/b5v21/"
@@ -1324,7 +1359,10 @@
         "title": "Gaiea Sanskrit 5.22-23"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.22",
+      "5.23"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v22/\n\nhttps://vivekavani.com/b5v23/"
@@ -1340,7 +1378,14 @@
         "title": "Gaiea Sanskrit 5.24-29"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.24",
+      "5.25",
+      "5.26",
+      "5.27",
+      "5.28",
+      "5.29"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5v24/\n\nhttps://vivekavani.com/b5v25/\n\nhttps://vivekavani.com/b5v26/\n\nhttps://vivekavani.com/b5v27/\n\nhttps://vivekavani.com/b5v29/"
@@ -1356,7 +1401,37 @@
         "title": "Gaiea Sanskrit 5.1-29"
       }
     ],
-    "tags": [],
+    "tags": [
+      "5.1",
+      "5.2",
+      "5.3",
+      "5.4",
+      "5.5",
+      "5.6",
+      "5.7",
+      "5.8",
+      "5.9",
+      "5.10",
+      "5.11",
+      "5.12",
+      "5.13",
+      "5.14",
+      "5.15",
+      "5.16",
+      "5.17",
+      "5.18",
+      "5.19",
+      "5.20",
+      "5.21",
+      "5.22",
+      "5.23",
+      "5.24",
+      "5.25",
+      "5.26",
+      "5.27",
+      "5.28",
+      "5.29"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b5/"
@@ -1372,7 +1447,9 @@
         "title": "Gaiea Sanskrit 6.1"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.1"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v1/"
@@ -1388,7 +1465,9 @@
         "title": "Gaiea Sanskrit 6.2"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.2"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v2/"
@@ -1404,7 +1483,10 @@
         "title": "Gaiea Sanskrit 6.3-4"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.3",
+      "6.4"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v3/\n\nhttps://vivekavani.com/b6v4/"
@@ -1420,7 +1502,10 @@
         "title": "Gaiea Sanskrit 6.5-6"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.5",
+      "6.6"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v5/\n\nhttps://vivekavani.com/b6v6/"
@@ -1436,7 +1521,9 @@
         "title": "Gaiea Sanskrit 6.7"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.7"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v7/"
@@ -1452,7 +1539,10 @@
         "title": "Gaiea Sanskrit 6.8-9"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.8",
+      "6.9"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v8/\n\nhttps://vivekavani.com/b6v9/"
@@ -1468,7 +1558,13 @@
         "title": "Gaiea Sanskrit 6.10-14"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.10",
+      "6.11",
+      "6.12",
+      "6.13",
+      "6.14"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v10/\n\nhttps://vivekavani.com/b6v11/\n\nhttps://vivekavani.com/b6v13/"
@@ -1484,7 +1580,9 @@
         "title": "Gaiea Sanskrit 6.15"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.15"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v15/"
@@ -1500,7 +1598,12 @@
         "title": "Gaiea Sanskrit 6.16-19"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.16",
+      "6.17",
+      "6.18",
+      "6.19"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v16/\n\nhttps://vivekavani.com/b6v17/\n\nhttps://vivekavani.com/b6v18/\n\nhttps://vivekavani.com/b6v19/"
@@ -1516,7 +1619,10 @@
         "title": "Gaiea Sanskrit 6.20-21"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.20",
+      "6.21"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v20/"
@@ -1532,7 +1638,12 @@
         "title": "Gaiea Sanskrit 6.x22-23"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.20",
+      "6.21",
+      "6.22",
+      "6.23"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v20/"
@@ -1548,7 +1659,10 @@
         "title": "Gaiea Sanskrit 6.24-25"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.24",
+      "6.25"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v24/"
@@ -1564,7 +1678,10 @@
         "title": "Gaiea Sanskrit 6.26-27"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.26",
+      "6.27"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v26/\n\nhttps://vivekavani.com/b6v27/"
@@ -1580,7 +1697,10 @@
         "title": "Gaiea Sanskrit 6.28-29"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.28",
+      "6.29"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v28/\n\nhttps://vivekavani.com/b6v29/"
@@ -1596,7 +1716,11 @@
         "title": "Gaiea Sanskrit 6.30-32"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.30",
+      "6.31",
+      "6.32"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v30/\n\nhttps://vivekavani.com/b6v31/\n\nhttps://vivekavani.com/b6v32/"
@@ -1612,7 +1736,11 @@
         "title": "Gaiea Sanskrit 6.33-35"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.33",
+      "6.34",
+      "6.35"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v33/\n\nhttps://vivekavani.com/b6v34/\n\nhttps://vivekavani.com/b6v35/"
@@ -1628,7 +1756,15 @@
         "title": "Gaiea Sanskrit 6.36-42"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.36",
+      "6.37",
+      "6.38",
+      "6.39",
+      "6.40",
+      "6.41",
+      "6.42"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v36/\n\nhttps://vivekavani.com/b6v37/\n\nhttps://vivekavani.com/b6v38/\n\nhttps://vivekavani.com/b6v39/\n\nhttps://vivekavani.com/b6v40/\n\nhttps://vivekavani.com/b6v41/\n\nhttps://vivekavani.com/b6v42/"
@@ -1644,7 +1780,13 @@
         "title": "Gaiea Sanskrit 6.43-47"
       }
     ],
-    "tags": [],
+    "tags": [
+      "6.43",
+      "6.44",
+      "6.45",
+      "6.46",
+      "6.47"
+    ],
     "dateAdded": "2026-05-04",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b6v43/\n\nhttps://vivekavani.com/b6v44/\n\nhttps://vivekavani.com/b6v45/\n\nhttps://vivekavani.com/b6v46/\n\nhttps://vivekavani.com/b6v47/"
@@ -1676,7 +1818,11 @@
         "title": "Gaiea Sanskrit 7.3-5"
       }
     ],
-    "tags": [],
+    "tags": [
+      "7.3",
+      "7.4",
+      "7.5"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b7v3/\n\nhttps://vivekavani.com/b7v4/\n\nhttps://vivekavani.com/b7v5/"
@@ -1692,7 +1838,10 @@
         "title": "Gaiea Sanskrit 7.6-7"
       }
     ],
-    "tags": [],
+    "tags": [
+      "7.6",
+      "7.7"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b7v6/\n\nhttps://vivekavani.com/b7v7/"
@@ -1708,7 +1857,13 @@
         "title": "Gaiea Sanskrit 7.8-12"
       }
     ],
-    "tags": [],
+    "tags": [
+      "7.8",
+      "7.9",
+      "7.10",
+      "7.11",
+      "7.12"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b7v8/\n\nhttps://vivekavani.com/b7v9/\n\nhttps://vivekavani.com/b7v10/\n\nhttps://vivekavani.com/b7v11/\n\nhttps://vivekavani.com/b7v12/"
@@ -1740,7 +1895,11 @@
         "title": "Gaiea Sanskrit 7.17-19"
       }
     ],
-    "tags": [],
+    "tags": [
+      "7.17",
+      "7.18",
+      "7.19"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b7v17/\n\nhttps://vivekavani.com/b7v18/\n\nhttps://vivekavani.com/b7v19/"
@@ -1756,7 +1915,12 @@
         "title": "Gaiea Sanskrit 7.20-23"
       }
     ],
-    "tags": [],
+    "tags": [
+      "7.20",
+      "7.21",
+      "7.22",
+      "7.23"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b7v20/\n\nhttps://vivekavani.com/b7v21/\n\nhttps://vivekavani.com/b7v22/"
@@ -1772,7 +1936,15 @@
         "title": "Gaiea Sanskrit 7.24-30"
       }
     ],
-    "tags": [],
+    "tags": [
+      "7.24",
+      "7.25",
+      "7.26",
+      "7.27",
+      "7.28",
+      "7.29",
+      "7.30"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b7v24/\n\nhttps://vivekavani.com/b7v25/\n\nhttps://vivekavani.com/b7v26/\n\nhttps://vivekavani.com/b7v27/\n\nhttps://vivekavani.com/b7v28/\n\nhttps://vivekavani.com/b7v29/\n\nhttps://vivekavani.com/b7v30/"
@@ -1788,7 +1960,12 @@
         "title": "Gaiea Sanskrit 8.1-4"
       }
     ],
-    "tags": [],
+    "tags": [
+      "8.1",
+      "8.2",
+      "8.3",
+      "8.4"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b8v1/\n\nhttps://vivekavani.com/b8v3/\n\nhttps://vivekavani.com/b8v4/"
@@ -1804,7 +1981,11 @@
         "title": "Gaiea Sanskrit 8.5-7"
       }
     ],
-    "tags": [],
+    "tags": [
+      "8.5",
+      "8.6",
+      "8.7"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b8v5/\n\nhttps://vivekavani.com/b8v6/\n\nhttps://vivekavani.com/b8v7/"
@@ -1820,7 +2001,11 @@
         "title": "Gaiea Sanskrit 8.8-10"
       }
     ],
-    "tags": [],
+    "tags": [
+      "8.8",
+      "8.9",
+      "8.10"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b8v8/\n\nhttps://vivekavani.com/b8v9/"
@@ -1836,7 +2021,12 @@
         "title": "Gaiea Sanskrit 8.11-14"
       }
     ],
-    "tags": [],
+    "tags": [
+      "8.11",
+      "8.12",
+      "8.13",
+      "8.14"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b8v11/\n\nhttps://vivekavani.com/b8v12/\n\nhttps://vivekavani.com/b8v14/"
@@ -1852,7 +2042,14 @@
         "title": "Gaiea Sanskrit 8.15-20"
       }
     ],
-    "tags": [],
+    "tags": [
+      "8.15",
+      "8.16",
+      "8.17",
+      "8.18",
+      "8.19",
+      "8.20"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b8v15/\n\nhttps://vivekavani.com/b8v16/\n\nhttps://vivekavani.com/b8v17/\n\nhttps://vivekavani.com/b8v18/\n\nhttps://vivekavani.com/b8v19/\n\nhttps://vivekavani.com/b8v20/"
@@ -1868,7 +2065,10 @@
         "title": "Gaiea Sanskrit 8.21-22"
       }
     ],
-    "tags": [],
+    "tags": [
+      "8.21",
+      "8.22"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b8v21/\n\nhttps://vivekavani.com/b8v22/"
@@ -1884,7 +2084,14 @@
         "title": "Gaiea Sanskrit 8.23-28"
       }
     ],
-    "tags": [],
+    "tags": [
+      "8.23",
+      "8.24",
+      "8.25",
+      "8.26",
+      "8.27",
+      "8.28"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b8v23/\n\nhttps://vivekavani.com/b8v24/\n\nhttps://vivekavani.com/b8v25/\n\nhttps://vivekavani.com/b8v26/\n\nhttps://vivekavani.com/b8v27/\n\nhttps://vivekavani.com/b8v28/"
@@ -1900,7 +2107,10 @@
         "title": "Gaiea Sanskrit 9.1-2"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.1",
+      "9.2"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v1/\n\nhttps://vivekavani.com/b9v2/"
@@ -1916,7 +2126,10 @@
         "title": "Gaiea Sanskrit 9.3-4"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.3",
+      "9.4"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v3/\n\nhttps://vivekavani.com/b9v4/"
@@ -1932,7 +2145,12 @@
         "title": "Gaiea Sanskrit 9.5-8"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.5",
+      "9.6",
+      "9.7",
+      "9.8"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v5/\n\nhttps://vivekavani.com/b9v6/\n\nhttps://vivekavani.com/b9v7/\n\nhttps://vivekavani.com/b9v8/"
@@ -1948,7 +2166,13 @@
         "title": "Gaiea Sanskrit 9.9-13"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.9",
+      "9.10",
+      "9.11",
+      "9.12",
+      "9.13"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v9/\n\nhttps://vivekavani.com/b9v10/\n\nhttps://vivekavani.com/b9v11/\n\nhttps://vivekavani.com/b9v12/\n\nhttps://vivekavani.com/b9v13/"
@@ -1964,7 +2188,9 @@
         "title": "Gaiea Sanskrit 9.14"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.14"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v14/"
@@ -1980,7 +2206,10 @@
         "title": "Gaiea Sanskrit 9.15-16"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.15",
+      "9.16"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v15/\n\nhttps://vivekavani.com/b9v16/"
@@ -1996,7 +2225,9 @@
         "title": "Gaiea Sanskrit 9.17"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.17"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v17/"
@@ -2012,7 +2243,12 @@
         "title": "Gaiea Sanskrit 9.18-21"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.18",
+      "9.19",
+      "9.20",
+      "9.21"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v18/\n\nhttps://vivekavani.com/b9v19/\n\nhttps://vivekavani.com/b9v20/\n\nhttps://vivekavani.com/b9v21/"
@@ -2028,7 +2264,12 @@
         "title": "Gaiea Sanskrit 9.22-25"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.22",
+      "9.23",
+      "9.24",
+      "9.25"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v22/\n\nhttps://vivekavani.com/b9v23/\n\nhttps://vivekavani.com/b9v24/\n\nhttps://vivekavani.com/b9v25/"
@@ -2044,7 +2285,11 @@
         "title": "Gaiea Sanskrit 9.26-28"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.26",
+      "9.27",
+      "9.28"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v26/\n\nhttps://vivekavani.com/b9v27/\n\nhttps://vivekavani.com/b9v28/"
@@ -2060,7 +2305,11 @@
         "title": "Gaiea Sanskrit 9.29-31"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.29",
+      "9.30",
+      "9.31"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v29/\n\nhttps://vivekavani.com/b9v30/\n\nhttps://vivekavani.com/b9v31/"
@@ -2076,7 +2325,11 @@
         "title": "Gaiea Sanskrit 9.32-34"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.32",
+      "9.33",
+      "9.34"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v32/\n\nhttps://vivekavani.com/b9v33/\n\nhttps://vivekavani.com/b9v34/"
@@ -2092,7 +2345,9 @@
         "title": "Gaiea Sanskrit 9.34"
       }
     ],
-    "tags": [],
+    "tags": [
+      "9.34"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b9v34/"
@@ -2108,7 +2363,11 @@
         "title": "Gaiea Sanskrit 10.1-3"
       }
     ],
-    "tags": [],
+    "tags": [
+      "10.1",
+      "10.2",
+      "10.3"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b10v1/\n\nhttps://vivekavani.com/b10v2/\n\nhttps://vivekavani.com/b10v3/"
@@ -2124,7 +2383,11 @@
         "title": "Gaiea Sanskrit 10.4-6"
       }
     ],
-    "tags": [],
+    "tags": [
+      "10.4",
+      "10.5",
+      "10.6"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b10v4/\n\nhttps://vivekavani.com/b10v6/"
@@ -2140,7 +2403,11 @@
         "title": "Gaiea Sanskrit 10.7-9"
       }
     ],
-    "tags": [],
+    "tags": [
+      "10.7",
+      "10.8",
+      "10.9"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b10v7/\n\nhttps://vivekavani.com/b10v8/\n\nhttps://vivekavani.com/b10v9/"
@@ -2156,7 +2423,10 @@
         "title": "Gaiea Sanskrit 10.10-11"
       }
     ],
-    "tags": [],
+    "tags": [
+      "10.10",
+      "10.11"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b10v10/\n\nhttps://vivekavani.com/b10v11/"
@@ -2172,7 +2442,12 @@
         "title": "Gaiea Sanskrit 10.12-15"
       }
     ],
-    "tags": [],
+    "tags": [
+      "10.12",
+      "10.13",
+      "10.14",
+      "10.15"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b10v12/\n\nhttps://vivekavani.com/b10v14/\n\nhttps://vivekavani.com/b10v15/"
@@ -2188,7 +2463,15 @@
         "title": "Gaiea Sanskrit 10.16-22"
       }
     ],
-    "tags": [],
+    "tags": [
+      "10.16",
+      "10.17",
+      "10.18",
+      "10.19",
+      "10.20",
+      "10.21",
+      "10.22"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b10v16/\n\nhttps://vivekavani.com/b10v17/\n\nhttps://vivekavani.com/b10v18/\n\nhttps://vivekavani.com/b10v19/\n\nhttps://vivekavani.com/b10v20/\n\nhttps://vivekavani.com/b10v21/\n\nhttps://vivekavani.com/b10v22/"
@@ -2204,7 +2487,16 @@
         "title": "Gaiea Sanskrit 10.23-30"
       }
     ],
-    "tags": [],
+    "tags": [
+      "10.23",
+      "10.24",
+      "10.25",
+      "10.26",
+      "10.27",
+      "10.28",
+      "10.29",
+      "10.30"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b10v23/\n\nhttps://vivekavani.com/b10v24/\n\nhttps://vivekavani.com/b10v25/\n\nhttps://vivekavani.com/b10v26/\n\nhttps://vivekavani.com/b10v27/\n\nhttps://vivekavani.com/b10v28/\n\nhttps://vivekavani.com/b10v29/\n\nhttps://vivekavani.com/b10v30/"
@@ -2220,7 +2512,11 @@
         "title": "Gaiea Sanskrit 10.31-33"
       }
     ],
-    "tags": [],
+    "tags": [
+      "10.31",
+      "10.32",
+      "10.33"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b10v31/\n\nhttps://vivekavani.com/b10v32/\n\nhttps://vivekavani.com/b10v33/"
@@ -2236,7 +2532,17 @@
         "title": "Gaiea Sanskrit 10.34-42"
       }
     ],
-    "tags": [],
+    "tags": [
+      "10.34",
+      "10.35",
+      "10.36",
+      "10.37",
+      "10.38",
+      "10.39",
+      "10.40",
+      "10.41",
+      "10.42"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b10v34/\n\nhttps://vivekavani.com/b10v35/\n\nhttps://vivekavani.com/b10v36/\n\nhttps://vivekavani.com/b10v37/\n\nhttps://vivekavani.com/b10v38/\n\nhttps://vivekavani.com/b10v39/\n\nhttps://vivekavani.com/b10v40/\n\nhttps://vivekavani.com/b10v41/\n\nhttps://vivekavani.com/b10v42/"
@@ -2252,7 +2558,12 @@
         "title": "Gaiea Sanskrit 11.1-4"
       }
     ],
-    "tags": [],
+    "tags": [
+      "11.1",
+      "11.2",
+      "11.3",
+      "11.4"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b11v1/\n\nhttps://vivekavani.com/b11v2/\n\nhttps://vivekavani.com/b11v3/\n\nhttps://vivekavani.com/b11v4/"
@@ -2268,7 +2579,18 @@
         "title": "Gaiea Sanskrit 11.5-14"
       }
     ],
-    "tags": [],
+    "tags": [
+      "11.5",
+      "11.6",
+      "11.7",
+      "11.8",
+      "11.9",
+      "11.10",
+      "11.11",
+      "11.12",
+      "11.13",
+      "11.14"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b11v5/\n\nhttps://vivekavani.com/b11v6/\n\nhttps://vivekavani.com/b11v7/\n\nhttps://vivekavani.com/b11v8/\n\nhttps://vivekavani.com/b11v9/\n\nhttps://vivekavani.com/b11v10/\n\nhttps://vivekavani.com/b11v12/\n\nhttps://vivekavani.com/b11v13/\n\nhttps://vivekavani.com/b11v14/"
@@ -2284,7 +2606,19 @@
         "title": "Gaiea Sanskrit 11.15-25"
       }
     ],
-    "tags": [],
+    "tags": [
+      "11.15",
+      "11.16",
+      "11.17",
+      "11.18",
+      "11.19",
+      "11.20",
+      "11.21",
+      "11.22",
+      "11.23",
+      "11.24",
+      "11.25"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b11v15/\n\nhttps://vivekavani.com/b11v16/\n\nhttps://vivekavani.com/b11v17/\n\nhttps://vivekavani.com/b11v18/\n\nhttps://vivekavani.com/b11v19/\n\nhttps://vivekavani.com/b11v20/\n\nhttps://vivekavani.com/b11v21/\n\nhttps://vivekavani.com/b11v22/\n\nhttps://vivekavani.com/b11v23/\n\nhttps://vivekavani.com/b11v24/\n\nhttps://vivekavani.com/b11v25/"
@@ -2300,7 +2634,16 @@
         "title": "Gaiea Sanskrit 11.26-33"
       }
     ],
-    "tags": [],
+    "tags": [
+      "11.26",
+      "11.27",
+      "11.28",
+      "11.29",
+      "11.30",
+      "11.31",
+      "11.32",
+      "11.33"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b11v26/\n\nhttps://vivekavani.com/b11v28/\n\nhttps://vivekavani.com/b11v29/\n\nhttps://vivekavani.com/b11v30/\n\nhttps://vivekavani.com/b11v31/\n\nhttps://vivekavani.com/b11v32/\n\nhttps://vivekavani.com/b11v33/"
@@ -2316,7 +2659,20 @@
         "title": "Gaiea Sanskrit 11.34-46"
       }
     ],
-    "tags": [],
+    "tags": [
+      "11.34",
+      "11.35",
+      "11.36",
+      "11.37",
+      "11.38",
+      "11.39",
+      "11.40",
+      "11.41-42",
+      "11.43",
+      "11.44",
+      "11.45",
+      "11.46"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b11v34/\n\nhttps://vivekavani.com/b11v35/\n\nhttps://vivekavani.com/b11v36/\n\nhttps://vivekavani.com/b11v37/\n\nhttps://vivekavani.com/b11v38/\n\nhttps://vivekavani.com/b11v39/\n\nhttps://vivekavani.com/b11v40/\n\nhttps://vivekavani.com/b11v41/\n\nhttps://vivekavani.com/b11v43/\n\nhttps://vivekavani.com/b11v44/\n\nhttps://vivekavani.com/b11v45/\n\nhttps://vivekavani.com/b11v46/"
@@ -2332,7 +2688,17 @@
         "title": "Gaiea Sanskrit 11.47-55"
       }
     ],
-    "tags": [],
+    "tags": [
+      "11.47",
+      "11.48",
+      "11.49",
+      "11.50",
+      "11.51",
+      "11.52",
+      "11.53",
+      "11.54",
+      "11.55"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b11v47/\n\nhttps://vivekavani.com/b11v48/\n\nhttps://vivekavani.com/b11v49/\n\nhttps://vivekavani.com/b11v50/\n\nhttps://vivekavani.com/b11v51/\n\nhttps://vivekavani.com/b11v52/\n\nhttps://vivekavani.com/b11v53/\n\nhttps://vivekavani.com/b11v54/\n\nhttps://vivekavani.com/b11v55/"
@@ -2348,7 +2714,10 @@
         "title": "Gaiea Sanskrit 12.1-2"
       }
     ],
-    "tags": [],
+    "tags": [
+      "12.1",
+      "12.2"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b12v1/\n\nhttps://vivekavani.com/b12v2/"
@@ -2364,7 +2733,10 @@
         "title": "Gaiea Sanskrit 12.3-4"
       }
     ],
-    "tags": [],
+    "tags": [
+      "12.3",
+      "12.4"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b12v3/"
@@ -2380,7 +2752,11 @@
         "title": "Gaiea Sanskrit 12.5-7"
       }
     ],
-    "tags": [],
+    "tags": [
+      "12.5",
+      "12.6",
+      "12.7"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b12v5/\n\nhttps://vivekavani.com/b12v6/"
@@ -2396,7 +2772,9 @@
         "title": "Gaiea Sanskrit 12.8"
       }
     ],
-    "tags": [],
+    "tags": [
+      "12.8"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b12v8/"
@@ -2412,7 +2790,11 @@
         "title": "Gaiea Sanskrit 12.9-11"
       }
     ],
-    "tags": [],
+    "tags": [
+      "12.9",
+      "12.10",
+      "12.11"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b12v9/\n\nhttps://vivekavani.com/b12v10/\n\nhttps://vivekavani.com/b12v11/"
@@ -2428,7 +2810,10 @@
         "title": "Gaiea Sanskrit 12.12-13"
       }
     ],
-    "tags": [],
+    "tags": [
+      "12.12",
+      "12.13"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b12v12/\n\nhttps://vivekavani.com/b12v13/"
@@ -2444,7 +2829,10 @@
         "title": "Gaiea Sanskrit 12.13-14"
       }
     ],
-    "tags": [],
+    "tags": [
+      "12.13",
+      "12.14"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b12v13/"
@@ -2460,7 +2848,9 @@
         "title": "Gaiea Sanskrit 12.15"
       }
     ],
-    "tags": [],
+    "tags": [
+      "12.15"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b12v15/"
@@ -2476,7 +2866,12 @@
         "title": "Gaiea Sanskrit 12.16-19"
       }
     ],
-    "tags": [],
+    "tags": [
+      "12.16",
+      "12.17",
+      "12.18",
+      "12.19"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b12v16/\n\nhttps://vivekavani.com/b12v17/\n\nhttps://vivekavani.com/b12v18/"
@@ -2492,7 +2887,11 @@
         "title": "Gaiea Sanskrit 12.18-20"
       }
     ],
-    "tags": [],
+    "tags": [
+      "12.18",
+      "12.19",
+      "12.20"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b12v18/\n\nhttps://vivekavani.com/b12v20/"
@@ -2508,7 +2907,10 @@
         "title": "Gaiea Sanskrit 13.1-2"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.1",
+      "13.2"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v1/\n\nhttps://vivekavani.com/b13v2/"
@@ -2524,7 +2926,9 @@
         "title": "Gaiea Sanskrit 13.2"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.2"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v2/"
@@ -2540,7 +2944,9 @@
         "title": "Gaiea Sanskrit 13.2"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.2"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v2/"
@@ -2556,7 +2962,9 @@
         "title": "Gaiea Sanskrit 13.2"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.2"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v2/"
@@ -2572,7 +2980,12 @@
         "title": "Gaiea Sanskrit 13.3-6"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.3",
+      "13.4",
+      "13.5",
+      "13.6"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v3/\n\nhttps://vivekavani.com/b13v4/\n\nhttps://vivekavani.com/b13v5/\n\nhttps://vivekavani.com/b13v6/"
@@ -2588,7 +3001,9 @@
         "title": "Gaiea Sanskrit 13.7"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.7"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v7/"
@@ -2604,7 +3019,9 @@
         "title": "Gaiea Sanskrit 13.7 (Cont'd)"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.7"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v7/"
@@ -2620,7 +3037,9 @@
         "title": "Gaiea Sanskrit 13.7 (Cont'd)"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.7"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v7/"
@@ -2636,7 +3055,10 @@
         "title": "Gaiea Sanskrit 13.8-9"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.8",
+      "13.9"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v8/"
@@ -2652,10 +3074,12 @@
         "title": "Gaiea Sanskrit 13.10"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.10"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
-    "analysis": "https://vivekavani.com/b13v8/"
+    "analysis": "https://vivekavani.com/b13v10/"
   },
   {
     "name": "153. Chapter 13 Verses 11-12",
@@ -2668,7 +3092,10 @@
         "title": "Gaiea Sanskrit 13.11-12"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.11",
+      "13.12"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v8/"
@@ -2684,7 +3111,10 @@
         "title": "Gaiea Sanskrit 13.13-14"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.13",
+      "13.14"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v13/\n\nhttps://vivekavani.com/b13v14/"
@@ -2700,7 +3130,9 @@
         "title": "Gaiea Sanskrit 13.15"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.15"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v15/"
@@ -2716,7 +3148,11 @@
         "title": "Gaiea Sanskrit 13.16-18"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.16",
+      "13.17",
+      "13.18"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v15/"
@@ -2732,7 +3168,9 @@
         "title": "Gaiea Sanskrit 13.17"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.17"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v15/"
@@ -2748,7 +3186,11 @@
         "title": "Gaiea Sanskrit 13.19-21"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.19",
+      "13.20",
+      "13.21"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v19/\n\nhttps://vivekavani.com/b13v20/\n\nhttps://vivekavani.com/b13v21/"
@@ -2764,7 +3206,10 @@
         "title": "Gaiea Sanskrit 13.22-23"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.22",
+      "13.23"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v22/\n\nhttps://vivekavani.com/b13v23/"
@@ -2780,7 +3225,10 @@
         "title": "Gaiea Sanskrit 13.24-25"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.24",
+      "13.25"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v24/\n\nhttps://vivekavani.com/b13v25/"
@@ -2796,7 +3244,11 @@
         "title": "Gaiea Sanskrit 13.26-28"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.26",
+      "13.27",
+      "13.28"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "***"
@@ -2812,7 +3264,14 @@
         "title": "Gaiea Sanskrit 13.29-34"
       }
     ],
-    "tags": [],
+    "tags": [
+      "13.29",
+      "13.30",
+      "13.31",
+      "13.32",
+      "13.33",
+      "13.34"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b13v29/\n\nhttps://vivekavani.com/b13v30/\n\nhttps://vivekavani.com/b13v31/\n\nhttps://vivekavani.com/b13v32/\n\nhttps://vivekavani.com/b13v33/\n\nhttps://vivekavani.com/b13v34/\n\nhttps://vivekavani.com/b13v35/"
@@ -2828,7 +3287,13 @@
         "title": "Gaiea Sanskrit 14.1-5"
       }
     ],
-    "tags": [],
+    "tags": [
+      "14.1",
+      "14.2",
+      "14.3",
+      "14.4",
+      "14.5"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b14v1/\n\nhttps://vivekavani.com/b14v2/\n\nhttps://vivekavani.com/b14v3/\n\nhttps://vivekavani.com/b14v4/\n\nhttps://vivekavani.com/b14v5/"
@@ -2844,7 +3309,9 @@
         "title": "Gaiea Sanskrit 14.6"
       }
     ],
-    "tags": [],
+    "tags": [
+      "14.6"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b14v6/"
@@ -2860,7 +3327,13 @@
         "title": "Gaiea Sanskrit 14.6-10"
       }
     ],
-    "tags": [],
+    "tags": [
+      "14.6",
+      "14.7",
+      "14.8",
+      "14.9",
+      "14.10"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b14v6/\n\nhttps://vivekavani.com/b14v7/\n\nhttps://vivekavani.com/b14v8/\n\nhttps://vivekavani.com/b14v9/\n\nhttps://vivekavani.com/b14v10/"
@@ -2876,7 +3349,13 @@
         "title": "Gaiea Sanskrit 14.11-15"
       }
     ],
-    "tags": [],
+    "tags": [
+      "14.11",
+      "14.12",
+      "14.13",
+      "14.14",
+      "14.15"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b14v11/\n\nhttps://vivekavani.com/b14v12/\n\nhttps://vivekavani.com/b14v13/\n\nhttps://vivekavani.com/b14v14/\n\nhttps://vivekavani.com/b14v15/"
@@ -2892,7 +3371,13 @@
         "title": "Gaiea Sanskrit 14.16-20"
       }
     ],
-    "tags": [],
+    "tags": [
+      "14.16",
+      "14.17",
+      "14.18",
+      "14.19",
+      "14.20"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b14v16/\n\nhttps://vivekavani.com/b14v17/\n\nhttps://vivekavani.com/b14v18/\n\nhttps://vivekavani.com/b14v19/\n\nhttps://vivekavani.com/b14v20/"
@@ -2908,7 +3393,10 @@
         "title": "Gaiea Sanskrit 14.21-22"
       }
     ],
-    "tags": [],
+    "tags": [
+      "14.21",
+      "14.22"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b14v21/\n\nhttps://vivekavani.com/b14v22/"
@@ -2924,7 +3412,11 @@
         "title": "Gaiea Sanskrit 14.23-25"
       }
     ],
-    "tags": [],
+    "tags": [
+      "14.23",
+      "14.24",
+      "14.25"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b14v22/"
@@ -2940,7 +3432,10 @@
         "title": "Gaiea Sanskrit 14.26-27"
       }
     ],
-    "tags": [],
+    "tags": [
+      "14.26",
+      "14.27"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b14v26/\n\nhttps://vivekavani.com/b14v27/"
@@ -2956,7 +3451,12 @@
         "title": "Gaiea Sanskrit 15.1-4"
       }
     ],
-    "tags": [],
+    "tags": [
+      "15.1",
+      "15.2",
+      "15.3",
+      "15.4"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b15v1/\n\nhttps://vivekavani.com/b15v2/\n\nhttps://vivekavani.com/b15v3/"
@@ -2972,7 +3472,12 @@
         "title": "Gaiea Sanskrit 15.1-4 (Contnd.)"
       }
     ],
-    "tags": [],
+    "tags": [
+      "15.1",
+      "15.2",
+      "15.3",
+      "15.4"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b15v1/\n\nhttps://vivekavani.com/b15v2/\n\nhttps://vivekavani.com/b15v3/"
@@ -2988,7 +3493,12 @@
         "title": "Gaiea Sanskrit 15.1-4 (Contnd.)"
       }
     ],
-    "tags": [],
+    "tags": [
+      "15.1",
+      "15.2",
+      "15.3",
+      "15.4"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b15v1/\n\nhttps://vivekavani.com/b15v2/\n\nhttps://vivekavani.com/b15v3/"
@@ -3004,7 +3514,12 @@
         "title": "Gaiea Sanskrit 15.1-4 (Contnd.)"
       }
     ],
-    "tags": [],
+    "tags": [
+      "15.1",
+      "15.2",
+      "15.3",
+      "15.4"
+    ],
     "dateAdded": "2026-05-05",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b15v1/\n\nhttps://vivekavani.com/b15v2/\n\nhttps://vivekavani.com/b15v3/"
@@ -3020,7 +3535,9 @@
         "title": "Gaiea Sanskrit 15.15"
       }
     ],
-    "tags": [],
+    "tags": [
+      "15.5"
+    ],
     "dateAdded": "2026-05-13",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b15v5/"
@@ -3036,7 +3553,9 @@
         "title": "Gaiea Sanskrit 15.16"
       }
     ],
-    "tags": [],
+    "tags": [
+      "15.6"
+    ],
     "dateAdded": "2026-05-13",
     "hasPDF": false,
     "analysis": "https://vivekavani.com/b15v6/"
@@ -3050,5 +3569,53 @@
     "dateAdded": "2026-04-25",
     "hasPDF": false,
     "analysis": ""
+  },
+  {
+    "name": "xxx. Chapter 16 Verses 1-24",
+    "category": "Chapter 16 — daiva-guna-vibhaga yoga",
+    "file": "16_Chapter/xxx. Chapter 16 Verses 1-24",
+    "audio": [
+      {
+        "url": "https://samhita-cz.github.io/gita-audio/ch16/xxx.mp3",
+        "label": "Gaiea Sanskrit 16.x",
+        "title": "Gaiea Sanskrit 16.x"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-15",
+    "hasPDF": false,
+    "analysis": "https://vivekavani.com/b16/"
+  },
+  {
+    "name": "xxx. Chapter 17 Verses 1-28",
+    "category": "Chapter 17 — śraddhātraya vibhāga yoga",
+    "file": "17_Chapter/xxx. Chapter 17 Verses 1-28",
+    "audio": [
+      {
+        "url": "https://samhita-cz.github.io/gita-audio/ch17/xxx.mp3",
+        "label": "Gaiea Sanskrit 17.x",
+        "title": "Gaiea Sanskrit 17.x"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-15",
+    "hasPDF": false,
+    "analysis": "https://vivekavani.com/b17/"
+  },
+  {
+    "name": "xxx. Chapter 18 Verses 1-78",
+    "category": "Chapter 18 — mokṣa sannyāsa yoga",
+    "file": "18_Chapter/xxx. Chapter 18 Verses 1-78",
+    "audio": [
+      {
+        "url": "https://samhita-cz.github.io/gita-audio/ch18/xxx.mp3",
+        "label": "Gaiea Sanskrit 18.x",
+        "title": "Gaiea Sanskrit 18.x"
+      }
+    ],
+    "tags": [],
+    "dateAdded": "2026-05-15",
+    "hasPDF": false,
+    "analysis": "https://vivekavani.com/b18/"
   }
 ]

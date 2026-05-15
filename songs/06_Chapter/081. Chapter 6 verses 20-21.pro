@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 6 — dhyāna yoga}
-{tags: }
+{tags: 6.20, 6.21}
 {audio: https://samhita-cz.github.io/gita-audio/ch06/081.mp3 | Gaiea Sanskrit 6.20-21}
 
 https://youtu.be/28VJr6TSkYo?si=weMLd1yLS-r9QpMM

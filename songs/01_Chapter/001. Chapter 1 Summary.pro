@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 1 — arjuna viṣhāda yoga}
-{tags: 1.1, 3.2, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, 3.27, 3.28, 3.29, 3.30, 3.31, 3.32, 3.33, 3.34, 3.35, 3.36, 3.37, 3.38, 3.39, 3.40, 3.41, 3.42, 3.43}
+{tags: 1.1, 1.2, 1.3, 1.4, 1.5, 1.6, 1.7, 1.8, 1.27, 1.28, 1.29, 1.30, 1.31, 1.32, 1.33, 1.34, 1.35, 1.36, 1.37, 1.38, 1.39, 1.40, 1.41, 1.42, 1.43, 1.44, 1.45, 1.46, 1.47}
 {audio: https://samhita-cz.github.io/gita-audio/ch01/001.mp3 | Gaiea Sanskrit 1.1-47}
 
 https://youtu.be/y9Kt7Db9MxA
@@ -49,7 +49,7 @@ Sanjaya said: On seeing the Pāndava army arrayed for battle, King Duryodhana we
  
 {sov: Verse 1.3}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-3.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-1.mp3
 
 पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् ।
 व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ।। 3।।
@@ -190,7 +190,7 @@ Bhishma the grandsire, the glorious, the oldest of the Kurus, gave forth a lion-
 
 {sov: Verse 1.13}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-13.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-11.mp3
 
 तत: शङ्खाश्च भेर्यश्च पणवानकगोमुखा: |
 सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् || 13||
@@ -311,7 +311,7 @@ Arjuna said: O Achyuta, between the two armies draw up my chariot, that I may be
 
 {sov: Verse 1.23}
 
-https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-23.mp3
+https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-21.mp3
 
 योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागता: |
 धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षव: || 23||

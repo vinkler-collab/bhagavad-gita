@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 15 — puruṣottama yoga}
-{tags: }
+{tags: 15.1, 15.2, 15.3, 15.4}
 {audio: https://samhita-cz.github.io/gita-audio/ch15/171.mp3 | Gaiea Sanskrit 15.1-4}
 
 https://www.youtu.be/XAJ0JJtvDvo?si=89fvFP3EK6tSdJXm

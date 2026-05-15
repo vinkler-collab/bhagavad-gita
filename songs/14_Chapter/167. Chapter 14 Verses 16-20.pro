@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 14 — guṇa traya vibhāga yoga}
-{tags: }
+{tags: 14.16, 14.17, 14.18, 14.19, 14.20}
 {audio: https://samhita-cz.github.io/gita-audio/ch14/167.mp3 | Gaiea Sanskrit 14.16-20}
 
 https://www.youtu.be/nYeO34oopqM?si=qSGnWgDlG0GApiCt

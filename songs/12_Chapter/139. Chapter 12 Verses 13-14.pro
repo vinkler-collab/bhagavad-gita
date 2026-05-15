@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 12 — bhakti yoga}
-{tags: }
+{tags: 12.13, 12.14}
 {audio: https://samhita-cz.github.io/gita-audio/ch12/139.mp3 | Gaiea Sanskrit 12.13-14}
 
 https://youtu.be/nQFFIwWWr38?si=L3wsRFJZxqsME1kj

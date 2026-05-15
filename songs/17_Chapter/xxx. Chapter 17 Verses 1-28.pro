@@ -1,15 +1,15 @@
-{title: nazevsouboru}
+{title: xxx. Chapter 17 Verses 1-28}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
-{category: Chapter 2 — sāṅkhya yoga}
+{category: Chapter 17 — śraddhātraya vibhāga yoga}
 {tags: }
-{audio: https://samhita-cz.github.io/gita-audio/ch02/xxx.mp3 | Gaiea Sanskrit 2.x}
+{audio: https://samhita-cz.github.io/gita-audio/ch17/xxx.mp3 | Gaiea Sanskrit 17.x}
 
 YOUTUBE
 
 SPOTIFY
 
-{sov: Verse 2.}
+{sov: Verse 1.}
 
 MP3VIVEKAVANI
 
@@ -32,4 +32,5 @@ TRANSLATION
 {eot}
 
 {start_of_analysis}
-***
+https://vivekavani.com/b17/
+{end_of_analysis}

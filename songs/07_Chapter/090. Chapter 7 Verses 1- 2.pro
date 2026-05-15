@@ -1,8 +1,8 @@
-{title: 090. Chapter 7 Verses 1- 2}
+{title: 090. Chapter 7 Verses 1-2}
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 7 — vijñāna yoga}
-{tags: }
+{tags: 7.1, 7.2}
 {audio: https://samhita-cz.github.io/gita-audio/ch07/090.mp3 | Gaiea Sanskrit 7.1-2}
 
 https://youtu.be/ONQCL3a7REs?si=Aea0BlqKQFftb3xl

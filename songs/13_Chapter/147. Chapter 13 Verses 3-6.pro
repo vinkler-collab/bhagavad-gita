@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 13 — kṣetra kṣetrajña vibhāga yoga}
-{tags: }
+{tags: 13.3, 13.4, 13.5, 13.6}
 {audio: https://samhita-cz.github.io/gita-audio/ch13/147.mp3 | Gaiea Sanskrit 13.3-6}
 
 https://www.youtu.be/qErsel70RS8?si=A6yIfHu4cInCvpk1

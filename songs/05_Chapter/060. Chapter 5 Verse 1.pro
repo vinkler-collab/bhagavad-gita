@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 5 — karma sanyāsa yoga}
-{tags: }
+{tags: 5.1}
 {audio: https://samhita-cz.github.io/gita-audio/ch05/060.mp3 | Gaiea Sanskrit 5.1}
 
 https://youtu.be/JCnUP6e7vFc?si=TlntvF-LS2gxUnWt

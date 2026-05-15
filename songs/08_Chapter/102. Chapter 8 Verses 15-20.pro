@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 8 — akṣhara parabrahma yoga}
-{tags: }
+{tags: 8.15, 8.16, 8.17, 8.18, 8.19, 8.20}
 {audio: https://samhita-cz.github.io/gita-audio/ch08/102.mp3 | Gaiea Sanskrit 8.15-20}
 
 https://youtu.be/_5XHkYnB6DI?si=KIn60IGCyUUVexnf

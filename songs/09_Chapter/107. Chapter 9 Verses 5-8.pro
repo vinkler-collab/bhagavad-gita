@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 9 — rāja vidyā yoga}
-{tags: }
+{tags: 9.5, 9.6, 9.7, 9.8}
 {audio: https://samhita-cz.github.io/gita-audio/ch09/107.mp3 | Gaiea Sanskrit 9.5-8}
 
 https://youtu.be/1ourHrFYGeo?si=LUWic4odRkHfRVs6

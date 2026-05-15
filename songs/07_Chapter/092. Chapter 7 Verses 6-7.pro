@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 7 — vijñāna yoga}
-{tags: }
+{tags: 7.6, 7.7}
 {audio: https://samhita-cz.github.io/gita-audio/ch07/092.mp3 | Gaiea Sanskrit 7.6-7}
 
 https://youtu.be/X730JLmDiTg?si=XwP5-efmTQL_Vyug

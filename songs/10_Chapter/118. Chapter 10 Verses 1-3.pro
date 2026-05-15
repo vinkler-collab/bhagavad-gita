@@ -2,7 +2,7 @@
 {subtitle: Bhagavad Gita}
 {author: Swami Sarvapriyananda}
 {category: Chapter 10 — vibhūti yoga}
-{tags: }
+{tags: 10.1, 10.2, 10.3}
 {audio: https://samhita-cz.github.io/gita-audio/ch10/118.mp3 | Gaiea Sanskrit 10.1-3}
 
 https://youtu.be/A1mC3_TNFNQ?si=7HJRvhggAmt4Ta0n
