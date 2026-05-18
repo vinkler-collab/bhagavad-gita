@@ -25,7 +25,7 @@ arjunaḥ uvācha—Arjun said; evam—thus; satata—steadfastly; yuktāḥ—d
 {eov}
 
 {sot}
-TRANSLATIArjuna said: Thus, those who worship You, ever steadfast, and also those who meditate on the unmanifest Imperishable Brahman of the two types of seekers, who are superior knowers of yoga?ON
+Arjuna said: Thus, those who worship You, ever steadfast, and also those who meditate on the unmanifest Imperishable Brahman of the two types of seekers, who are superior knowers of yoga?
 {eot}
 
 {sov: Verse 12.2}
