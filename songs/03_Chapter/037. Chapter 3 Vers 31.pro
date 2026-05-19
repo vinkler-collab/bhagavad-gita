@@ -21,10 +21,10 @@ anutiṣṭhanti mānavāḥ |
 śraddhāvanto’nasūyanto 
 mucyante te’pi karmabhiḥ ||
 
-ye – who; me – My; matam – teaching; idam – this; nityam – constantly; 
-anutiṣṭhanti – follow; mānavāḥ – men; 
-śraddhāvantaḥ – full of faith; anasūyantaḥ – free from cavil/envy; 
-mucyante – are freed; te api – they also; karmabhiḥ – from (the bondage of) actions.
+◈  ye – who; me – My; matam – teaching; idam – this; nityam – constantly; 
+◈  anutiṣṭhanti – follow; mānavāḥ – men; 
+◈  śraddhāvantaḥ – full of faith; anasūyantaḥ – free from cavil/envy; 
+◈  mucyante – are freed; te api – they also; karmabhiḥ – from (the bondage of) actions.
 
 {eov}
 

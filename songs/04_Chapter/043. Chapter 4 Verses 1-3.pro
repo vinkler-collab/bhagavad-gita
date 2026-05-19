@@ -17,11 +17,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 इमं विवस्वते योगं प्रोक्तवानहमव्ययम् |
 विवस्वान्मनवे प्राह मनुरिक्ष्वाकवेऽब्रवीत् || 1||
 
-śhrī bhagavān uvācha
-imaṁ vivasvate yogaṁ proktavān aham avyayam
-vivasvān manave prāha manur ikṣhvākave ’bravīt
+śrībhagavānuvāca |
+imaṃ vivasvate yogaṃ 
+proktavānahamavyayam |
+vivasvānmanave prāha 
+manurikṣvākave’bravīt ||
 
-śhrī-bhagavān uvācha—the Supreme Lord Shree Krishna said; imam—this; vivasvate—to the Sun God; yogam—the science of Yog; proktavān—taught; aham—I; avyayam—eternal; vivasvān—Sun God; manave—to Manu, the original progenitor of humankind; prāha—told; manuḥ—Manu; ikṣhvākave—to Ikshvaku, first king of the Solar dynasty; abravīt—instructed
+śrī-bhagavān uvāca – The Blessed Lord said; 
+imam – this; vivasvate – to Vivasvan (the Sun-god); yogam – Yoga; proktavān – taught; aham – I; avyayam – imperishable; 
+vivasvān – Vivasvan; manave – to Manu; prāha – taught; manuḥ – Manu; ikṣvākave – to Ikshvaku; abravīt – taught.
+
 {eov}
 
 {sot}
@@ -35,10 +40,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 एवं परम्पराप्राप्तमिमं राजर्षयो विदु: |
 स कालेनेह महता योगो नष्ट: परन्तप || 2||
 
-evaṁ paramparā-prāptam imaṁ rājarṣhayo viduḥ
-sa kāleneha mahatā yogo naṣhṭaḥ parantapa
+evaṃ paramparāprāptam 
+imaṃ rājarṣayo viduḥ |
+sa kāleneha mahatā 
+yogo naṣṭaḥ parantapa ||
 
-evam—thus; paramparā—in a continuous tradition; prāptam—received; imam—this (science); rāja-ṛiṣhayaḥ—the saintly kings; viduḥ—understood; saḥ—that; kālena—with the long passage of time; iha—in this world; mahatā—great; yogaḥ—the science of Yog; naṣhṭaḥ—lost; parantapa—Arjun, the scorcher of foes
+evam – thus; paramparā-prāptam – received through tradition/lineage; 
+imam – this; rāja-ṛṣayaḥ – the royal sages; viduḥ – knew; 
+saḥ – that; kālena – by time; iha – here/in this world; mahatā – long; 
+yogaḥ – Yoga; naṣṭaḥ – lost; parantapa – O scorcher of foes.
+
 {eov}
 
 {sot}
@@ -52,10 +63,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 स एवायं मया तेऽद्य योग: प्रोक्त: पुरातन: |
 भक्तोऽसि मे सखा चेति रहस्यं ह्येतदुत्तमम् || 3||
 
-sa evāyaṁ mayā te ’dya yogaḥ proktaḥ purātanaḥ
-bhakto ’si me sakhā cheti rahasyaṁ hyetad uttamam
+sa evāyaṃ mayā te’dya 
+yogaḥ proktaḥ purātanaḥ | 
+bhakto’si me sakhā ceti 
+rahasyaṃ hyetaduttamam ||
 
-saḥ—that; eva—certainly; ayam—this; mayā—by me; te—unto you; adya—today; yogaḥ—the science of Yog; proktaḥ—reveal; purātanaḥ—ancient; bhaktaḥ—devotee; asi—you are; me—my; sakhā—friend; cha—and; iti—therefore; rahasyam—secret; hi—certainly; etat—this; uttamam—supreme
+saḥ – that; eva – same; ayam – this; mayā – by Me; te – to you; adya – today; 
+yogaḥ – Yoga; proktaḥ – has been told; purātanaḥ – ancient; 
+bhaktaḥ – devotee; asi – you are; me – My; sakhā – friend; ca – and; iti – thus; 
+rahasyam – secret; hi – indeed; etat – this; uttamam – supreme.
 {eov}
 
 {sot}

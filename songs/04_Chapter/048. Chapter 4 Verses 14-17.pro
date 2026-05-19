@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 न मां कर्माणि लिम्पन्ति न मे कर्मफले स्पृहा |
 इति मां योऽभिजानाति कर्मभिर्न स बध्यते || 14||
 
-na māṁ karmāṇi limpanti na me karma-phale spṛihā
-iti māṁ yo ’bhijānāti karmabhir na sa badhyate
+na māṃ karmāṇi limpanti 
+na me karmaphale spṛhā | 
+iti māṃ yo’bhijānāti 
+karmabhirna sa badhyate ||
 
-na—not; mām—me; karmāṇi—activities; limpanti—taint; na—nor; me—my; karma-phale—the fruits of action; spṛihā—desire; iti—thus; mām—me; yaḥ—who; abhijānāti—knows; karmabhiḥ—result of action; na—never; saḥ—that person; badhyate—is bound
+na – not; mām – Me; karmāṇi – actions; limpanti – taint/stain; 
+na – not; me – for Me; karma-phale – in the fruit of action; spṛhā – desire; 
+iti – thus; mām – Me; yaḥ – who; abhijānāti – knows; 
+karmabhiḥ – by actions; na – not; saḥ – he; badhyate – is bound.
 {eov}
 
 {sot}
@@ -33,10 +38,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 एवं ज्ञात्वा कृतं कर्म पूर्वैरपि मुमुक्षुभि: |
 कुरु कर्मैव तस्मात्त्वं पूर्वै: पूर्वतरं कृतम् || 15||
 
-evaṁ jñātvā kṛitaṁ karma pūrvair api mumukṣhubhiḥ
-kuru karmaiva tasmāttvaṁ pūrvaiḥ pūrvataraṁ kṛitam
+evaṃ jñātvā kṛtaṃ karma 
+pūrvairapi mumukṣubhiḥ |
+kuru karmaiva tasmāttvaṃ 
+pūrvaiḥ pūrvataraṃ kṛtam ||
 
-evam—thus; jñātvā—knowing; kṛitam—performed; karma—actions; pūrvaiḥ—of ancient times; api—indeed; mumukṣhubhiḥ—seekers of liberation; kuru—should perform; karma—duty; eva—certainly; tasmāt—therefore; tvam—you; pūrvaiḥ—of those ancient sages; pūrva-taram—in ancient times; kṛitam—performed
+evam – thus; jñātvā – knowing; kṛtam – was performed; karma – action; 
+pūrvaiḥ – by the ancients; api – also; mumukṣubhiḥ – seekers of liberation; 
+kuru – perform; karma – action; eva – only; tasmāt – therefore; tvam – you; 
+pūrvaiḥ – by the ancients; pūrvataram – in olden times; kṛtam – performed.
+
 {eov}
 
 {sot}
@@ -50,10 +61,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 किं कर्म किमकर्मेति कवयोऽप्यत्र मोहिता: |
 तत्ते कर्म प्रवक्ष्यामि यज्ज्ञात्वा मोक्ष्यसेऽशुभात् || 16||
 
-kiṁ karma kim akarmeti kavayo ’pyatra mohitāḥ
-tat te karma pravakṣhyāmi yaj jñātvā mokṣhyase ’śhubhāt
+kiṃ karma kimakarmeti 
+kavayo’pyatra mohitāḥ | 
+tatte karma pravakṣyāmi 
+yajjñātvā mokṣyase’śubhāt ||
 
-kim—what; karma—action; kim—what; akarma—inaction; iti—thus; kavayaḥ—the wise; api—even; atra—in this; mohitāḥ—are confused; tat—that; te—to you; karma—action; pravakṣhyāmi—I shall explain; yat—which; jñātvā—knowing; mokṣhyase—you may free yourself; aśhubhāt—from inauspiciousness
+kim – what; karma – action; kim – what; akarma – inaction; iti – thus; 
+kavayaḥ – the wise/poets; api – even; atra – in this; mohitāḥ – are deluded; 
+tat – that; te – to you; karma – action; pravakṣyāmi – I shall explain; 
+yat – which; jñātvā – knowing; mokṣyase – you will be liberated; aśubhāt – from evil/bondage.
 {eov}
 
 {sot}
@@ -67,10 +83,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मण: |
 अकर्मणश्च बोद्धव्यं गहना कर्मणो गति: || 17||
 
-karmaṇo hyapi boddhavyaṁ boddhavyaṁ cha vikarmaṇaḥ
-akarmaṇaśh cha boddhavyaṁ gahanā karmaṇo gatiḥ
+karmaṇo hyapi boddhavyaṃ 
+boddhavyaṃ ca vikarmaṇaḥ | 
+akarmaṇaśca boddhavyaṃ 
+gahanā karmaṇo gatiḥ ||
 
-karmaṇaḥ—recommended action; hi—certainly; api—also; boddhavyam—should be known; boddhavyam—must understand; cha—and; vikarmaṇaḥ—forbidden action; akarmaṇaḥ—inaction; cha—and; boddhavyam—must understand; gahanā—profound; karmaṇaḥ—of action; gatiḥ—the true path
+karmaṇaḥ – of action; hi – indeed; api – also; boddhavyam – should be known; 
+boddhavyam – should be known; ca – and; vikarmaṇaḥ – of forbidden action; 
+akarmaṇaḥ – of inaction; ca – and; boddhavyam – should be known; 
+gahanā – profound/mysterious; karmaṇaḥ – of action; gatiḥ – the path/way.
 {eov}
 
 {sot}

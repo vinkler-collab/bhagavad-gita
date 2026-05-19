@@ -172,10 +172,10 @@ nānuvartayatīha yaḥ |
 aghāyurindriyārāmo 
 moghaṃ pārtha sa jīvati ||
 
-evam – thus; pravartitam – set in motion; cakram – wheel; 
-na – not; anuvartayati – follows; iha – in this world; yaḥ – who; 
-agha-āyuḥ – living in sin; indriya-ārāmaḥ – rejoicing in the senses; 
-mogham – in vain; pārtha – O Partha; saḥ – he; jīvati – lives.
+◈  evam – thus; pravartitam – set in motion; cakram – wheel; 
+◈  na – not; anuvartayati – follows; iha – in this world; yaḥ – who; 
+◈  agha-āyuḥ – living in sin; indriya-ārāmaḥ – rejoicing in the senses; 
+◈  mogham – in vain; pārtha – O Partha; saḥ – he; jīvati – lives.
 
 {eov}
 

@@ -44,10 +44,10 @@ karma jyāyo hyakarmaṇaḥ |
 śarīrayātrāpi ca te 
 na prasiddhyedakarmaṇaḥ ||
 
-niyatam – prescribed/obligatory; kuru – perform; 
-karma – action; tvam – you; karma – action; jyāyaḥ – superior; hi – indeed; akarmaṇaḥ – than inaction; 
-śarīra-yātrā – maintenance of the body; api – even; ca – and; te – your; 
-na prasiddhyet – would not be possible; akarmaṇaḥ – through inaction.
+◈  niyatam – prescribed/obligatory; kuru – perform; 
+◈  karma – action; tvam – you; karma – action; jyāyaḥ – superior; hi – indeed; akarmaṇaḥ – than inaction; 
+◈  śarīra-yātrā – maintenance of the body; api – even; ca – and; te – your; 
+◈  na prasiddhyet – would not be possible; akarmaṇaḥ – through inaction.
 
 {eov}
 

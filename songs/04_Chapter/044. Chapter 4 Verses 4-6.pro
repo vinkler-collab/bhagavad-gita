@@ -17,11 +17,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 अपरं भवतो जन्म परं जन्म विवस्वत: |
 कथमेतद्विजानीयां त्वमादौ प्रोक्तवानिति || 4||
 
-arjuna uvācha
-aparaṁ bhavato janma paraṁ janma vivasvataḥ
-katham etad vijānīyāṁ tvam ādau proktavān iti
+arjuna uvāca | 
+aparaṃ bhavato janma 
+paraṃ janma vivasvataḥ | 
+kathametadvijānīyāṃ 
+tvamādau proktavāniti ||
 
-arjunaḥ uvācha—Arjun said; aparam—later; bhavataḥ—your; janma—birth; param—prior; janma—birth; vivasvataḥ—Vivasvan, the Sun God; katham—how; etat—this; vijānīyām—am I to understand; tvam—you; ādau—in the beginning; proktavān—taught; iti—thus
+arjunaḥ uvāca – Arjuna said; 
+aparam – later; bhavataḥ – Your; janma – birth; 
+param – prior/ancient; janma – birth; vivasvataḥ – of Vivasvan; 
+katham – how; etat – this; vijānīyām – should I understand; 
+tvam – You; ādau – in the beginning; proktavān – taught; iti – thus.
 {eov}
 
 {sot}
@@ -36,11 +42,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 बहूनि मे व्यतीतानि जन्मानि तव चार्जुन |
 तान्यहं वेद सर्वाणि न त्वं वेत्थ परन्तप || 5||*
 
-śhrī bhagavān uvācha
-bahūni me vyatītāni janmāni tava chārjuna
-tānyahaṁ veda sarvāṇi na tvaṁ vettha parantapa
+śrībhagavānuvāca | 
+bahūni me vyatītāni 
+janmāni tava cārjuna | 
+tānyahaṃ veda sarvāṇi 
+na tvaṃ vettha parantapa ||
 
-śhrī-bhagavān uvācha—the Supreme Lord said; bahūni—many; me—of mine; vyatītāni—have passed; janmāni—births; tava—of yours; cha—and; arjuna—Arjun; tāni—them; aham—I; veda—know; sarvāṇi—all; na—not; tvam—you; vettha—know; parantapa—Arjun, the scorcher of foes
+śrī-bhagavān uvāca – The Blessed Lord said; 
+bahūni – many; me – My; vyatītāni – have passed; 
+janmāni – births; tava – your; ca – and; arjuna – O Arjuna; 
+tāni – them; aham – I; veda – know; sarvāṇi – all; 
+na – not; tvam – you; vettha – know; parantapa – O scorcher of foes.
 {eov}
 
 {sot}
@@ -54,10 +66,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 अजोऽपि सन्नव्ययात्मा भूतानामीश्वरोऽपि सन् |
 प्रकृतिं स्वामधिष्ठाय सम्भवाम्यात्ममायया || 6||
 
-ajo ’pi sannavyayātmā bhūtānām īśhvaro ’pi san
-prakṛitiṁ svām adhiṣhṭhāya sambhavāmyātma-māyayā
+ajo’pi sannavyayātmā 
+bhūtānāmīśvaro’pi san | 
+prakṛtiṃ svāmadhiṣṭhāya 
+sambhavāmyātmamāyayā ||
 
-ajaḥ—unborn; api—although; san—being so; avyaya ātmā—Imperishable nature; bhūtānām—of (all) beings; īśhvaraḥ—the Lord; api—although; san—being; prakṛitim—nature; svām—of myself; adhiṣhṭhāya—situated; sambhavāmi—I manifest; ātma-māyayā—by my Yogmaya power
+ajaḥ – unborn; api – although; san – being; avyaya-ātmā – imperishable Self; 
+bhūtānām – of beings; īśvaraḥ – the Lord; api – although; san – being; 
+prakṛtim – nature; svām – My own; adhiṣṭhāya – presiding over/governing; 
+sambhavāmi – I manifest/come into being; ātma-māyayā – by My own Maya (creative power).
+
 {eov}
 
 {sot}

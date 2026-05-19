@@ -21,10 +21,10 @@ nānutiṣṭhanti me matam |
 sarvajñānavimūḍhāṃstān
 viddhi naṣṭānacetasaḥ ||
 
-ye – who; tu – but; etat – this; abhyasūyantaḥ – cavilling/sneering; 
-na anutiṣṭhanti – do not follow; me – My; matam – teaching; 
-sarva-jñāna – in all knowledge; vimūḍhān – deluded; tān – them; 
-viddhi – know; naṣṭān – ruined; acetasaḥ – mindless/devoid of discrimination.
+◈  ye – who; tu – but; etat – this; abhyasūyantaḥ – cavilling/sneering; 
+◈  na anutiṣṭhanti – do not follow; me – My; matam – teaching; 
+◈  sarva-jñāna – in all knowledge; vimūḍhān – deluded; tān – them; 
+◈  viddhi – know; naṣṭān – ruined; acetasaḥ – mindless/devoid of discrimination.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ prakṛterjñānavanapi |
 prakṛtiṃ yānti bhūtāni 
 nigrahaḥ kiṃ kariṣyati ||
 
-sadṛśam – accordingly; ceṣṭate – acts; svasyāḥ – of his own; 
-prakṛteḥ – nature; jñānavān – the wise; api – even; 
-prakṛtim – nature; yānti – follow; bhūtāni – beings; 
-nigrahaḥ – restraint; kim – what; kariṣyati – will do.
+◈  sadṛśam – accordingly; ceṣṭate – acts; svasyāḥ – of his own; 
+◈  prakṛteḥ – nature; jñānavān – the wise; api – even; 
+◈  prakṛtim – nature; yānti – follow; bhūtāni – beings; 
+◈  nigrahaḥ – restraint; kim – what; kariṣyati – will do.
 
 {eov}
 
@@ -66,10 +66,10 @@ rāgadveṣau vyavasthitau |
 tayorna vaśamāgacchettau 
 hyasya paripanthinau ||
 
-indriyasya – of the senses; indriyasya arthe – in the objects of the senses; 
-rāga-dveṣau – attraction and aversion; vyavasthitau – reside; 
-tayoḥ – of these two; na – not; vaśam – under the sway; āgacchet – should come; tau – these two; 
-hi – indeed; asya – his; paripanthinau – foes/adversaries.
+◈  indriyasya – of the senses; indriyasya arthe – in the objects of the senses; 
+◈  rāga-dveṣau – attraction and aversion; vyavasthitau – reside; 
+◈  tayoḥ – of these two; na – not; vaśam – under the sway; āgacchet – should come; tau – these two; 
+◈  hi – indeed; asya – his; paripanthinau – foes/adversaries.
 {eov}
 
 {sot}

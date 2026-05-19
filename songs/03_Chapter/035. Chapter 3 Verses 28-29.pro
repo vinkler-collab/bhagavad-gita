@@ -21,10 +21,10 @@ guṇakarmavibhāgayoḥ |
 guṇā guṇeṣu vartanta 
 iti matvā na sajjate ||
 
-tattva-vit – knower of Truth; tu – but; mahābāho – O mighty-armed; 
-guṇa-karma-vibhāgayoḥ – of the divisions of modes and actions; 
-guṇāḥ – the modes; guṇeṣu – in the modes; vartante – operate; 
-iti – thus; matvā – knowing; na – not; sajjate – becomes attached.
+◈  tattva-vit – knower of Truth; tu – but; mahābāho – O mighty-armed; 
+◈  guṇa-karma-vibhāgayoḥ – of the divisions of modes and actions; 
+◈  guṇāḥ – the modes; guṇeṣu – in the modes; vartante – operate; 
+◈  iti – thus; matvā – knowing; na – not; sajjate – becomes attached.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ sajjante guṇakarmasu |
 tānakṛtsnavido mandān
 kṛtsnavinna vicālayet ||
 
-prakṛteḥ – of nature; guṇa-sammūḍhāḥ – deluded by the modes; 
-sajjante – become attached; guṇa-karmasu – to the actions of the modes; 
-tān – those; akṛtsna-vidaḥ – of imperfect knowledge; mandān – the dull-witted; 
-kṛtsna-vit – the knower of the Whole (the wise); na – not; vicālayet – should unsettle.
+◈  prakṛteḥ – of nature; guṇa-sammūḍhāḥ – deluded by the modes; 
+◈  sajjante – become attached; guṇa-karmasu – to the actions of the modes; 
+◈  tān – those; akṛtsna-vidaḥ – of imperfect knowledge; mandān – the dull-witted; 
+◈  kṛtsna-vit – the knower of the Whole (the wise); na – not; vicālayet – should unsettle.
 
 {eov}
 

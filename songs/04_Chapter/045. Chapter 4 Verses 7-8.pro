@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 यदा यदा हि धर्मस्य ग्लानिर्भवति भारत |
 अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् || 7||
 
-yadā yadā hi dharmasya glānir bhavati bhārata
-abhyutthānam adharmasya tadātmānaṁ sṛijāmyaham
+yadā yadā hi dharmasya
+glānirbhavati bhārata | 
+abhyutthānamadharmasya 
+tadātmānaṃ sṛjāmyaham ||
 
-yadā yadā—whenever; hi—certainly; dharmasya—of righteousness; glāniḥ—decline; bhavati—is; bhārata—Arjun, descendant of Bharat; abhyutthānam—increase; adharmasya—of unrighteousness; tadā—at that time; ātmānam—self; sṛijāmi—manifest; aham—I
+yadā yadā – whenever; hi – indeed; dharmasya – of righteousness (Dharma); 
+glāniḥ – decline; bhavati – occurs; bhārata – O Bharata; 
+abhyutthānam – rise; adharmasya – of unrighteousness; 
+tadā – then; ātmānam – Myself; sṛjāmi – manifest/create; aham – I.
 {eov}
 
 {sot}
@@ -33,10 +38,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 परित्राणाय साधूनां विनाशाय च दुष्कृताम् |
 धर्मसंस्थापनार्थाय सम्भवामि युगे युगे || 8||
 
-paritrāṇāya sādhūnāṁ vināśhāya cha duṣhkṛitām
-dharma-sansthāpanārthāya sambhavāmi yuge yuge
+paritrāṇāya sādhūnāṃ 
+vināśāya ca duṣkṛtām | 
+dharmasaṃsthāpanārthāya 
+sambhavāmi yuge yuge ||
 
-paritrāṇāya—to protect; sādhūnām—the righteous; vināśhāya—to annihilate; cha—and; duṣhkṛitām—the wicked; dharma—the eternal religion; sansthāpana-arthāya—to reestablish; sambhavāmi—I appear; yuge yuge—age after age
+paritrāṇāya – for the protection; sādhūnām – of the good; 
+vināśāya – for the destruction; ca – and; duṣkṛtām – of the wicked; 
+dharma-saṃsthāpana-arthāya – for the sake of establishing righteousness; 
+sambhavāmi – I am born; yuge yuge – from age to age.
+
 {eov}
 
 {sot}

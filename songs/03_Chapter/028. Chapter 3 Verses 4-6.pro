@@ -21,10 +21,10 @@ naiṣkarmyaṃ puruṣo’śnute |
 na ca sannyasanādeva 
 siddhiṃ samadhigacchati ||
 
-na – not; karmaṇām – of actions; anārambhāt – from non-performance; 
-naiṣkarmyam – freedom from action; puruṣaḥ – a man; aśnute – attains; 
-na – not; ca – and; sannyasanāt – from renunciation; eva – only; 
-siddhim – perfection; samadhigacchati – attains.
+◈  na – not; karmaṇām – of actions; anārambhāt – from non-performance; 
+◈  naiṣkarmyam – freedom from action; puruṣaḥ – a man; aśnute – attains; 
+◈  na – not; ca – and; sannyasanāt – from renunciation; eva – only; 
+◈  siddhim – perfection; samadhigacchati – attains.
 
 {eov}
 
@@ -44,10 +44,10 @@ jātu tiṣṭhatyakarmakṛt |
 kāryate hyavaśaḥ karma 
 sarvaḥ prakṛtijairguṇaiḥ ||
 
-na – not; hi – indeed; kaścit – anyone; kṣaṇam – a moment; api – even; 
-jātu – ever; tiṣṭhati – remains; akarma-kṛt – without performing action; 
-kāryate – is made to do; hi – for; avaśaḥ – helplessly; karma – action; 
-sarvaḥ – everyone; prakṛti-jaiḥ – born of nature; guṇaiḥ – by the Gunas (modes).
+◈  na – not; hi – indeed; kaścit – anyone; kṣaṇam – a moment; api – even; 
+◈  jātu – ever; tiṣṭhati – remains; akarma-kṛt – without performing action; 
+◈  kāryate – is made to do; hi – for; avaśaḥ – helplessly; karma – action; 
+◈  sarvaḥ – everyone; prakṛti-jaiḥ – born of nature; guṇaiḥ – by the Gunas (modes).
 
 {eov}
 
@@ -67,10 +67,10 @@ ya āste manasā smaran |
 indriyārthānvimūḍhātmā 
 mithyācāraḥ sa ucyate ||
 
-karma-indriyāṇi – the organs of action; saṃyamya – restraining; 
-yaḥ – who; āste – sits; manasā – with the mind; smaran – dwelling upon; 
-indriya-arthān – objects of the senses; vimūḍha-ātmā – of deluded soul; 
-mithyā-ācāraḥ – hypocrite; saḥ – he; ucyate – is called.
+◈  karma-indriyāṇi – the organs of action; saṃyamya – restraining; 
+◈  yaḥ – who; āste – sits; manasā – with the mind; smaran – dwelling upon; 
+◈  indriya-arthān – objects of the senses; vimūḍha-ātmā – of deluded soul; 
+◈  mithyā-ācāraḥ – hypocrite; saḥ – he; ucyate – is called.
 {eov}
 
 {sot}

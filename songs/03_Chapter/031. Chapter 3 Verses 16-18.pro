@@ -67,10 +67,10 @@ nākṛteneha kaścana |
 na cāsya sarvabhūteṣu 
 kaścidarthavyapāśrayaḥ ||
 
-na – not; eva – certainly; tasya – his; kṛtena – by action performed; arthaḥ – use/interest; 
-na – not; akṛtena – by action not performed; iha – here; kaścana – any; 
-na – not; ca – and; asya – his; sarva-bhūteṣu – in all beings; 
-kaścit – any; artha-vyapāśrayaḥ – dependence for any object.
+◈  na – not; eva – certainly; tasya – his; kṛtena – by action performed; arthaḥ – use/interest; 
+◈  na – not; akṛtena – by action not performed; iha – here; kaścana – any; 
+◈  na – not; ca – and; asya – his; sarva-bhūteṣu – in all beings; 
+◈  kaścit – any; artha-vyapāśrayaḥ – dependence for any object.
 
 {eov}
 

@@ -21,10 +21,10 @@ athādarśo malena ca |
 yatholbenāvṛto garbhas
 tathā tenedamāvṛtam ||
 
-dhūmena – by smoke; āvriyate – is covered; vahniḥ – fire; yathā – as; 
-ādarśaḥ – mirror; malena – by dust/dirt; ca – and; 
-yathā – as; ulbena – by the amnion (membrane); āvṛtaḥ – covered; garbhaḥ – embryo; 
-tathā – so; tenā – by that (desire); idam – this (wisdom); āvṛtam – is covered.
+◈  dhūmena – by smoke; āvriyate – is covered; vahniḥ – fire; yathā – as; 
+◈  ādarśaḥ – mirror; malena – by dust/dirt; ca – and; 
+◈  yathā – as; ulbena – by the amnion (membrane); āvṛtaḥ – covered; garbhaḥ – embryo; 
+◈  tathā – so; tenā – by that (desire); idam – this (wisdom); āvṛtam – is covered.
 
 {eov}
 
@@ -39,10 +39,10 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा |
 कामरूपेण कौन्तेय दुष्पूरेणानलेन च || 39||
 
-āvṛtaṃ jñānametena 
-jñānino nityavairiṇā |
-kāmarūpeṇa kaunteya 
-duṣpūreṇānalena ca ||
+◈  āvṛtaṃ jñānametena 
+◈  jñānino nityavairiṇā |
+◈  kāmarūpeṇa kaunteya 
+◈  duṣpūreṇānalena ca ||
 
 āvṛtam – covered; jñānam – knowledge; etena – by this; 
 jñāninaḥ – of the wise; nitya-vairiṇā – by the eternal enemy; 

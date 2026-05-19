@@ -23,10 +23,11 @@ matā buddhirjanārdana |
 tatkiṃ karmaṇi ghore māṃ 
 niyojayasi keśava ||
 
-arjunaḥ uvāca – Arjuna said; 
-jyāyasī – superior; cet – if; karmaṇaḥ – than action; te – by You; 
-matā – thought; buddhiḥ – intellect/wisdom; janārdana – O Janardana; 
-tat – then; kim – why; karmaṇi – in action; ghore – ghastly/terrible; mām – me; niyojayasi – You engage; keśava – O Kesava.
+◈  arjunaḥ uvāca – Arjuna said; 
+◈  jyāyasī – superior; cet – if; karmaṇaḥ – than action; te – by You; 
+◈  matā – thought; buddhiḥ – intellect/wisdom; janārdana – O Janardana; 
+◈  tat – then; kim – why; karmaṇi – in action; ghore – ghastly/terrible; mām – me; 
+◈  niyojayasi – You engage; keśava – O Kesava.
 {eov}
 
 {sot}
@@ -45,10 +46,10 @@ buddhiṃ mohayasīva me |
 tadekaṃ vada niścitya 
 yena śreyo’hamāpnuyām ||
 
-vyāmiśreṇa – equivocal/confusing; iva – as if; vākyena – by words; 
-buddhim – intellect; mohayasi – You confuse; iva – as it were; me – my; 
-tat – that; ekam – one; vada – tell; niścitya – decisively; 
-yena – by which; śreyaḥ – the highest good; aham – I; āpnuyām – may attain.
+◈  vyāmiśreṇa – equivocal/confusing; iva – as if; vākyena – by words; 
+◈  buddhim – intellect; mohayasi – You confuse; iva – as it were; me – my; 
+◈  tat – that; ekam – one; vada – tell; niścitya – decisively; 
+◈  yena – by which; śreyaḥ – the highest good; aham – I; āpnuyām – may attain.
 
 {eov}
 
@@ -71,10 +72,10 @@ purā proktā mayānagha |
 jñānayogena sāṅkhyānāṃ 
 karmayogena yoginām ||
 
-śrī-bhagavān uvāca – The Blessed Lord said; 
-loke – in the world; asmin – in this; dvividhā – two-fold; niṣṭhā – path/discipline; 
-purā – formerly; proktā – was declared; mayā – by Me; anagha – O sinless one; 
-jñāna-yogena – by the path of Knowledge; sāṅkhyānām – for the Sankhyas; karma-yogena – by the path of Action; yoginām – for the Yogis.
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  loke – in the world; asmin – in this; dvividhā – two-fold; niṣṭhā – path/discipline; 
+◈  purā – formerly; proktā – was declared; mayā – by Me; anagha – O sinless one; 
+◈  jñāna-yogena – by the path of Knowledge; sāṅkhyānām – for the Sankhyas; karma-yogena – by the path of Action; yoginām – for the Yogis.
 
 {eov}
 

@@ -21,10 +21,10 @@ triṣu lokeṣu kiñcana |
 nānavāptamavāptavyaṃ 
 varta eva ca karmaṇi ||
 
-na – not; me – for Me; pārtha – O Partha; asti – is; kartavyam – duty;
- triṣu – in the three; lokeṣu – worlds; kiñcana – any; 
-na – not; anavāptam – unattained; avāptavyam – to be attained; 
-varte – I am engaged; eva – also; ca – and; karmaṇi – in action.
+◈  na – not; me – for Me; pārtha – O Partha; asti – is; kartavyam – duty;
+◈  triṣu – in the three; lokeṣu – worlds; kiñcana – any; 
+◈  na – not; anavāptam – unattained; avāptavyam – to be attained; 
+◈  varte – I am engaged; eva – also; ca – and; karmaṇi – in action.
 
 {eov}
 
@@ -44,10 +44,10 @@ jātu karmaṇyatandritaḥ |
 mama vartmānuvarta nte 
 manuṣyāḥ pārtha sarvaśaḥ ||
 
-yadi – if; hi – indeed; aham – I; na – not; varteyam – should engage; 
-jātu – ever; karmaṇi – in action; atandritaḥ – tirelessly; 
-mama – My; vartma – path; anuvartante – follow; 
-manuṣyāḥ – men; pārtha – O Partha; sarvaśaḥ – in every way.
+◈  yadi – if; hi – indeed; aham – I; na – not; varteyam – should engage; 
+◈  jātu – ever; karmaṇi – in action; atandritaḥ – tirelessly; 
+◈  mama – My; vartma – path; anuvartante – follow; 
+◈  manuṣyāḥ – men; pārtha – O Partha; sarvaśaḥ – in every way.
 {eov}
 
 {sot}
@@ -66,10 +66,10 @@ na kuryāṃ karma cedaham |
 saṅkarasya ca kartā syām
 upahanyāmimāḥ prajāḥ ||
 
-utsīdeyuḥ – would perish; ime – these; lokāḥ – worlds; 
-na kuryām – did not perform; karma – action; cet – if; aham – I; 
-saṅkarasya – of confusion/admixture; ca – and; kartā – author; syām – I would be; 
-upahanyām – would destroy; imāḥ – these; prajāḥ – beings.
+◈  utsīdeyuḥ – would perish; ime – these; lokāḥ – worlds; 
+◈  na kuryām – did not perform; karma – action; cet – if; aham – I; 
+◈  saṅkarasya – of confusion/admixture; ca – and; kartā – author; syām – I would be; 
+◈  upahanyām – would destroy; imāḥ – these; prajāḥ – beings.
 
 {eov}
 
@@ -89,10 +89,10 @@ yathā kurvanti bhārata |
 kuryādvidvāṃstathāsakta
 ścikīrṣurlokasaṅgraham ||
 
-saktāḥ – attached; karmaṇi – to action; avidvāṃsaḥ – the ignorant; 
-yathā – as; kurvanti – perform; bhārata – O Bharata; 
-kuryāt – should perform; vidvān – the wise; tathā – so; asaktaḥ – unattached; 
-cikīrṣuḥ – wishing; loka-saṅgraham – welfare of the world.
+◈  saktāḥ – attached; karmaṇi – to action; avidvāṃsaḥ – the ignorant; 
+◈  yathā – as; kurvanti – perform; bhārata – O Bharata; 
+◈  kuryāt – should perform; vidvān – the wise; tathā – so; asaktaḥ – unattached; 
+◈  cikīrṣuḥ – wishing; loka-saṅgraham – welfare of the world.
 
 {eov}
 
@@ -112,10 +112,10 @@ ajñānāṃ karmasaṅginām |
 joṣayetsarvakarmāṇi 
 vidvānyuktaḥ samācaran ||
 
-na – not; buddhi-bhedam – confusion of intellect; janayet – should create; 
-ajñānām – of the ignorant; karma-saṅginām – attached to action;
-joṣayet – should encourage/inspire; sarva-karmāṇi – all actions; 
-vidvān – the wise; yuktaḥ – disciplined/steadfast; samācaran – performing well.
+◈  na – not; buddhi-bhedam – confusion of intellect; janayet – should create; 
+◈  ajñānām – of the ignorant; karma-saṅginām – attached to action;
+◈  joṣayet – should encourage/inspire; sarva-karmāṇi – all actions; 
+◈  vidvān – the wise; yuktaḥ – disciplined/steadfast; samācaran – performing well.
 
 {eov}
 

@@ -21,10 +21,10 @@ guṇaiḥ karmāṇi sarvaśaḥ |
 ahaṅkāravimūḍhātmā 
 kartāhamiti manyate ||
 
-prakṛteḥ – of nature; kriyamāṇāni – are performed; 
-guṇaiḥ – by the modes (Gunas); karmāṇi – actions; sarvaśaḥ – in all cases; 
-ahaṅkāra-vimūḍha-ātmā – one whose mind is deluded by egoism; 
-kartā – doer; aham – I; iti – thus; manyate – thinks.
+◈  prakṛteḥ – of nature; kriyamāṇāni – are performed; 
+◈  guṇaiḥ – by the modes (Gunas); karmāṇi – actions; sarvaśaḥ – in all cases; 
+◈  ahaṅkāra-vimūḍha-ātmā – one whose mind is deluded by egoism; 
+◈  kartā – doer; aham – I; iti – thus; manyate – thinks.
 
 {eov}
 

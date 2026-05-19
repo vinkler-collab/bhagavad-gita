@@ -66,10 +66,10 @@ tattadevetaro janaḥ |
 sa yatpramāṇaṃ kurute 
 lokastadanuvartate ||
 
-yat yat – whatever; ācarati – does; śreṣṭhaḥ – a great man; 
-tat tat – that very thing; eva – only; itaraḥ – other; janaḥ – people; 
-saḥ – he; yat – what; pramāṇam – standard/example; kurute – sets; 
-lokaḥ – the world/people; tat – that; anuvartate – follows.
+◈  yat yat – whatever; ācarati – does; śreṣṭhaḥ – a great man; 
+◈  tat tat – that very thing; eva – only; itaraḥ – other; janaḥ – people; 
+◈  saḥ – he; yat – what; pramāṇam – standard/example; kurute – sets; 
+◈  lokaḥ – the world/people; tat – that; anuvartate – follows.
 
 {eov}
 

@@ -21,10 +21,10 @@ sannyasyādhyātmacetasā |
 nirāśīrnirmamo bhūtvā 
 yudhyasva vigatajvaraḥ ||
 
-mayi – in Me; sarvāṇi – all; karmāṇi – actions; 
-sannyasya – surrendering; adhyātma-cetasā – with the mind fixed on the Self; 
-nirāśīḥ – free from hope/expectation; nirmamaḥ – free from 'mine-ness'; bhūtvā – becoming; 
-yudhyasva – fight; vigata-jvaraḥ – free from mental fever/anxiety.
+◈  mayi – in Me; sarvāṇi – all; karmāṇi – actions; 
+◈  sannyasya – surrendering; adhyātma-cetasā – with the mind fixed on the Self; 
+◈  nirāśīḥ – free from hope/expectation; nirmamaḥ – free from 'mine-ness'; bhūtvā – becoming; 
+◈  yudhyasva – fight; vigata-jvaraḥ – free from mental fever/anxiety.
 
 {eov}
 

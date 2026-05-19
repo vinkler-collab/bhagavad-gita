@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 ये यथा मां प्रपद्यन्ते तांस्तथैव भजाम्यहम् |
 मम वर्त्मानुवर्तन्ते मनुष्या: पार्थ सर्वश: || 11||
 
-ye yathā māṁ prapadyante tāns tathaiva bhajāmyaham
-mama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ
+ye yathā māṃ prapadyante 
+tāṃstathaiva bhajāmyaham | 
+mama vartmānuvarta nte 
+manuṣyāḥ pārtha sarvaśaḥ ||
 
-ye—who; yathā—in whatever way; mām—unto me; prapadyante—surrender; tān—them; tathā—so; eva—certainly; bhajāmi—reciprocate; aham—I; mama—my; vartma—path; anuvartante—follow; manuṣhyāḥ—men; pārtha—Arjun, the son of Pritha; sarvaśhaḥ—in all respects
+ye – who; yathā – in whatever way; mām – Me; prapadyante – surrender/approach; 
+tān – them; tathā eva – in that very way; bhajāmi – reward/reciprocate; aham – I; 
+mama – My; vartma – path; anuvartante – follow; 
+manuṣyāḥ – men; pārtha – O Partha; sarvaśaḥ – in every way.
+
 {eov}
 
 {sot}
@@ -33,10 +39,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 काङ् क्षन्त: कर्मणां सिद्धिं यजन्त इह देवता: |
 क्षिप्रं हि मानुषे लोके सिद्धिर्भवति कर्मजा || 12||
 
-kāṅkṣhantaḥ karmaṇāṁ siddhiṁ yajanta iha devatāḥ
-kṣhipraṁ hi mānuṣhe loke siddhir bhavati karmajā
+kāṅkṣantaḥ karmaṇāṃ siddhiṃ 
+yajanta iha devatāḥ | 
+kṣipraṃ hi mānuṣe loke 
+siddhirbhavati karmajā ||
 
-kāṅkṣhantaḥ—desiring; karmaṇām—material activities; siddhim—success; yajante—worship; iha—in this world; devatāḥ—the celestial gods; kṣhipram—quickly; hi—certainly; mānuṣhe—in human society; loke—within this world; siddhiḥ—rewarding; bhavati—manifest; karma-jā—from material activities
+kāṅkṣantaḥ – longing for; karmaṇām – of actions; siddhim – success/fruit; 
+yajante – worship; iha – in this world; devatāḥ – the gods; 
+kṣipram – quickly; hi – indeed; mānuṣe loke – in the world of men; 
+siddhiḥ – success; bhavati – is attained; karma-jā – born of action.
 {eov}
 
 {sot}
@@ -50,10 +61,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 चातुर्वर्ण्यं मया सृष्टं गुणकर्मविभागश: |
 तस्य कर्तारमपि मां विद्ध्यकर्तारमव्ययम् || 13||
 
-chātur-varṇyaṁ mayā sṛiṣhṭaṁ guṇa-karma-vibhāgaśhaḥ
-tasya kartāram api māṁ viddhyakartāram avyayam
+cāturvarṇyaṃ mayā sṛṣṭaṃ 
+guṇakarmavibhāgaśaḥ | 
+tasya kartāramapi māṃ 
+viddhyakartāramavyayam ||
 
-chātuḥ-varṇyam—the four categories of occupations; mayā—by me; sṛiṣhṭam—were created; guṇa—of quality; karma—and activities; vibhāgaśhaḥ—according to divisions; tasya—of that; kartāram—the creator; api—although; mām—me; viddhi—know; akartāram—non-doer; avyayam—unchangeable
+cātur-varṇyam – the four-fold order (Varnas); mayā – by Me; sṛṣṭam – was created; 
+guṇa-karma-vibhāgaśaḥ – according to the distribution of qualities and actions; 
+tasya – of that; kartāram – the author; api – although; mām – Me; 
+viddhi – know; akartāram – the non-doer; avyayam – immutable/unchanging.
 {eov}
 
 {sot}

@@ -21,10 +21,10 @@ asyādhiṣṭhānamucyate |
 etairvimohayatyeṣa 
 jñānamāvṛtya dehinam ||
 
-indriyāṇi – the senses; manaḥ – the mind; buddhiḥ – the intellect; 
-asya – its; adhiṣṭhānam – seat/abode; ucyate – is called; 
-etaiḥ – by these; vimohayati – deludes; eṣaḥ – this (desire); 
-jñānam – knowledge; āvṛtya – covering; dehinam – the embodied soul.
+◈  indriyāṇi – the senses; manaḥ – the mind; buddhiḥ – the intellect; 
+◈  asya – its; adhiṣṭhānam – seat/abode; ucyate – is called; 
+◈  etaiḥ – by these; vimohayati – deludes; eṣaḥ – this (desire); 
+◈  jñānam – knowledge; āvṛtya – covering; dehinam – the embodied soul.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ niyamya bharatarṣabha |
 pāpmānaṃ prajahi hyenaṃ 
 jñānavijñānanāśanam ||
 
-tasmāt – therefore; tvam – you; indriyāṇi – the senses; ādau – in the beginning; 
-niyamya – controlling; bharata-ṛṣabha – O best of the Bharatas; 
-pāpmānam – the sinful; prajahi – slay; hi – indeed; enam – this (desire); 
-jñāna-vijñāna – of knowledge and realization; nāśanam – destroyer.
+◈  tasmāt – therefore; tvam – you; indriyāṇi – the senses; ādau – in the beginning; 
+◈  niyamya – controlling; bharata-ṛṣabha – O best of the Bharatas; 
+◈  pāpmānam – the sinful; prajahi – slay; hi – indeed; enam – this (desire); 
+◈  jñāna-vijñāna – of knowledge and realization; nāśanam – destroyer.
 {eov}
 
 {sot}
@@ -65,10 +65,10 @@ indriyebhyas paraṃ manaḥ |
 manasastu parā buddhir
 yobuddheḥ paratastu saḥ ||
 
-indriyāṇi – the senses; parāṇi – superior; āhuḥ – they say; 
-indriyebhyaḥ – than the senses; param – superior; manaḥ – the mind; 
-manasaḥ – than the mind; tu – but; parā – superior; buddhiḥ – the intellect; 
-yaḥ – who; buddheḥ – than the intellect; parataḥ – superior; tu – but; saḥ – He (the Soul).
+◈  indriyāṇi – the senses; parāṇi – superior; āhuḥ – they say; 
+◈  indriyebhyaḥ – than the senses; param – superior; manaḥ – the mind; 
+◈  manasaḥ – than the mind; tu – but; parā – superior; buddhiḥ – the intellect; 
+◈  yaḥ – who; buddheḥ – than the intellect; parataḥ – superior; tu – but; saḥ – He (the Soul).
 
 {eov}
 

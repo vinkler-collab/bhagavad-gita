@@ -21,10 +21,10 @@ saṃsthabhyātmānamātmanā |
 jahi śatruṃ mahābāho 
 kāmarūpaṃ durāsadam ||
 
-evam – thus; buddheḥ – than the intellect; param – superior; buddhvā – knowing; 
-saṃsthabhya – subduing; ātmānam – the self (lower self); ātmanā – by the Self (higher self); 
-jahi – kill; śatrum – the enemy; mahābāho – O mighty-armed; 
-kāma-rūpam – in the form of desire; durāsadam – difficult to conquer.
+◈  evam – thus; buddheḥ – than the intellect; param – superior; buddhvā – knowing; 
+◈  saṃsthabhya – subduing; ātmānam – the self (lower self); ātmanā – by the Self (higher self); 
+◈  jahi – kill; śatrum – the enemy; mahābāho – O mighty-armed; 
+◈  kāma-rūpam – in the form of desire; durāsadam – difficult to conquer.
 
 {eov}
 

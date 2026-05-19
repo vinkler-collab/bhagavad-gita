@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 कर्मण्यकर्म य: पश्येदकर्मणि च कर्म य: |
 स बुद्धिमान्मनुष्येषु स युक्त: कृत्स्नकर्मकृत् || 18||
 
-karmaṇyakarma yaḥ paśhyed akarmaṇi cha karma yaḥ
-sa buddhimān manuṣhyeṣhu sa yuktaḥ kṛitsna-karma-kṛit
+karmaṇyakarma yaḥ paśyed
+akarmaṇi ca karma yaḥ |
+sa buddhimānmanuṣyeṣu 
+sa yuktaḥ kṛtsnakarmakṛt ||
 
-karmaṇi—action; akarma—in inaction; yaḥ—who; paśhyet—see; akarmaṇi—inaction; cha—also; karma—action; yaḥ—who; saḥ—they; buddhi-mān—wise; manuṣhyeṣhu—amongst humans; saḥ—they; yuktaḥ—yogis; kṛitsna-karma-kṛit—performers all kinds of actions
+karmaṇi – in action; akarma – inaction; yaḥ – who; paśyet – sees; 
+akarmaṇi – in inaction; ca – and; karma – action; yaḥ – who; 
+saḥ – he; buddhimān – wise; manuṣyeṣu – among men; 
+saḥ – he; yuktaḥ – a Yogi; kṛtsna-karma-kṛt – a doer of all actions
 {eov}
 
 {sot}

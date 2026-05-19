@@ -21,10 +21,10 @@ paradharmātsvanuṣṭhitāt |
 svadharme nidhanaṃ śreyaḥ 
 paradharmo bhayāvahaḥ ||
 
-śreyān – better; sva-dharmaḥ – one’s own duty; viguṇaḥ – though devoid of merit; 
-paradharmāt – than the duty of another; su-anuṣṭhitāt – well-performed; 
-svadharme – in one's own duty; nidhanam – death; śreyaḥ – better; 
-para-dharmaḥ – another's duty; bhaya-āvahaḥ – fraught with fear.
+◈  śreyān – better; sva-dharmaḥ – one’s own duty; viguṇaḥ – though devoid of merit; 
+◈  paradharmāt – than the duty of another; su-anuṣṭhitāt – well-performed; 
+◈  svadharme – in one's own duty; nidhanam – death; śreyaḥ – better; 
+◈  para-dharmaḥ – another's duty; bhaya-āvahaḥ – fraught with fear.
 
 {eov}
 
@@ -46,11 +46,11 @@ pāpaṃ carati pūruṣaḥ |
 anicchannapi vārṣṇeya 
 balādiva niyojitaḥ ||
 
-arjunaḥ uvāca – Arjuna said; 
-atha – then; kena – by what; prayuktaḥ – impelled; ayam – this; 
-pāpam – sin; carati – commits; pūruṣaḥ – man; 
-anicchan – not wishing; api – even; vārṣṇeya – O Varshneya (Krishna); 
-balāt – by force; iva – as if; niyojitaḥ – constrained.
+◈  arjunaḥ uvāca – Arjuna said; 
+◈  atha – then; kena – by what; prayuktaḥ – impelled; ayam – this; 
+◈  pāpam – sin; carati – commits; pūruṣaḥ – man; 
+◈  anicchan – not wishing; api – even; vārṣṇeya – O Varshneya (Krishna); 
+◈  balāt – by force; iva – as if; niyojitaḥ – constrained.
 
 {eov}
 
@@ -72,11 +72,11 @@ rajoguṇasamudbhavaḥ |
 mahāśano mahāpāpmā 
 viddhyenamiha vairiṇam ||
 
-śrī-bhagavān uvāca – The Blessed Lord said; 
-kāmaḥ – desire; eṣaḥ – this; krodhaḥ – anger; eṣaḥ – this; 
-rajo-guṇa – the mode of passion; samudbhavaḥ – born of; 
-mahā-aśanaḥ – all-devouring; mahā-pāpmā – all-sinful; 
-viddhi – know; enam – this; iha – here; vairiṇam – the enemy.
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  kāmaḥ – desire; eṣaḥ – this; krodhaḥ – anger; eṣaḥ – this; 
+◈  rajo-guṇa – the mode of passion; samudbhavaḥ – born of; 
+◈  mahā-aśanaḥ – all-devouring; mahā-pāpmā – all-sinful; 
+◈  viddhi – know; enam – this; iha – here; vairiṇam – the enemy.
 
 {eov}
 

@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 जन्म कर्म च मे दिव्यमेवं यो वेत्ति तत्त्वत: |
 त्यक्त्वा देहं पुनर्जन्म नैति मामेति सोऽर्जुन || 9||
 
-janma karma cha me divyam evaṁ yo vetti tattvataḥ
-tyaktvā dehaṁ punar janma naiti mām eti so ’rjuna
+janma karma ca me divyam
+evaṃ yo vetti tattvataḥ | 
+tyaktvā dehaṃ punarjanma 
+naiti māmeti so’rjuna ||
 
-janma—birth; karma—activities; cha—and; me—of mine; divyam—divine; evam—thus; yaḥ—who; vetti—know; tattvataḥ—in truth; tyaktvā—having abandoned; deham—the body; punaḥ—again; janma—birth; na—never; eti—takes; mām—to me; eti—comes; saḥ—he; arjuna—Arjun
+janma – birth; karma – action; ca – and; me – My; divyam – divine; 
+evam – thus; yaḥ – who; vetti – knows; tattvataḥ – in truth; 
+tyaktvā – having abandoned; deham – the body; punaḥ-janma – rebirth; 
+na eti – does not attain; mām – to Me; eti – comes; saḥ – he; arjuna – O Arjuna.
 {eov}
 
 {sot}
@@ -33,10 +38,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 वीतरागभयक्रोधा मन्मया मामुपाश्रिता: |
 बहवो ज्ञानतपसा पूता मद्भावमागता: || 10||
 
-vīta-rāga-bhaya-krodhā man-mayā mām upāśhritāḥ
-bahavo jñāna-tapasā pūtā mad-bhāvam āgatāḥ
+vītarāgabhayakrodhā 
+manmayā māmupāśritāḥ | 
+bahavo jñānatapasā 
+pūtā madbhāvamāgatāḥ ||
 
-vīta—free from; rāga—attachment; bhaya—fear; krodhāḥ—anger; mat-mayā—completely absorbed in me; mām—in me; upāśhritāḥ—taking refuge (of); bahavaḥ—many (persons); jñāna—of knowledge; tapasā—by the fire of knowledge; pūtāḥ—purified; mat-bhāvam—my divine love; āgatāḥ—attained
+vīta-rāga-bhaya-krodhāḥ – free from attachment, fear, and anger; 
+man-mayāḥ – absorbed in Me; mām – in Me; upāśritāḥ – taking refuge; 
+bahavaḥ – many; jñāna-tapasā – by the penance of knowledge; 
+pūtāḥ – purified; mad-bhāvam – My being; āgatāḥ – have attained.
+
 {eov}
 
 {sot}
