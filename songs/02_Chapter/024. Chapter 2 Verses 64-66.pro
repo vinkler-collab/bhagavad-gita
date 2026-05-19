@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन् |
 आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति || 64||
 
-rāga-dveṣha-viyuktais tu viṣhayān indriyaiśh charan
-ātma-vaśhyair-vidheyātmā prasādam adhigachchhati
+rāgadveṣaviyuktaistu 
+viṣayānindriyaiścaran | 
+ātmavaśyairvidheyātmā 
+prasādamadhigacchati ||
 
-rāga—attachment; dveṣha—aversion; viyuktaiḥ—free; tu—but; viṣhayān—objects of the senses; indriyaiḥ—by the senses; charan—while using; ātma-vaśhyaiḥ—controlling one’s mind; vidheya-ātmā—one who controls the mind; prasādam—the Grace of God; adhigachchhati—attains
+rāga-dveṣa-viyuktaiḥ – free from attraction and aversion; tu – but; 
+viṣayān – sense-objects; indriyaiḥ – by the senses; caran – moving among; 
+ātma-vaśyaiḥ – under self-control; vidheya-ātmā – the self-controlled man; 
+prasādam – serenity/peace; adhigacchati – attains.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 प्रसादे सर्वदु:खानां हानिरस्योपजायते |
 प्रसन्नचेतसो ह्याशु बुद्धि: पर्यवतिष्ठते || 65||
 
-prasāde sarva-duḥkhānāṁ hānir asyopajāyate
-prasanna-chetaso hyāśhu buddhiḥ paryavatiṣhṭhate
+prasāde sarvaduḥkhānāṃ 
+hānirasyopajāyate | 
+prasannacetaso hyāśu 
+buddhiḥ paryavatiṣṭhate ||
 
-prasāde—by divine grace; sarva—all; duḥkhānām—of sorrows; hāniḥ—destruction; asya—his; upajāyate—comes; prasanna-chetasaḥ—with a tranquil mind; hi—indeed; āśhu—soon; buddhiḥ—intellect; paryavatiṣhṭhate—becomes firmly established
+prasāde – in serenity; sarva-duḥkhānām – of all sorrows; 
+hāniḥ – destruction; asya – his; upajāyate – occurs; 
+prasanna-cetasaḥ – of the happy-minded; hi – indeed; āśu – quickly; 
+buddhiḥ – intellect; pari-avatiṣṭhate – becomes steady.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना |
 न चाभावयत: शान्तिरशान्तस्य कुत: सुखम् || 66||
 
-nāsti buddhir-ayuktasya na chāyuktasya bhāvanā
-na chābhāvayataḥ śhāntir aśhāntasya kutaḥ sukham
+nāsti buddhirayuktasya 
+na cāyuktasya bhāvanā | 
+na cābhāvayataḥ śāntir
+aṣāntasya kutaḥ sukham ||
 
-na—not; asti—is; buddhiḥ—intellect; ayuktasya—not united; na—not; cha—and; ayuktasya—not united; bhāvanā—contemplation; na—nor; cha—and; abhāvayataḥ—for those not united; śhāntiḥ—peace; aśhāntasya—of the unpeaceful; kutaḥ—where; sukham—happiness
+◈  na – not; asti – is; buddhiḥ – intellect/wisdom; ayuktasya – for the unsteady; 
+◈  na – not; ca – and; ayuktasya – for the unsteady; bhāvanā – meditation; 
+◈  na – not; ca – and; abhāvayataḥ – for the unmeditative; śāntiḥ – peace; 
+◈  śāntasya – for the peaceless; kutaḥ – where; sukham – happiness.
 {eov}
 
 {sot}

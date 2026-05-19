@@ -17,11 +17,17 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान् |
 आत्मन्येवात्मना तुष्ट: स्थितप्रज्ञस्तदोच्यते || 55||
 
-śhrī bhagavān uvācha
-prajahāti yadā kāmān sarvān pārtha mano-gatān
-ātmany-evātmanā tuṣhṭaḥ sthita-prajñas tadochyate
+śrībhagavānuvāca | 
+prajahāti yadā kāmān
+sarvānpārtha manogatān | 
+ātmanyevātmanā tuṣṭaḥ 
+sthitaprajñastadocyate ||
 
-śhrī-bhagavān uvācha—The Supreme Lord said; prajahāti—discards; yadā—when; kāmān—selfish desires; sarvān—all; pārtha—Arjun, the son of Pritha; manaḥ-gatān—of the mind; ātmani—of the self; eva—only; ātmanā—by the purified mind; tuṣhṭaḥ—satisfied; sthita-prajñaḥ—one with steady intellect; tadā—at that time; uchyate—is said
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  prajahāti – casts off; yadā – when; kāmān – desires; 
+◈  sarvān – all; pārtha – O Partha; manogatān – of the mind; 
+◈  ātmani – in the Self; eva – only; ātmanā – by the Self; tuṣṭaḥ – satisfied; 
+◈  sthitaprajñaḥ – of steady wisdom; tadā – then; ucyate – is called.
 {eov}
 
 {sot}
@@ -35,10 +41,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 दु:खेष्वनुद्विग्नमना: सुखेषु विगतस्पृह: |
 वीतरागभयक्रोध: स्थितधीर्मुनिरुच्यते || 56||
 
-duḥkheṣhv-anudvigna-manāḥ sukheṣhu vigata-spṛihaḥ
-vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate
+duḥkheṣvanudvignamanāḥ 
+sukheṣu vigataspṛhaḥ | 
+vītarāgabhayakrodhaḥ 
+sthitadhīrmunirucyate ||
 
-duḥkheṣhu—amidst miseries; anudvigna-manāḥ—one whose mind is undisturbed; sukheṣhu—in pleasure; vigata-spṛihaḥ—without craving; vīta—free from; rāga—attachment; bhaya—fear; krodhaḥ—anger; sthita-dhīḥ—enlightened person; muniḥ—a sage; uchyate—is called
+◈  duḥkheṣu – in sorrows; anudvignamanāḥ – unperturbed mind; 
+◈  sukheṣu – in pleasures; vigata-spṛhaḥ – free from longing; 
+◈  vīta – free from; rāga – attachment; bhaya – fear; krodhaḥ – anger; 
+◈  sthitadhīḥ – of steady wisdom; muniḥ – a sage; ucyate – is called.
 {eov}
 
 {sot}

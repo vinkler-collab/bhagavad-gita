@@ -17,11 +17,16 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-
 ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन |
 तत्किं कर्मणि घोरे मां नियोजयसि केशव || 1||
 
-arjuna uvācha
-jyāyasī chet karmaṇas te matā buddhir janārdana
-tat kiṁ karmaṇi ghore māṁ niyojayasi keśhava
+arjuna uvāca |
+jyāyasī cetkarmaṇaste 
+matā buddhirjanārdana |
+tatkiṃ karmaṇi ghore māṃ 
+niyojayasi keśava ||
 
-arjunaḥ uvācha—Arjun said; jyāyasī—superior; chet—if; karmaṇaḥ—than fruitive action; te—by you; matā—is considered; buddhiḥ—intellect; janārdana—he who looks after the public, Krishna; tat—then; kim—why; karmaṇi—action; ghore—terrible; mām—me; niyojayasi—do you engage; keśhava—Krishna, the killer of the demon named Keshi;
+arjunaḥ uvāca – Arjuna said; 
+jyāyasī – superior; cet – if; karmaṇaḥ – than action; te – by You; 
+matā – thought; buddhiḥ – intellect/wisdom; janārdana – O Janardana; 
+tat – then; kim – why; karmaṇi – in action; ghore – ghastly/terrible; mām – me; niyojayasi – You engage; keśava – O Kesava.
 {eov}
 
 {sot}
@@ -35,10 +40,16 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-
 व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे |
 तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् || 2||
 
-vyāmiśhreṇeva vākyena buddhiṁ mohayasīva me
-tad ekaṁ vada niśhchitya yena śhreyo ’ham āpnuyām
+vyāmiśreṇeva vākyena 
+buddhiṃ mohayasīva me |
+tadekaṃ vada niścitya 
+yena śreyo’hamāpnuyām ||
 
-vyāmiśhreṇa iva—by your apparently ambiguous; vākyena—words; buddhim—intellect; mohayasi—I am getting bewildered; iva—as it were; me—my; tat—therefore; ekam—one; vada—please tell; niśhchitya—decisively; yena—by which; śhreyaḥ—the highest good; aham—I; āpnuyām—may attain
+vyāmiśreṇa – equivocal/confusing; iva – as if; vākyena – by words; 
+buddhim – intellect; mohayasi – You confuse; iva – as it were; me – my; 
+tat – that; ekam – one; vada – tell; niścitya – decisively; 
+yena – by which; śreyaḥ – the highest good; aham – I; āpnuyām – may attain.
+
 {eov}
 
 {sot}
@@ -54,11 +65,17 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-
 लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ |
 ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् || 3||
 
-śhrī bhagavān uvācha
-loke ’smin dvi-vidhā niṣhṭhā purā proktā mayānagha
-jñāna-yogena sāṅkhyānāṁ karma-yogena yoginām
+śrībhagavānuvāca |
+loke’smindvividhā niṣṭhā 
+purā proktā mayānagha |
+jñānayogena sāṅkhyānāṃ 
+karmayogena yoginām ||
 
-śhrī-bhagavān uvācha—the Blessed Lord said; loke—in the world; asmin—this; dvi-vidhā—two kinds of; niṣhṭhā—faith; purā—previously; proktā—explained; mayā—by me (Shree Krishna); anagha—sinless; jñāna-yogena—through the path of knowledge; sānkhyānām—for those inclined toward contemplation; karma-yogena—through the path of action; yoginām—of the yogis
+śrī-bhagavān uvāca – The Blessed Lord said; 
+loke – in the world; asmin – in this; dvividhā – two-fold; niṣṭhā – path/discipline; 
+purā – formerly; proktā – was declared; mayā – by Me; anagha – O sinless one; 
+jñāna-yogena – by the path of Knowledge; sāṅkhyānām – for the Sankhyas; karma-yogena – by the path of Action; yoginām – for the Yogis.
+
 {eov}
 
 {sot}

@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते |
 तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि || 67||
 
-indriyāṇāṁ hi charatāṁ yan mano ’nuvidhīyate
-tadasya harati prajñāṁ vāyur nāvam ivāmbhasi
+indriyāṇāṃ hi caratāṃ 
+yanmano’nuvidhīyate | 
+tadasya harati prajñāṃ 
+vāyurnāvamivāmbhasi ||
 
-indriyāṇām—of the senses; hi—indeed; charatām—roaming; yat—which; manaḥ—the mind; anuvidhīyate—becomes constantly engaged; tat—that; asya—of that; harati—carries away; prajñām—intellect; vāyuḥ—wind; nāvam—boat; iva—as; ambhasi—on the water
+◈  indriyāṇām – of the senses; hi – indeed; caratām – wandering; 
+◈  yat – which; manaḥ – the mind; anuvidhīyate – follows; 
+◈  tat – that; asya – his; harati – carries away; prajñām – wisdom; 
+◈  vāyuḥ – wind; nāvam – boat; iva – like; ambhasi – on the water.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 तस्माद्यस्य महाबाहो निगृहीतानि सर्वश: |
 इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता || 68||
 
-tasmād yasya mahā-bāho nigṛihītāni sarvaśhaḥ
-indriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā
+tasmādyasya mahābāho 
+nigṛhītāni sarvaśaḥ | 
+indriyāṇīndriyārthebhyas
+tasya prajñā pratiṣṭhitā ||
 
-tasmāt—therefore; yasya—whose; mahā-bāho—mighty-armed one; nigṛihītāni—restrained; sarvaśhaḥ—completely; indriyāṇi—senses; indriya-arthebhyaḥ—from sense objects; tasya—of that person; prajñā—transcendental knowledge; pratiṣhṭhitā—remains fixed
+◈  tasmāt – therefore; yasya – whose; mahābāho – O mighty-armed; 
+◈  nigṛhītāni – restrained; sarvaśaḥ – completely; 
+◈  indriyāṇi – senses; indriya-arthebhyaḥ – from sense-objects; 
+◈  tasya – his; prajñā – wisdom; pratiṣṭhitā – is established.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 या निशा सर्वभूतानां तस्यां जागर्ति संयमी |
 यस्यां जाग्रति भूतानि सा निशा पश्यतो मुने: || 69||
 
-yā niśhā sarva-bhūtānāṁ tasyāṁ jāgarti sanyamī
-yasyāṁ jāgrati bhūtāni sā niśhā paśhyato muneḥ
+yā niśā sarvabhūtānāṃ 
+tasyāṃ jāgarti saṃyamī | 
+yasyāṃ jāgrati bhūtāni 
+sā niśā paśyato muneḥ ||
 
-yā—which; niśhā—night; sarva-bhūtānām—of all living beings; tasyām—in that; jāgarti—is awake; sanyamī—self-controlled; yasyām—in which; jāgrati—are awake; bhūtāni—creatures; sā—that; niśhā—night; paśhyataḥ—see; muneḥ—sage
+◈  yā – what; niśā – night; sarva-bhūtānām – of all beings; 
+◈  tasyām – in that; jāgarti – is awake; saṃyamī – the self-controlled; 
+◈  yasyām – in which; jāgrati – are awake; bhūtāni – beings; 
+◈  sā – that; niśā – night; paśyataḥ – for the seeing; muneḥ – for the sage.
 {eov}
 
 {sot}

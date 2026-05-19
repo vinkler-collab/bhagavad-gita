@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति |
 तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च || 52||
 
-yadā te moha-kalilaṁ buddhir vyatitariṣhyati
-tadā gantāsi nirvedaṁ śhrotavyasya śhrutasya cha
+yadā te mohakalilaṃ 
+buddhirvyatitariṣyati | 
+tadā gantāsi nirvedaṃ 
+śrotavyasya śrutasya ca ||
 
-yadā—when; te—your; moha—delusion; kalilam—quagmire; buddhiḥ—intellect; vyatitariṣhyati—crosses; tadā—then; gantāsi—you shall acquire; nirvedam—indifferent; śhrotavyasya—to what is yet to be heard; śhrutasya—to what has been heard; cha—and
+◈  yadā – when; te – your; moha-kalilam – mire of delusion; 
+◈  buddhiḥ – intellect; vyatitariṣyati – shall cross; 
+◈  tadā – then; gantāsi – you shall attain; nirvedam – indifference; 
+◈  śrotavyasya – of what is to be heard; śrutasya – of what has been heard; ca – and.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला |
 समाधावचला बुद्धिस्तदा योगमवाप्स्यसि || 53||
 
-śhruti-vipratipannā te yadā sthāsyati niśhchalā
-samādhāv-achalā buddhis tadā yogam avāpsyasi
+śrutivipratipannā te 
+yadā sthāsyati niścalā | 
+samādhāvacalā buddhis
+tadā yogamavāpsycasi ||
 
-śhruti-vipratipannā—not allured by the fruitive sections of the Vedas; te—your; yadā—when; sthāsyati—remains; niśhchalā—steadfast; samādhau—in divine consciousness; achalā—steadfast; buddhiḥ—intellect; tadā—at that time; yogam—Yog; avāpsyasi—you will attain
+◈  śruti-vipratipannā – perplexed by hearing (conflicting doctrines); te – your; 
+◈  yadā – when; sthāsyati – shall stand; niścalā – immovable; 
+◈  samādhau – in the Self (or in concentration); acalā – steady; 
+◈  buddhiḥ – intellect; tadā – then; yogam – Yoga; avāpsyasi – you shall attain.
 {eov}
 
 {sot}
@@ -51,11 +61,17 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव |
 स्थितधी: किं प्रभाषेत किमासीत व्रजेत किम् || 54||
 
-arjuna uvācha
-sthita-prajñasya kā bhāṣhā samādhi-sthasya keśhava
-sthita-dhīḥ kiṁ prabhāṣheta kim āsīta vrajeta kim
+arjuna uvāca | 
+sthitaprajñasya kā bhāṣā 
+samādhisthasya keśava | 
+sthitadhīḥ kiṃ prabhāṣeta 
+kimāsīta vrajeta kim ||
 
-arjunaḥ uvācha—Arjun said; sthita-prajñasya—one with steady intellect; kā—what; bhāṣhā—talk; samādhi-sthasya—situated in divine consciousness; keśhava—Shree Krishna, killer of the Keshi Demon; sthita-dhīḥ—enlightened person; kim—what; prabhāṣheta—talks; kim—how; āsīta—sits; vrajeta—walks; kim—how
+◈  arjunaḥ uvāca – Arjuna said; 
+◈  sthitaprajñasya – of one whose wisdom is steady; kā – what; bhāṣā – description; 
+◈  samādhisthasya – of one who is established in Samadhi; keśava – O Kesava; 
+◈  sthitadhīḥ – the person of steady wisdom; kim – how; prabhāṣeta – speaks; 
+◈  kim – how; āsīta – sits; vrajeta – walks; kim – how.
 {eov}
 
 {sot}

@@ -21,10 +21,10 @@ ekeha kurunandana |
 bahuśākhā hyanantāśca 
 buddhayo’vyavasāyinām ||
 
-vyavasāyātmikā – resolute; buddhiḥ – intellect; 
-ekā – one/single; iha – here; kuru-nandana – O joy of the Kurus; 
-bahu-śākhāḥ – many-branched; hi – indeed; anantāḥ – endless; ca – and; 
-buddhayaḥ – thoughts/intellects; avyavasāyinām – of the irresolute.
+◈  vyavasāyātmikā – resolute; buddhiḥ – intellect; 
+◈  ekā – one/single; iha – here; kuru-nandana – O joy of the Kurus; 
+◈  bahu-śākhāḥ – many-branched; hi – indeed; anantāḥ – endless; ca – and; 
+◈  buddhayaḥ – thoughts/intellects; avyavasāyinām – of the irresolute.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ pravadantyavipaścitaḥ |
 vedavādaratāḥ pārtha 
 nānyadastīti vādinaḥ || 
 
-yām imām – this; puṣpitām – flowery; 
-vācam – speech; pravadanti – utter; avipaścitaḥ – the unwise; 
-veda-vāda-ratāḥ – rejoicing in the letter of the Vedas; pārtha – O Partha; 
-na – not; anyat – other; asti – is; iti – thus; vādinaḥ – saying; 
+◈  yām imām – this; puṣpitām – flowery; 
+◈  vācam – speech; pravadanti – utter; avipaścitaḥ – the unwise; 
+◈  veda-vāda-ratāḥ – rejoicing in the letter of the Vedas; pārtha – O Partha; 
+◈  na – not; anyat – other; asti – is; iti – thus; vādinaḥ – saying; 
 
 {sot}
 O Arjuna! The unwise utter flowery speech, taking pleasure in the laudatory words of the Vedas, and say that there is nothing else but pleasures and enjoyments either here or in Heaven. 
@@ -61,10 +61,10 @@ janmakarmaphalapradām |
 kriyāviśeṣabahulāṃ 
 bhogaiśvaryagatiṃ prati ||
 
-kāmātmānaḥ – full of desires; svarga-parāḥ – regarding heaven as the highest goal; 
-janma-karma-phala-pradām – leading to (new) birth as the reward of actions; 
-kriyā-viśeṣa-bahulām – full of specific rituals; 
-bhoga-aiśvarya-gatim – attainment of enjoyment and power; prati – towards.
+◈  kāmātmānaḥ – full of desires; svarga-parāḥ – regarding heaven as the highest goal; 
+◈  janma-karma-phala-pradām – leading to (new) birth as the reward of actions; 
+◈  kriyā-viśeṣa-bahulām – full of specific rituals; 
+◈  bhoga-aiśvarya-gatim – attainment of enjoyment and power; prati – towards.
 {eov}
 
 {sot}
@@ -80,10 +80,10 @@ tayāpahṛtacetasām |
 vyavasāyātmikā buddhiḥ 
 samādhau na vidhīyate ||
 
-bhoga-aiśvarya-prasaktānām – of those attached to pleasure and power; 
-tayā – by that (flowery speech); apahṛta-cetasām – whose minds are drawn away; 
-vyavasāyātmikā – resolute; buddhiḥ – intellect; 
-samādhau – in the mind (or in meditation); na – not; vidhīyate – is formed.
+◈  bhoga-aiśvarya-prasaktānām – of those attached to pleasure and power; 
+◈  tayā – by that (flowery speech); apahṛta-cetasām – whose minds are drawn away; 
+◈  vyavasāyātmikā – resolute; buddhiḥ – intellect; 
+◈  samādhau – in the mind (or in meditation); na – not; vidhīyate – is formed.
 {eov}
 
 {sot}

@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 एवं बुद्धे: परं बुद्ध्वा संस्तभ्यात्मानमात्मना |
 जहि शत्रुं महाबाहो कामरूपं दुरासदम् || 43||
 
-evaṁ buddheḥ paraṁ buddhvā sanstabhyātmānam ātmanā
-jahi śhatruṁ mahā-bāho kāma-rūpaṁ durāsadam
+evaṃ buddheḥ paraṃ buddhvā 
+saṃsthabhyātmānamātmanā |
+jahi śatruṃ mahābāho 
+kāmarūpaṃ durāsadam ||
 
-evam—thus; buddheḥ—than the intellect; param—superior; buddhvā—knowing; sanstabhya—subdue; ātmānam—the lower self (senses, mind, and intellect); ātmanā—by higher self (soul); jahi—kill; śhatrum—the enemy; mahā-bāho—mighty-armed one; kāma-rūpam—in the form of desire; durāsadam—formidable
+evam – thus; buddheḥ – than the intellect; param – superior; buddhvā – knowing; 
+saṃsthabhya – subduing; ātmānam – the self (lower self); ātmanā – by the Self (higher self); 
+jahi – kill; śatrum – the enemy; mahābāho – O mighty-armed; 
+kāma-rūpam – in the form of desire; durāsadam – difficult to conquer.
+
 {eov}
 
 {sot}

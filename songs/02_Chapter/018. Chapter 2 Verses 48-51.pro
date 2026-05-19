@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 योगस्थ: कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय |
 सिद्ध्यसिद्ध्यो: समो भूत्वा समत्वं योग उच्यते || 48||
 
-yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya
-siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga uchyate
+yogasthaḥ kuru karmāṇi 
+saṅgaṃ tyaktvā dhanañjaya | 
+siddhyasiddhyoḥ samo bhūtvā 
+samatvaṃ yoga ucyate ||
 
-yoga-sthaḥ—being steadfast in yog; kuru—perform; karmāṇi—duties; saṅgam—attachment; tyaktvā—having abandoned; dhanañjaya—Arjun; siddhi-asiddhyoḥ—in success and failure; samaḥ—equipoised; bhūtvā—becoming; samatvam—equanimity; yogaḥ—Yog; uchyate—is called
+◈  yogasthaḥ – established in Yoga; kuru – perform; karmāṇi – actions; 
+◈  saṅgam – attachment; tyaktvā – abandoning; dhanañjaya – O Dhananjaya (Arjuna); 
+◈  siddhi-asiddhyoḥ – in success and failure; samaḥ – even-minded; bhūtvā – becoming; 
+◈  samatvam – equanimity; yogaḥ – Yoga; ucyate – is called.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय |
 बुद्धौ शरणमन्विच्छ कृपणा: फलहेतव: || 49||
 
-dūreṇa hy-avaraṁ karma buddhi-yogād dhanañjaya
-buddhau śharaṇam anvichchha kṛipaṇāḥ phala-hetavaḥ
+dūreṇa hyavaraṃ karma 
+buddhiyogāddhanañjaya | 
+buddhau śaraṇamanviccha 
+kṛpaṇāḥ phalahetavaḥ ||
 
-dūreṇa—(discrad) from far away; hi—certainly; avaram—inferior; karma—reward-seeking actions; buddhi-yogāt—with the intellect established in Divine knowledge; dhanañjaya—Arjun; buddhau—divine knowledge and insight; śharaṇam—refuge; anvichchha—seek; kṛipaṇāḥ—miserly; phala-hetavaḥ—those seeking fruits of their work
+◈  dūreṇa – by far; hi – indeed; avaram – inferior; karma – action; 
+◈  buddhi-yogāt – than the Yoga of wisdom; dhanañjaya – O Dhananjaya; 
+◈  buddhau – in wisdom; śaraṇam – refuge; anviccha – seek; 
+◈  kṛpaṇāḥ – wretched/pitiful; phala-hetavaḥ – those motivated by fruits.
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते |
 तस्माद्योगाय युज्यस्व योग: कर्मसु कौशलम् || 50||
 
-buddhi-yukto jahātīha ubhe sukṛita-duṣhkṛite
-tasmād yogāya yujyasva yogaḥ karmasu kauśhalam
+buddhiyukto jahātīha 
+ubhe sukṛtaduṣkṛte | 
+tasmādyogāya yujyasva 
+yogaḥ karmasu kauśalam ||
 
-buddhi-yuktaḥ—endowed with wisdom; jahāti—get rid of; iha—in this life; ubhe—both; sukṛita-duṣhkṛite—good and bad deeds; tasmāt—therefore; yogāya—for Yog; yujyasva—strive for; yogaḥ—yog is; karmasu kauśhalam—the art of working skillfully
+◈  buddhi-yuktaḥ – endowed with wisdom; jahāti – casts off; iha – in this life; 
+◈  ubhe – both; sukṛta-duṣkṛte – good and evil deeds; 
+◈  tasmāt – therefore; yogāya – to Yoga; yujyasva – devote yourself; 
+◈  yogaḥ – Yoga; karmasu – in actions; kauśalam – skill.
 {eov}
 
 {sot}
@@ -67,10 +82,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिण: |
 जन्मबन्धविनिर्मुक्ता: पदं गच्छन्त्यनामयम् || 51||
 
-karma-jaṁ buddhi-yuktā hi phalaṁ tyaktvā manīṣhiṇaḥ
-janma-bandha-vinirmuktāḥ padaṁ gachchhanty-anāmayam
+karmajaṃ buddhiyuktā hi 
+phalaṃ tyaktvā manīṣiṇaḥ | 
+janmabandhavinirmuktāḥ 
+padaṃ gacchantyanāmayam ||
 
-karma-jam—born of fruitive actions; buddhi-yuktāḥ—endowed with equanimity of intellect; hi—as; phalam—fruits; tyaktvā—abandoning; manīṣhiṇaḥ—the wise; janma-bandha-vinirmuktāḥ—freedom from the bondage of life and death; padam—state; gachchhanti—attain; anāmayam—devoid of sufferings
+◈  karma-jam – born of action; buddhi-yuktāḥ – endowed with wisdom; hi – indeed; 
+◈  phalam – fruit; tyaktvā – abandoning; manīṣiṇaḥ – the wise; 
+◈  janma-bandha-vinirmuktāḥ – freed from the bondage of birth; 
+◈  padam – state; gacchanti – attain; anāmayam – beyond pain/blissful.
 {eov}
 
 {sot}

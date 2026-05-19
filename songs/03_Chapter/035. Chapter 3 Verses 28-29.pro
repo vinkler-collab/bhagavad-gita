@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 तत्त्ववित्तु महाबाहो गुणकर्मविभागयो: |
 गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते || 28||
 
-tattva-vit tu mahā-bāho guṇa-karma-vibhāgayoḥ
-guṇā guṇeṣhu vartanta iti matvā na sajjate
+tattvavittu mahābāho 
+guṇakarmavibhāgayoḥ |
+guṇā guṇeṣu vartanta 
+iti matvā na sajjate ||
 
-tattva-vit—the knower of the Truth; tu—but; mahā-bāho—mighty-armed one; guṇa-karma—from guṇas and karma; vibhāgayoḥ—distinguish; guṇāḥ—modes of material nature in the shape of the senses, mind, etc; guṇeṣhu—modes of material nature in the shape of objects of perception; vartante—are engaged; iti—thus; matvā—knowing; na—never; sajjate—becomes attached
+tattva-vit – knower of Truth; tu – but; mahābāho – O mighty-armed; 
+guṇa-karma-vibhāgayoḥ – of the divisions of modes and actions; 
+guṇāḥ – the modes; guṇeṣu – in the modes; vartante – operate; 
+iti – thus; matvā – knowing; na – not; sajjate – becomes attached.
 {eov}
 
 {sot}
@@ -33,10 +38,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 प्रकृतेर्गुणसम्मूढा: सज्जन्ते गुणकर्मसु |
 तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत् || 29||
 
-prakṛiter guṇa-sammūḍhāḥ sajjante guṇa-karmasu
-tān akṛitsna-vido mandān kṛitsna-vin na vichālayet
+prakṛterguṇasammūḍhāḥ 
+sajjante guṇakarmasu |
+tānakṛtsnavido mandān
+kṛtsnavinna vicālayet ||
 
-prakṛiteḥ—of material nature; guṇa—by the modes of material nature; sammūḍhāḥ—deluded; sajjante—become attached; guṇa-karmasu—to results of actions; tān—those; akṛitsna-vidaḥ—persons without knowledge; mandān—the ignorant; kṛitsna-vit—persons with knowledge; na vichālayet—should not unsettle
+prakṛteḥ – of nature; guṇa-sammūḍhāḥ – deluded by the modes; 
+sajjante – become attached; guṇa-karmasu – to the actions of the modes; 
+tān – those; akṛtsna-vidaḥ – of imperfect knowledge; mandān – the dull-witted; 
+kṛtsna-vit – the knower of the Whole (the wise); na – not; vicālayet – should unsettle.
+
 {eov}
 
 {sot}

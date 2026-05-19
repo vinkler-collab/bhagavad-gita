@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते |
 एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम् || 40||
 
-indriyāṇi mano buddhir asyādhiṣhṭhānam uchyate
-etair vimohayatyeṣha jñānam āvṛitya dehinam
+indriyāṇi mano buddhir
+asyādhiṣṭhānamucyate |
+etairvimohayatyeṣa 
+jñānamāvṛtya dehinam ||
 
-indriyāṇi—the senses; manaḥ—the mind; buddhiḥ—the intellect; asya—of this; adhiṣhṭhānam—dwelling place; uchyate—are said to be; etaiḥ—by these; vimohayati—deludes; eṣhaḥ—this; jñānam—knowledge; āvṛitya—clouds; dehinam—the embodied soul
+indriyāṇi – the senses; manaḥ – the mind; buddhiḥ – the intellect; 
+asya – its; adhiṣṭhānam – seat/abode; ucyate – is called; 
+etaiḥ – by these; vimohayati – deludes; eṣaḥ – this (desire); 
+jñānam – knowledge; āvṛtya – covering; dehinam – the embodied soul.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ |
 पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम् || 41||
 
-tasmāt tvam indriyāṇyādau niyamya bharatarṣhabha
-pāpmānaṁ prajahi hyenaṁ jñāna-vijñāna-nāśhanam
+tasmāttvamindriyāṇyādau 
+niyamya bharatarṣabha |
+pāpmānaṃ prajahi hyenaṃ 
+jñānavijñānanāśanam ||
 
-tasmāt—therefore; tvam—you; indriyāṇi—senses; ādau—in the very beginning; niyamya—having controlled; bharata-ṛiṣhabha—Arjun, the best of the Bharatas; pāpmānam—the sinful; prajahi—slay; hi—certainly; enam—this; jñāna—knowledge; vijñāna—realization; nāśhanam—the destroyer
+tasmāt – therefore; tvam – you; indriyāṇi – the senses; ādau – in the beginning; 
+niyamya – controlling; bharata-ṛṣabha – O best of the Bharatas; 
+pāpmānam – the sinful; prajahi – slay; hi – indeed; enam – this (desire); 
+jñāna-vijñāna – of knowledge and realization; nāśanam – destroyer.
 {eov}
 
 {sot}
@@ -50,10 +60,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 इन्द्रियाणि पराण्याहुरिन्द्रियेभ्य: परं मन: |
 मनसस्तु परा बुद्धिर्यो बुद्धे: परतस्तु स: || 42||
 
-indriyāṇi parāṇyāhur indriyebhyaḥ paraṁ manaḥ
-manasas tu parā buddhir yo buddheḥ paratas tu saḥ
+indriyāṇi parāṇyāhur
+indriyebhyas paraṃ manaḥ |
+manasastu parā buddhir
+yobuddheḥ paratastu saḥ ||
 
-indriyāṇi—senses; parāṇi—superior; āhuḥ—are said; indriyebhyaḥ—than the senses; param—superior; manaḥ—the mind; manasaḥ—than the mind; tu—but; parā—superior; buddhiḥ—intellect; yaḥ—who; buddheḥ—than the intellect; parataḥ—more superior; tu—but; saḥ—that (soul)
+indriyāṇi – the senses; parāṇi – superior; āhuḥ – they say; 
+indriyebhyaḥ – than the senses; param – superior; manaḥ – the mind; 
+manasaḥ – than the mind; tu – but; parā – superior; buddhiḥ – the intellect; 
+yaḥ – who; buddheḥ – than the intellect; parataḥ – superior; tu – but; saḥ – He (the Soul).
+
 {eov}
 
 {sot}

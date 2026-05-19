@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-
 न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते |
 न च संन्यसनादेव सिद्धिं समधिगच्छति || 4||
 
-na karmaṇām anārambhān naiṣhkarmyaṁ puruṣho ’śhnute
-na cha sannyasanād eva siddhiṁ samadhigachchhati
+na karmaṇāmanārambhān
+naiṣkarmyaṃ puruṣo’śnute |
+na ca sannyasanādeva 
+siddhiṃ samadhigacchati ||
 
-na—not; karmaṇām—of actions; anārambhāt—by abstaining from; naiṣhkarmyam—freedom from karmic reactions; puruṣhaḥ—a person; aśhnute—attains; na—not; cha—and; sannyasanāt—by renunciation; eva—only; siddhim—perfection; samadhigachchhati—attains
+na – not; karmaṇām – of actions; anārambhāt – from non-performance; 
+naiṣkarmyam – freedom from action; puruṣaḥ – a man; aśnute – attains; 
+na – not; ca – and; sannyasanāt – from renunciation; eva – only; 
+siddhim – perfection; samadhigacchati – attains.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-
 न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत् |
 कार्यते ह्यवश: कर्म सर्व: प्रकृतिजैर्गुणै: || 5||
 
-na hi kaśhchit kṣhaṇam api jātu tiṣhṭhatyakarma-kṛit
-kāryate hyavaśhaḥ karma sarvaḥ prakṛiti-jair guṇaiḥ
+na hi kaścitkṣaṇamapi 
+jātu tiṣṭhatyakarmakṛt |
+kāryate hyavaśaḥ karma 
+sarvaḥ prakṛtijairguṇaiḥ ||
 
-na—not; hi—certainly; kaśhchit—anyone; kṣhaṇam—a moment; api—even; jātu—ever; tiṣhṭhati—can remain; akarma-kṛit—without action; kāryate—are performed; hi—certainly; avaśhaḥ—helpless; karma—work; sarvaḥ—all; prakṛiti-jaiḥ—born of material nature; guṇaiḥ—by the qualities
+na – not; hi – indeed; kaścit – anyone; kṣaṇam – a moment; api – even; 
+jātu – ever; tiṣṭhati – remains; akarma-kṛt – without performing action; 
+kāryate – is made to do; hi – for; avaśaḥ – helplessly; karma – action; 
+sarvaḥ – everyone; prakṛti-jaiḥ – born of nature; guṇaiḥ – by the Gunas (modes).
+
 {eov}
 
 {sot}
@@ -50,10 +62,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-
 कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन् |
 इन्द्रियार्थान्विमूढात्मा मिथ्याचार: स उच्यते || 6||
 
-karmendriyāṇi sanyamya ya āste manasā smaran
-indriyārthān vimūḍhātmā mithyāchāraḥ sa uchyate
+karmendriyāṇi saṃyamya 
+ya āste manasā smaran |
+indriyārthānvimūḍhātmā 
+mithyācāraḥ sa ucyate ||
 
-karma-indriyāṇi—the organs of action; sanyamya—restrain; yaḥ—who; āste—remain; manasā—in the mind; smaran—to remember; indriya-arthān—sense objects; vimūḍha-ātmā—the deluded; mithyā-āchāraḥ—hypocrite; saḥ—they; uchyate—are called
+karma-indriyāṇi – the organs of action; saṃyamya – restraining; 
+yaḥ – who; āste – sits; manasā – with the mind; smaran – dwelling upon; 
+indriya-arthān – objects of the senses; vimūḍha-ātmā – of deluded soul; 
+mithyā-ācāraḥ – hypocrite; saḥ – he; ucyate – is called.
 {eov}
 
 {sot}

@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा |
 निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वर: || 30||
 
-mayi sarvāṇi karmāṇi sannyasyādhyātma-chetasā
-nirāśhīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ
+mayi sarvāṇi karmāṇi 
+sannyasyādhyātmacetasā |
+nirāśīrnirmamo bhūtvā 
+yudhyasva vigatajvaraḥ ||
 
-mayi—unto me; sarvāṇi—all; karmāṇi—works; sannyasya—renouncing completely; adhyātma-chetasā—with the thoughts resting on God; nirāśhīḥ—free from hankering for the results of the actions; nirmamaḥ—without ownership; bhūtvā—so being; yudhyasva—fight; vigata-jvaraḥ—without mental fever
+mayi – in Me; sarvāṇi – all; karmāṇi – actions; 
+sannyasya – surrendering; adhyātma-cetasā – with the mind fixed on the Self; 
+nirāśīḥ – free from hope/expectation; nirmamaḥ – free from 'mine-ness'; bhūtvā – becoming; 
+yudhyasva – fight; vigata-jvaraḥ – free from mental fever/anxiety.
+
 {eov}
 
 {sot}
@@ -27,4 +33,4 @@ Renouncing all actions in Me with the mind fixed in Self, free from hope and ego
 {eot}
 
 {start_of_analysis}
-https://vivekavani.com/b3v30/
+https://vivekavani.com/b3v30/z

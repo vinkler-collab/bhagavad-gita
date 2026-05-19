@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 धूमेनाव्रियते वह्निर्यथादर्शो मलेन च |
 यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम् || 38||
 
-dhūmenāvriyate vahnir yathādarśho malena cha
-yatholbenāvṛito garbhas tathā tenedam āvṛitam
+dhūmenāvriyate vahniry
+athādarśo malena ca |
+yatholbenāvṛto garbhas
+tathā tenedamāvṛtam ||
 
-dhūmena—by smoke; āvriyate—is covered; vahniḥ—fire; yathā—just as; ādarśhaḥ—mirror; malena—by dust; cha—also; yathā—just as; ulbena—by the womb; āvṛitaḥ—is covered; garbhaḥ—embryo; tathā—similarly; tena—by that (desire); idam—this; āvṛitam—is covered
+dhūmena – by smoke; āvriyate – is covered; vahniḥ – fire; yathā – as; 
+ādarśaḥ – mirror; malena – by dust/dirt; ca – and; 
+yathā – as; ulbena – by the amnion (membrane); āvṛtaḥ – covered; garbhaḥ – embryo; 
+tathā – so; tenā – by that (desire); idam – this (wisdom); āvṛtam – is covered.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा |
 कामरूपेण कौन्तेय दुष्पूरेणानलेन च || 39||
 
-āvṛitaṁ jñānam etena jñānino nitya-vairiṇā
-kāma-rūpeṇa kaunteya duṣhpūreṇānalena cha
+āvṛtaṃ jñānametena 
+jñānino nityavairiṇā |
+kāmarūpeṇa kaunteya 
+duṣpūreṇānalena ca ||
 
-āvṛitam—covered; jñānam—knowledge; etena—by this; jñāninaḥ—of the wise; nitya-vairiṇā—by the perpetual enemy; kāma-rūpeṇa—in the form of desires; kaunteya—Arjun the son of Kunti; duṣhpūreṇa—insatiable; analena—like fire; cha—and
+āvṛtam – covered; jñānam – knowledge; etena – by this; 
+jñāninaḥ – of the wise; nitya-vairiṇā – by the eternal enemy; 
+kāma-rūpeṇa – in the form of desire; kaunteya – O son of Kunti; 
+duṣpūreṇa – insatiable; analena – fire; ca – and.
+ cha—and
 {eov}
 
 {sot}

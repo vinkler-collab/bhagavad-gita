@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 प्रकृते: क्रियमाणानि गुणै: कर्माणि सर्वश: |
 अहङ्कारविमूढात्मा कर्ताहमिति मन्यते || 27||
 
-prakṛiteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśhaḥ
-ahankāra-vimūḍhātmā kartāham iti manyate
+prakṛteḥ kriyamāṇāni 
+guṇaiḥ karmāṇi sarvaśaḥ | 
+ahaṅkāravimūḍhātmā 
+kartāhamiti manyate ||
 
-prakṛiteḥ—of material nature; kriyamāṇāni—carried out; guṇaiḥ—by the three modes; karmāṇi—activities; sarvaśhaḥ—all kinds of; ahankāra-vimūḍha-ātmā—those who are bewildered by the ego and misidentify themselves with the body; kartā—the doer; aham—I; iti—thus; manyate—thinks
+prakṛteḥ – of nature; kriyamāṇāni – are performed; 
+guṇaiḥ – by the modes (Gunas); karmāṇi – actions; sarvaśaḥ – in all cases; 
+ahaṅkāra-vimūḍha-ātmā – one whose mind is deluded by egoism; 
+kartā – doer; aham – I; iti – thus; manyate – thinks.
+
 {eov}
 
 {sot}

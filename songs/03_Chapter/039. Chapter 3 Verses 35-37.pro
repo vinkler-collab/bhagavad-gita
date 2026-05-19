@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 श्रेयान्स्वधर्मो विगुण: परधर्मात्स्वनुष्ठितात् |
 स्वधर्मे निधनं श्रेय: परधर्मो भयावह: || 35||
 
-śhreyān swa-dharmo viguṇaḥ para-dharmāt sv-anuṣhṭhitāt
-swa-dharme nidhanaṁ śhreyaḥ para-dharmo bhayāvahaḥ
+śreyānsvadharmo viguṇaḥ 
+paradharmātsvanuṣṭhitāt |
+svadharme nidhanaṃ śreyaḥ 
+paradharmo bhayāvahaḥ ||
 
-śhreyān—better; swa-dharmaḥ—personal duty; viguṇaḥ—tinged with faults; para-dharmāt—than another’s prescribed duties; su-anuṣhṭhitāt—perfectly done; swa-dharme—in one’s personal duties; nidhanam—death; śhreyaḥ—better; para-dharmaḥ—duties prescribed for others; bhaya-āvahaḥ—fraught with fear
+śreyān – better; sva-dharmaḥ – one’s own duty; viguṇaḥ – though devoid of merit; 
+paradharmāt – than the duty of another; su-anuṣṭhitāt – well-performed; 
+svadharme – in one's own duty; nidhanam – death; śreyaḥ – better; 
+para-dharmaḥ – another's duty; bhaya-āvahaḥ – fraught with fear.
+
 {eov}
 
 {sot}
@@ -34,11 +40,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 अथ केन प्रयुक्तोऽयं पापं चरति पूरुष: |
 अनिच्छन्नपि वार्ष्णेय बलादिव नियोजित: || 36||
 
-arjuna uvācha
-atha kena prayukto ’yaṁ pāpaṁ charati pūruṣhaḥ
-anichchhann api vārṣhṇeya balād iva niyojitaḥ
+arjuna uvāca |
+atha kena prayukto’yaṃ 
+pāpaṃ carati pūruṣaḥ |
+anicchannapi vārṣṇeya 
+balādiva niyojitaḥ ||
 
-arjunaḥ uvācha—Arjun said; atha—then; kena—by what; prayuktaḥ—impelled; ayam—one; pāpam—sins; charati—commit; pūruṣhaḥ—a person; anichchhan—unwillingly; api—even; vārṣhṇeya—he who belongs to the Vrishni clan, Shree Krishna; balāt—by force; iva—as if; niyojitaḥ—engaged
+arjunaḥ uvāca – Arjuna said; 
+atha – then; kena – by what; prayuktaḥ – impelled; ayam – this; 
+pāpam – sin; carati – commits; pūruṣaḥ – man; 
+anicchan – not wishing; api – even; vārṣṇeya – O Varshneya (Krishna); 
+balāt – by force; iva – as if; niyojitaḥ – constrained.
+
 {eov}
 
 {sot}
@@ -53,11 +66,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 काम एष क्रोध एष रजोगुणसमुद्भव: ||
 महाशनो महापाप्मा विद्ध्येनमिह वैरिणम् || 37||
 
-śhrī bhagavān uvācha
-kāma eṣha krodha eṣha rajo-guṇa-samudbhavaḥ
-mahāśhano mahā-pāpmā viddhyenam iha vairiṇam
+śrībhagavānuvāca |
+kāma eṣa krodha eṣa 
+rajoguṇasamudbhavaḥ |
+mahāśano mahāpāpmā 
+viddhyenamiha vairiṇam ||
 
-śhri-bhagavān uvācha—the Supreme Lord said; kāmaḥ—desire; eṣhaḥ—this; krodhaḥ—wrath; eṣhaḥ—this; rajaḥ-guṇa—the mode of passion; samudbhavaḥ—born of; mahā-aśhanaḥ—all-devouring; mahā-pāpmā—greatly sinful; viddhi—know; enam—this; iha—in the material world; vairiṇam—the enemy
+śrī-bhagavān uvāca – The Blessed Lord said; 
+kāmaḥ – desire; eṣaḥ – this; krodhaḥ – anger; eṣaḥ – this; 
+rajo-guṇa – the mode of passion; samudbhavaḥ – born of; 
+mahā-aśanaḥ – all-devouring; mahā-pāpmā – all-sinful; 
+viddhi – know; enam – this; iha – here; vairiṇam – the enemy.
+
 {eov}
 
 {sot}

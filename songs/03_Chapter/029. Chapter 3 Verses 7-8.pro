@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-
 यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन |
 कर्मेन्द्रियै: कर्मयोगमसक्त: स विशिष्यते || 7||
 
-yas tvindriyāṇi manasā niyamyārabhate ’rjuna
-karmendriyaiḥ karma-yogam asaktaḥ sa viśhiṣhyate
+yastvindriyāṇi manasā 
+niyamyārabhate’rjuna |
+karmendriyaiḥ karmayogam
+asaktaḥ sa viśiṣyate ||
 
-yaḥ—who; tu—but; indriyāṇi—the senses; manasā—by the mind; niyamya—control; ārabhate—begins; arjuna—Arjun; karma-indriyaiḥ—by the working senses; karma-yogam—karm yog; asaktaḥ—without attachment; saḥ—they; viśhiṣhyate—are superior
+yaḥ – who; tu – but; indriyāṇi – the senses; manasā – by the mind; 
+niyamya – controlling; ārabhate – begins/engages in; arjuna – O Arjuna; 
+karma-indriyaiḥ – by the organs of action; karma-yogam – Karma Yoga; 
+asaktaḥ – unattached; saḥ – he; viśiṣyate – is superior.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-3-
 नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मण: |
 शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मण: || 8||
 
-niyataṁ kuru karma tvaṁ karma jyāyo hyakarmaṇaḥ
-śharīra-yātrāpi cha te na prasiddhyed akarmaṇaḥ
+niyataṃ kuru karma tvaṃ 
+karma jyāyo hyakarmaṇaḥ |
+śarīrayātrāpi ca te 
+na prasiddhyedakarmaṇaḥ ||
 
-niyatam—constantly; kuru—perform; karma—Vedic duties; tvam—you; karma—action; jyāyaḥ—superior; hi—certainly; akarmaṇaḥ—than inaction; śharīra—bodily; yātrā—maintenance; api—even; cha—and; te—your; na prasiddhyet—would not be possible; akarmaṇaḥ—inaction
+niyatam – prescribed/obligatory; kuru – perform; 
+karma – action; tvam – you; karma – action; jyāyaḥ – superior; hi – indeed; akarmaṇaḥ – than inaction; 
+śarīra-yātrā – maintenance of the body; api – even; ca – and; te – your; 
+na prasiddhyet – would not be possible; akarmaṇaḥ – through inaction.
+
 {eov}
 
 {sot}

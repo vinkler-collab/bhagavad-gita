@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम् |
 सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतस: || 32||
 
-ye tvetad abhyasūyanto nānutiṣhṭhanti me matam
-sarva-jñāna-vimūḍhāns tān viddhi naṣhṭān achetasaḥ
+ye tvetadabhyasūyanto 
+nānutiṣṭhanti me matam |
+sarvajñānavimūḍhāṃstān
+viddhi naṣṭānacetasaḥ ||
 
-ye—those; tu—but; etat—this; abhyasūyantaḥ—cavilling; na—not; anutiṣhṭhanti—follow; me—my; matam—teachings; sarva-jñāna—in all types of knowledge; vimūḍhān—deluded; tān—they are; viddhi—know; naṣhṭān—ruined; achetasaḥ—devoid of discrimination
+ye – who; tu – but; etat – this; abhyasūyantaḥ – cavilling/sneering; 
+na anutiṣṭhanti – do not follow; me – My; matam – teaching; 
+sarva-jñāna – in all knowledge; vimūḍhān – deluded; tān – them; 
+viddhi – know; naṣṭān – ruined; acetasaḥ – mindless/devoid of discrimination.
 {eov}
 
 {sot}
@@ -33,10 +38,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 सदृशं चेष्टते स्वस्या: प्रकृतेर्ज्ञानवानपि |
 प्रकृतिं यान्ति भूतानि निग्रह: किं करिष्यति || 33||
 
-sadṛiśhaṁ cheṣhṭate svasyāḥ prakṛiter jñānavān api
-prakṛitiṁ yānti bhūtāni nigrahaḥ kiṁ kariṣhyati
+sadṛśaṃ ceṣṭate svasyāḥ 
+prakṛterjñānavanapi |
+prakṛtiṃ yānti bhūtāni 
+nigrahaḥ kiṃ kariṣyati ||
 
-sadṛiśham—accordingly; cheṣhṭate—act; svasyāḥ—by their own; prakṛiteḥ—modes of nature; jñāna-vān—the wise; api—even; prakṛitim—nature; yānti—follow; bhūtāni—all living beings; nigrahaḥ—repression; kim—what; kariṣhyati—will do
+sadṛśam – accordingly; ceṣṭate – acts; svasyāḥ – of his own; 
+prakṛteḥ – nature; jñānavān – the wise; api – even; 
+prakṛtim – nature; yānti – follow; bhūtāni – beings; 
+nigrahaḥ – restraint; kim – what; kariṣyati – will do.
+
 {eov}
 
 {sot}
@@ -50,10 +61,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ |
 तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ || 34||
 
-indriyasyendriyasyārthe rāga-dveṣhau vyavasthitau
-tayor na vaśham āgachchhet tau hyasya paripanthinau
+indriyasyendriyasyārthe 
+rāgadveṣau vyavasthitau |
+tayorna vaśamāgacchettau 
+hyasya paripanthinau ||
 
-indriyasya—of the senses; indriyasya arthe—in the sense objects; rāga—attachment; dveṣhau—aversion; vyavasthitau—situated; tayoḥ—of them; na—never; vaśham—be controlled; āgachchhet—should become; tau—those; hi—certainly; asya—for him; paripanthinau—foes
+indriyasya – of the senses; indriyasya arthe – in the objects of the senses; 
+rāga-dveṣau – attraction and aversion; vyavasthitau – reside; 
+tayoḥ – of these two; na – not; vaśam – under the sway; āgacchet – should come; tau – these two; 
+hi – indeed; asya – his; paripanthinau – foes/adversaries.
 {eov}
 
 {sot}

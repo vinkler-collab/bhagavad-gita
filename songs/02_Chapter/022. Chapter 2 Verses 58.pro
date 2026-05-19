@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 यदा संहरते चायं कूर्मोऽङ्गानीव सर्वश: |
 इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता || 58||
 
-yadā sanharate chāyaṁ kūrmo ’ṅgānīva sarvaśhaḥ
-indriyāṇīndriyārthebhyas tasya prajñā pratiṣhṭhitā
+yadā saṃharate cāyaṃ 
+kūrmo’ṅgānīva sarvaśaḥ | 
+indriyāṇīndriyārthebhyas
+tasya prajñā pratiṣṭhitā ||
 
-yadā—when; sanharate—withdraw; cha—and; ayam—this; kūrmaḥ—tortoise; aṅgāni—limbs; iva—as; sarvaśhaḥ—fully; indriyāṇi—senses; indriya-arthebhyaḥ—from the sense objects; tasya—his; prajñā—divine wisdom; pratiṣhṭhitā—fixed in
+◈  yadā – when; saṃharate – withdraws; ca – and; ayam – this (person); 
+◈  kūrmaḥ – tortoise; aṅgāni – limbs; iva – like; sarvaśaḥ – completely; 
+◈  indriyāṇi – the senses; indriya-arthebhyaḥ – from the objects of the senses; 
+◈  tasya – his; prajñā – wisdom; pratiṣṭhitā – is established.
 {eov}
 
 {sot}

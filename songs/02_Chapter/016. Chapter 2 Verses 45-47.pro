@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन |
 निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान् || 45||
 
-trai-guṇya-viṣhayā vedā nistrai-guṇyo bhavārjuna
-nirdvandvo nitya-sattva-stho niryoga-kṣhema ātmavān
+traiguṇyaviṣayā vedā 
+nistraiguṇyo bhavārjuna | 
+nirdvandvo nityasattvastho 
+niryogakṣema ātmavān ||
 
-trai-guṇya—of the three modes of material nature; viṣhayāḥ—subject matter; vedāḥ—Vedic scriptures; nistrai-guṇyaḥ—above the three modes of material nature, transcendental; bhava—be; arjuna—Arjun; nirdvandvaḥ—free from dualities; nitya-sattva-sthaḥ—eternally fixed in truth; niryoga-kṣhemaḥ—unconcerned about gain and preservation; ātma-vān—situated in the self
+◈  traiguṇya-viṣayāḥ – dealing with the three Gunas; vedāḥ – the Vedas; 
+◈  nistraiguṇyaḥ – free from the three Gunas; bhava – be; arjuna – O Arjuna; 
+◈  nirdvandvaḥ – free from dualities; nitya-sattva-sthaḥ – established in eternal Truth (Sattva); 
+◈  nir-yoga-kṣemaḥ – free from (the thought of) acquisition and preservation; ātmavān – self-possessed.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 यावानर्थ उदपाने सर्वत: सम्प्लुतोदके |
 तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानत: || 46||
 
-yāvān artha udapāne sarvataḥ samplutodake
-tāvānsarveṣhu vedeṣhu brāhmaṇasya vijānataḥ
+yāvānartha udapāne 
+sarvataḥ samplutodake | 
+tāvānsarveṣu vedeṣu 
+brāhmaṇasya vijānataḥ ||
 
-yāvān—whatever; arthaḥ—purpose; uda-pāne—a well of water; sarvataḥ—in all respects; sampluta-udake—by a large lake; tāvān—that many; sarveṣhu—in all; vedeṣhu—Vedas; brāhmaṇasya—one who realises the Absolute Truth; vijānataḥ—who is in complete knowledge
+◈  yāvān – as much; arthaḥ – use; uda-pāne – in a small reservoir of water; 
+◈  sarvataḥ – everywhere; sampluta-udake – being flooded with water;
+◈  tāvān – so much; sarveṣu – in all; vedeṣu – in the Vedas; 
+◈  brāhmaṇasya – for a Brahmana; vijānataḥ – who knows (the Truth).
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 कर्मण्येवाधिकारस्ते मा फलेषु कदाचन |
 मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि || 47 ||
 
-karmaṇy-evādhikāras te mā phaleṣhu kadāchana
-mā karma-phala-hetur bhūr mā te saṅgo ’stvakarmaṇi
+karmaṇyevādhikāraste 
+mā phaleṣu kadācana | 
+mā karmaphalaheturbhūr
+mā te saṅgo’stvakarmaṇi ||
 
-karmaṇi—in prescribed duties; eva—only; adhikāraḥ—right; te—your; mā—not; phaleṣhu—in the fruits; kadāchana—at any time; mā—never; karma-phala—results of the activities; hetuḥ—cause; bhūḥ—be; mā—not; te—your; saṅgaḥ—attachment; astu—must be; akarmaṇi—in inaction
+◈  karmaṇi – in action; eva – only; adhikāraḥ – right; te – your; 
+◈  mā – never; phaleṣu – in fruits; kadācana – at any time; 
+◈  mā – not; karma-phala-hetuḥ – cause of the fruit of action; bhūḥ – be; 
+◈  mā – not; te – your; saṅgaḥ – attachment; astu – let there be; akarmaṇi – in inaction.
 {eov}
 
 {sot}

@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धन: |
 तदर्थं कर्म कौन्तेय मुक्तसङ्ग: समाचर || 9||
 
-yajñārthāt karmaṇo ’nyatra loko ’yaṁ karma-bandhanaḥ
-tad-arthaṁ karma kaunteya mukta-saṅgaḥ samāchara
+yajñārthātkarmaṇo’nyatra 
+loko’yaṃ karmabandhanaḥ |
+tadarthaṃ karma kaunteya 
+muktasaṅgaḥ samācara ||
 
-yajña-arthāt—for the sake of sacrifice; karmaṇaḥ—than action; anyatra—else; lokaḥ—material world; ayam—this; karma-bandhanaḥ—bondage through one’s work; tat—that; artham—for the sake of; karma—action; kaunteya—Arjun, the son of Kunti; mukta-saṅgaḥ—free from attachment; samāchara—perform properly
+yajña-arthāt – for the sake of sacrifice (Yajna); karmaṇaḥ – than action; anyatra – otherwise; 
+lokaḥ ayam – this world; karma-bandhanaḥ – bound by action; 
+tat-artham – for that sake; karma – action; kaunteya – O son of Kunti; 
+mukta-saṅgaḥ – free from attachment; samācara – perform well.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 सहयज्ञा: प्रजा: सृष्ट्वा पुरोवाच प्रजापति: |
 अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक् || 10||
 
-saha-yajñāḥ prajāḥ sṛiṣhṭvā purovācha prajāpatiḥ
-anena prasaviṣhyadhvam eṣha vo ’stviṣhṭa-kāma-dhuk
+sahayajñāḥ prajāḥ sṛṣṭvā 
+purovāca prajāpatiḥ |
+anena prasaviṣyadhvam
+eṣa vo’stviṣṭakāmadhuk ||
 
-saha—along with; yajñāḥ—sacrifices; prajāḥ—humankind; sṛiṣhṭvā—created; purā—in beginning; uvācha—said; prajā-patiḥ—Brahma; anena—by this; prasaviṣhyadhvam—increase prosperity; eṣhaḥ—these; vaḥ—your; astu—shall be; iṣhṭa-kāma-dhuk—bestower of all wishes
+saha-yajñāḥ – along with sacrifice; prajāḥ – mankind/beings; sṛṣṭvā – having created; 
+purā – in the beginning; uvāca – said; prajāpatiḥ – Prajapati (the Creator); 
+anena – by this; prasaviṣyadhvam – shall you multiply/prosper; 
+eṣaḥ – this; vaḥ – for you; astu – let be; iṣṭa-kāma-dhuk – the milch-cow of your desires.
+
 {eov}
 
 {sot}
@@ -50,10 +62,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 देवान्भावयतानेन ते देवा भावयन्तु व: |
 परस्परं भावयन्त: श्रेय: परमवाप्स्यथ || 11||
 
-devān bhāvayatānena te devā bhāvayantu vaḥ
-parasparaṁ bhāvayantaḥ śhreyaḥ param avāpsyatha
+devānbhāvayatānena 
+te devā bhāvayantu vaḥ |
+parasparaṃ bhāvayantaḥ 
+śreyaḥ paramavāpsyatha ||
 
-devān—celestial gods; bhāvayatā—will be pleased; anena—by these (sacrifices); te—those; devāḥ—celestial gods; bhāvayantu—will be pleased; vaḥ—you; parasparam—one another; bhāvayantaḥ—pleasing one another; śhreyaḥ—prosperity; param—the supreme; avāpsyatha—shall achieve
+devān – the gods; bhāvayatā – nourish/foster; anena – by this; 
+te – those; devāḥ – gods; bhāvayantu – may nourish; vaḥ – you; 
+parasparam – one another; bhāvayantaḥ – nourishing; 
+śreyaḥ – the highest good; param – supreme; avāpsyatha – you shall attain.
+
 {eov}
 
 {sot}
@@ -67,10 +85,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविता: |
 तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव स: || 12||
 
-iṣhṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ
-tair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ
+iṣṭānbhogānhi vo devā 
+dāsyante yajñabhāvitāḥ |
+tairdattānapradāyaibhyo 
+yo bhuṅkte stena eva saḥ ||
 
-iṣhṭān—desired; bhogān—necessities of life; hi—certainly; vaḥ—unto you; devāḥ—the celestial gods; dāsyante—will grant; yajña-bhāvitāḥ—satisfied by sacrifice; taiḥ—by them; dattān—things granted; apradāya—without offering; ebhyaḥ—to them; yaḥ—who; bhuṅkte—enjoys; stenaḥ—thieves; eva—verily; saḥ—they
+iṣṭān – desired; bhogān – enjoyments; hi – indeed; vaḥ – to you; devāḥ – the gods; 
+dāsyante – will give; yajña-bhāvitāḥ – nourished by sacrifice; 
+taiḥ – by them; dattān – given; apradāya – without offering; ebhyaḥ – to them; 
+yaḥ – who; bhuṅkte – enjoys; stenaḥ – thief; eva – certainly; saḥ – he.
+
 {eov}
 
 {sot}
@@ -84,10 +108,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 यज्ञशिष्टाशिन: सन्तो मुच्यन्ते सर्वकिल्बिषै: |
 भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात् || 13||
 
-yajña-śhiṣhṭāśhinaḥ santo muchyante sarva-kilbiṣhaiḥ
-bhuñjate te tvaghaṁ pāpā ye pachantyātma-kāraṇāt
+yajñaśiṣṭāśinaḥ santo 
+mucyante sarvakilbiṣaiḥ |
+bhuñjate te tvaghaṃ pāpā 
+ye pacantyātmakāraṇāt ||
 
-yajña-śhiṣhṭa—of remnants of food offered in sacrifice; aśhinaḥ—eaters; santaḥ—saintly persons; muchyante—are released; sarva—all kinds of; kilbiṣhaiḥ—from sins; bhuñjate—enjoy; te—they; tu—but; agham—sins; pāpāḥ—sinners; ye—who; pachanti—cook (food); ātma-kāraṇāt—for their own sake
+yajña-śiṣṭa – remnants of sacrifice; āśinaḥ – eaters; santaḥ – virtuous people; 
+mucyante – are freed; sarva – all; kilbiṣaiḥ – from sins; 
+bhuñjate – eat; te – they; tu – but; agham – sin; pāpāḥ – sinful ones; 
+ye – who; pacanti – cook; ātma-kāraṇāt – for their own sake.
 {eov}
 
 {sot}
@@ -100,21 +129,35 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 
 अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भव: |
 यज्ञाद्भवति पर्जन्यो यज्ञ: कर्मसमुद्भव: || 14||
+
 कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम् |
 तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम् || 15||
 
-annād bhavanti bhūtāni parjanyād anna-sambhavaḥ
-yajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ
-karma brahmodbhavaṁ viddhi brahmākṣhara-samudbhavam
-tasmāt sarva-gataṁ brahma nityaṁ yajñe pratiṣhṭhitam
+annādbhavanti bhūtāni 
+parjanyādannasambhavaḥ |
+yajñādbhavati parjanyo 
+yajñaḥ karmasamudbhavaḥ ||
 
-annāt—from food; bhavanti—subsist; bhūtāni—living beings; parjanyāt—from rains; anna—of food grains; sambhavaḥ—production; yajñāt—from the performance of sacrifice; bhavati—becomes possible; parjanyaḥ—rain; yajñaḥ—performance of sacrifice; karma—prescribed duties; samudbhavaḥ—born of
+annāt – from food; bhavanti – come forth; bhūtāni – living beings; 
+parjanyāt – from rain; anna-sambhavaḥ – production of food; 
+yajñāt – from sacrifice; bhavati – comes; parjanyaḥ – rain; 
+yajñaḥ – sacrifice; karma-samudbhavaḥ – born of action.
 
-karma—duties; brahma—in the Vedas; udbhavam—manifested; viddhi—you should know; brahma—The Vedas; akṣhara—from the Imperishable (God); samudbhavam—directly manifested; tasmāt—therefore; sarva-gatam—all-pervading; brahma—The Lord; nityam—eternally; yajñe—in sacrifice; pratiṣhṭhitam—established
+karma brahmodbhavaṃ viddhi 
+brahmākṣarasamudbhavam |
+tasmātsarvagataṃ brahma 
+nityaṃ yajñe pratiṣṭhitam ||
+
+karma – action; brahma-udbhavam – originated from the Vedas (or Brahma); viddhi – know; 
+brahma – the Vedas; akṣara-samudbhavam – originated from the Imperishable; 
+tasmāt – therefore; sarva-gatam – all-pervading; brahma – the Divine/Vedas; 
+nityam – eternally; yajñe – in sacrifice; pratiṣṭhitam – established.
 {eov}
 
 {sot}
-Beings are born of food, food is produced from rain, rain arises from yajna, yajna is born of action, action arises from Vedas, Vedas are born from the Imperishable Paramatma; therefore know that the Supreme Being is established in the yajna. 
+Beings are born of food, food is produced from rain, rain arises from yajna, yajna is born of action, 
+
+action arises from Vedas, Vedas are born from the Imperishable Paramatma; therefore know that the Supreme Being is established in the yajna. 
 {eot}
 
 {sov: Verse 3.16}
@@ -124,10 +167,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 एवं प्रवर्तितं चक्रं नानुवर्तयतीह य: |
 अघायुरिन्द्रियारामो मोघं पार्थ स जीवति || 16||
 
-evaṁ pravartitaṁ chakraṁ nānuvartayatīha yaḥ
-aghāyur indriyārāmo moghaṁ pārtha sa jīvati
+evaṃ pravartitaṃ cakraṃ 
+nānuvartayatīha yaḥ |
+aghāyurindriyārāmo 
+moghaṃ pārtha sa jīvati ||
 
-evam—thus; pravartitam—set into motion; chakram—cycle; na—not; anuvartayati—follow; iha—in this life; yaḥ—who; agha-āyuḥ—sinful living; indriya-ārāmaḥ—for the delight of their senses; mogham—vainly; pārtha—Arjun, the son of Pritha; saḥ—they; jīvati—live
+evam – thus; pravartitam – set in motion; cakram – wheel; 
+na – not; anuvartayati – follows; iha – in this world; yaḥ – who; 
+agha-āyuḥ – living in sin; indriya-ārāmaḥ – rejoicing in the senses; 
+mogham – in vain; pārtha – O Partha; saḥ – he; jīvati – lives.
+
 {eov}
 
 {sot}

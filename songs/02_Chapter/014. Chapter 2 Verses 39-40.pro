@@ -23,10 +23,10 @@ buddhiryoge tvimāṃ śṛṇu |
 buddhyā yukto yayā pārtha 
 karmabandhaṃ prahāsyasi ||
 
-eṣā – this; te – to you; abhihitā – declared; sāṅkhye – in (the path of) Knowledge; 
-buddhiḥ – wisdom; yoge – in (the path of) Action; tu – but; imām – this; śṛṇu – hear; 
-buddhyā – with wisdom; yuktaḥ – endowed; yayā – by which; pārtha – O Partha; 
-karma-bandham – the bondage of action; prahāsyasi – you shall cast off.
+◈  eṣā – this; te – to you; abhihitā – declared; sāṅkhye – in (the path of) Knowledge; 
+◈  buddhiḥ – wisdom; yoge – in (the path of) Action; tu – but; imām – this; śṛṇu – hear; 
+◈  buddhyā – with wisdom; yuktaḥ – endowed; yayā – by which; pārtha – O Partha; 
+◈  karma-bandham – the bondage of action; prahāsyasi – you shall cast off.
 {eov}
 
 {sot}
@@ -45,10 +45,10 @@ pratyavāyo na vidyate |
 svalpamapyasya dharmasya 
 trāyate mahato bhayāt ||
 
-na – not; iha – in this; abhikrama-nāśaḥ – loss of effort; asti – is; 
-pratyavāyaḥ – contrary result/sin; na – not; vidyate – exists; 
-svalpam – very little; api – even; asya – of this; dharmasya – discipline/practice; 
-trāyate – protects/saves; mahataḥ – from great; bhayāt – fear.
+◈  na – not; iha – in this; abhikrama-nāśaḥ – loss of effort; asti – is; 
+◈  pratyavāyaḥ – contrary result/sin; na – not; vidyate – exists; 
+◈  svalpam – very little; api – even; asya – of this; dharmasya – discipline/practice; 
+◈  trāyate – protects/saves; mahataḥ – from great; bhayāt – fear.
 {eov}
 
 {sot}

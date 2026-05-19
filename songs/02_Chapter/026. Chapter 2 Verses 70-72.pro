@@ -18,12 +18,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 तद्वत्कामा यं प्रविशन्ति सर्वे
 स शान्तिमाप्नोति न कामकामी || 70||
 
-āpūryamāṇam achala-pratiṣhṭhaṁ
-samudram āpaḥ praviśhanti yadvat
-tadvat kāmā yaṁ praviśhanti sarve
-sa śhāntim āpnoti na kāma-kāmī
+āpūryamāṇamacalapratiṣṭhaṃ 
+samudramāpaḥ praviśanti yadvat | 
+tadvatkāmā yaṃ praviśanti sarve 
+sa śāntimāpnoti na kāmakāmī ||
 
-āpūryamāṇam—filled from all sides; achala-pratiṣhṭham—undisturbed; samudram—ocean; āpaḥ—waters; praviśhanti—enter; yadvat—as; tadvat—likewise; kāmāḥ—desires; yam—whom; praviśhanti—enter; sarve—all; saḥ—that person; śhāntim—peace; āpnoti—attains; na—not; kāma-kāmī—one who strives to satisfy desires
+◈  āpūryamāṇam – being filled; acala-pratiṣṭham – based in stillness; 
+◈  samudram – ocean; āpaḥ – waters; praviśanti – enter; yadvat – as; 
+◈  tadvat – so; kāmāḥ – desires; yam – whom; praviśanti – enter; sarve – all; 
+◈  saḥ – he; śāntim – peace; āpnoti – attains; na – not; kāma-kāmī – the desirer of desires.
 {eov}
 
 {sot}
@@ -37,10 +40,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 विहाय कामान्य: सर्वान्पुमांश्चरति नि:स्पृह: |
 निर्ममो निरहङ्कार: स शान्तिमधिगच्छति || 71||
 
-vihāya kāmān yaḥ sarvān pumānśh charati niḥspṛihaḥ
-nirmamo nirahankāraḥ sa śhāntim adhigachchhati
+vihāya kāmānyaḥ sarvān
+pumāṃścarati niḥspṛhaḥ | 
+nirmamo nirahaṅkāraḥ 
+sa śāntimidhigacchati ||
 
-vihāya—giving up; kāmān—material desires; yaḥ—who; sarvān—all; pumān—a person; charati—lives; niḥspṛihaḥ—free from hankering; nirmamaḥ—without a sense of proprietorship; nirahankāraḥ—without egoism; saḥ—that person; śhāntim—perfect peace; adhigachchhati—attains
+◈  vihāya – abandoning; kāmān – desires; yaḥ – who; sarvān – all; 
+◈  pumān – a man; carati – moves/lives; niḥspṛhaḥ – free from longing; 
+◈  nirmamaḥ – without 'mine-ness'; nirahaṅkāraḥ – without ego; 
+◈  saḥ – he; śāntim – peace; adhigacchati – attains.
 {eov}
 
 {sot}
@@ -54,10 +62,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 एषा ब्राह्मी स्थिति: पार्थ नैनां प्राप्य विमुह्यति |
 स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति || 72||
 
-eṣhā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati
-sthitvāsyām anta-kāle ’pi brahma-nirvāṇam ṛichchhati
+eṣā brāhmī sthitiḥ pārtha 
+naināṃ prāpya vimuhyati | 
+sthitvāsyāmantakāle’pi 
+brahmanirvāṇamṛcchati ||
 
-eṣhā—such; brāhmī sthitiḥ—state of God-realisation; pārtha—Arjun, the son of Pritha; na—never; enām—this; prāpya—having attained; vimuhyati—is deluded; sthitvā—being established; asyām—in this; anta-kāle—at the hour of death; api—even; brahma-nirvāṇam—liberation from Maya; ṛichchhati—attains
+◈  eṣā – this; brāhmī – of Brahman; sthitiḥ – state; pārtha – O Partha; 
+◈  na – not; enām – this; prāpya – having attained; vimuhyati – is deluded; 
+◈  sthitvā – being established; asyām – in this; anta-kāle – at the end time (death); api – even; 
+◈  brahma-nirvāṇam – the bliss of Brahman; ṛcchati – attains.
 {eov}
 
 {sot}

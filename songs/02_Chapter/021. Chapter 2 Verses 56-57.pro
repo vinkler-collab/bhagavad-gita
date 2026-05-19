@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 दु:खेष्वनुद्विग्नमना: सुखेषु विगतस्पृह: |
 वीतरागभयक्रोध: स्थितधीर्मुनिरुच्यते || 56||
 
-duḥkheṣhv-anudvigna-manāḥ sukheṣhu vigata-spṛihaḥ
-vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir uchyate
+duḥkheṣvanudvignamanāḥ 
+sukheṣu vigataspṛhaḥ | 
+vītarāgabhayakrodhaḥ 
+sthitadhīrmunirucyate ||
 
-duḥkheṣhu—amidst miseries; anudvigna-manāḥ—one whose mind is undisturbed; sukheṣhu—in pleasure; vigata-spṛihaḥ—without craving; vīta—free from; rāga—attachment; bhaya—fear; krodhaḥ—anger; sthita-dhīḥ—enlightened person; muniḥ—a sage; uchyate—is called
+duḥkheṣu – in sorrows; anudvignamanāḥ – unperturbed mind; 
+sukheṣu – in pleasures; vigata-spṛhaḥ – free from longing; 
+vīta – free from; rāga – attachment; bhaya – fear; krodhaḥ – anger; 
+sthitadhīḥ – of steady wisdom; muniḥ – a sage; ucyate – is called.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/08/Bhagavad-Gita-Chapter-2-
 य: सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम् |
 नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता || 57||
 
-yaḥ sarvatrānabhisnehas tat tat prāpya śhubhāśhubham
-nābhinandati na dveṣhṭi tasya prajñā pratiṣhṭhitā
+yaḥ sarvatrānabhisnehas
+tattatprāpya śubhāśubham | 
+nābhinandati na dveṣṭi 
+tasya prajñā pratiṣṭhitā ||
 
-yaḥ—who; sarvatra—in all conditions; anabhisnehaḥ—unattached; tat—that; tat—that; prāpya—attaining; śhubha—good; aśhubham—evil; na—neither; abhinandati—delight in; na—nor; dveṣhṭi—dejected by; tasya—his; prajñā—knowledge; pratiṣhṭhitā—is fixed
+◈  yaḥ – who; sarvatra – everywhere; anabhisnehaḥ – without attachment; 
+◈  tat tat – whatever; prāpya – obtaining; śubha-aśubham – good or evil; 
+◈  na – not; abhinandati – rejoices; na – not; dveṣṭi – hates; 
+◈  tasya – his; prajñā – wisdom; pratiṣṭhitā – is established.
 {eov}
 
 {sot}

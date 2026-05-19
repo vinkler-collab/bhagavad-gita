@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवा: |
 श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभि: || 31||
 
-ye me matam idaṁ nityam anutiṣhṭhanti mānavāḥ
-śhraddhāvanto ’nasūyanto muchyante te ’pi karmabhiḥ
+ye me matamidaṃ nityam
+anutiṣṭhanti mānavāḥ |
+śraddhāvanto’nasūyanto 
+mucyante te’pi karmabhiḥ ||
 
-ye—who; me—my; matam—teachings; idam—these; nityam—constantly; anutiṣhṭhanti—abide by; mānavāḥ—human beings; śhraddhā-vantaḥ—with profound faith; anasūyantaḥ—free from cavilling; muchyante—become free; te—those; api—also; karmabhiḥ—from the bondage of karma
+ye – who; me – My; matam – teaching; idam – this; nityam – constantly; 
+anutiṣṭhanti – follow; mānavāḥ – men; 
+śraddhāvantaḥ – full of faith; anasūyantaḥ – free from cavil/envy; 
+mucyante – are freed; te api – they also; karmabhiḥ – from (the bondage of) actions.
+
 {eov}
 
 {sot}

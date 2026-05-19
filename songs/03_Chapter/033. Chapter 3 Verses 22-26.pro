@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन |
 नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि || 22||
 
-na me pārthāsti kartavyaṁ triṣhu lokeṣhu kiñchana
-nānavāptam avāptavyaṁ varta eva cha karmaṇi
+na me pārthāsti kartavyaṃ 
+triṣu lokeṣu kiñcana | 
+nānavāptamavāptavyaṃ 
+varta eva ca karmaṇi ||
 
-na—not; me—mine; pārtha—Arjun; asti—is; kartavyam—duty; triṣhu—in the three; lokeṣhu—worlds; kiñchana—any; na—not; anavāptam—to be attained; avāptavyam—to be gained; varte—I am engaged; eva—yet; cha—also; karmaṇi—in prescribed duties
+na – not; me – for Me; pārtha – O Partha; asti – is; kartavyam – duty;
+ triṣu – in the three; lokeṣu – worlds; kiñcana – any; 
+na – not; anavāptam – unattained; avāptavyam – to be attained; 
+varte – I am engaged; eva – also; ca – and; karmaṇi – in action.
+
 {eov}
 
 {sot}
@@ -33,10 +39,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रित: |
 मम वर्त्मानुवर्तन्ते मनुष्या: पार्थ सर्वश: || 23||
 
-yadi hyahaṁ na varteyaṁ jātu karmaṇyatandritaḥ
-mama vartmānuvartante manuṣhyāḥ pārtha sarvaśhaḥ
+yadi hyahaṃ na varteyaṃ 
+jātu karmaṇyatandritaḥ |
+mama vartmānuvarta nte 
+manuṣyāḥ pārtha sarvaśaḥ ||
 
-yadi—if; hi—certainly; aham—I; na—not; varteyam—thus engage; jātu—ever; karmaṇi—in the performance of prescribed duties; atandritaḥ—carefully; mama—my; vartma—path; anuvartante—follow; manuṣhyāḥ—all men; pārtha—Arjun, the son of Pritha; sarvaśhaḥ—in all respects
+yadi – if; hi – indeed; aham – I; na – not; varteyam – should engage; 
+jātu – ever; karmaṇi – in action; atandritaḥ – tirelessly; 
+mama – My; vartma – path; anuvartante – follow; 
+manuṣyāḥ – men; pārtha – O Partha; sarvaśaḥ – in every way.
 {eov}
 
 {sot}
@@ -50,10 +61,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम् |
 सङ्करस्य च कर्ता स्यामुपहन्यामिमा: प्रजा: || 24||
 
-utsīdeyur ime lokā na kuryāṁ karma ched aham
-sankarasya cha kartā syām upahanyām imāḥ prajāḥ
+utsīdeyurime lokā 
+na kuryāṃ karma cedaham |
+saṅkarasya ca kartā syām
+upahanyāmimāḥ prajāḥ ||
 
-utsīdeyuḥ—would perish; ime—all these; lokāḥ—worlds; na—not; kuryām—I perform; karma—prescribed duties; chet—if; aham—I; sankarasya—of uncultured population; cha—and; kartā—responsible; syām—would be; upahanyām—would destroy; imāḥ—all these; prajāḥ—living entities
+utsīdeyuḥ – would perish; ime – these; lokāḥ – worlds; 
+na kuryām – did not perform; karma – action; cet – if; aham – I; 
+saṅkarasya – of confusion/admixture; ca – and; kartā – author; syām – I would be; 
+upahanyām – would destroy; imāḥ – these; prajāḥ – beings.
+
 {eov}
 
 {sot}
@@ -67,10 +84,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 सक्ता: कर्मण्यविद्वांसो यथा कुर्वन्ति भारत |
 कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम् || 25||
 
-saktāḥ karmaṇyavidvānso yathā kurvanti bhārata
-kuryād vidvāns tathāsaktaśh chikīrṣhur loka-saṅgraham
+saktāḥ karmaṇyavidvāṃso 
+yathā kurvanti bhārata | 
+kuryādvidvāṃstathāsakta
+ścikīrṣurlokasaṅgraham ||
 
-saktāḥ—attached; karmaṇi—duties; avidvānsaḥ—the ignorant; yathā—as much as; kurvanti—act; bhārata—scion of Bharat (Arjun); kuryāt—should do; vidvān—the wise; tathā—thus; asaktaḥ—unattached; chikīrṣhuḥ—wishing; loka-saṅgraham—welfare of the world
+saktāḥ – attached; karmaṇi – to action; avidvāṃsaḥ – the ignorant; 
+yathā – as; kurvanti – perform; bhārata – O Bharata; 
+kuryāt – should perform; vidvān – the wise; tathā – so; asaktaḥ – unattached; 
+cikīrṣuḥ – wishing; loka-saṅgraham – welfare of the world.
+
 {eov}
 
 {sot}
@@ -84,10 +107,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम् |
 जोषयेत्सर्वकर्माणि विद्वान्युक्त: समाचरन् || 26||
 
-na buddhi-bhedaṁ janayed ajñānāṁ karma-saṅginām
-joṣhayet sarva-karmāṇi vidvān yuktaḥ samācharan
+na buddhibhedaṃ janayed
+ajñānāṃ karmasaṅginām | 
+joṣayetsarvakarmāṇi 
+vidvānyuktaḥ samācaran ||
 
-na—not; buddhi-bhedam—discord in the intellects; janayet—should create; ajñānām—of the ignorant; karma-saṅginām—who are attached to fruitive actions; joṣhayet—should inspire (them) to perform; sarva—all; karmāṇi—prescribed; vidvān—the wise; yuktaḥ—enlightened; samācharan—performing properly
+na – not; buddhi-bhedam – confusion of intellect; janayet – should create; 
+ajñānām – of the ignorant; karma-saṅginām – attached to action;
+joṣayet – should encourage/inspire; sarva-karmāṇi – all actions; 
+vidvān – the wise; yuktaḥ – disciplined/steadfast; samācaran – performing well.
+
 {eov}
 
 {sot}

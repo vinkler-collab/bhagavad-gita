@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 तस्मादसक्त: सततं कार्यं कर्म समाचर |
 असक्तो ह्याचरन्कर्म परमाप्नोति पूरुष: || 19||
 
-tasmād asaktaḥ satataṁ kāryaṁ karma samāchara
-asakto hyācharan karma param āpnoti pūruṣhaḥ
+tasmādasaktaḥ satataṃ 
+kāryaṃ karma samācara |
+asakto hyācarankarma 
+paramāpnoti pūruṣaḥ ||
 
-tasmāt—therefore; asaktaḥ—without attachment; satatam—constantly; kāryam—duty; karma—action; samāchara—perform; asaktaḥ—unattached; hi—certainly; ācharan—performing; karma—work; param—the Supreme; āpnoti—attains; pūruṣhaḥ—a person
+tasmāt – therefore; asaktaḥ – unattached; satatam – constantly; 
+kāryam – which ought to be done; karma – action; samācara – perform; 
+asaktaḥ – unattached; hi – indeed; ācaran – performing; karma – action; 
+param – the Supreme; āpnoti – attains; pūruṣaḥ – a man.
 {eov}
 
 {sot}
@@ -33,10 +38,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 कर्मणैव हि संसिद्धिमास्थिता जनकादय: |
 लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि || 20||
 
-karmaṇaiva hi sansiddhim āsthitā janakādayaḥ
-loka-saṅgraham evāpi sampaśhyan kartum arhasi
+karmaṇaiva hi saṃsiddhim
+āsthitā janakādayaḥ |
+lokasaṅgrahamēvāpi 
+sampaśyankartumarhasi ||
 
-karmaṇā—by the performance of prescribed duties; eva—only; hi—certainly; sansiddhim—perfection; āsthitāḥ—attained; janaka-ādayaḥ—King Janak and other kings; loka-saṅgraham—for the welfare of the masses; eva api—only; sampaśhyan—considering; kartum—to perform; arhasi—you should;
+karmaṇā – by action; eva – only; hi – indeed; saṃsiddhim – perfection; 
+āsthitāḥ – attained; janaka-ādayaḥ – Janaka and others; 
+loka-saṅgraham – welfare of the world; eva – only; api – also; 
+sampaśyan – having in view; kartum – to perform; arhasi – you should.
+
 {eov}
 
 {sot}
@@ -50,10 +61,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/03/Bhagavad-Gita-Chapter-3-
 यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जन: |
 स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते || 21||
 
-yad yad ācharati śhreṣhṭhas tat tad evetaro janaḥ
-sa yat pramāṇaṁ kurute lokas tad anuvartate
+yadyadācarati śreṣṭhas
+tattadevetaro janaḥ |
+sa yatpramāṇaṃ kurute 
+lokastadanuvartate ||
 
-yat yat—whatever; ācharati—does; śhreṣhṭhaḥ—the best; tat tat—that (alone); eva—certainly; itaraḥ—common; janaḥ—people; saḥ—they; yat—whichever; pramāṇam—standard; kurute—perform; lokaḥ—world; tat—that; anuvartate—pursues
+yat yat – whatever; ācarati – does; śreṣṭhaḥ – a great man; 
+tat tat – that very thing; eva – only; itaraḥ – other; janaḥ – people; 
+saḥ – he; yat – what; pramāṇam – standard/example; kurute – sets; 
+lokaḥ – the world/people; tat – that; anuvartate – follows.
+
 {eov}
 
 {sot}
