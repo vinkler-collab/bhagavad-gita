@@ -21,10 +21,10 @@ tāṃstathaiva bhajāmyaham |
 mama vartmānuvarta nte 
 manuṣyāḥ pārtha sarvaśaḥ ||
 
-ye – who; yathā – in whatever way; mām – Me; prapadyante – surrender/approach; 
-tān – them; tathā eva – in that very way; bhajāmi – reward/reciprocate; aham – I; 
-mama – My; vartma – path; anuvartante – follow; 
-manuṣyāḥ – men; pārtha – O Partha; sarvaśaḥ – in every way.
+◈  ye – who; yathā – in whatever way; mām – Me; prapadyante – surrender/approach; 
+◈  tān – them; tathā eva – in that very way; bhajāmi – reward/reciprocate; aham – I; 
+◈  mama – My; vartma – path; anuvartante – follow; 
+◈  manuṣyāḥ – men; pārtha – O Partha; sarvaśaḥ – in every way.
 
 {eov}
 
@@ -44,10 +44,10 @@ yajanta iha devatāḥ |
 kṣipraṃ hi mānuṣe loke 
 siddhirbhavati karmajā ||
 
-kāṅkṣantaḥ – longing for; karmaṇām – of actions; siddhim – success/fruit; 
-yajante – worship; iha – in this world; devatāḥ – the gods; 
-kṣipram – quickly; hi – indeed; mānuṣe loke – in the world of men; 
-siddhiḥ – success; bhavati – is attained; karma-jā – born of action.
+◈  kāṅkṣantaḥ – longing for; karmaṇām – of actions; siddhim – success/fruit; 
+◈  yajante – worship; iha – in this world; devatāḥ – the gods; 
+◈  kṣipram – quickly; hi – indeed; mānuṣe loke – in the world of men; 
+◈  siddhiḥ – success; bhavati – is attained; karma-jā – born of action.
 {eov}
 
 {sot}
@@ -66,10 +66,10 @@ guṇakarmavibhāgaśaḥ |
 tasya kartāramapi māṃ 
 viddhyakartāramavyayam ||
 
-cātur-varṇyam – the four-fold order (Varnas); mayā – by Me; sṛṣṭam – was created; 
-guṇa-karma-vibhāgaśaḥ – according to the distribution of qualities and actions; 
-tasya – of that; kartāram – the author; api – although; mām – Me; 
-viddhi – know; akartāram – the non-doer; avyayam – immutable/unchanging.
+◈  cātur-varṇyam – the four-fold order (Varnas); mayā – by Me; sṛṣṭam – was created; 
+◈  guṇa-karma-vibhāgaśaḥ – according to the distribution of qualities and actions; 
+◈  tasya – of that; kartāram – the author; api – although; mām – Me; 
+◈  viddhi – know; akartāram – the non-doer; avyayam – immutable/unchanging.
 {eov}
 
 {sot}

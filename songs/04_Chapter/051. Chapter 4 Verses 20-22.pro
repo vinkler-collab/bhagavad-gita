@@ -21,10 +21,10 @@ nityatṛpto nirāśrayaḥ |
 karmaṇyabhipravṛtto’pi 
 naiva kiñcitkaroti saḥ ||
 
-tyaktvā – having given up; karma-phala-āsaṅgam – attachment to the fruit of action; 
-nitya-tṛptaḥ – ever satisfied; nirāśrayaḥ – depending on nothing/refuge-less; 
-karmaṇi – in action; abhipravṛttaḥ – engaged; api – even; 
-na – not; eva – certainly; kiñcit – anything; karoti – does; saḥ – he.
+◈  tyaktvā – having given up; karma-phala-āsaṅgam – attachment to the fruit of action; 
+◈  nitya-tṛptaḥ – ever satisfied; nirāśrayaḥ – depending on nothing/refuge-less; 
+◈  karmaṇi – in action; abhipravṛttaḥ – engaged; api – even; 
+◈  na – not; eva – certainly; kiñcit – anything; karoti – does; saḥ – he.
 
 {eov}
 
@@ -44,10 +44,10 @@ tyaktasarvaparigrahaḥ |
 śārīraṃ kevalaṃ karma 
 kurvannāpnoti kilbiṣam ||
 
-nirāśīḥ – free from hope/expectation; yata-citta-ātmā – with mind and self controlled; 
-tyakta-sarva-parigrahaḥ – having abandoned all possessions; 
-śārīram – relating to the body; kevalam – only; karma – action; 
-kurvan – performing; na āpnoti – does not incur; kilbiṣam – sin.
+◈  nirāśīḥ – free from hope/expectation; yata-citta-ātmā – with mind and self controlled; 
+◈  tyakta-sarva-parigrahaḥ – having abandoned all possessions; 
+◈  śārīram – relating to the body; kevalam – only; karma – action; 
+◈  kurvan – performing; na āpnoti – does not incur; kilbiṣam – sin.
 
 {eov}
 
@@ -67,10 +67,10 @@ dvandvātīto vimatsaraḥ |
 samaḥ siddhāvasiddhau ca 
 kṛtvāpi na nibadhyate ||
 
-yadṛcchā-lābha-santuṣṭaḥ – satisfied with whatever comes by chance; 
-dvandva-atītaḥ – beyond the pairs of opposites (dualities); vimatsaraḥ – free from envy; 
-samaḥ – equal/steady; siddhau-asiddhau – in success and failure; ca – and; 
-kṛtvā api – even having acted; na nibadhyate – is not bound.
+◈  yadṛcchā-lābha-santuṣṭaḥ – satisfied with whatever comes by chance; 
+◈  dvandva-atītaḥ – beyond the pairs of opposites (dualities); vimatsaraḥ – free from envy; 
+◈  samaḥ – equal/steady; siddhau-asiddhau – in success and failure; ca – and; 
+◈  kṛtvā api – even having acted; na nibadhyate – is not bound.
 
 {eov}
 

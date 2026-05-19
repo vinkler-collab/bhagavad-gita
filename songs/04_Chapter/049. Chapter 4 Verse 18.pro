@@ -21,10 +21,10 @@ akarmaṇi ca karma yaḥ |
 sa buddhimānmanuṣyeṣu 
 sa yuktaḥ kṛtsnakarmakṛt ||
 
-karmaṇi – in action; akarma – inaction; yaḥ – who; paśyet – sees; 
-akarmaṇi – in inaction; ca – and; karma – action; yaḥ – who; 
-saḥ – he; buddhimān – wise; manuṣyeṣu – among men; 
-saḥ – he; yuktaḥ – a Yogi; kṛtsna-karma-kṛt – a doer of all actions
+◈  karmaṇi – in action; akarma – inaction; yaḥ – who; paśyet – sees; 
+◈  akarmaṇi – in inaction; ca – and; karma – action; yaḥ – who; 
+◈  saḥ – he; buddhimān – wise; manuṣyeṣu – among men; 
+◈  saḥ – he; yuktaḥ – a Yogi; kṛtsna-karma-kṛt – a doer of all actions
 {eov}
 
 {sot}

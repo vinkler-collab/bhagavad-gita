@@ -21,10 +21,10 @@ prāṇe’pānaṃ tathāpare |
 prāṇāpānagatī ruddhvā 
 prāṇāyāmaparāyaṇāḥ ||
 
-apāne – in the out-going breath; juhvati – offer; prāṇam – the in-coming breath; 
-prāṇe – in the in-coming breath; apānam – the out-going breath; tathā – and; apare – others; 
-prāṇa-apāna-gatī – courses of in-coming and out-going breaths; ruddhvā – stopping; 
-prāṇāyāma-parāyaṇāḥ – devoted to breath-control (Pranayama).
+◈  apāne – in the out-going breath; juhvati – offer; prāṇam – the in-coming breath; 
+◈  prāṇe – in the in-coming breath; apānam – the out-going breath; tathā – and; apare – others; 
+◈  prāṇa-apāna-gatī – courses of in-coming and out-going breaths; ruddhvā – stopping; 
+◈  prāṇāyāma-parāyaṇāḥ – devoted to breath-control (Pranayama).
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ prāṇānprāṇeṣu juhvati |
 sarve’pyete yajñavido 
 yajñakṣapitakalmaṣāḥ ||
 
-apare – others; niyata-āhārāḥ – restricting food; 
-prāṇān – vital breaths; prāṇeṣu – in vital breaths; juhvati – offer; 
-sarve – all; api – even; ete – these; yajña-vidaḥ – knowers of sacrifice; 
-yajña-kṣapita-kalmaṣāḥ – whose sins are destroyed by sacrifice.
+◈  apare – others; niyata-āhārāḥ – restricting food; 
+◈  prāṇān – vital breaths; prāṇeṣu – in vital breaths; juhvati – offer; 
+◈  sarve – all; api – even; ete – these; yajña-vidaḥ – knowers of sacrifice; 
+◈  yajña-kṣapita-kalmaṣāḥ – whose sins are destroyed by sacrifice.
 {eov}
 
 {sot}

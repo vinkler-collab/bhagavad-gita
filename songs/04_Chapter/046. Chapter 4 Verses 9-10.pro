@@ -21,10 +21,10 @@ evaṃ yo vetti tattvataḥ |
 tyaktvā dehaṃ punarjanma 
 naiti māmeti so’rjuna ||
 
-janma – birth; karma – action; ca – and; me – My; divyam – divine; 
-evam – thus; yaḥ – who; vetti – knows; tattvataḥ – in truth; 
-tyaktvā – having abandoned; deham – the body; punaḥ-janma – rebirth; 
-na eti – does not attain; mām – to Me; eti – comes; saḥ – he; arjuna – O Arjuna.
+◈  janma – birth; karma – action; ca – and; me – My; divyam – divine; 
+◈  evam – thus; yaḥ – who; vetti – knows; tattvataḥ – in truth; 
+◈  tyaktvā – having abandoned; deham – the body; punaḥ-janma – rebirth; 
+◈  na eti – does not attain; mām – to Me; eti – comes; saḥ – he; arjuna – O Arjuna.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ manmayā māmupāśritāḥ |
 bahavo jñānatapasā 
 pūtā madbhāvamāgatāḥ ||
 
-vīta-rāga-bhaya-krodhāḥ – free from attachment, fear, and anger; 
-man-mayāḥ – absorbed in Me; mām – in Me; upāśritāḥ – taking refuge; 
-bahavaḥ – many; jñāna-tapasā – by the penance of knowledge; 
-pūtāḥ – purified; mad-bhāvam – My being; āgatāḥ – have attained.
+◈  vīta-rāga-bhaya-krodhāḥ – free from attachment, fear, and anger; 
+◈  man-mayāḥ – absorbed in Me; mām – in Me; upāśritāḥ – taking refuge; 
+◈  bahavaḥ – many; jñāna-tapasā – by the penance of knowledge; 
+◈  pūtāḥ – purified; mad-bhāvam – My being; āgatāḥ – have attained.
 
 {eov}
 

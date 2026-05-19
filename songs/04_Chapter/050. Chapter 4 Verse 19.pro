@@ -21,10 +21,10 @@ kāmasaṅkalpavarjitāḥ |
 jñānāgnidagdhakarmāṇaṃ 
 tamāhuḥ paṇḍitaṃ budhāḥ ||
 
-yasya – whose; sarve – all; samārambhāḥ – undertakings; 
-kāma-saṅkalpa – desire and purpose/will; varjitāḥ – free from; 
-jñāna-agni – by the fire of knowledge; dagdha – burnt; karmāṇam – actions; 
-tam – him; āhuḥ – call; paṇḍitam – a sage; budhāḥ – the wise.
+◈  yasya – whose; sarve – all; samārambhāḥ – undertakings; 
+◈  kāma-saṅkalpa – desire and purpose/will; varjitāḥ – free from; 
+◈  jñāna-agni – by the fire of knowledge; dagdha – burnt; karmāṇam – actions; 
+◈  tam – him; āhuḥ – call; paṇḍitam – a sage; budhāḥ – the wise.
 {eov}
 
 {sot}

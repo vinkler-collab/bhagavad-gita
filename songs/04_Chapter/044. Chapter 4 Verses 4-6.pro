@@ -23,11 +23,11 @@ paraṃ janma vivasvataḥ |
 kathametadvijānīyāṃ 
 tvamādau proktavāniti ||
 
-arjunaḥ uvāca – Arjuna said; 
-aparam – later; bhavataḥ – Your; janma – birth; 
-param – prior/ancient; janma – birth; vivasvataḥ – of Vivasvan; 
-katham – how; etat – this; vijānīyām – should I understand; 
-tvam – You; ādau – in the beginning; proktavān – taught; iti – thus.
+◈  arjunaḥ uvāca – Arjuna said; 
+◈  aparam – later; bhavataḥ – Your; janma – birth; 
+◈  param – prior/ancient; janma – birth; vivasvataḥ – of Vivasvan; 
+◈  katham – how; etat – this; vijānīyām – should I understand; 
+◈  tvam – You; ādau – in the beginning; proktavān – taught; iti – thus.
 {eov}
 
 {sot}
@@ -48,11 +48,11 @@ janmāni tava cārjuna |
 tānyahaṃ veda sarvāṇi 
 na tvaṃ vettha parantapa ||
 
-śrī-bhagavān uvāca – The Blessed Lord said; 
-bahūni – many; me – My; vyatītāni – have passed; 
-janmāni – births; tava – your; ca – and; arjuna – O Arjuna; 
-tāni – them; aham – I; veda – know; sarvāṇi – all; 
-na – not; tvam – you; vettha – know; parantapa – O scorcher of foes.
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  bahūni – many; me – My; vyatītāni – have passed; 
+◈  janmāni – births; tava – your; ca – and; arjuna – O Arjuna; 
+◈  tāni – them; aham – I; veda – know; sarvāṇi – all; 
+◈  na – not; tvam – you; vettha – know; parantapa – O scorcher of foes.
 {eov}
 
 {sot}
@@ -71,10 +71,10 @@ bhūtānāmīśvaro’pi san |
 prakṛtiṃ svāmadhiṣṭhāya 
 sambhavāmyātmamāyayā ||
 
-ajaḥ – unborn; api – although; san – being; avyaya-ātmā – imperishable Self; 
-bhūtānām – of beings; īśvaraḥ – the Lord; api – although; san – being; 
-prakṛtim – nature; svām – My own; adhiṣṭhāya – presiding over/governing; 
-sambhavāmi – I manifest/come into being; ātma-māyayā – by My own Maya (creative power).
+◈  ajaḥ – unborn; api – although; san – being; avyaya-ātmā – imperishable Self; 
+◈  bhūtānām – of beings; īśvaraḥ – the Lord; api – although; san – being; 
+◈  prakṛtim – nature; svām – My own; adhiṣṭhāya – presiding over/governing; 
+◈  sambhavāmi – I manifest/come into being; ātma-māyayā – by My own Maya (creative power).
 
 {eov}
 

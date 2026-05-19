@@ -21,10 +21,10 @@ glānirbhavati bhārata |
 abhyutthānamadharmasya 
 tadātmānaṃ sṛjāmyaham ||
 
-yadā yadā – whenever; hi – indeed; dharmasya – of righteousness (Dharma); 
-glāniḥ – decline; bhavati – occurs; bhārata – O Bharata; 
-abhyutthānam – rise; adharmasya – of unrighteousness; 
-tadā – then; ātmānam – Myself; sṛjāmi – manifest/create; aham – I.
+◈  yadā yadā – whenever; hi – indeed; dharmasya – of righteousness (Dharma); 
+◈  glāniḥ – decline; bhavati – occurs; bhārata – O Bharata; 
+◈  abhyutthānam – rise; adharmasya – of unrighteousness; 
+◈  tadā – then; ātmānam – Myself; sṛjāmi – manifest/create; aham – I.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ vināśāya ca duṣkṛtām |
 dharmasaṃsthāpanārthāya 
 sambhavāmi yuge yuge ||
 
-paritrāṇāya – for the protection; sādhūnām – of the good; 
-vināśāya – for the destruction; ca – and; duṣkṛtām – of the wicked; 
-dharma-saṃsthāpana-arthāya – for the sake of establishing righteousness; 
-sambhavāmi – I am born; yuge yuge – from age to age.
+◈  paritrāṇāya – for the protection; sādhūnām – of the good; 
+◈  vināśāya – for the destruction; ca – and; duṣkṛtām – of the wicked; 
+◈  dharma-saṃsthāpana-arthāya – for the sake of establishing righteousness; 
+◈  sambhavāmi – I am born; yuge yuge – from age to age.
 
 {eov}
 

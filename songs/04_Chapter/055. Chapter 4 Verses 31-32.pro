@@ -21,10 +21,10 @@ yānti brahma sanātanam |
 nāyaṃ loko’styayajñasya 
 kuto’nyaḥ kurusattama ||
 
-yajña-śiṣṭa – remnants of sacrifice; amṛta-bhujaḥ – eaters of the nectar; 
-yānti – go to; brahma – Brahman; sanātanam – eternal; 
-na – not; ayam – this; lokaḥ – world; asti – is; ayajñasya – for the non-sacrificer; 
-kutaḥ – how; anyaḥ – the other (world); kuru-sattama – O best of the Kurus.
+◈  yajña-śiṣṭa – remnants of sacrifice; amṛta-bhujaḥ – eaters of the nectar; 
+◈  yānti – go to; brahma – Brahman; sanātanam – eternal; 
+◈  na – not; ayam – this; lokaḥ – world; asti – is; ayajñasya – for the non-sacrificer; 
+◈  kutaḥ – how; anyaḥ – the other (world); kuru-sattama – O best of the Kurus.
 {eov}
 
 {sot}
@@ -38,10 +38,10 @@ https://media.vivekavani.com/wp-content/uploads/2022/04/Bhagavad-Gita-Chapter-4-
 एवं बहुविधा यज्ञा वितता ब्रह्मणो मुखे |
 कर्मजान्विद्धि तान्सर्वानेवं ज्ञात्वा विमोक्ष्यसे || 32||
 
-evaṃ bahuvidhā yajñā 
-vitatā brahmaṇo mukhe |
-karmajānviddhi tānsarvānevaṃ 
-jñātvā vimokṣyase ||
+◈  evaṃ bahuvidhā yajñā 
+◈  vitatā brahmaṇo mukhe |
+◈  karmajānviddhi tānsarvānevaṃ 
+◈  jñātvā vimokṣyase ||
 
 evam – thus; bahu-vidhāḥ – various types; yajñāḥ – sacrifices; 
 vitatāḥ – are spread out/detailed; brahmaṇaḥ mukhe – in the Vedas (mouth of Brahman); 

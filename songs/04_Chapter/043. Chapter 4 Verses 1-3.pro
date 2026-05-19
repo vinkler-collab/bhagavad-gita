@@ -23,9 +23,11 @@ proktavānahamavyayam |
 vivasvānmanave prāha 
 manurikṣvākave’bravīt ||
 
-śrī-bhagavān uvāca – The Blessed Lord said; 
-imam – this; vivasvate – to Vivasvan (the Sun-god); yogam – Yoga; proktavān – taught; aham – I; avyayam – imperishable; 
-vivasvān – Vivasvan; manave – to Manu; prāha – taught; manuḥ – Manu; ikṣvākave – to Ikshvaku; abravīt – taught.
+◈  śrī-bhagavān uvāca – The Blessed Lord said; 
+◈  imam – this; vivasvate – to Vivasvan (the Sun-god); yogam – Yoga; 
+◈  proktavān – taught; aham – I; avyayam – imperishable; 
+◈  vivasvān – Vivasvan; manave – to Manu; prāha – taught; 
+◈  manuḥ – Manu; ikṣvākave – to Ikshvaku; abravīt – taught.
 
 {eov}
 
@@ -45,10 +47,10 @@ imaṃ rājarṣayo viduḥ |
 sa kāleneha mahatā 
 yogo naṣṭaḥ parantapa ||
 
-evam – thus; paramparā-prāptam – received through tradition/lineage; 
-imam – this; rāja-ṛṣayaḥ – the royal sages; viduḥ – knew; 
-saḥ – that; kālena – by time; iha – here/in this world; mahatā – long; 
-yogaḥ – Yoga; naṣṭaḥ – lost; parantapa – O scorcher of foes.
+◈  evam – thus; paramparā-prāptam – received through tradition/lineage; 
+◈  imam – this; rāja-ṛṣayaḥ – the royal sages; viduḥ – knew; 
+◈  saḥ – that; kālena – by time; iha – here/in this world; mahatā – long; 
+◈  yogaḥ – Yoga; naṣṭaḥ – lost; parantapa – O scorcher of foes.
 
 {eov}
 
@@ -68,10 +70,10 @@ yogaḥ proktaḥ purātanaḥ |
 bhakto’si me sakhā ceti 
 rahasyaṃ hyetaduttamam ||
 
-saḥ – that; eva – same; ayam – this; mayā – by Me; te – to you; adya – today; 
-yogaḥ – Yoga; proktaḥ – has been told; purātanaḥ – ancient; 
-bhaktaḥ – devotee; asi – you are; me – My; sakhā – friend; ca – and; iti – thus; 
-rahasyam – secret; hi – indeed; etat – this; uttamam – supreme.
+◈  saḥ – that; eva – same; ayam – this; mayā – by Me; te – to you; adya – today; 
+◈  yogaḥ – Yoga; proktaḥ – has been told; purātanaḥ – ancient; 
+◈  bhaktaḥ – devotee; asi – you are; me – My; sakhā – friend; ca – and; iti – thus; 
+◈  rahasyam – secret; hi – indeed; etat – this; uttamam – supreme.
 {eov}
 
 {sot}

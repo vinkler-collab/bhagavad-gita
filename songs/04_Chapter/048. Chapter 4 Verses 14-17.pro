@@ -21,10 +21,10 @@ na me karmaphale spṛhā |
 iti māṃ yo’bhijānāti 
 karmabhirna sa badhyate ||
 
-na – not; mām – Me; karmāṇi – actions; limpanti – taint/stain; 
-na – not; me – for Me; karma-phale – in the fruit of action; spṛhā – desire; 
-iti – thus; mām – Me; yaḥ – who; abhijānāti – knows; 
-karmabhiḥ – by actions; na – not; saḥ – he; badhyate – is bound.
+◈  na – not; mām – Me; karmāṇi – actions; limpanti – taint/stain; 
+◈  na – not; me – for Me; karma-phale – in the fruit of action; spṛhā – desire; 
+◈  iti – thus; mām – Me; yaḥ – who; abhijānāti – knows; 
+◈  karmabhiḥ – by actions; na – not; saḥ – he; badhyate – is bound.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ pūrvairapi mumukṣubhiḥ |
 kuru karmaiva tasmāttvaṃ 
 pūrvaiḥ pūrvataraṃ kṛtam ||
 
-evam – thus; jñātvā – knowing; kṛtam – was performed; karma – action; 
-pūrvaiḥ – by the ancients; api – also; mumukṣubhiḥ – seekers of liberation; 
-kuru – perform; karma – action; eva – only; tasmāt – therefore; tvam – you; 
-pūrvaiḥ – by the ancients; pūrvataram – in olden times; kṛtam – performed.
+◈  evam – thus; jñātvā – knowing; kṛtam – was performed; karma – action; 
+◈  pūrvaiḥ – by the ancients; api – also; mumukṣubhiḥ – seekers of liberation; 
+◈  kuru – perform; karma – action; eva – only; tasmāt – therefore; tvam – you; 
+◈  pūrvaiḥ – by the ancients; pūrvataram – in olden times; kṛtam – performed.
 
 {eov}
 
@@ -66,10 +66,10 @@ kavayo’pyatra mohitāḥ |
 tatte karma pravakṣyāmi 
 yajjñātvā mokṣyase’śubhāt ||
 
-kim – what; karma – action; kim – what; akarma – inaction; iti – thus; 
-kavayaḥ – the wise/poets; api – even; atra – in this; mohitāḥ – are deluded; 
-tat – that; te – to you; karma – action; pravakṣyāmi – I shall explain; 
-yat – which; jñātvā – knowing; mokṣyase – you will be liberated; aśubhāt – from evil/bondage.
+◈  kim – what; karma – action; kim – what; akarma – inaction; iti – thus; 
+◈  kavayaḥ – the wise/poets; api – even; atra – in this; mohitāḥ – are deluded; 
+◈  tat – that; te – to you; karma – action; pravakṣyāmi – I shall explain; 
+◈  yat – which; jñātvā – knowing; mokṣyase – you will be liberated; aśubhāt – from evil/bondage.
 {eov}
 
 {sot}
@@ -88,10 +88,10 @@ boddhavyaṃ ca vikarmaṇaḥ |
 akarmaṇaśca boddhavyaṃ 
 gahanā karmaṇo gatiḥ ||
 
-karmaṇaḥ – of action; hi – indeed; api – also; boddhavyam – should be known; 
-boddhavyam – should be known; ca – and; vikarmaṇaḥ – of forbidden action; 
-akarmaṇaḥ – of inaction; ca – and; boddhavyam – should be known; 
-gahanā – profound/mysterious; karmaṇaḥ – of action; gatiḥ – the path/way.
+◈  karmaṇaḥ – of action; hi – indeed; api – also; boddhavyam – should be known; 
+◈  boddhavyam – should be known; ca – and; vikarmaṇaḥ – of forbidden action; 
+◈  akarmaṇaḥ – of inaction; ca – and; boddhavyam – should be known; 
+◈  gahanā – profound/mysterious; karmaṇaḥ – of action; gatiḥ – the path/way.
 {eov}
 
 {sot}

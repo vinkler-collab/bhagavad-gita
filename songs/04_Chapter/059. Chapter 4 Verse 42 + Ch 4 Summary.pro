@@ -21,10 +21,10 @@ hṛtsthaṃ jñānāsinātmanaḥ |
 chittvainaṃ saṃśayaṃ yogam
 ātiṣṭhottiṣṭha bhārata ||
 
-tasmāt – therefore; ajñāna-sambhūtam – born of ignorance; 
-hṛt-stham – dwelling in the heart; jñāna-asinā – by the sword of knowledge; ātmanaḥ – of the self; 
-chittvā – having slashed/cut; enam – this; saṃśayam – doubt; yogam – Yoga; 
-ātiṣṭha – take refuge in; uttiṣṭha – arise; bhārata – O Bharata.
+◈  tasmāt – therefore; ajñāna-sambhūtam – born of ignorance; 
+◈  hṛt-stham – dwelling in the heart; jñāna-asinā – by the sword of knowledge; ātmanaḥ – of the self; 
+◈  chittvā – having slashed/cut; enam – this; saṃśayam – doubt; yogam – Yoga; 
+◈  ātiṣṭha – take refuge in; uttiṣṭha – arise; bhārata – O Bharata.
 
 {eov}
 

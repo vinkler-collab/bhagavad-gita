@@ -21,10 +21,10 @@ evaṃ yāsyasi pāṇḍava |
 yena bhūtānyaśeṣeṇa 
 drakṣyasyātmanyatho mayi ||
 
-yat – which; jñātvā – knowing; na – not; punaḥ – again; moham – to delusion; 
-evam – thus; yāsyasi – you shall go; pāṇḍava – O Pandava; 
-yena – by which; bhūtāni – living beings; aśeṣeṇa – all; 
-drakṣyasi – you will see; ātmani – in the Self; atha u – and also; mayi – in Me.
+◈  yat – which; jñātvā – knowing; na – not; punaḥ – again; moham – to delusion; 
+◈  evam – thus; yāsyasi – you shall go; pāṇḍava – O Pandava; 
+◈  yena – by which; bhūtāni – living beings; aśeṣeṇa – all; 
+◈  drakṣyasi – you will see; ātmani – in the Self; atha u – and also; mayi – in Me.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ sarvebhyaḥ pāpakṛttamaḥ |
 sarvaṃ jñānaplavenaiva 
 vṛjinaṃ santariṣyasi ||
 
-api cet – even if; asi – you are; pāpebhyaḥ – of sinners; 
-sarvebhyaḥ – of all; pāpa-kṛt-tamaḥ – the most sinful; 
-sarvam – all; jñāna-plavena – by the boat of knowledge; eva – alone; 
-vṛjinam – sin/misery; santariṣyasi – you shall cross.
+◈  api cet – even if; asi – you are; pāpebhyaḥ – of sinners; 
+◈  sarvebhyaḥ – of all; pāpa-kṛt-tamaḥ – the most sinful; 
+◈  sarvam – all; jñāna-plavena – by the boat of knowledge; eva – alone; 
+◈  vṛjinam – sin/misery; santariṣyasi – you shall cross.
 
 {eov}
 
@@ -66,10 +66,10 @@ bhasmasātkurute’rjuna |
 jñānāgniḥ sarvakarmāṇi 
 bhasmasātkurute tathā ||
 
-yathā – as; edhāṃsi – fuel/logs; samiddhaḥ – blazing; agniḥ – fire; 
-bhasmasāt – to ashes; kurute – turns; arjuna – O Arjuna; 
-jñāna-agniḥ – the fire of knowledge; sarva-karmāṇi – all actions (karma); 
-bhasmasāt – to ashes; kurute – turns; tathā – so.
+◈  yathā – as; edhāṃsi – fuel/logs; samiddhaḥ – blazing; agniḥ – fire; 
+◈  bhasmasāt – to ashes; kurute – turns; arjuna – O Arjuna; 
+◈  jñāna-agniḥ – the fire of knowledge; sarva-karmāṇi – all actions (karma); 
+◈  bhasmasāt – to ashes; kurute – turns; tathā – so.
 {eov}
 
 {sot}

@@ -21,10 +21,10 @@ pavitramiha vidyate |
 tatsvayaṃ yogasaṃsiddhaḥ 
 kālenātmani vindati ||
 
-na hi – not indeed; jñānena – to knowledge; sadṛśam – like/equal; 
-pavitram – purifier; iha – here (in this world); vidyate – exists; 
-tat – that; svayam – himself; yoga-saṃsiddhaḥ – one perfected in Yoga; 
-kālena – in time; ātmani – in the Self; vindati – finds/attains.
+◈  na hi – not indeed; jñānena – to knowledge; sadṛśam – like/equal; 
+◈  pavitram – purifier; iha – here (in this world); vidyate – exists; 
+◈  tat – that; svayam – himself; yoga-saṃsiddhaḥ – one perfected in Yoga; 
+◈  kālena – in time; ātmani – in the Self; vindati – finds/attains.
 
 {eov}
 
@@ -44,10 +44,10 @@ tatparaḥ saṃyatendriyaḥ |
 jñānaṃ labdhvā parāṃ śāntim
 acireṇādhigacchati ||
 
-śraddhāvān – the man of faith; labhate – obtains; jñānam – knowledge; 
-tat-paraḥ – devoted to it; saṃyata-indriyaḥ – who has subdued the senses; 
-jñānam – knowledge; labdhvā – having obtained; parām – supreme; śāntim – peace; 
-acireṇa – quickly; adhigacchati – attains.
+◈  śraddhāvān – the man of faith; labhate – obtains; jñānam – knowledge; 
+◈  tat-paraḥ – devoted to it; saṃyata-indriyaḥ – who has subdued the senses; 
+◈  jñānam – knowledge; labdhvā – having obtained; parām – supreme; śāntim – peace; 
+◈  acireṇa – quickly; adhigacchati – attains.
 {eov}
 
 {sot}
@@ -66,10 +66,10 @@ saṃśayātmā vinaśyati |
 nāyaṃ loko’styaparo 
 na sukhaṃ saṃśayātmanaḥ ||
 
-ajñaḥ – the ignorant; ca – and; aśraddadhānaḥ – the faithless; ca – and; 
-saṃśaya-ātmā – the doubting soul; vinaśyati – goes to ruin; 
-na – not; ayam – this; lokaḥ – world; asti – is; na paraḥ – nor the next; 
-na sukham – nor happiness; saṃśaya-ātmanaḥ – for the doubting soul
+◈  ajñaḥ – the ignorant; ca – and; aśraddadhānaḥ – the faithless; ca – and; 
+◈  saṃśaya-ātmā – the doubting soul; vinaśyati – goes to ruin; 
+◈  na – not; ayam – this; lokaḥ – world; asti – is; na paraḥ – nor the next; 
+◈  na sukham – nor happiness; saṃśaya-ātmanaḥ – for the doubting soul
 {eov}
 
 {sot}
@@ -88,10 +88,10 @@ jñānachinnasaṃśayam |
 ātmavantaṃ na karmāṇi 
 nibadnanti dhanañjaya ||
 
-yoga-saṃnyasta-karmāṇam – who has renounced actions through Yoga; 
-jñāna-chinna-saṃśayam – whose doubts are rent asunder by knowledge; 
-ātmavantam – possessed of the Self/self-possessed; na – not; karmāṇi – actions; 
-nibadnanti – bind; dhanañjaya – O Dhananjaya (Arjuna).
+◈  yoga-saṃnyasta-karmāṇam – who has renounced actions through Yoga; 
+◈  jñāna-chinna-saṃśayam – whose doubts are rent asunder by knowledge; 
+◈  ātmavantam – possessed of the Self/self-possessed; na – not; karmāṇi – actions; 
+◈  nibadnanti – bind; dhanañjaya – O Dhananjaya (Arjuna).
 
 {eov}
 

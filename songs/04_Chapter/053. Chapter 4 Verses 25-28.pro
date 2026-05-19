@@ -21,10 +21,10 @@ yoginaḥ paryupāsate |
 brahmāgnāvapare yajñaṃ 
 yajñenaivopajuhvati ||
 
-daivam – pertaining to the gods; eva – only; apare – some; yajñam – sacrifice; 
-yoginaḥ – Yogis; paryupāsate – perform; 
-brahma-agnau – in the fire of Brahman; apare – others; yajñam – sacrifice; 
-yajñena – by sacrifice; eva – only; upajuhvati – offer.
+◈  daivam – pertaining to the gods; eva – only; apare – some; yajñam – sacrifice; 
+◈  yoginaḥ – Yogis; paryupāsate – perform; 
+◈  brahma-agnau – in the fire of Brahman; apare – others; yajñam – sacrifice; 
+◈  yajñena – by sacrifice; eva – only; upajuhvati – offer.
 
 {eov}
 
@@ -44,10 +44,10 @@ saṃyamāgniṣu juhvati |
 śabdādīnviṣayānanya 
 indriyāgniṣu juhvati ||
 
-śrotra-ādīni – hearing and other; indriyāṇi – senses; anye – others; 
-saṃyama-agniṣu – in the fires of restraint; juhvati – offer; 
-śabda-ādīn – sound and other; viṣayān – objects; anye – others; 
-indriya-agniṣu – in the fires of the senses; juhvati – offer.
+◈  śrotra-ādīni – hearing and other; indriyāṇi – senses; anye – others; 
+◈  saṃyama-agniṣu – in the fires of restraint; juhvati – offer; 
+◈  śabda-ādīn – sound and other; viṣayān – objects; anye – others; 
+◈  indriya-agniṣu – in the fires of the senses; juhvati – offer.
 {eov}
 
 {sot}
@@ -66,10 +66,10 @@ prāṇakarmāṇi cāpare |
 ātmasaṃyamayogāgnau 
 juhvati jñānadīpite ||
 
-sarvāṇi – all; indriya-karmāṇi – functions of the senses; 
-prāṇa-karmāṇi – functions of the vital breaths; ca – and; apare – others; 
-ātma-saṃyama-yoga-agnau – in the fire of the Yoga of self-restraint; 
-juhvati – offer; jñāna-dīpite – kindled by knowledge.
+◈  sarvāṇi – all; indriya-karmāṇi – functions of the senses; 
+◈  prāṇa-karmāṇi – functions of the vital breaths; ca – and; apare – others; 
+◈  ātma-saṃyama-yoga-agnau – in the fire of the Yoga of self-restraint; 
+◈  juhvati – offer; jñāna-dīpite – kindled by knowledge.
 {eov}
 
 {sot}
@@ -88,10 +88,10 @@ yogayajñāstathāpare |
 svādhyāyajñānayajñāśca 
 yatayaḥ saṃśitavratāḥ ||
 
-dravya-yajñāḥ – sacrifice of wealth/possessions; tapaḥ-yajñāḥ – sacrifice of austerity; 
-yoga-yajñāḥ – sacrifice of Yoga; tathā – and; apare – others; 
-svādhyāya-jñāna-yajñāḥ – sacrifice of study and knowledge; ca – and; 
-yatayaḥ – seekers/ascetics; saṃśita-vratāḥ – of rigid vows.
+◈  dravya-yajñāḥ – sacrifice of wealth/possessions; tapaḥ-yajñāḥ – sacrifice of austerity; 
+◈  yoga-yajñāḥ – sacrifice of Yoga; tathā – and; apare – others; 
+◈  svādhyāya-jñāna-yajñāḥ – sacrifice of study and knowledge; ca – and; 
+◈  yatayaḥ – seekers/ascetics; saṃśita-vratāḥ – of rigid vows.
 
 {eov}
 

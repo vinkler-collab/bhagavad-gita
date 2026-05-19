@@ -21,10 +21,10 @@ jñānayajñaḥ parantapa |
 sarvaṃ karmākhilaṃ pārtha 
 jñāne parisamāpyate ||
 
-śreyān – superior; dravya-mayāt – consisting of material possessions; yajñāt – than sacrifice; 
-jñāna-yajñaḥ – sacrifice of knowledge; parantapa – O scorcher of foes; 
-sarvam – all; karma – action; akhilam – in its entirety; pārtha – O Partha; 
-jñāne – in knowledge; parisamāpyate – culminates.
+◈  śreyān – superior; dravya-mayāt – consisting of material possessions; yajñāt – than sacrifice; 
+◈  jñāna-yajñaḥ – sacrifice of knowledge; parantapa – O scorcher of foes; 
+◈  sarvam – all; karma – action; akhilam – in its entirety; pārtha – O Partha; 
+◈  jñāne – in knowledge; parisamāpyate – culminates.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ paripraśnena sevayā |
 upadekṣyanti te jñānaṃ 
 jñāninastattvadarśinaḥ ||
 
-tat – that (knowledge); viddhi – know/learn; praṇipātena – by prostrating; 
-paripraśnena – by inquiry; sevayā – by service; 
-upadekṣyanti – will instruct; te – you; jñānam – in knowledge; 
-jñāninaḥ – the wise; tattva-darśinaḥ – the seers of Truth.
+◈  tat – that (knowledge); viddhi – know/learn; praṇipātena – by prostrating; 
+◈  paripraśnena – by inquiry; sevayā – by service; 
+◈  upadekṣyanti – will instruct; te – you; jñānam – in knowledge; 
+◈  jñāninaḥ – the wise; tattva-darśinaḥ – the seers of Truth.
 
 {eov}
 

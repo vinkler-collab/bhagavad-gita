@@ -21,10 +21,10 @@ jñānāvasthitacetasaḥ |
 yajñāyācarataḥ karma 
 samagraṃ pravilīyate ||
 
-gata-saṅgasya – of one who is devoid of attachment; muktasya – of the liberated;
-jñāna-avasthita-cetasaḥ – whose mind is established in knowledge; 
-yajñāya – for the sake of sacrifice; ācarataḥ – of one who performs; karma – action; 
-samagram – entirely; pravilīyate – is dissolved/melts away.
+◈  gata-saṅgasya – of one who is devoid of attachment; muktasya – of the liberated;
+◈  jñāna-avasthita-cetasaḥ – whose mind is established in knowledge; 
+◈  yajñāya – for the sake of sacrifice; ācarataḥ – of one who performs; karma – action; 
+◈  samagram – entirely; pravilīyate – is dissolved/melts away.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ brahmāgnau brahmaṇā hutam |
 brahmaiva tena gantavyaṃ 
 brahmakarmasamādhinā ||
 
-brahma-arpaṇam – the act of offering is Brahman; brahma – Brahman; haviḥ – the oblation/clarified butter; 
-brahma-agnau – in the fire of Brahman; brahmaṇā – by Brahman; hutam – is offered; 
-brahma eva – Brahman only; tena – by him; gantavyam – to be reached;
-brahma-karma-samādhinā – who is absorbed in Brahman as action.
+◈  brahma-arpaṇam – the act of offering is Brahman; brahma – Brahman; haviḥ – the oblation/clarified butter; 
+◈  brahma-agnau – in the fire of Brahman; brahmaṇā – by Brahman; hutam – is offered; 
+◈  brahma eva – Brahman only; tena – by him; gantavyam – to be reached;
+◈  brahma-karma-samādhinā – who is absorbed in Brahman as action.
 {eov}
 
 {sot}
