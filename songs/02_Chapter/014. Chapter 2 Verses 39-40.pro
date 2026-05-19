@@ -18,12 +18,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 बुद्ध्या युक्तो यया पार्थ
 कर्मबन्धं प्रहास्यसि || 39||
 
-eṣhā te ’bhihitā sānkhye
-buddhir yoge tvimāṁ śhṛiṇu
-buddhyā yukto yayā pārtha
-karma-bandhaṁ prahāsyasi
+eṣā te’bhihitā sāṅkhye 
+buddhiryoge tvimāṃ śṛṇu | 
+buddhyā yukto yayā pārtha 
+karmabandhaṃ prahāsyasi ||
 
-eṣhā—hitherto; te—to you; abhihitā—explained; sānkhye—by analytical knowledge; buddhiḥ yoge—by the yog of intellect; tu—indeed; imām—this; śhṛiṇu—listen; buddhyā—by understanding; yuktaḥ—united; yayā—by which; pārtha—Arjun, the son of Pritha; karma-bandham—bondage of karma; prahāsyasi—you shall be released from
+eṣā – this; te – to you; abhihitā – declared; sāṅkhye – in (the path of) Knowledge; 
+buddhiḥ – wisdom; yoge – in (the path of) Action; tu – but; imām – this; śṛṇu – hear; 
+buddhyā – with wisdom; yuktaḥ – endowed; yayā – by which; pārtha – O Partha; 
+karma-bandham – the bondage of action; prahāsyasi – you shall cast off.
 {eov}
 
 {sot}
@@ -37,10 +40,15 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते |
 स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात् || 40||
 
-nehābhikrama-nāśho ’sti pratyavāyo na vidyate
-svalpam apyasya dharmasya trāyate mahato bhayāt
+nehābhikramanāśo’sti 
+pratyavāyo na vidyate | 
+svalpamapyasya dharmasya 
+trāyate mahato bhayāt ||
 
-na—not; iha—in this; abhikrama—efforts; nāśhaḥ—loss; asti—there is; pratyavāyaḥ—adverse result; na—not; vidyate—is; su-alpam—a little; api—even; asya—of this; dharmasya—occupation; trāyate—saves; mahataḥ—from great; bhayāt—danger
+na – not; iha – in this; abhikrama-nāśaḥ – loss of effort; asti – is; 
+pratyavāyaḥ – contrary result/sin; na – not; vidyate – exists; 
+svalpam – very little; api – even; asya – of this; dharmasya – discipline/practice; 
+trāyate – protects/saves; mahataḥ – from great; bhayāt – fear.
 {eov}
 
 {sot}

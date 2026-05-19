@@ -21,10 +21,10 @@ dehe sarvasya bhārata |
 tasmātsarvāṇi bhūtāni 
 na tvaṃ śocitumarhasi ||
 
-dehī - the dweller in the body; nityam - always; avadhyaḥ - cannot be slain; ayam - this; 
-dehe - in the body; sarvasya - of all; bhārata - O Bharata; 
-tasmāt - therefore; sarvāṇi - for all; bhūtāni - beings; 
-na - not; tvam - you; śocitum - to grieve; arhasi - should.
+◈  dehī - the dweller in the body; nityam - always; avadhyaḥ - cannot be slain; ayam - this; 
+◈  dehe - in the body; sarvasya - of all; bhārata - O Bharata; 
+◈  tasmāt - therefore; sarvāṇi - for all; bhūtāni - beings; 
+◈  na - not; tvam - you; śocitum - to grieve; arhasi - should.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ na vikampitumarhasi |
 dharmyāddhi yuddhācchreyo’nyat
 kṣatriyasya na vidyate ||
 
-svadharmam - own duty; api - also; ca - and; avekṣya - considering; 
-na - not; vikampitum - to waver; arhasi - you should; 
-dharmyāt - than righteous; hi - indeed; yuddhāt - than war; śreyaḥ - better; anyat - other; 
-kṣatriyasya - for a kshatriya; na - not; vidyate - exists.
+◈  svadharmam - own duty; api - also; ca - and; avekṣya - considering; 
+◈  na - not; vikampitum - to waver; arhasi - you should; 
+◈  dharmyāt - than righteous; hi - indeed; yuddhāt - than war; śreyaḥ - better; anyat - other; 
+◈  kṣatriyasya - for a kshatriya; na - not; vidyate - exists.
 {eov}
 
 {sot}

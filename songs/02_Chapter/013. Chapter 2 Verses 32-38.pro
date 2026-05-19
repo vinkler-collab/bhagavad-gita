@@ -21,10 +21,10 @@ svargadvāramapāvṛtam |
 sukhinaḥ kṣatriyāḥ pārtha
 labhante yuddhamīdṛśam ||
 
-yadṛcchayā - of its own accord; ca - and; upapannam - come/arrived; 
-svarga-dvāram - door to heaven; apāvṛtam - wide open; 
-sukhinaḥ - happy; kṣatriyāḥ - warriors; pārtha - O Partha; 
-labhante - gain; yuddham - war; īdṛśam - such.
+◈  yadṛcchayā - of its own accord; ca - and; upapannam - come/arrived; 
+◈  svarga-dvāram - door to heaven; apāvṛtam - wide open; 
+◈  sukhiṇaḥ - happy; kṣatriyāḥ - warriors; pārtha - O Partha; 
+◈  labhante - gain; yuddham - war; īdṛśam - such.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ saṅgrāmaṃ na kariṣyasi |
 tataḥ svadharmaṃ kīrtiṃ ca 
 hitvā pāpamavāpsyasi ||
 
-atha - but; cet - if; tvam - you; imam - this; dharmyam - righteous; 
-saṅgrāmam - battle; na - not; kariṣyasi - will perform; 
-tataḥ - then; svadharmam - own duty; kīrtim - fame; ca - and; 
-hitvā - losing; pāpam - sin; avāpsyasi - will incur.
+◈  atha - but; cet - if; tvam - you; imam - this; dharmyam - righteous; 
+◈  saṅgrāmam - battle; na - not; kariṣyasi - will perform; 
+◈  tataḥ - then; svadharmam - own duty; kīrtim - fame; ca - and; 
+◈  hitvā - losing; pāpam - sin; avāpsyasi - will incur.
 {eov}
 
 {sot}
@@ -67,10 +67,10 @@ kathayiṣyanti te’vyayām |
 sambhāvitasya cākīrtir
 maraṇādatiricyate ||
 
-akīrtim - infamy; ca - and; api - also; bhūtāni - people; 
-kathayiṣyanti - will speak; te - of you; avyayām - long-standing/perpetual; 
-sambhāvitasya - for an honorable man; ca - and; akīrtiḥ - infamy; 
-maraṇāt - than death; atiricyate - is worse.
+◈  akīrtim - infamy; ca - and; api - also; bhūtāni - people; 
+◈  kathayiṣyanti - will speak; te - of you; avyayām - long-standing/perpetual; 
+◈  sambhāvitasya - for an honorable man; ca - and; akīrtiḥ - infamy; 
+◈  maraṇāt - than death; atiricyate - is worse.
 {eov}
 
 {sot}
@@ -89,10 +89,10 @@ maṃsyante tvāṃ mahārathāḥ |
 yeṣāṃ ca tvaṃ bahumato 
 bhūtvā yāsyasi lāghavam ||
 
-bhayāt - out of fear; raṇāt - from battle; uparatam - withdrawn; 
-maṃsyante - will think; tvām - you; mahārathāḥ - great chariot-warriors; 
-yeṣām - of whom; ca - and; tvam - you; bahumataḥ - highly esteemed; 
-bhūtvā - having been; yāsyasi - will go to; lāghavam - insignificance/lightness.
+◈  bhayāt - out of fear; raṇāt - from battle; uparatam - withdrawn; 
+◈  maṃsyante - will think; tvām - you; mahārathāḥ - great chariot-warriors; 
+◈  yeṣām - of whom; ca - and; tvam - you; bahumataḥ - highly esteemed; 
+◈  bhūtvā - having been; yāsyasi - will go to; lāghavam - insignificance/lightness.
 {eov}
 
 {sot}
@@ -111,10 +111,10 @@ vadiṣyanti tavāhitāḥ |
 nindantastava sāmarthyaṃ 
 tato duḥkhataraṃ nu kim ||
 
-avācyavādān - unspeakable words; ca - and; bahūn - many; 
-vadiṣyanti - will say; tava - your; ahitāḥ - enemies; 
-nindantaḥ - slandering; tava - your; sāmarthyam - prowess; 
-tataḥ - than that; duḥkhataram - more painful; nu - indeed; kim - what.
+◈  avācyavādān - unspeakable words; ca - and; bahūn - many; 
+◈  vadiṣyanti - will say; tava - your; ahitāḥ - enemies; 
+◈  nindantaḥ - slandering; tava - your; sāmarthyam - prowess; 
+◈  tataḥ - than that; duḥkhataram - more painful; nu - indeed; kim - what.
 {eov}
 
 {sot}
@@ -133,10 +133,10 @@ jitvā vā bhokṣyase mahīm |
 tasmāduttiṣṭha kaunteya 
 yuddhāya kṛtaniścayaḥ ||
 
-hataḥ - slain; vā - or; prāpsyasi - you will gain; svargam - heaven; 
-jitvā - conquering; vā - or; bhokṣyase - you will enjoy; mahīm - the earth; 
-tasmāt - therefore; uttiṣṭha - arise; kaunteya - O son of Kunti; 
-yuddhāya - for battle; kṛtaniścayaḥ - determined.
+◈  hataḥ - slain; vā - or; prāpsyasi - you will gain; svargam - heaven; 
+◈  jitvā - conquering; vā - or; bhokṣyase - you will enjoy; mahīm - the earth; 
+◈  tasmāt - therefore; uttiṣṭha - arise; kaunteya - O son of Kunti; 
+◈  ◈  yuddhāya - for battle; kṛtaniścayaḥ - determined.
 {eov}
 
 {sot}
@@ -155,10 +155,10 @@ lābhālābhau jayājayau |
 tato yuddhāya yujyasva 
 naivaṃ pāpamavāpsyasi ||
 
-sukha-duḥkhe - in pleasure and pain; same - equal/alike; kṛtvā - making; 
-lābha-alābhau - in gain and loss; jaya-ajayau - in victory and defeat; 
-tataḥ - then; yuddhāya - for battle; yujyasva - engage; 
-na - not; evam - thus; pāpam - sin; avāpsyasi - you will incur.
+◈  sukha-duḥkhe - in pleasure and pain; same - equal/alike; kṛtvā - making; 
+◈  lābha-alābhau - in gain and loss; jaya-ajayau - in victory and defeat; 
+◈  tataḥ - then; yuddhāya - for battle; yujyasva - engage; 
+◈  na - not; evam - thus; pāpam - sin; avāpsyasi - you will incur.
 {eov}
 
 {sot}

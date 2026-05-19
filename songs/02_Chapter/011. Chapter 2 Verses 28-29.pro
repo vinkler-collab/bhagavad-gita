@@ -21,10 +21,10 @@ vyaktamadhyāni bhārata |
 avyaktanidhanānyeva 
 tatra kā paridevanā ||
 
-avyaktādīni - unmanifest in the beginning; bhūtāni - beings; 
-vyaktamadhyāni - manifest in the middle; bhārata - O Bharata; 
-avyaktanidhanāni - unmanifest in death; eva - only; 
-tatra - there; kā - what; paridevanā - lamentation.
+◈  avyaktādīni - unmanifest in the beginning; bhūtāni - beings; 
+◈  vyaktamadhyāni - manifest in the middle; bhārata - O Bharata; 
+◈  avyaktanidhanāni - unmanifest in death; eva - only; 
+◈  tatra - there; kā - what; paridevanā - lamentation.
 {eov}
 
 {sot}
@@ -45,10 +45,10 @@ https://media.vivekavani.com/wp-content/uploads/2021/07/Bhagavad-Gita-Chapter-2-
 āścaryavaccainamanyaḥ śṛṇoti 
 śrutvāpyenaṃ veda na caiva kaścit ||
 
-āścaryavat - as a wonder; paśyati - sees; kaścit - someone; enam - this; 
-āścaryavat - as a wonder; vadati - speaks; tathā - so; eva - indeed; ca - and; anyaḥ - another;
-āścaryavat - as a wonder; ca - and; enam - this; anyaḥ - another; śṛṇoti - hear; 
-śrutvā - having heard; api - even; enam - this; veda - knows; na - not; ca - and; eva - indeed; kaścit - anyone.
+◈  āścaryavat - as a wonder; paśyati - sees; kaścit - someone; enam - this; 
+◈  āścaryavat - as a wonder; vadati - speaks; tathā - so; eva - indeed; ca - and; anyaḥ - another;
+◈  āścaryavat - as a wonder; ca - and; enam - this; anyaḥ - another; śṛṇoti - hear; 
+◈  śrutvā - having heard; api - even; enam - this; veda - knows; na - not; ca - and; eva - indeed; kaścit - anyone.
 {eov}
 
 {sot}

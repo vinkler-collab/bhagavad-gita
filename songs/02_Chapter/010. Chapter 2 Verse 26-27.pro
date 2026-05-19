@@ -21,10 +21,10 @@ nityaṃ vā manyase mṛtam |
 tathāpi tvaṃ mahābāho 
 naivaṃ śocitumarhasi ||
 
-atha - if however; ca - and; enam - this; 
-nityajātam - constantly born; nityam - constantly; vā - or; manyase - you think; mṛtam - dead; 
-tathāpi - even then; tvam - you; mahābāho - O mighty-armed; 
-na - not; evam - so; śocitum - to grieve; arhasi - should.
+◈  atha - if however; ca - and; enam - this; 
+◈  nityajātam - constantly born; nityam - constantly; vā - or; manyase - you think; mṛtam - dead; 
+◈  tathāpi - even then; tvam - you; mahābāho - O mighty-armed; 
+◈  na - not; evam - so; śocitum - to grieve; arhasi - should.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ dhruvaṃ janma mṛtasya ca |
 tasmādaparihārye’rthe 
 na tvaṃ śocitumarhasi ||
 
-jātasya - of the born; hi - for; 
-dhruvaḥ - certain; mṛtyuḥ - death; dhruvam - certain; janma - birth; mṛtasya - of the dead; ca - and; 
-tasmāt - therefore; aparihārye - in the inevitable; arthe - matter; 
-na - not; tvam - you; śocitum - to grieve; arhasi - should.
+◈  jātasya - of the born; hi - for; 
+◈  dhruvaḥ - certain; mṛtyuḥ - death; dhruvam - certain; janma - birth; mṛtasya - of the dead; ca - and; 
+◈  tasmāt - therefore; aparihārye - in the inevitable; arthe - matter; 
+◈  na - not; tvam - you; śocitum - to grieve; arhasi - should.
 {eov}
 
 {sot}

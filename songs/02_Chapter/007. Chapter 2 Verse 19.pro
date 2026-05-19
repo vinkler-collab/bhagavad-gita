@@ -21,10 +21,10 @@ yaścainaṃ manyate hatam |
 ubhau tau na vijānīto 
 nāyaṃ hanti na hanyate ||
 
-yaḥ – he who; enam – this (Soul); vetti – thinks; hantāram – slayer; 
-yaḥ – he who; ca – and; enam – this; manyate – thinks; hatam – slain; 
+◈  yaḥ – he who; enam – this (Soul); vetti – thinks; hantāram – slayer; 
+◈  ◈  yaḥ – he who; ca – and; enam – this; manyate – thinks; hatam – slain; 
 ubhau – both; tau – they; na vijānītaḥ – do not know; 
-na – not; ayam – this; hanti – slays; na hanyate – is not slain.
+◈  na – not; ayam – this; hanti – slays; na hanyate – is not slain.
 {eov}
 
 {sot}

@@ -23,10 +23,10 @@ nāyaṃ bhūtvā bhavitā vā na bhūyaḥ |
 ajo nityaḥ śāśvato’yaṃ purāṇo 
 na hanyate hanyamāne śarīre ||
 
-na - never; jāyate - is born; mriyate - dies; vā - or; kadācit - at any time; 
-na - not; ayam - this; bhūtvā - having been; bhavitā - will be; vā - or; na - not; bhūyaḥ - again; 
-ajaḥ - unborn; nityaḥ - eternal; śāśvataḥ - changeless; ayam - this; purāṇaḥ - ancient; 
-na - not; hanyate - is killed; hanyamāne - being killed; śarīre - in the body.
+◈  na - never; jāyate - is born; mriyate - dies; vā - or; kadācit - at any time; 
+◈  na - not; ayam - this; bhūtvā - having been; bhavitā - will be; vā - or; na - not; bhūyaḥ - again; 
+◈  ajaḥ - unborn; nityaḥ - eternal; śāśvataḥ - changeless; ayam - this; purāṇaḥ - ancient; 
+◈  na - not; hanyate - is killed; hanyamāne - being killed; śarīre - in the body.
 {eov}
 
 {sot}
@@ -45,10 +45,10 @@ ya enamajamavyayam |
 kathaṃ sa puruṣaḥ pārtha 
 kaṃ ghātayati hanti kam ||
 
-veda - knows; avināśinam - indestructible; nityam - eternal; 
-yaḥ - who; enam - this; ajam - unborn; avyayam - immutable; 
-katham - how; saḥ - that; puruṣaḥ - person; pārtha - O Partha (Arjuna); 
-kam - whom; ghātayati - causes to be killed; hanti - kills; kam - whom.
+◈  veda - knows; avināśinam - indestructible; nityam - eternal; 
+◈  yaḥ - who; enam - this; ajam - unborn; avyayam - immutable; 
+◈  katham - how; saḥ - that; puruṣaḥ - person; pārtha - O Partha (Arjuna); 
+◈  kam - whom; ghātayati - causes to be killed; hanti - kills; kam - whom.
 {eov}
 
 {sot}
@@ -69,10 +69,10 @@ navāni gṛhṇāti naro’parāṇi |
 tathā śarīrāṇi vihāya jīrṇāny
 anyāni saṃyāti navāni dehī ||
 
-vāsāṃsi - clothes; jīrṇāni - worn out; yathā - as; vihāya - casting off; 
-navāni - new; gṛhṇāti - takes on; naraḥ - a man; aparāṇi - others; 
-tathā - so; śarīrāṇi - bodies; vihāya - casting off; jīrṇāni - worn out; 
-anyāni - others; saṃyāti - enters; navāni - new; dehī - the embodied Soul.
+◈  vāsāṃsi - clothes; jīrṇāni - worn out; yathā - as; vihāya - casting off; 
+◈  navāni - new; gṛhṇāti - takes on; naraḥ - a man; aparāṇi - others; 
+◈  tathā - so; śarīrāṇi - bodies; vihāya - casting off; jīrṇāni - worn out; 
+◈  anyāni - others; saṃyāti - enters; navāni - new; dehī - the embodied Soul.
 {eov}
 
 {sot}

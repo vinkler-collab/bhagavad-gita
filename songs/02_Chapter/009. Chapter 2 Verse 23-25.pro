@@ -21,10 +21,10 @@ nainaṃ dahati pāvakaḥ |
 na cainaṃ kledayantyāpo 
 na śoṣayati mārutaḥ ||
 
-na - not; enam - this; chindanti - cut; śastrāṇi - weapons; 
-na - not; enam - this; dahati - burns; pāvakaḥ - fire; 
-na - not; ca - and; enam - this; kledayanti - wet; āpaḥ - waters; 
-na - not; śoṣayati - dries; mārutaḥ - wind.
+◈  na - not; enam - this; chindanti - cut; śastrāṇi - weapons; 
+◈  na - not; enam - this; dahati - burns; pāvakaḥ - fire; 
+◈  na - not; ca - and; enam - this; kledayanti - wet; āpaḥ - waters; 
+◈  na - not; śoṣayati - dries; mārutaḥ - wind.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ akledyo’śoṣya eva ca |
 nityaḥ sarvagataḥ sthāṇur
 acalo’yaṃ sanātanaḥ ||
 
-acchedyaḥ - cannot be cut; ayam - this; adāhyaḥ - cannot be burned; ayam - this; 
-akledyaḥ - cannot be wetted; aśoṣyaḥ - cannot be dried; eva - indeed; ca - and; 
-nityaḥ - eternal; sarvagataḥ - all-pervading; sthāṇuḥ - stable; 
-acalaḥ - immovable; ayam - this; sanātanaḥ - ancient/timeless.
+◈  acchedyaḥ - cannot be cut; ayam - this; adāhyaḥ - cannot be burned; ayam - this; 
+◈  akledyaḥ - cannot be wetted; aśoṣyaḥ - cannot be dried; eva - indeed; ca - and; 
+◈  nityaḥ - eternal; sarvagataḥ - all-pervading; sthāṇuḥ - stable; 
+◈  acalaḥ - immovable; ayam - this; sanātanaḥ - ancient/timeless.
 {eov}
 
 {sot}
@@ -65,10 +65,10 @@ avikāryo’yamucyate |
 tasmādevaṃ viditvainaṃ 
 nānuśocitumarhasi ||
 
-avyaktaḥ - unmanifest; ayam - this; acintyaḥ - unthinkable; ayam - this; 
-avikāryaḥ - unchangeable; ayam - this; ucyate - is said; 
-tasmāt - therefore; evam - thus; viditvā - knowing; enam - this; 
-na - not; anuśocitum - to grieve; arhasi - you should.
+◈  avyaktaḥ - unmanifest; ayam - this; acintyaḥ - unthinkable; ayam - this; 
+◈  avikāryaḥ - unchangeable; ayam - this; ucyate - is said; 
+◈  tasmāt - therefore; evam - thus; viditvā - knowing; enam - this; 
+◈  na - not; anuśocitum - to grieve; arhasi - you should.
 {eov}
 
 {sot}

@@ -21,10 +21,10 @@ yena sarvamidaṃ tatam |
 vināśamavyayasyāsya 
 na kaścitkartumarhati ||
 
-avināśi – imperishable; tu – indeed; tat – that; viddhi – know; 
-yena – by which; sarvam idam – all this; tatam – pervaded; 
-vināśam – destruction; avyayasya – of the immutable; asya – of this; 
-na kaścit – no one; kartum arhati – is able to do.
+◈  avināśi – imperishable; tu – indeed; tat – that; viddhi – know; 
+◈  yena – by which; sarvam idam – all this; tatam – pervaded; 
+◈  vināśam – destruction; avyayasya – of the immutable; asya – of this; 
+◈  na kaścit – no one; kartum arhati – is able to do.
 {eov}
 
 {sot}
@@ -43,10 +43,10 @@ nityasyoktāḥ śarīriṇaḥ |
 anāśino’prameyasya 
 tasmādyudhyasva bhārata ||
 
-antavantaḥ – having an end; ime – these; dehāḥ – bodies; 
-nityasya – of the eternal; uktāḥ – are said; śarīriṇaḥ – of the embodied soul; 
-anāśinaḥ – of the indestructible; aprameyasya – of the immeasurable; 
-tasmāt – therefore; yudhyasva – fight; bhārata – O Bharata.
+◈  antavantaḥ – having an end; ime – these; dehāḥ – bodies; 
+◈  nityasya – of the eternal; uktāḥ – are said; śarīriṇaḥ – of the embodied soul; 
+◈  anāśinaḥ – of the indestructible; aprameyasya – of the immeasurable; 
+◈  tasmāt – therefore; yudhyasva – fight; bhārata – O Bharata.
 {eov}
 
 {sot}
