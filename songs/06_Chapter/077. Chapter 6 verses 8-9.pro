@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रिय: |
 युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चन: || 8||
 
-jñāna-vijñāna-tṛiptātmā kūṭa-stho vijitendriyaḥ
-yukta ityuchyate yogī sama-loṣhṭāśhma-kāñchanaḥ
+jñānavijñānatṛptātmā 
+kūṭastho vijitendriyaḥ | 
+yukta ityucyate yogī 
+samaloṣṭāśmakāñcanaḥ ||
 
-jñāna—knowledge; vijñāna—realized knowledge, wisdom from within; tṛipta ātmā—one fully satisfied; kūṭa-sthaḥ—undisturbed; vijita-indriyaḥ—one who has conquered the senses; yuktaḥ—one who is in constant communion with the Supreme; iti—thus; uchyate—is said; yogī—a yogi; sama—looks equally; loṣhṭra—pebbles; aśhma—stone; kāñchanaḥ—gold
+jñāna-vijñāna-tṛpta-ātmā – whose self is satisfied with knowledge and realization; 
+kūṭasthaḥ – unchangeable/immovable; vijita-indriyaḥ – who has subdued the senses; 
+yuktaḥ – disciplined/harmonized; iti – thus; ucyate – is called; yogī – a Yogi; 
+sama-loṣṭa-āśma-kāñcanaḥ – to whom a clod of earth, a stone, and gold are the same.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु |
 साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते || 9||
 
-suhṛin-mitrāryudāsīna-madhyastha-dveṣhya-bandhuṣhu
-sādhuṣhvapi cha pāpeṣhu sama-buddhir viśhiṣhyate
+suhṛnmitrāryudāsīna
+madhyasthadveṣyabandhuṣu | 
+sādhuṣvapi ca pāpeṣu 
+samabuddhirviśiṣyate ||
 
-su-hṛit—toward the well-wishers; mitra—friends; ari—enemies; udāsīna—neutral persons; madhya-stha—mediators; dveṣhya—the envious; bandhuṣhu—relatives; sādhuṣhu—pious; api—as well as; cha—and; pāpeṣhu—the sinners; sama-buddhiḥ—of impartial intellect; viśhiṣhyate—is distinguished
+suhṛt – well-wisher; mitra – friend; ari – enemy; udāsīna – the indifferent; 
+madhyastha – the neutral; dveṣya – the hateful; bandhuṣu – and relatives; 
+sādhuṣu – in the righteous; api – also; ca – and; pāpeṣu – in the sinful; 
+sama-buddhiḥ – equal-minded; viśiṣyate – is pre-eminent/excels.
 {eov}
 
 {sot}

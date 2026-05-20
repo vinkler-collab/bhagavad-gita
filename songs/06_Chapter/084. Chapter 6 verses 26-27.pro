@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 यतो यतो निश्चरति मनश्चञ्चलमस्थिरम् |
 ततस्ततो नियम्यैतदात्मन्येव वशं नयेत् || 26||
 
-yato yato niśhcharati manaśh chañchalam asthiram
-tatas tato niyamyaitad ātmanyeva vaśhaṁ nayet
+yato yato niścarati 
+manaścañcalamasthiram | 
+tatastato niyamyaitad
+ātmanyeva vaśaṃ nayet ||
 
-yataḥ yataḥ—whenever and wherever; niśhcharati—wanders; manaḥ—the mind; chañchalam—restless; asthiram—unsteady; tataḥ tataḥ—from there; niyamya—having restrained; etat—this; ātmani—on God; eva—certainly; vaśham—control; nayet—should bring
+yataḥ yataḥ – from whatever cause; niścarati – wanders; 
+manaḥ – the mind; cañcalam – restless; asthiram – unsteady; 
+tataḥ tataḥ – from that; niyamya – restraining; etat – this; 
+ātmani – in the Self; eva – alone; vaśam – control; nayet – let him bring.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 प्रशान्तमनसं ह्येनं योगिनं सुखमुत्तमम् |
 उपैति शान्तरजसं ब्रह्मभूतमकल्मषम् || 27||
 
-praśhānta-manasaṁ hyenaṁ yoginaṁ sukham uttamam
-upaiti śhānta-rajasaṁ brahma-bhūtam akalmaṣham
+praśāntamanasaṃ hyenaṃ 
+yoginaṃ sukhamuttamam | 
+upaiti śāntarajasaṃ 
+brahmabhūtamakalmaṣam ||
 
-praśhānta—peaceful; manasam—mind; hi—certainly; enam—this; yoginam—yogi; sukham uttamam—the highest bliss; upaiti—attains; śhānta-rajasam—whose passions are subdued; brahma-bhūtam—endowed with God-realization; akalmaṣham—without sin
+praśānta-manasam – whose mind is perfectly serene; hi – indeed; enam – this; 
+yoginam – Yogi; sukham – happiness; uttamam – supreme; 
+upaiti – comes to; śānta-rajasam – whose passion (Rajas) is quieted; 
+brahma-bhūtam – who has become Brahman; akalmaṣam – freed from sin.
 {eov}
 
 {sot}

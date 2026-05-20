@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 जितात्मन: प्रशान्तस्य परमात्मा समाहित: |
 शीतोष्णसुखदु:खेषु तथा मानापमानयो: || 7||
 
-jitātmanaḥ praśhāntasya paramātmā samāhitaḥ
-śhītoṣhṇa-sukha-duḥkheṣhu tathā mānāpamānayoḥ
+jitātmanaḥ praśāntasya 
+paramātmā samāhitaḥ | 
+śītoṣṇasukhaduḥkheṣu 
+tathā mānāpamānayoḥ ||
 
-jita-ātmanaḥ—one who has conquered one’s mind; praśhāntasya—of the peaceful; parama-ātmā—God; samāhitaḥ—steadfast; śhīta—in cold; uṣhṇa—heat; sukha—happiness; duḥkheṣhu—in distress; tathā—also; māna—in honor; apamānayoḥ—and dishonor
+jita-ātmanaḥ – of the self-conquered; praśāntasya – of the serene; 
+parama-ātmā – the Supreme Self; samāhitaḥ – is steadily established; 
+śīta-uṣṇa – in cold and heat; sukha-duḥkheṣu – in pleasure and pain; 
+tathā – as also; māna-apamānayoḥ – in honor and dishonor.
+
 {eov}
 
 {sot}

@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते |
 योगारूढस्य तस्यैव शम: कारणमुच्यते || 3||
 
-ārurukṣhor muner yogaṁ karma kāraṇam uchyate
-yogārūḍhasya tasyaiva śhamaḥ kāraṇam uchyate
+ārurukṣormuneryogaṃ 
+karma kāraṇamucyate | 
+yogārūḍhasya tasyaiva 
+śamaḥ kāraṇamucyate ||
 
-ārurukṣhoḥ—a beginner; muneḥ—of a sage; yogam—Yog; karma—working without attachment; kāraṇam—the cause; uchyate—is said; yoga ārūḍhasya—of those who are elevated in Yog; tasya—their; eva—certainly; śhamaḥ—meditation; kāraṇam—the cause; uchyate—is said
+ārurukṣoḥ – for one who wishes to ascend; muneḥ – of the sage; yogam – Yoga; 
+karma – action; kāraṇam – the means/cause; ucyate – is said to be; 
+yoga-ārūḍhasya – of one who has ascended to Yoga; tasya – of him; eva – only; 
+śamaḥ – serenity/quiescence; kāraṇam – the means; ucyate – is said to be.
 {eov}
 
 {sot}
@@ -31,12 +36,18 @@ For the sage aspiring to ascend to yoga, action is said to be the means; and for
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-4.mp3
 
 यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते |
-सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते || 4||
+सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते ||4||
 
-yadā hi nendriyārtheṣhu na karmasv-anuṣhajjate
-sarva-saṅkalpa-sannyāsī yogārūḍhas tadochyate
+yadā hi nendriyārtheṣu 
+na karmasvanuṣajjate | 
+sarvasaṅkalpasannyāsī 
+yogārūḍhastadocyate ||
 
-yadā—when; hi—certainly; na—not; indriya-artheṣhu—for sense-objects; na—not; karmasu—to actions; anuṣhajjate—is attachment; sarva-saṅkalpa—all desires for the fruits of actions; sanyāsī—renouncer; yoga-ārūḍhaḥ—elevated in the science of Yog; tadā—at that time; uchyate—is said
+yadā – when; hi – indeed; na – not; indriya-artheṣu – in the objects of the senses; 
+na – not; karmasu – in actions; anuṣajjate – is attached; 
+sarva-saṅkalpa-sannyāsī – the renouncer of all worldly thoughts; 
+yoga-ārūḍhaḥ – established in Yoga; tadā – then; ucyate – is said to be.
+
 {eov}
 
 {sot}

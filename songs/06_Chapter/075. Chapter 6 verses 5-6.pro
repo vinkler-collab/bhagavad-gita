@@ -14,12 +14,18 @@ https://open.spotify.com/episode/1vxlYUeKJfyn133KJLje9m?si=2380e0e8e08f410f
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-5.mp3
 
 उद्धरेदात्मनात्मानं नात्मानमवसादयेत् |
-आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मन: || 5||
+आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मन: ||5||
 
-uddhared ātmanātmānaṁ nātmānam avasādayet
-ātmaiva hyātmano bandhur ātmaiva ripur ātmanaḥ
+uddharedātmanātmānaṃ 
+nātmānamavasādayet | 
+ātmaiva hyātmano bandhur
+ātmaiva ripurātmanas ||
 
-uddharet—elevate; ātmanā—through the mind; ātmānam—the self; na—not; ātmānam—the self; avasādayet—degrade; ātmā—the mind; eva—certainly; hi—indeed; ātmanaḥ—of the self; bandhuḥ—friend; ātmā—the mind; eva—certainly; ripuḥ—enemy; ātmanaḥ—of the self
+uddharet – one should lift/elevate; ātmanā – by the self; ātmānam – the self; 
+na – not; ātmānam – the self; avasādayet – should let sink/degrade; 
+ātmā eva – the self alone; hi – indeed; ātmanaḥ – of the self; bandhuḥ – friend; 
+ātmā eva – the self alone; ripuḥ – enemy; ātmanaḥ – of the self.
+
 
 {eov}
 
@@ -32,12 +38,17 @@ Let a man be lifted up by his own self; let him not lower himself; for he himsel
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-6.mp3
 
 बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जित: |
-अनात्मनस्तु शत्रुत्वे वर्ते तात्मैव शत्रुवत् || 6||
+अनात्मनस्तु शत्रुत्वे वर्ते तात्मैव शत्रुवत् ||6||
 
-bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ
-anātmanas tu śhatrutve vartetātmaiva śhatru-vat
+bandhurātmātmanastasya 
+yenātmaivātmanā jitaḥ | 
+anātmanastu śatrutve 
+vartetātmaiva śatruvat ||
 
-bandhuḥ—friend; ātmā—the mind; ātmanaḥ—for the person; tasya—of him; yena—by whom; ātmā—the mind; eva—certainly; ātmanā—for the person; jitaḥ—conquered; anātmanaḥ—of those with unconquered mind; tu—but; śhatrutve—for an enemy; varteta—remains; ātmā—the mind; eva—as; śhatru-vat—like an enemy
+bandhuḥ – friend; ātmā – the self; ātmanaḥ – of the self; tasya – of him; 
+yena – by whom; ātmā – the self; eva – alone; ātmanā – by the self; jitaḥ – is conquered; 
+anātmanaḥ – for the unconquered self; tu – but; śatrutve – in the state of an enemy; 
+varteta – would act; ātmā eva – the self alone; śatru-vat – like an enemy.
 {eov}
 
 {sot}

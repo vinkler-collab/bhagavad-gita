@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 योगी युञ्जीत सततमात्मानं रहसि स्थित: |
 एकाकी यतचित्तात्मा निराशीरपरिग्रह: || 10||
 
-yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ
-ekākī yata-chittātmā nirāśhīr aparigrahaḥ
+yogī yuñjīta satatam
+ātmānaṃ rahasi sthitaḥ | 
+ekākī yatacittātmā 
+nirāśīraparigrahaḥ ||
 
-yogī—a yogi; yuñjīta—should remain engaged in meditation; satatam—constantly; ātmānam—self; rahasi—in seclusion; sthitaḥ—remaining; ekākī—alone; yata-chitta-ātmā—with a controlled mind and body; nirāśhīḥ—free from desires; aparigrahaḥ—free from desires for possessions
+yogī – the Yogi; yuñjīta – should engage/practice; satatam – constantly; 
+ātmānam – the self; rahasi – in secret/solitude; sthitaḥ – remaining; 
+ekākī – alone; yata-citta-ātmā – with mind and self controlled; 
+nirāśīḥ – free from hope; aparigrahaḥ – free from possessions.
 {eov}
 
 {sot}
@@ -35,12 +40,25 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 तत्रैकाग्रं मन: कृत्वा यतचित्तेन्द्रियक्रिय: |
 उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये || 12||
 
-śhuchau deśhe pratiṣhṭhāpya sthiram āsanam ātmanaḥ
-nātyuchchhritaṁ nāti-nīchaṁ chailājina-kuśhottaram
-tatraikāgraṁ manaḥ kṛitvā yata-chittendriya-kriyaḥ
-upaviśhyāsane yuñjyād yogam ātma-viśhuddhaye
+śucau deśe pratiṣṭhāpya 
+sthiramāsanamātmanaḥ | 
+nātyucchritaṃ nātinīcaṃ 
+cailājinakuśottaram || 11 ||
 
-śhuchau—in a clean; deśhe—place; pratiṣhṭhāpya—having established; sthiram—steadfast; āsanam—seat; ātmanaḥ—his own; na—not; ati—too; uchchhritam—high; na—not; ati—too; nīcham—low; chaila—cloth; ajina—a deerskin; kuśha—kuśh grass; uttaram—one over the other; tatra—there; eka-agram—one-pointed; manaḥ—mind; kṛitvā—having made; yata-chitta—controlling the mind; indriya—senses; kriyaḥ—activities; upaviśhya—being seated; āsane—on the seat; yuñjyāt yogam—should strive to practice yog; ātma viśhuddhaye—for purification of the mind;
+tatraikāgraṃ manaḥ kṛtvā 
+yatacittendriyakriyaḥ | 
+upaviśyāsane yuñjyād
+yogāmātmaviśuddhaye || 12 ||
+
+śucau deśe – in a clean spot; pratiṣṭhāpya – having established; 
+sthiram – firm; āsanam – seat; ātmanaḥ – his own; 
+na ati ucchritam – not too high; na ati nīcam – not too low; 
+caila-ajina-kuśa-uttaram – covered with a cloth, an antelope skin, and kusha grass (one over the other); 
+
+tatra – there; ekāgram – one-pointed; manaḥ – mind; kṛtvā – making; 
+yata-citta-indriya-kriyaḥ – controlling the thoughts and activities of the senses; 
+upaviśya – sitting; āsane – on the seat; yuñjyāt – should practice; 
+yogam – Yoga; ātma-viśuddhaye – for the purification of the self.
 {eov}
 
 {sot}
@@ -58,12 +76,25 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थित: |
 मन: संयम्य मच्चित्तो युक्त आसीत मत्पर: || 14||
 
-samaṁ kāya-śhiro-grīvaṁ dhārayann achalaṁ sthiraḥ
-samprekṣhya nāsikāgraṁ svaṁ diśhaśh chānavalokayan
-praśhāntātmā vigata-bhīr brahmachāri-vrate sthitaḥ
-manaḥ sanyamya mach-chitto yukta āsīta mat-paraḥ
+samaṃ kāyaśirogrīvaṃ 
+dhārayannacalaṃ sthiraḥ | 
+samprekṣya nāsikāgraṃ svaṃ 
+diśaścānavalokayan || 13 ||
 
-samam—straight; kāya—body; śhiraḥ—head; grīvam—neck; dhārayan—holding; achalam—unmoving; sthiraḥ—still; samprekṣhya—gazing; nāsika-agram—at the tip of the nose; svam—own; diśhaḥ—directions; cha—and; anavalokayan—not looking; praśhānta—serene; ātmā—mind; vigata-bhīḥ—fearless; brahmachāri-vrate—in the vow of celibacy; sthitaḥ—situated; manaḥ—mind; sanyamya—having controlled; mat-chittaḥ—meditate on me (Shree Krishna); yuktaḥ—engaged; āsīta—should sit; mat-paraḥ—having me as the supreme goal
+praśāntātmā vigatabhīr
+brahmacārivrate sthitaḥ | 
+manaḥ saṃyamya maccitto 
+yukta āsīta matparaḥ || 14 ||
+
+samam – straight; kāya-śiraḥ-grīvam – body, head, and neck; 
+dhārayan – holding; acalam – still; sthiraḥ – steady; 
+samprekṣya – gazing at; nāsikā-agram – the tip of the nose; svam – one's own; 
+diśaḥ – directions; ca – and; anavalokayan – not looking; 
+
+praśānta-ātmā – serene-minded; vigata-bhīḥ – fearless; 
+brahmacāri-vrate – in the vow of celibacy; sthitaḥ – firm; 
+manaḥ – mind; saṃyamya – subduing; mat-cittaḥ – with mind fixed on Me; 
+yuktaḥ – disciplined; āsīta – should sit; mat-paraḥ – looking on Me as the Supreme Goal.
 {eov}
 
 {sot}

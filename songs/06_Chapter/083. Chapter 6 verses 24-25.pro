@@ -15,19 +15,39 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 
 सङ्कल्पप्रभवान्कामांस्त्यक्त्वा सर्वानशेषत: |
 मनसैवेन्द्रियग्रामं विनियम्य समन्तत: || 24||
-शनै: शनैरुपरमेद्बुद्ध्या धृतिगृहीतया |
-आत्मसंस्थं मन: कृत्वा न किञ्चिदपि चिन्तयेत् || 25||
 
-saṅkalpa-prabhavān kāmāns tyaktvā sarvān aśheṣhataḥ
-manasaivendriya-grāmaṁ viniyamya samantataḥ
-śhanaiḥ śhanair uparamed buddhyā dhṛiti-gṛihītayā
-ātma-sansthaṁ manaḥ kṛitvā na kiñchid api chintayet
+saṅkalpaprabhavānkāmāṃs
+tyaktvā sarvānaśeṣataḥ | 
+manasaivendriyagrāmaṃ 
+viniyamya samantataḥ ||
 
-saṅkalpa—a resolve; prabhavān—born of; kāmān—desires; tyaktvā—having abandoned; sarvān—all; aśheṣhataḥ—completely; manasā—through the mind; eva—certainly; indriya-grāmam—the group of senses; viniyamya—restraining; samantataḥ—from all sides; śhanaiḥ—gradually; śhanaiḥ—gradually; uparamet—attain peace; buddhyā—by intellect; dhṛiti-gṛihītayā—achieved through determination of resolve that is in accordance with scriptures; ātma-sanstham—fixed in God; manaḥ—mind; kṛitvā—having made; na—not; kiñchit—anything; api—even; chintayet—should think of
+saṅkalpa-prabhavān – born of imagination/willful thought; kāmān – desires; 
+tyaktvā – having abandoned; sarvān – all; aśeṣataḥ – completely; 
+manasā – by the mind; eva – alone; indriya-grāmam – the whole group of senses; 
+viniyamya – restraining; samantataḥ – from all sides.
 {eov}
 
 {sot}
-Having abandoned all desires born of the ego-centric will, having restrained the group of senses with mind from all sides, one should attain quietude slowly and slowly by the intellect held firmly. And then, fixing the mind in Atma, he should not think of anything else at all.
+Abandoning completely all desires born of 'Sankalpa' (thought/imagination), and restraining the whole group of senses from all sides by the mind alone,
+{eot}
+
+{sov}
+शनै: शनैरुपरमेद्बुद्ध्या धृतिगृहीतया |
+आत्मसंस्थं मन: कृत्वा न किञ्चिदपि चिन्तयेत् || 25||
+
+śanaiḥ śanairuparamed
+buddhyā dhṛtigṛhītayā | 
+ātmasaṃsthaṃ manaḥ 
+kṛtvā na kiñcidapi cintayet ||
+
+śanaiḥ śanaiḥ – gradually, step by step; uparamet – should attain quietude/rest; 
+buddhyā – by the intellect; dhṛti-gṛhītayā – held with firmness/patience; 
+ātma-saṃstham – fixed in the Self; manaḥ – the mind; 
+kṛtvā – having made; na – not; kiñcit api – anything at all; cintayet – should think.
+{eov}
+
+{sot}
+Gradually, step by step, let him attain quietude by means of the intellect held with firmness; and having fixed the mind in the Self, let him not think of anything at all.
 {eot}
 
 {start_of_analysis}

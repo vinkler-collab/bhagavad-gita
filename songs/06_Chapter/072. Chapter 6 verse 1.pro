@@ -15,13 +15,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 
 श्रीभगवानुवाच |
 अनाश्रित: कर्मफलं कार्यं कर्म करोति य: |
-स संन्यासी च योगी च न निरग्निर्न चाक्रिय: || 1||
+स संन्यासी च योगी च न निरग्निर्न चाक्रिय: ||1||
 
-śhrī bhagavān uvācha
-anāśhritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ
-sa sannyāsī cha yogī cha na niragnir na chākriyaḥ
+śrībhagavānuvāca | 
+anāśritaḥ karmaphalaṃ 
+kāryaṃ karma karoti yaḥ | 
+sa sannyāsī ca yogī ca na niragnirna cākriyaḥ ||
 
-śhrī-bhagavān uvācha—the Supreme Lord said; anāśhritaḥ—not desiring; karma-phalam—results of actions; kāryam—obligatory; karma—work; karoti—perform; yaḥ—one who; saḥ—that person; sanyāsī—in the renounced order; cha—and; yogī—yogi; cha—and; na—not; niḥ—without; agniḥ—fire; na—not; cha—also; akriyaḥ—without activity
+śrī-bhagavān uvāca – The Blessed Lord said; 
+anāśritaḥ – not depending on; karma-phalam – the fruit of action; 
+kāryam – that which ought to be done (duty); karma – action; karoti – performs; yaḥ – who; 
+saḥ – he; sannyāsī – a renunciant; ca – and; yogī – a Yogi; ca – and; na – not; niragniḥ – one without fire (rituals); na – nor; ca – and; akriyaḥ – one without action.
 {eov}
 
 {sot}

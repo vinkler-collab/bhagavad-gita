@@ -17,11 +17,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 योऽयं योगस्त्वया प्रोक्त: साम्येन मधुसूदन |
 एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम् || 33||
 
-arjuna uvācha
-yo ’yaṁ yogas tvayā proktaḥ sāmyena madhusūdana
-etasyāhaṁ na paśhyāmi chañchalatvāt sthitiṁ sthirām
+arjuna uvāca | 
+yo’yaṃ yogastvayā proktaḥ 
+sāmyena madhusūdana | 
+etasyāhaṃ na paśyāmi 
+cañcalatvātsthitiṃ sthirām
 
-arjunaḥ uvācha—Arjun said; yaḥ—which; ayam—this; yogaḥ—system of Yog; tvayā—by you; proktaḥ—described; sāmyena—by equanimity; madhu-sūdana—Shree Krishna, the killer of the demon named Madhu; etasya—of this; aham—I; na—do not; paśhyāmi—see; chañchalatvāt—due to restlessness; sthitim—situation; sthirām—steady
+arjunaḥ uvāca – Arjuna said; 
+yaḥ ayam – this; yogaḥ – Yoga; tvayā – by You; proktaḥ – taught; 
+sāmyena – as equality/equanimity; madhusūdana – O Madhusudana; 
+etasya – of this; aham – I; na paśyāmi – do not see; 
+cañcalatvāt – because of restlessness; sthitim – foundation/steady state; sthirām – lasting; 
 {eov}
 
 {sot}
@@ -35,10 +41,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 चञ्चलं हि मन: कृष्ण प्रमाथि बलवद्दृढम् |
 तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम् || 34||
 
-chañchalaṁ hi manaḥ kṛiṣhṇa pramāthi balavad dṛiḍham
-tasyāhaṁ nigrahaṁ manye vāyor iva su-duṣhkaram
+cañcalaṃ hi manaḥ kṛṣṇa 
+pramāthi balavaddṛḍham | 
+tasyāhaṃ nigrahaṃ manye 
+vāyoriva suduṣkaram  || 
 
-chañchalam—restless; hi—certainly; manaḥ—mind; kṛiṣhṇa—Shree Krishna; pramāthi—turbulent; bala-vat—strong; dṛiḍham—obstinate; tasya—its; aham—I; nigraham—control; manye—think; vāyoḥ—of the wind; iva—like; su-duṣhkaram—difficult to perform
+cañcalam – restless; hi – indeed; manaḥ – the mind; kṛṣṇa – O Krishna; 
+pramāthi – turbulent; balavat – strong; dṛḍham – stubborn; 
+tasya – of it; aham – I; nigraham – control; manye – think; 
+vāyoḥ iva – like the wind; su-duṣkaram – very difficult.
 {eov}
 
 {sot}
@@ -46,18 +57,24 @@ The mind is very restless, turbulent, strong, and obstinate, O Krishna. It appea
 {eot}
 
 {sov: Verse 6.35}
-
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-35.mp3
 
 श्रीभगवानुवाच |
 असंशयं महाबाहो मनो दुर्निग्रहं चलम् |
 अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते || 35||
 
-śhrī bhagavān uvācha
-asanśhayaṁ mahā-bāho mano durnigrahaṁ chalam
-abhyāsena tu kaunteya vairāgyeṇa cha gṛihyate
+śrībhagavānuvāca | 
+asaṃśayaṃ mahābāho 
+mano durnigrahaṃ calam | 
+abhyāsena tu kaunteya 
+vairāgyeṇa ca gṛhyate || 
 
-śhrī-bhagavān uvācha—Lord Krishna said; asanśhayam—undoubtedly; mahā-bāho—mighty-armed one; manaḥ—the mind; durnigraham—difficult to restrain; chalam—restless; abhyāsena—by practice; tu—but; kaunteya—Arjun, the son of Kunti; vairāgyeṇa—by detachment; cha—and; gṛihyate—can be controlled
+śrī-bhagavān uvāca – The Blessed Lord said; 
+asaṃśayam – without doubt; mahābāho – O mighty-armed; 
+manaḥ – the mind; durnigraham – difficult to curb; calam – restless; 
+abhyāsena – by practice; tu – but; kaunteya – O son of Kunti; 
+vairāgyeṇa – by dispassion/detachment; ca – and; gṛhyate – is restrained; 
+
 {eov}
 
 {sot}

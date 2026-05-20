@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 युञ्जन्नेवं सदात्मानं योगी विगतकल्मष: |
 सुखेन ब्रह्मसंस्पर्शमत्यन्तं सुखमश्नुते || 28||
 
-yuñjann evaṁ sadātmānaṁ yogī vigata-kalmaṣhaḥ
-sukhena brahma-sansparśham atyantaṁ sukham aśhnute
+yuñjannevaṃ sadātmānaṃ 
+yogī vigatakalmaṣaḥ | 
+sukhena brahmasaṃsparśam
+atyantaṃ sukhamaśnute ||
 
-yuñjan—uniting (the self with God); evam—thus; sadā—always; ātmānam—the self; yogī—a yogi; vigata—free from; kalmaṣhaḥ—sins; sukhena—easily; brahma-sansparśham—constantly in touch with the Supreme; atyantam—the highest; sukham—bliss; aśhnute—attains
+yuñjan – practicing; evam – thus; sadā – constantly; ātmānam – the self; 
+yogī – the Yogi; vigata-kalmaṣaḥ – freed from sin; 
+sukhena – easily; brahma-saṃsparśam – contact with Brahman; 
+atyantam – infinite; sukham – bliss; aśnute – enjoys.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 सर्वभूतस्थमात्मानं सर्वभूतानि चात्मनि |
 ईक्षते योगयुक्तात्मा सर्वत्र समदर्शन: || 29||
 
-sarva-bhūta-stham ātmānaṁ sarva-bhūtāni chātmani
-īkṣhate yoga-yuktātmā sarvatra sama-darśhanaḥ
+sarvabhūtasthamātmānaṃ 
+sarvabhūtāni cātmani | 
+īkṣate yogayuktātmā 
+sarvatra samadarśanaḥ ||
 
-sarva-bhūta-stham—situated in all living beings; ātmānam—Supreme Soul; sarva—all; bhūtāni—living beings; cha—and; ātmani—in God; īkṣhate—sees; yoga-yukta-ātmā—one united in consciousness with God; sarvatra—everywhere; sama-darśhanaḥ—equal vision
+sarva-bhūta-stham – abiding in all beings; ātmānam – the Self;
+sarva-bhūtāni – all beings; ca – and; ātmani – in the Self; 
+īkṣate – sees; yoga-yukta-ātmā – one whose self is united through Yoga; 
+sarvatra – everywhere; sama-darśanaḥ – seeing with an equal eye.
+
 {eov}
 
 {sot}

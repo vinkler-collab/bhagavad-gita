@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 युञ्जन्नेवं सदात्मानं योगी नियतमानस: |
 शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति || 15||
 
-yuñjann evaṁ sadātmānaṁ yogī niyata-mānasaḥ
-śhāntiṁ nirvāṇa-paramāṁ mat-sansthām adhigachchhati
+yuñjannevaṃ sadātmānaṃ 
+yogī niyatamānasaḥ | 
+śāntiṃ nirvāṇaparamāṃ 
+matsaṃsthāmadhigacchati ||
 
-yuñjan—keeping the mind absorbed in God; evam—thus; sadā—constantly; ātmānam—the mind; yogī—a yogi; niyata-mānasaḥ—one with a disciplined mind; śhāntim—peace; nirvāṇa—liberation from the material bondage; paramām—supreme; mat-sansthām—abides in me; adhigachchhati—attains
+yuñjan – practicing; evam – thus; sadā – constantly; ātmānam – the self; 
+yogī – the Yogi; niyata-mānasaḥ – with controlled mind; 
+śāntim – peace; nirvāṇa-paramām – that culminates in Nirvana (liberation); 
+mat-saṃsthām – which abides in Me; adhigacchati – attains.
 {eov}
 
 {sot}

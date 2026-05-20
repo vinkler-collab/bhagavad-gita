@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 यो मां पश्यति सर्वत्र सर्वं च मयि पश्यति |
 तस्याहं न प्रणश्यामि स च मे न प्रणश्यति || 30||
 
-yo māṁ paśhyati sarvatra sarvaṁ cha mayi paśhyati
-tasyāhaṁ na praṇaśhyāmi sa cha me na praṇaśhyati
+yo māṃ paśyati sarvatra 
+sarvaṃ ca mayi paśyati | 
+tasyāhaṃ na praṇaśyāmi 
+sa ca me na praṇaśyati ||
 
-yaḥ—who; mām—me; paśhyati—see; sarvatra—everywhere; sarvam—everything; cha—and; mayi—in me; paśhyati—see; tasya—for him; aham—I; na—not; praṇaśhyāmi—lost; saḥ—that person; cha—and; me—to me; na—nor; praṇaśhyati—lost
+yaḥ – who; mām – Me; paśyati – sees; sarvatra – everywhere; 
+sarvam – everything; ca – and; mayi – in Me; paśyati – sees; 
+tasya – for him; aham – I; na praṇaśyāmi – am not lost; 
+saḥ – he; ca – and; me – to Me; na praṇaśyati – is not lost.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 सर्वभूतस्थितं यो मां भजत्येकत्वमास्थित: |
 सर्वथा वर्तमानोऽपि स योगी मयि वर्तते || 31||
 
-sarva-bhūta-sthitaṁ yo māṁ bhajatyekatvam āsthitaḥ
-sarvathā vartamāno ’pi sa yogī mayi vartate
+sarvabhūtasthitaṃ yo māṃ 
+bhajatyekatvamāsthitaḥ | 
+sarvathā vartamāno’pi 
+sa yogī mayi vartate ||
 
-sarva-bhūta-sthitam—situated in all beings; yaḥ—who; mām—me; bhajati—worships; ekatvam—in unity; āsthitaḥ—established; sarvathā—in all kinds of; varta-mānaḥ—remain; api—although; saḥ—he; yogī—a yogi; mayi—in me; vartate—dwells
+sarva-bhūta-sthitam – dwelling in all beings; yaḥ – who; mām – Me; 
+bhajati – worships; ekatvam – unity; āsthitaḥ – established in; 
+sarvathā – in every way; vartamānaḥ – acting/living; api – even; 
+saḥ – that; yogī – Yogi; mayi – in Me; vartate – abides.
+
 {eov}
 
 {sot}
@@ -44,17 +56,20 @@ The Yogi who worships Me abiding in all beings and who is established in unity a
 {eot}
 
 {sov: Verse 6.32}
-
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-Verse-32.mp3
 
 आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन |
 सुखं वा यदि वा दु:खं स योगी परमो मत: || 32||
 
-ātmaupamyena sarvatra samaṁ paśhyati yo ’rjuna
-sukhaṁ vā yadi vā duḥkhaṁ sa yogī paramo mataḥ
+ātmaupamyena sarvatra 
+samaṃ paśyati yo’rjuna | 
+sukhaṃ vā yadi vā duḥkhaṃ 
+sa yogī paramo mataḥ ||
 
-ātma-aupamyena—similar to oneself; sarvatra—everywhere; samam—equally; paśhyati—see; yaḥ—who; arjuna—Arjun; sukham—joy; vā—or; yadi—if; vā—or; duḥkham—sorrow; saḥ—such; yogī—a yogi; paramaḥ—highest; mataḥ—is considered
-
+ātma-aupamyena – by comparison with oneself; sarvatra – everywhere; 
+samam – equally; paśyati – sees; yaḥ – who; arjuna – O Arjuna; 
+sukham – pleasure; vā – or; yadi – if; vā – or; duḥkham – pain; 
+saḥ – he; yogī – Yogi; paramaḥ – supreme; mataḥ – is considered.
 {eov}
 
 {sot}

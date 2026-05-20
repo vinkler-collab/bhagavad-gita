@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम् |
 यतते च ततो भूय: संसिद्धौ कुरुनन्दन || 43||
 
-tatra taṁ buddhi-sanyogaṁ labhate paurva-dehikam
-yatate cha tato bhūyaḥ sansiddhau kuru-nandana
+tatra taṁ buddhi-sanyogaṁ 
+labhate paurva-dehikam |
+yatate ca tato bhūyaḥ 
+sansiddhau kuru-nandana ||
 
-tatra—there; tam—that; buddhi-sanyogam—reawaken their wisdom; labhate—obtains; paurva-dehikam—from the previous lives; yatate—strives; cha—and; tataḥ—thereafter; bhūyaḥ—again; sansiddhau—for perfection; kuru-nandana—Arjun, descendant of the Kurus
+tatra—there; tam—that; buddhi-sanyogam—reawaken their wisdom; 
+labhate—obtains; paurva-dehikam—from the previous lives; 
+yatate—strives; ca—and; tataḥ—thereafter; bhūyaḥ—again; 
+sansiddhau—for perfection; kuru-nandana—Arjun, descendant of the Kurus
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि स: |
 जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते || 44||
 
-pūrvābhyāsena tenaiva hriyate hyavaśho ’pi saḥ
-jijñāsur api yogasya śhabda-brahmātivartate
+pūrvābhyāsena tenaiva 
+hriyate hyavaśho ’pi saḥ |
+jijñāsur api yogasya 
+śhabda-brahmātivartate ||
 
-pūrva—past; abhyāsena—discipline; tena—by that; eva—certainly; hriyate—is attracted; hi—surely; avaśhaḥ—helplessly; api—although; saḥ—that person; jijñāsuḥ—inquisitive; api—even; yogasya—about yog; śhabda-brahma—fruitive portion of the Vedas; ativartate—transcends
+pūrva—past; abhyāsena—discipline; tena—by that; eva—certainly; 
+hriyate—is attracted; hi—surely; avaśhaḥ—helplessly; api—although; saḥ—that person; 
+jijñāsuḥ—inquisitive; api—even; yogasya—about yog; 
+śhabda-brahma—fruitive portion of the Vedas; ativartate—transcends
 {eov}
 
 {sot}
@@ -50,10 +60,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिष: |
 अनेकजन्मसंसिद्धस्ततो याति परां गतिम् || 45||
 
-prayatnād yatamānas tu yogī sanśhuddha-kilbiṣhaḥ
-aneka-janma-sansiddhas tato yāti parāṁ gatim
+prayatnād yatamānas tu 
+yogī sanśhuddha-kilbiṣhaḥ |
+aneka-janma-sansiddhas 
+tato yāti parāṁ gatim ||
 
-prayatnāt—with great effort; yatamānaḥ—endeavoring; tu—and; yogī—a yogi; sanśhuddha—purified; kilbiṣhaḥ—from material desires; aneka—after many, many; janma—births; sansiddhaḥ—attain perfection; tataḥ—then; yāti—attains; parām—the highest; gatim—path
+prayatnāt—with great effort; yatamānaḥ—endeavoring; tu—and; 
+yogī—a yogi; sanśhuddha—purified; kilbiṣhaḥ—from material desires; 
+aneka—after many, many; janma—births; sansiddhaḥ—attain perfection; 
+tataḥ—then; yāti—attains; parām—the highest; gatim—path
 {eov}
 
 {sot}
@@ -69,12 +84,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 कर्मिभ्यश्चाधिकोयोगी
 तस्माद्योगीभवार्जुन|| 46||
 
-tapasvibhyo ’dhiko yogī
-jñānibhyo ’pi mato ’dhikaḥ
-karmibhyaśh chādhiko yogī
-tasmād yogī bhavārjuna
+tapasvibhyo’dhiko yogī 
+jñānibhyo’pi mato’dhikaḥ | 
+karmibhyoścādhiko yogī 
+tasmādyogī bhavārjuna || 
 
-tapasvibhyaḥ—than the ascetics; adhikaḥ—superior; yogī—a yogi; jñānibhyaḥ—than the persons of learning; api—even; mataḥ—considered; adhikaḥ—superior; karmibhyaḥ—than the ritualistic performers; cha—and; adhikaḥ—superior; yogī—a yogi; tasmāt—therefore; yogī—a yogi; bhava—just become; arjuna—Arjun
+tapasvibhyaḥ – than the ascetics; adhikaḥ – superior; yogī – the Yogi; 
+jñānibhyaḥ – than the scholars; api – even; mataḥ – is considered; adhikaḥ – superior; 
+karmibhyaḥ – than the ritualists; ca – and; yogī – the Yogi; 
+tasmāt – therefore; yogī bhava – become a Yogi; arjuna – O Arjuna; 
+
 {eov}
 
 {sot}
@@ -88,10 +107,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 योगिनामपि सर्वेषां मद्गतेनान्तरात्मना |
 श्रद्धावान्भजते यो मां स मे युक्ततमो मत: || 47||
 
-yoginām api sarveṣhāṁ mad-gatenāntar-ātmanā
-śhraddhāvān bhajate yo māṁ sa me yuktatamo mataḥ
+yogināmapi sarveṣāṃ 
+madgatenāntarātmanā | 
+śraddhāvānbhajate yo māṃ 
+sa me yuktatamo mataḥ ||
 
-yoginām—of all yogis; api—however; sarveṣhām—all types of; mat-gatena—absorbed in me (God); antaḥ—inner; ātmanā—with the mind; śhraddhā-vān—with great faith; bhajate—engage in devotion; yaḥ—who; mām—to me; saḥ—he; me—by me; yukta-tamaḥ—the highest yogi; mataḥ—is considered
+tapasvibhyaḥ – than the ascetics; adhikaḥ – superior; yogī – the Yogi; 
+jñānibhyaḥ – than the scholars; api – even; mataḥ – is considered; adhikaḥ – superior; 
+karmibhyaḥ – than the ritualists; ca – and; yogī – the Yogi; 
+tasmāt – therefore; yogī bhava – become a Yogi; arjuna – O Arjuna;
 {eov}
 
 {sot}

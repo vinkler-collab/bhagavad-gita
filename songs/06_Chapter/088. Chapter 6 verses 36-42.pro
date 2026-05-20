@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 असंयतात्मना योगो दुष्प्राप इति मे मति: |
 वश्यात्मना तु यतता शक्योऽवाप्तुमुपायत: || 36||
 
-asaṅyatātmanā yogo duṣhprāpa iti me matiḥ
-vaśhyātmanā tu yatatā śhakyo ’vāptum upāyataḥ
+asaṃyatātmanā yogo 
+duṣprāpa iti me matiḥ | 
+vaśyātmanā tu yatatā 
+śakyo’vāptumupāyataḥ ||
 
-asanyata-ātmanā—one whose mind is unbridled; yogaḥ—Yog; duṣhprāpaḥ—difficult to attain; iti—thus; me—my; matiḥ—opinion; vaśhya-ātmanā—by one whose mind is controlled; tu—but; yatatā—one who strives; śhakyaḥ—possible; avāptum—to achieve; upāyataḥ—by right means
+asaṃyata-ātmanā – by one of uncontrolled self; yogaḥ – Yoga; 
+duṣprāpaḥ – hard to attain; iti – thus; me matiḥ – my opinion; 
+vaśya-ātmanā – by the self-controlled; tu – but; yatatā – by the striving; 
+śakyaḥ – possible; avāptum – to attain; upāyataḥ – through (proper) means.
 {eov}
 
 {sot}
@@ -34,11 +39,17 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 अयति: श्रद्धयोपेतो योगाच्चलितमानस: |
 अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति || 37||
 
-arjuna uvācha
-ayatiḥ śhraddhayopeto yogāch chalita-mānasaḥ
-aprāpya yoga-sansiddhiṁ kāṅ gatiṁ kṛiṣhṇa gachchhati
+arjuna uvāca | 
+ayatiḥ śraddhayopeto 
+yogāccalitamānasaḥ | 
+aprāpya yogasaṃsiddhiṃ 
+kāṃ gatiṃ kṛṣṇa gacchati || 
 
-arjunaḥ uvācha—Arjun said; ayatiḥ—lax; śhraddhayā—with faith; upetaḥ—possessed; yogāt—from Yog; chalita-mānasaḥ—whose mind becomes deviated; aprāpya—failing to attain; yoga-sansiddhim—the highest perfection in yog; kām—which; gatim—destination; kṛiṣhṇa—Shree Krishna; gachchhati—goes
+arjunaḥ uvāca – Arjuna said; 
+ayatiḥ – the unsuccessful; śraddhayā-upetaḥ – endowed with faith; 
+yogāt – from Yoga; calita-mānasaḥ – whose mind has wandered; 
+aprāpya – not having reached; yoga-saṃsiddhim – perfection in Yoga; 
+kām gatim – what end; kṛṣṇa – O Krishna; gacchati – goes to; 
 {eov}
 
 {sot}
@@ -52,10 +63,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति |
 अप्रतिष्ठो महाबाहो विमूढो ब्रह्मण: पथि || 38||
 
-kachchin nobhaya-vibhraṣhṭaśh chhinnābhram iva naśhyati
-apratiṣhṭho mahā-bāho vimūḍho brahmaṇaḥ pathi
+kaccinnobhayavibhraṣṭac
+chinnābhramiva naśyati | 
+apratiṣṭho mahābāho 
+vimūḍho brahmaṇaḥ pathi ||
 
-kachchit—whether; na—not; ubhaya—both; vibhraṣhṭaḥ—deviated from; chhinna—broken; abhram—cloud; iva—like; naśhyati—perishes; apratiṣhṭhaḥ—without any support; mahā-bāho—mighty-armed Krishna; vimūḍhaḥ—bewildered; brahmaṇaḥ—of God-realization; pathi—one on the path
+kaccit na – does he not; ubhaya-vibhraṣṭaḥ – fallen from both; 
+chinna-abhram iva – like a rent cloud; naśyati – perish; 
+apratiṣṭhaḥ – supportless; mahābāho – O mighty-armed; 
+vimūḍhaḥ – deluded; brahmaṇaḥ pathi – on the path of Brahman; 
 {eov}
 
 {sot}
@@ -69,10 +85,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषत: |
 त्वदन्य: संशयस्यास्य छेत्ता न ह्युपपद्यते || 39||
 
-etan me sanśhayaṁ kṛiṣhṇa chhettum arhasyaśheṣhataḥ
-tvad-anyaḥ sanśhayasyāsya chhettā na hyupapadyate
+etanme saṃśayaṃ kṛṣṇa 
+chettumarhasyaśeṣataḥ | 
+tvadanyaḥ saṃśayasyāsya 
+chettā na hyupapadyate ||
 
-etat—this; me—my; sanśhayam—doubt; kṛiṣhṇa—Krishna; chhettum—to dispel; arhasi—you can; aśheṣhataḥ—completely; tvat—than you; anyaḥ—other; sanśhayasya—of doubt; asya—this; chhettā—a dispeller; na—never; hi—certainly; upapadyate—is fit
+etat – this; me – my; saṃśayam – doubt; kṛṣṇa – O Krishna; 
+chettum arhasi – You should remove; aśeṣataḥ – completely; 
+tvad-anyaḥ – other than You; 
+chettā – remover; na hi – not indeed; upapadyate – can be found.
 {eov}
 
 {sot}
@@ -87,11 +108,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते |
 न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति || 40||
 
-śhrī bhagavān uvācha
-pārtha naiveha nāmutra vināśhas tasya vidyate
-na hi kalyāṇa-kṛit kaśhchid durgatiṁ tāta gachchhati
+śrībhagavānuvāca | 
+pārtha naiveha nāmutra 
+vināśastasya vidyate | 
+na hi kalyāṇakṛtkaścid
+durgatiṃ tāta gacchati || 
 
-śhrī-bhagavān uvācha—the Supreme Lord said; pārtha—Arjun, the son of Pritha; na eva—never; iha—in this world; na—never; amutra—in the next world; vināśhaḥ—destruction; tasya—his; vidyate—exists; na—never; hi—certainly; kalyāṇa-kṛit—one who strives for God-realization; kaśhchit—anyone; durgatim—evil destination; tāta—my friend; gachchhati—goes
+śrī-bhagavān uvāca – The Blessed Lord said; 
+pārtha – O Partha; na eva iha – neither here; na amutra – nor hereafter; 
+vināśaḥ – destruction; tasya – for him; vidyate – is; 
+na hi – not indeed; kalyāṇa-kṛt – one who does good; kaścit – any; 
+durgatim – an evil end; tāta – O dear one; gacchati – goes to.
+
 {eov}
 
 {sot}
@@ -105,10 +133,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वती: समा: |
 शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते || 41||
 
-prāpya puṇya-kṛitāṁ lokān uṣhitvā śhāśhvatīḥ samāḥ
-śhuchīnāṁ śhrīmatāṁ gehe yoga-bhraṣhṭo ’bhijāyate
+prāpya puṇyakṛtān lokān 
+uṣitvā śāśvatīḥ samāḥ |
+śucīnām śrīmatām gehe 
+yoga-bhraṣṭaḥ abhijāyate || 
 
-prāpya—attain; puṇya-kṛitām—of the virtuous; lokān—abodes; uṣhitvā—after dwelling; śhāśhvatīḥ—many; samāḥ—ages; śhuchīnām—of the pious; śhrī-matām—of the prosperous; gehe—in the house; yoga-bhraṣhṭaḥ—the unsuccessful yogis; abhijāyate—take birth;
+prāpya—attain; puṇya-kṛtām—of the virtuous; lokān—abodes; 
+uṣitvā—after dwelling; śhāśvatīḥ—many; samāḥ—ages; 
+śucīnām—of the pious; śrī-matām—of the prosperous; gehe—in the house; 
+yoga-bhraṣṭaḥ—the unsuccessful yogis; abhijāyate—take birth;
 {eov}
 
 {sot}
@@ -122,10 +155,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-6-
 अथवा योगिनामेव कुले भवति धीमताम् |
 एतद्धि दुर्लभतरं लोके जन्म यदीदृशम् || 42||
 
-atha vā yoginām eva kule bhavati dhīmatām
-etad dhi durlabhataraṁ loke janma yad īdṛiśham
+atha vā yoginām eva 
+kule bhavati dhīmatām |
+etad dhi durlabhataraṁ 
+loke janma yad īdṛiśham ||
 
-atha vā—else; yoginām—of those endowed with divine wisdom; eva—certainly; kule—in the family; bhavati—take birth; dhī-matām—of the wise; etat—this; hi—certainly; durlabha-taram—very rare; loke—in this world; janma—birth; yat—which; īdṛiśham—like this
+atha vā—else; yoginām—of those endowed with divine wisdom; eva—certainly; 
+kule—in the family; bhavati—take birth; dhī-matām—of the wise; 
+etat—this; hi—certainly; durlabha-taram—very rare; 
+loke—in this world; janma—birth; yat—which; īdṛśham—like this
 {eov}
 
 {sot}
