@@ -10,7 +10,6 @@ https://youtu.be/y9Kt7Db9MxA
 https://open.spotify.com/episode/7hfRQab6EVK5t861oQCw7R
 
 {sov: Verse 1.1}
-
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-1.mp3
 
 धृतराष्ट्र उवाच |
@@ -21,14 +20,13 @@ dhṛtarāṣṭra uvāca |
 dharma-kṣetre kuru-kṣetre 
 samavetā yuyutsavaḥ | 
 māmakāḥ pāṇḍavāś caiva 
-kim akurvata sañjaya || 1 ||
+kim akurvata sañjaya ||
 
 ◈  dhṛtarāṣṭraḥ uvāca – Dhritarashtra said;
 ◈  dharma-kṣetre – on the field of Dharma; kuru-kṣetre – on the field of the Kurus;
 ◈  samavetāḥ – gathered together; yuyutsavaḥ – desiring to fight; 
 ◈  māmakāḥ – my people (sons); pāṇḍavāḥ – the sons of Pandu; ca – and; eva – also;
 ◈  kim – what; akurvata – did they do; sañjaya – O Sanjaya.
-
 {eov}
 
 {sot}
@@ -47,7 +45,7 @@ sañjaya uvāca |
 dṛṣṭvā tu pāṇḍavānīkaṃ 
 vyūḍhaṃ duryodhanas tadā | 
 ācāryam upasaṅgamya 
-rājā vacanam abravīt || 2 ||
+rājā vacanam abravīt ||
 
 ◈  sañjayaḥ uvāca – Sanjaya said;
 ◈  dṛṣṭvā – having seen; tu – but; pāṇḍava-anīkam – the army of the Pandavas; 
@@ -71,7 +69,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 paśyaitāṃ pāṇḍu-putrāṇām 
 ācārya mahatīṃ camūm | 
 vyūḍhāṃ drupada-putreṇa 
-tava śiṣyeṇa dhīmatā || 3 ||
+tava śiṣyeṇa dhīmatā ||
 
 ◈  paśya – behold; eitām – this; pāṇḍu-putrāṇām – of the sons of Pandu; 
 ◈  ācārya – O Teacher; mahatīm – mighty; camūm – army; 
@@ -84,22 +82,29 @@ tava śiṣyeṇa dhīmatā || 3 ||
 O teacher, behold the great army of the sons of Pāndu arrayed by your talented disciple, the son of Drupada.
 {eot}
 
-{sov: Verse 1.4-6}
+{sov: Verse 1.4}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-4-6.mp3
 
 अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । 
-युयुधानो विराटश्च द्रुपदश्च महारथः ॥ ४ ॥
+युयुधानो विराटश्च द्रुपदश्च महारथः ॥ 4॥
 
 atra śūrā maheṣvāsā 
 bhīmārjuna-samā yudhi | 
 yuyudhāno virāṭaś ca 
-drupadaś ca mahārathaḥ || 4 ||
+drupadaś ca mahārathaḥ ||
 
 ◈  atra – here; śūrāḥ – heroes; mahā-iṣv-āsāḥ – mighty archers; 
 ◈  bhīma-arjuna-samāḥ – equal to Bhima and Arjuna; yudhi – in battle; 
 ◈  yuyudhānaḥ – Yuyudhana; virāṭaḥ – Virata; ca – and; 
 ◈  drupadaḥ – Drupada; ca – and; mahā-rathaḥ – a great chariot-warrior.
+{eov}
+
+{sot}
+Here are valiant warriors and mighty archers, who are equal to Bhīma and Arjuna in battle. There are also Yuyudhāna, Virāṭa, and Drupada, a great chariot warrior. 
+{eot}
+
+{sov: Verse 1.5}
 
 धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । 
 पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥ ५ ॥
@@ -107,12 +112,19 @@ drupadaś ca mahārathaḥ || 4 ||
 dhṛṣṭaketuś cekitānaḥ 
 kāśirājaś ca vīryavān | 
 purujit kuntibhojaś ca 
-śaibyaś ca nara-puṅgavaḥ || 5 ||
+śaibyaś ca nara-puṅgavaḥ ||
 
 ◈  dhṛṣṭaketuḥ – Dhrishtaketu; cekitānaḥ – Chekitana; 
 ◈  kāśirājaḥ – the King of Kashi; ca – and; vīryavān – valiant; 
 ◈  purujit – Purujit; kuntibhojaḥ – Kuntibhoja; ca – and; 
 ◈  śaibyaḥ – Shaibya; ca – and; nara-puṅgavaḥ – best among men.
+{eov}
+
+{sot}
+Dhṛṣṭaketu, Cekitāna, and the valiant King of Kāśi; also Purujit, Kuntibhoja, and Śaibya, the foremost among men.
+{eot}
+
+{sov: Verse 1.6}
 
 युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । 
 सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥ ६ ॥
@@ -120,7 +132,7 @@ purujit kuntibhojaś ca
 yudhāmanyuś ca vikrānta 
 uttamaujāś ca vīryavān | 
 saubhadro draupadeyāś ca 
-sarva eva mahārathāḥ || 6 ||
+sarva eva mahārathāḥ || 
 
 ◈  yudhāmanyuḥ – Yudhamanyu; ca – and; vikrāntaḥ – courageous; 
 ◈  uttamaujāḥ – Uttamauja; ca – and; vīryavān – valiant; 
@@ -129,10 +141,6 @@ sarva eva mahārathāḥ || 6 ||
 {eov}
 
 {sot}
-In that army are mighty archers and heroes, in battle equal to Bhima and Arjuna: Yuyudhāna, Virāta, and Drupada, each a mahāratha;
-
-Heroic Dhrishtaketu, Chekitāna, and the king of Kāśi; Purujit, Kuntibhoja, and Śaivya, all the best of men;
-
 Powerful Yudhāmanyu, brave Uttamaujā, Subhadrā’s son, and the sons of Draupadi - all mahārathas indeed.
 {eot}
 
@@ -146,7 +154,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 asmākaṃ tu viśiṣṭā ye 
 tān nibodha dvijottama | 
 nāyakā mama sainyasya 
-saṃjñārthaṃ tān bravīmi te || 7 ||
+saṃjñārthaṃ tān bravīmi te ||
 
 ◈  asmākam – ours; tu – but/on the other hand; viśiṣṭāḥ – the distinguished; ye – who; 
 ◈  tān – them; nibodha – know/be informed; dvija-uttama – O best of the twice-born (Drona); 
@@ -156,12 +164,10 @@ saṃjñārthaṃ tān bravīmi te || 7 ||
 {eov}
 
 {sot}
-(Having named some of the foremost heroes of the Pandava Army, Duryodhana mentions the names of warriors on his side)
-
 O best of the twice-born, let me also recount to you the leaders of my own army, those distinguished amongst ourselves. I shall name them, that you may know them all:
 {eot}
 
-{sov: Verse 1.8-9}
+{sov: Verse 1.8}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-8-9.mp3
 
@@ -171,12 +177,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 bhavān bhīṣmaś ca karṇaś ca 
 kṛpaś ca samitiñjayaḥ | 
 aśvatthāmā vikarṇaś ca 
-saumadattis tathaiva ca || 8 ||
+saumadattis tathaiva ca ||
 
 ◈  bhavān – yourself (Drona); bhīṣmaḥ – Bhishma; ca – and; karṇaḥ – Karna; ca – and; 
 ◈  kṛpaḥ – Kripa; ca – and; samitim-jayaḥ – victorious in battle; 
 ◈  aśvatthāmā – Ashwatthama; vikarṇaḥ – Vikarna; ca – and; 
 ◈  saumadattiḥ – the son of Somadatta; tathā eva ca – and also certainly.
+
+{sot}
+Yourself and Bhishma and Karna; Kripa, who is ever victorious in war; Aśvatthāmā, Vikarna, Jayadratha, and Somadatta’s son;
+{eot}
+
+{sov: Verse 1.9}
 
 अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । 
 नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥ ९ ॥
@@ -184,7 +196,7 @@ saumadattis tathaiva ca || 8 ||
 anye ca bahavaḥ śūrā 
 mad-arthe tyakta-jīvitāḥ | 
 nānā-śastra-praharaṇāḥ 
-sarve yuddha-viśāradāḥ || 9 ||
+sarve yuddha-viśāradāḥ ||
 
 ◈  anye – others; ca – and; bahavaḥ – many; śūrāḥ – heroes; 
 ◈  mat-arthe – for my sake; tyakta-jīvitāḥ – prepared to give up their lives; 
@@ -193,8 +205,6 @@ sarve yuddha-viśāradāḥ || 9 ||
 {eov}
 
 {sot}
-Yourself and Bhishma and Karna; Kripa, who is ever victorious in war; Aśvatthāmā, Vikarna, Jayadratha, and Somadatta’s son;
-
 And many other heroes besides, armed with many weapons, each well skilled in battle, and all resolved to lay down their lives to serve my cause.
 {eot}
 
@@ -208,7 +218,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 aparyāptaṃ tad asmākaṃ 
 balaṃ bhīṣmābhirakṣitam | 
 paryāptaṃ tv idam eteṣāṃ 
-balaṃ bhīmābhirakṣitam || 10 ||
+balaṃ bhīmābhirakṣitam ||
 
 ◈  aparyāptam – immeasurable/unlimited; tat – that; asmākam – ours; 
 ◈  balam – strength/army; bhīṣma-abhirakṣitam – marshalled by Bhishma; 
@@ -233,8 +243,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 ayaneṣu ca sarveṣu 
 yathā-bhāgam avasthitāḥ | 
 bhīṣmam evābhirakṣantu 
-bhavantaḥ sarva eva hi || 11 ||
-
+bhavantaḥ sarva eva hi ||
 ◈  ayaneṣu – in the strategic points; ca – and; sarveṣu – in all; 
 ◈  yathā-bhāgam – in your respective positions; avasthitāḥ – stationed; 
 ◈  bhīṣmam – Bhishma; eva – alone; abhirakṣantu – should protect; 
@@ -255,7 +264,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 tasya sañjanayan harṣaṃ 
 kuru-vṛddhaḥ pitāmahaḥ | 
 siṃha-nādaṃ vinadyoccaiḥ 
-śaṅkhaṃ dadhmau pratāpavān || 12 ||
+śaṅkhaṃ dadhmau pratāpavān ||
 
 ◈  tasya – his (Duryodhana’s); sañjanayan – causing; harṣam – joy; 
 ◈  kuru-vṛddhaḥ – the aged of the Kuru clan; pitāmahaḥ – the grandfather (Bhishma); 
@@ -278,7 +287,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 tataḥ śaṅkhāś ca bheryaś ca 
 paṇavānaka-gomukhāḥ | 
 sahasaivābhyahanyanta 
-sa śabdastumulo’bhavat || 13 ||
+sa śabdastumulo’bhavat ||
 
 ◈  tataḥ—then; śaṅkhāḥ—conch shells; ca—and; bheryaḥ—kettledrums; ca—and; 
 ◈  paṇava-ānaka—tabors and drums; go-mukhāḥ—horns; 
@@ -302,7 +311,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 tataḥ śvetair hayairyukte 
 mahati syandane sthitau | 
 mādhavaḥ pāṇḍavaś caiva 
-divyau śaṅkhau pradadhmatuḥ || 14 ||
+divyau śaṅkhau pradadhmatuḥ || 
 
 ◈  tataḥ—then; śvetaiḥ—with white; hayaiḥ—horses; yukte—yoked; 
 ◈  mahati—in a magnificent; syandane—chariot; sthitau—seated; 
@@ -315,7 +324,7 @@ divyau śaṅkhau pradadhmatuḥ || 14 ||
 Whereupon Mādhava and Pāndava, seated in their magnificent chariot yoked to white horses, also blew their celestial conchs.
 {eot}
 
-{sov: Verse 1.15-18}
+{sov: Verse 1.15}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-15-18.mp3
 
@@ -325,12 +334,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 pāñcajanyaṃ hṛṣīkeśo 
 devadattaṃ dhanañjayaḥ | 
 pauṇḍraṃ dadhmau mahā-śaṅkhaṃ 
-bhīma-karmā vṛkodaraḥ || 15 ||
+bhīma-karmā vṛkodaraḥ ||
 
 ◈  pāñcajanyam—the conch named Panchajanya; hṛṣīkeśaḥ—Krishna; 
 ◈  devadattam—the conch named Devadatta; dhanañjayaḥ—Arjuna; 
 ◈  pauṇḍram—the conch named Paundra; dadhmau—blew; mahā-śaṅkham—mighty conch; 
 ◈  bhīma-karmā—doer of terrible deeds; vṛkodaraḥ—Bhima.
+
+{sot}
+Lord Hṛṣīkeśa blew His conch Pāñcajanya; Arjuna (Dhananjaya) blew Devadatta; and Bhīma, the doer of formidable deeds (Vṛkodara), blew his great conch Pauṇḍra.
+{eot}
+
+{sov: Verse 1.16}
 
 अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिर: । 
 नकुल: सहदेवश्च सुघोषमणिपुष्पकौ ॥ १६ ॥
@@ -338,12 +353,18 @@ bhīma-karmā vṛkodaraḥ || 15 ||
 anantavijayaṃ rājā 
 kuntīputro yudhiṣṭhiraḥ | 
 nakulaḥ sahadevaś ca 
-sughoṣa-maṇipuṣpakau || 16 ||
+sughoṣa-maṇipuṣpakau ||
 
 ◈  anantavijayam—the conch named Anantavijaya; rājā—the King; 
 ◈  kuntī-putraḥ—son of Kunti; yudhiṣṭhiraḥ—Yudhishthira; 
 ◈  nakulaḥ—Nakula; sahadevaḥ—Sahadeva; ca—and; 
 ◈  sughoṣa-maṇipuṣpakau—the conches Sughosha and Manipushpaka.
+
+{sot}
+King Yudhiṣṭhira, the son of Kuntī, blew his conch Anantavijaya, while Nakula and Sahadeva blew Sughoṣa and Maṇipuṣpaka, respectively. 
+{eot}
+
+{sov: Verse 1.17}
 
 काश्यश्च परमेष्वास: शिखण्डी च महारथ: । 
 धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजित: ॥ १७ ॥
@@ -351,12 +372,18 @@ sughoṣa-maṇipuṣpakau || 16 ||
 kāśyaś ca parameṣvāsaḥ 
 śikhaṇḍī ca mahārathaḥ | 
 dhṛṣṭadyumno virāṭaś ca 
-sātyakiś cāparājitaḥ || 17 ||
+sātyakiś cāparājitaḥ ||
 
 ◈  kāśyaḥ—the King of Kashi; ca—and; parama-iṣu-āsaḥ—the great archer; 
 ◈  śikhaṇḍī—Shikhandi; ca—and; mahā-rathaḥ—the great chariot-warrior; 
 ◈  dhṛṣṭadyumnaḥ—Dhrishtadyumna; virāṭaḥ—Virata; ca—and; 
 ◈  sātyakiḥ—Satyaki; ca—and; aparājitaḥ—the unconquered.
+
+{sot}
+And the King of Kāśī, the great archer; and Śikhaṇḍī, the great chariot-warrior; Dhṛṣṭadyumna and Virāṭa; and Sātyaki, the unconquered (all blew their conches). 
+{eot}
+
+{sov: Verse 1.18}
 
 द्रुपदो द्रौपदेयाश्च सर्वश: पृथिवीपते । 
 सौभद्रश्च महाबाहु: शङ्खान् दध्मु: पृथक् पृथक् ॥ १८ ॥
@@ -364,7 +391,7 @@ sātyakiś cāparājitaḥ || 17 ||
 drupado draupadeyāś ca 
 sarvaśaḥ pṛthivīpate | 
 saubhadraś ca mahābāhuḥ 
-śaṅkhān dadhmuḥ pṛthak pṛthak || 18 ||
+śaṅkhān dadhmuḥ pṛthak pṛthak ||
 
 ◈  drupadaḥ—Drupada; draupadeyāḥ—the sons of Draupadi; ca—and; 
 ◈  sarvaśaḥ—all; pṛthivī-pate—O Lord of Earth; 
@@ -373,7 +400,7 @@ saubhadraś ca mahābāhuḥ
 {eov}
 
 {sot}
-Hrishikeśa blew His conch, the Pānchajanya; Dhananjaya, the Devadatta; and Vrikodara, the doer of fearful deeds, blew his great conch, the Paundra. King Yudhishthira, the son of Kunti, blew his conch, the Anantavijaya; and Nakula and Sahadeva blew the Sughosha and the Manipushpaka. The great archer, the king of Kāśi; the great warrior Śikhandi; Dhristadyumna and Virāta; the unconquered Sātyaki; Drupada, and the sons of Draupadi, and the mighty son of Subhadrā, O Lord of the Earth, each blew his own conch.
+ O king (pṛthivīpate), Drupada and all the sons of Draupadī, as well as the mighty-armed Saubhadra (Abhimanyu), each blew their respective conches. 
 {eot}
 
 {sov: Verse 1.19}
@@ -386,7 +413,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 sa ghoṣo dhārtarāṣṭrāṇāṃ 
 hṛdayāni vyadārayat | 
 nabhaś ca pṛthivīṃ caiva 
-tumulo vyanunādayan || 19 ||
+tumulo vyanunādayan ||
 
 ◈  saḥ – that; ghoṣaḥ – uproar; dhārtarāṣṭrāṇām – of the sons of Dhritarashtra; 
 ◈  hṛdayāni – hearts; vyadārayat – rent/shattered; 
@@ -409,7 +436,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 atha vyavasthitān dṛṣṭvā 
 dhārtarāṣṭrān kapi-dhvajaḥ | 
 pravṛtte śastra-sampāte 
-dhanur udyamya pāṇḍavaḥ || 20 ||
+dhanur udyamya pāṇḍavaḥ ||
 
 ◈  atha – then; vyavasthitān – standing in battle formation; dṛṣṭvā – seeing; 
 ◈  dhārtarāṣṭrān – the sons of Dhritarashtra; kapi-dhvajaḥ – he whose flag is marked with Hanuman (Arjuna); 
@@ -422,26 +449,18 @@ dhanur udyamya pāṇḍavaḥ || 20 ||
 O King! Now seeing the Kauravas arrayed in battle order and the discharge of weapons about to begin, Arjuna took up his bow and spoke these words to Lord Krishna.
 {eot}
 
-{sov: Verse 1.21-22}
+{sov: Verse 1.21}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-21-22.mp3
 
 हृषीकेशं तदा वाक्यमिदमाह महीपते । 
 अर्जुन उवाच । सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ॥ २१ ॥ 
 
-यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् । 
-कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ॥ २२ ॥
-
 hṛṣīkeśaṃ tadā vākyam 
 idam āha mahī-pate | 
 arjuna uvāca | 
 senayor ubhayor madhye 
-rathaṃ sthāpaya me’cyuta || 21 || 
-
-yāvad etān nirīkṣe’haṃ 
-yoddhu-kāmān avasthitān | 
-kair mayā saha yoddhavyam 
-asmin raṇa-samudyame || 22 ||
+rathaṃ sthāpaya me’cyuta ||
 
 ◈  hṛṣīkeśam – to Krishna; tadā – then; vākyam – words; 
 ◈  idam – these; āha – spoke; mahī-pate – O Lord of the Earth (Dhritarashtra); 
@@ -449,15 +468,28 @@ asmin raṇa-samudyame || 22 ||
 ◈  senayoḥ – of the armies; ubhayoḥ – of both; madhye – in the middle; 
 ◈  ratham – chariot; sthāpaya – place/station; me – my; acyuta – O Infallible One; 
 
+{sot}
+Then, to Hṛṣīkeśa (Kṛṣṇa), Arjuna spoke these words, O King: 'O Acyuta (Kṛṣṇa), please position my chariot between both armies.'
+{eot}
+
+{sov: Verse 1.22}
+
+यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् । 
+कैर्मया सह योद्धव्यमस्मिन् रणसमुद्यमे ॥ २२ ॥
+
+yāvad etān nirīkṣe’haṃ 
+yoddhu-kāmān avasthitān | 
+kair mayā saha yoddhavyam 
+asmin raṇa-samudyame ||
+
 ◈  yāvat – so that; etān – these; nirīkṣe – may behold; aham – I; 
 ◈  yoddhu-kāmān – desiring to fight; avasthitān – standing; 
 ◈  kaiḥ – with whom; mayā – by me; saha – together; yoddhavyam – must be fought; 
 ◈  asmin – in this; raṇa-samudyame – enterprise of war.
-
 {eov}
 
 {sot}
-Arjuna said: O Achyuta, between the two armies draw up my chariot, that I may behold those who stand there eager to fight, and may know, on the eve of battle, with whom I must contend.
+So that I may observe these individuals, standing here and eager to fight, and discern with whom I must engage in battle in this endeavor (raṇa-samudyama).
 {eot}
 
 {sov: Verse 1.23}
@@ -470,7 +502,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 yotsyamānān avekṣe’haṃ 
 ya ete’tra samāgatāḥ | 
 dhārtarāṣṭrasya durbuddher 
-yuddhe priya-cikīrṣavaḥ || 23 ||
+yuddhe priya-cikīrṣavaḥ || 
 
 ◈  yotsyamānān – those who are going to fight; avekṣe – may behold; aham – I; 
 ◈  ye – who; ete – these; atra – here; samāgatāḥ – gathered; 
@@ -483,7 +515,7 @@ yuddhe priya-cikīrṣavaḥ || 23 ||
 I would observe these warriors assembled here for the battle wishing to please the evil-minded Duryodhana.
 {eot}
 
-{sov: Verse 1.24-25}
+{sov: Verse 1.24}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-24-25.mp3
 
@@ -491,19 +523,11 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 एवमुक्तो हृषीकेशो गुडाकेशेन भारत । 
 सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ॥ २४ ॥ 
 
-भीष्मद्रोणप्रमुखत: सर्वेषां च महीक्षिताम् । 
-उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥ २५ ॥
-
 sañjaya uvāca | 
 evam ukto hṛṣīkeśo 
 guḍākeśena bhārata | 
 senayor ubhayor madhye 
-sthāpayitvā rathottamam || 24 || 
-
-bhīṣma-droṇa-pramukhataḥ 
-sarveṣāṃ ca mahī-kṣitām | 
-uvāca pārtha paśyaitān 
-samavetān kurūn iti || 25 ||
+sthāpayitvā rathottamam ||
 
 ◈  sañjayaḥ uvāca – Sanjaya said; 
 ◈  evam – thus; uktaḥ – addressed; hṛṣīkeśaḥ – Krishna; 
@@ -511,15 +535,28 @@ samavetān kurūn iti || 25 ||
 ◈  senayoḥ ubhayoḥ madhye – in the middle of both armies; 
 ◈  sthāpayitvā – having stationed; ratha-uttamam – the magnificent chariot; 
 
+{sot}
+O Bharata, thus addressed by Gudakesha (Arjuna), Hrishikesha (Krishna), having placed the best chariot in the middle of both armies... 
+{eot}
+
+{sov: Verse 1.25}
+
+भीष्मद्रोणप्रमुखत: सर्वेषां च महीक्षिताम् । 
+उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥ २५ ॥
+
+bhīṣma-droṇa-pramukhataḥ 
+sarveṣāṃ ca mahī-kṣitām | 
+uvāca pārtha paśyaitān 
+samavetān kurūn iti ||
+
 ◈  bhīṣma-droṇa-pramukhataḥ – in front of Bhishma and Drona; 
 ◈  sarveṣām ca – and all; mahī-kṣitām – the rulers of the earth; 
 ◈  uvāca – said; pārtha – O Partha; paśya – behold; etān – these; 
 ◈  samavetān – gathered; kurūn – Kurus; iti – thus.
-
 {eov}
 
 {sot}
-Sanjaya said: Advised thus by Arjuna Lord Krishna placed the noble chariot in the middle of the two armies, and in front of Bhishma and Drona, and all the Kings, and said: ‘O Arjuna! Behold those Kauravas gathered here.’
+...in front of Bhīṣma, Droṇa, and all the kings, he (Krishna) said: 'O Pārtha (Arjuna), behold these assembled Kurus!' 
 {eot}
 
 {sov: Verse 1.26}
@@ -535,7 +572,7 @@ pitṝn atha pitāmahān |
 ācāryān mātulān bhrātṝn 
 putrān pautrān sakhīṃs tathā | 
 śvaśurān suhṛdaś caiva 
-senayor ubhayor api || 26 ||
+senayor ubhayor api ||
 
 ◈  tatra – there; apaśyat – saw; sthitān – standing; pārthaḥ – Arjuna; 
 ◈  pitṝn – fathers/paternal uncles; atha – and; pitāmahān – grandfathers; 
@@ -559,7 +596,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 tān samīkṣya sa kaunteyaḥ 
 sarvān bandhūn avasthitān | 
 kṛpayā parayāviṣṭo 
-viṣīdann idam abravīt || 27 ||
+viṣīdann idam abravīt ||
 
 ◈  tān – them; samīkṣya – having seen; saḥ – he; kaunteyaḥ – the son of Kunti (Arjuna); 
 ◈  sarvān – all; bandhūn – relatives; avasthitān – standing; 
@@ -572,52 +609,62 @@ viṣīdann idam abravīt || 27 ||
 Casting his eyes on all these kinsmen stationed on opposing sides, the son of Kunti was overcome with deep pity and sorrowfully spoke.
 {eot}
 
-{sov: Verse 1.28-30}
+{sov: Verse 1.28}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-28-30.mp3
 
 अर्जुन उवाच । 
 दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् ॥ २८ ॥ 
 
-सीदन्ति मम गात्राणि मुखं च परिशुष्यति । 
-वेपथुश्च शरीरे मे रोमहर्षश्च जायते ॥ २९ ॥
-
-गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते । 
-न च शक्नोम्यवस्थातुं भ्रमतीव च मे मन: ॥ ३० ॥
-
-
 arjuna uvāca | 
 dṛṣṭvemaṃ svajanaṃ kṛṣṇa 
-yuyutsuṃ samupasthitam || 28 || 
-
-sīdanti mama gātrāṇi 
-mukhaṃ ca pariśuṣyati | 
-vepathuś ca śarīre me 
-roma-harṣaś ca jāyate || 29 ||
-
-gāṇḍīvaṃ sraṃsate hastāt 
-tvak caiva paridahyate | 
-na ca śaknomy avasthātuṃ 
-bhramatīva ca me manaḥ || 30 ||
+yuyutsuṃ samupasthitam ||
 
 ◈  arjunaḥ uvāca — Arjuna said; 
 ◈  dṛṣṭvā — seeing; imam — these; svajanam — kinsmen; kṛṣṇa — O Krishna; 
 ◈  yuyutsum — eager to fight; samupasthitam — present; 
+
+{sot}
+Overcome with supreme compassion (kṛpā), and lamenting, he said this: "O Kṛṣṇa, having seen these kinsmen, who are eager to fight and assembled (here)..." 
+{eot}
+
+{sov: Verse 1.29}
+
+सीदन्ति मम गात्राणि मुखं च परिशुष्यति । 
+वेपथुश्च शरीरे मे रोमहर्षश्च जायते ॥ २९ ॥
+
+sīdanti mama gātrāṇi 
+mukhaṃ ca pariśuṣyati | 
+vepathuś ca śarīre me 
+roma-harṣaś ca jāyate ||
 
 ◈  sīdanti — are failing; mama — my; gātrāṇi — limbs; 
 ◈  mukham — mouth; ca — and; pariśuṣyati — is parching; 
 ◈  vepathuḥ — trembling; ca — and; śarīre — in the body; me — my; 
 ◈  roma-harṣaḥ — bristling of hair; ca — and; jāyate — is happening.
 
+{sot}
+My limbs are failing, and my mouth is parching. A trembling arises in my body, and my hair stands on end (horripilation occurs). 
+{eot}
+
+{sov: Verse 1.30}
+
+गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते । 
+न च शक्नोम्यवस्थातुं भ्रमतीव च मे मन: ॥ ३० ॥
+
+gāṇḍīvaṃ sraṃsate hastāt 
+tvak caiva paridahyate | 
+na ca śaknomy avasthātuṃ 
+bhramatīva ca me manaḥ ||
+
 ◈  gāṇḍīvam — the bow Gandiva; sraṃsate — is slipping; hastāt — from the hand; 
 ◈  tvak — the skin; ca — and; eva — also; paridahyate — is burning; 
 ◈  na — not; ca — and; śaknomi — I am able; avasthātum — to stand; 
 ◈  bhramati — is reeling; iva — as if; ca — and; me — my; manaḥ — mind.
-
 {eov}
 
 {sot}
-Arjuna said: O Krishna, at the sight of these my kinsmen, assembled here eager to give battle, my limbs fail and my mouth is parched. My body is shaken and my hair stands on end. The bow Gāndiva slips from my hand and my skin is on fire. I cannot hold myself steady; my mind seems to whirl. O Keśava, I see omens of evil.
+The Gāṇḍīva bow slips from my hand, and my skin is burning. I am also unable to stand firm, and my mind seems to be reeling. 
 {eot}
 
 {sov: Verse 1.31}
@@ -630,7 +677,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 nimittāni ca paśyāmi 
 viparītāni keśava | 
 na ca śreyo’nupaśyāmi 
-hatvā svajanam āhave || 31 ||
+hatvā svajanam āhave ||
 
 ◈  nimittāni — omens; ca — and; paśyāmi — I see; 
 ◈  viparītāni — adverse; keśava — O Krishna; 
@@ -653,8 +700,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 na kāṅkṣe vijayaṃ kṛṣṇa 
 na ca rājyaṃ sukhāni ca | 
 kiṃ no rājyena govinda 
-kiṃ bhogair jīvitena vā || 32 ||
-
+kiṃ bhogair jīvitena vā ||
 ◈  na—not; kāṅkṣe—I desire; vijayam—victory; kṛṣṇa—O Krishna; 
 ◈  na—not; ca—and; rājyam—kingdom; sukhāni—pleasures; ca—and; 
 ◈  kim—what; naḥ—to us; rājyena—by kingdom; govinda—O Govinda; 
@@ -666,7 +712,7 @@ kiṃ bhogair jīvitena vā || 32 ||
 O Krishna! I do not desire victory or kingdom or pleasures. Of what avail are these kingdom, enjoyment, or even life itself to us.
 {eot}
 
-{sov: Verse 1.33-34}
+{sov: Verse 1.33}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-33-34.mp3
 
@@ -676,12 +722,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 yeṣām arthe kāṅkṣitaṃ no 
 rājyaṃ bhogāḥ sukhāni ca | 
 ta ime’vasthitā yuddhe 
-prāṇāṃs tyaktvā dhanāni ca || 33 ||
+prāṇāṃs tyaktvā dhanāni ca ||
 
 ◈  yeṣām—for whose; arthe—sake; kāṅkṣitam—is desired; naḥ—by us; 
 ◈  rājyam—kingdom; bhogāḥ—enjoyments; sukhāni—pleasures; ca—and; 
 ◈  te—they; ime—these; avasthitāḥ—stand; yuddhe—in battle; 
 ◈  prāṇān—lives; tyaktvā—having given up; dhanāni—wealth; ca—and.
+
+{sot}
+Those for whom we desire a kingdom, enjoyments, and pleasures - they are present here in battle, having given up their lives and wealth. 
+{eot}
+
+{sov: Verse 1.34}
 
 आचार्या: पितर: पुत्रास्तथैव च पितामहा: । 
 मातुला: श्वशुरा: पौत्रा: श्याला: सम्बन्धिनस्तथा ॥ ३४ ॥
@@ -689,7 +741,7 @@ prāṇāṃs tyaktvā dhanāni ca || 33 ||
 ācāryāḥ pitaraḥ putrās 
 tathaiva ca pitāmahāḥ | 
 mātulāḥ śvaśurāḥ pautrāḥ 
-śyālāḥ sambandhinas tathā || 34 ||
+śyālāḥ sambandhinas tathā ||
 
 ◈  ācāryāḥ—teachers; pitaraḥ—fathers/uncles; putrāḥ—sons; 
 ◈  tathā eva—as also; ca—and; pitāmahāḥ—grandfathers; 
@@ -699,7 +751,7 @@ mātulāḥ śvaśurāḥ pautrāḥ
 {eov}
 
 {sot}
-Those for whose sake we desire kingdom, enjoyments, and pleasures—teachers, fathers, sons, grandfathers, maternal uncles, fathers-in law, brothers-in-law, grandsons and other relations are all standing here ready for battle, having abandoned their wealth and very life even.
+Teachers, fathers, sons, and indeed grandfathers; maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives as well. 
 {eot}
 
 {sov: Verse 1.35}
@@ -712,7 +764,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 etān na hantum icchāmi 
 ghnato’pi madhusūdana | 
 api trailokya-rājyasya 
-hetoḥ kiṃ nu mahī-kṛte || 35 ||
+hetoḥ kiṃ nu mahī-kṛte ||
 
 ◈  etān — these; na — not; hantum — to kill; icchāmi — I wish; 
 ◈  ghnataḥ — being killed; api — even; madhusūdana — O Slayer of Madhu (Krishna); 
@@ -735,7 +787,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 nihatya dhārtarāṣṭrān naḥ 
 kā prītiḥ syāj janārdana | 
 pāpam evāśrayed asmān 
-hatvaitān ātatāyinaḥ || 36 ||
+hatvaitān ātatāyinaḥ ||
 
 ◈  nihatya — by killing; dhārtarāṣṭrān — the sons of Dhritarashtra; naḥ — our; 
 ◈  kā — what; prītiḥ — pleasure; syāt — will be; janārdana — O Krishna (Maintainer of all); 
@@ -758,7 +810,7 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 tasmān nārhā vayaṃ hantuṃ 
 dhārtarāṣṭrān svabāndhavān | 
 svajanaṃ hi kathaṃ hatvā 
-sukhinaḥ syāma mādhava || 37 ||
+sukhinaḥ syāma mādhava ||
 
 ◈  tasmāt—therefore; na arhāḥ—not right/justified; vayam—we; hantum—to kill; 
 ◈  dhārtarāṣṭrān—the sons of Dhritarashtra; sva-bāndhavān—our own relatives; 
@@ -771,7 +823,7 @@ sukhinaḥ syāma mādhava || 37 ||
 Therefore we ought not to kill our kinsmen, the sons of Dhritarāshtra; for, O Mādhava, how can we ever be happy by killing our own people?
 {eot}
 
-{sov: Verse 1.38-39}
+{sov: Verse 1.38}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-38-39.mp3
 
@@ -781,12 +833,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 yady apy ete na paśyanti 
 lobhopahata-cetasaḥ | 
 kula-kṣaya-kṛtaṃ doṣaṃ 
-mitra-drohe ca pātakam || 38 ||
+mitra-drohe ca pātakam ||
 
 ◈  yadi api—even if; ete—these; na paśyanti—do not see; 
 ◈  lobha-upahata—overpowered by greed; cetasaḥ—their minds; 
 ◈  kula-kṣaya—destruction of family; kṛtam—caused by; doṣam—evil; 
 ◈  mitra-drohe—treachery to friends; ca—and; pātakam—sin.
+
+{sot}
+Even though these (Kauravas), whose minds are corrupted by greed, do not perceive the fault arising from the destruction of the family, nor the sin in betraying friends... 
+{eot}
+
+{sov: Verse 1.39}
 
 कथं न ज्ञेयमस्माभि: पापादस्मान्निवर्तितुम् । 
 कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥ ३९ ॥
@@ -794,7 +852,7 @@ mitra-drohe ca pātakam || 38 ||
 kathaṃ na jñeyam asmābhiḥ 
 pāpād asmān nivartitum | 
 kula-kṣaya-kṛtaṃ doṣaṃ 
-prapaśyadbhir janārdana || 39 ||
+prapaśyadbhir janārdana ||
 
 ◈  katham—why; na—not; jñeyam—should be known; asmābhiḥ—by us; 
 ◈  pāpāt—from sin; asmāt—this; nivartitum—to turn away; 
@@ -804,10 +862,10 @@ prapaśyadbhir janārdana || 39 ||
 {eov}
 
 {sot}
-Though they, their understanding overcome by greed, perceive no evil in the decay of families and no sin in hostility to friends, why, O Janārdana, should not we, who clearly perceive the evil in the decay of families, learn to refrain from this sin?
+O Janārdana, how can we, who clearly foresee the fault (doṣa) arising from the destruction of a family, not know that we should turn away from this sin? 
 {eot}
 
-{sov: Verse 1.40-42}
+{sov: Verse 1.40}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-40-42.mp3
 
@@ -817,50 +875,55 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 kula-kṣaye praṇaśyanti 
 kula-dharmāḥ sanātanāḥ | 
 dharme naṣṭe kulaṃ kṛtsnam 
-adharmo’bhibhavaty uta || 40 ||
+adharmo’bhibhavaty uta || 
 
 ◈  kula-kṣaye—in the destruction of a family; praṇaśyanti—perish; 
 ◈  kula-dharmāḥ—family traditions; sanātanāḥ—eternal; 
 ◈  dharme—dharma/duty; naṣṭe—being destroyed; kulam—family; kṛtsnam—the whole; 
 ◈  adharmaḥ—impiety/lawlessness; abhibhavati—overcomes; uta—indeed.
 
+{sot}
+With the decay of a family, perish its dharmas, which have existed from time out of mind. With the ending of the dharmas, adharma overwhelms the whole family.
+{eot}
+
+{sov: Verse 1.41}
 अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रिय: । 
 स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्कर: ॥ ४१ ॥
 
 adharmābhibhavāt kṛṣṇa 
 praduṣyanti kula-striyaḥ | 
 strīṣu duṣṭāsu vārṣṇeya 
-jāyate varṇa-saṅkaraḥ || 41 ||
+jāyate varṇa-saṅkaraḥ ||
 
 ◈  adharma—impiety; abhibhavāt—from the predominance of; kṛṣṇa—O Krishna; 
 ◈  praduṣyanti—become corrupt; kula-striyaḥ—women of the family; 
 ◈  strīṣu—when women; duṣṭāsu—are corrupted; vārṣṇeya—O descendent of Vrishni (Krishna); 
 ◈  jāyate—arises; varṇa-saṅkaraḥ—intermingling of castes/varna confusion.
 
+{sot}
+When adharma overwhelms the family, O Krishna, the women of the family become corrupt; and when, O Krishna, the women are corrupt, there arises a mixing of castes.
+{eot}
+
+{sov: Verse 1.42}
 सङ्करो नरकायैव कुलघ्नानां कुलस्य च । 
 पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रिया: ॥ ४२ ॥
 
 saṅkaro narakāyaiva 
 kulaghnānāṃ kulasya ca | 
 patanti pitaro hy eṣāṃ 
-lupta-piṇḍodaka-kriyāḥ || 42 ||
+lupta-piṇḍodaka-kriyāḥ ||
 
 ◈  saṅkaraḥ—this intermingling; narakāya—to hell; eva—certainly; 
 ◈  kula-ghnānām—for the destroyers of the family; kulasya—for the family; ca—and; 
 ◈  patanti—fall; pitaraḥ—ancestors; hi—verily; eṣām—their; 
 ◈  lupta—deprived of; piṇḍa-udaka—offerings of rice and water; kriyāḥ—rituals/performances.
-
 {eov}
 
 {sot}
-With the decay of a family, perish its dharmas, which have existed from time out of mind. With the ending of the dharmas, adharma overwhelms the whole family.
-
-When adharma overwhelms the family, O Krishna, the women of the family become corrupt; and when, O Krishna, the women are corrupt, there arises a mixing of castes.
-
 This mixture leads into hell the family itself as well as those who destroy it; for their ancestors fall, deprived of the offerings of rice-balls and water.
 {eot}
 
-{sov: Verse 1.43-44}
+{sov: Verse 1.43}
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-Verse-43-44.mp3
 
@@ -870,12 +933,18 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-1-
 doṣair etaiḥ kulaghnānāṃ 
 varṇa-saṅkara-kārakaiḥ | 
 utsādyante jāti-dharmāḥ 
-kula-dharmāś ca śāśvatāḥ || 43 ||
+kula-dharmāś ca śāśvatāḥ ||
 
 ◈  doṣaiḥ—by the evils; etaiḥ—these; kula-ghnānām—of the family-destroyers; 
 ◈  varṇa-saṅkara—intermingling of castes; kārakaiḥ—causing; 
 ◈  utsādyante—are destroyed; jāti-dharmāḥ—traditions of the community; 
 ◈  kula-dharmāḥ—family traditions; ca—and; śāśvatāḥ—eternal.
+
+{sot}
+By these evil deeds of the destroyers of families, which result in the mixing of castes, the eternal dharmas of caste and family are uprooted.
+{eot}
+
+{sov: Verse 1.44}
 
 उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन । 
 नरकेऽनियतं वासो भवतीत्यनुशुश्रुम ॥ ४४ ॥
@@ -883,7 +952,7 @@ kula-dharmāś ca śāśvatāḥ || 43 ||
 utsanna-kula-dharmāṇāṃ 
 manuṣyāṇāṃ janārdana | 
 narake’niyataṃ vāso 
-bhavatīty anuśuśruma || 44 ||
+bhavatīty anuśuśruma ||
 
 ◈  utsanna—destroyed; kula-dharmāṇām—for those whose family traditions are; 
 ◈  manuṣyāṇām—of men; janārdana—O Krishna; 
@@ -892,8 +961,6 @@ bhavatīty anuśuśruma || 44 ||
 {eov}
 
 {sot}
-By these evil deeds of the destroyers of families, which result in the mixing of castes, the eternal dharmas of caste and family are uprooted.
-
 We have heard it said, O Janārdana, that inevitably the men whose family dharmas are destroyed dwell in hell.
 {eot}
 
@@ -970,6 +1037,5 @@ visṛjya sa-śaraṃ cāpaṃ
 Sanjaya said: Arjuna, having spoken thus on the battlefield, cast aside his bow and arrow and sank down on his chariot-seat, his mind overcome with grief.
 {eot}
 
-##########################################
 {start_of_analysis}
 https://vivekavani.com/b1/
