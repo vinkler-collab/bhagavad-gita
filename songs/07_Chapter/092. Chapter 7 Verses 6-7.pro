@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 एतद्योनीनि भूतानि सर्वाणीत्युपधारय |
 अहं कृत्स्नस्य जगत: प्रभव: प्रलयस्तथा || 6||
 
-etad-yonīni bhūtāni sarvāṇītyupadhāraya
-ahaṁ kṛitsnasya jagataḥ prabhavaḥ pralayas tathā
+etadyonīni bhūtāṇi 
+sarvāṇītyupadhāraya | 
+ahaṃ kṛtsnasya jagataḥ 
+prabhavaḥ pralayastathā ||
 
-etat yonīni—these two (energies) are the source of; bhūtāni—living beings; sarvāṇi—all; iti—that; upadhāraya—know; aham—I; kṛitsnasya—entire; jagataḥ—creation; prabhavaḥ—the source; pralayaḥ—dissolution; tathā—and
+◈  etat-yonīni – having these as their source; bhūtāni – beings; 
+◈  sarvāṇi – all; iti – thus; upadhāraya – know; 
+◈  aham – I; kṛtsnasya – of the entire; jagataḥ – universe; 
+◈  prabhavaḥ – source/origin; pralayaḥ – dissolution; tathā – as also.
 {eov}
 
 {sot}
@@ -33,10 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 मत्त: परतरं नान्यत्किञ्चिदस्ति धनञ्जय |
 मयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव || 7||
 
-mattaḥ parataraṁ nānyat kiñchid asti dhanañjaya
-mayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva
+mattaḥ parataraṃ nānyat
+kiñcidasti dhanañjaya | 
+mayi sarvamidaṃ protaṃ 
+sūtre maṇigaṇā iva ||
 
-mattaḥ—than me; para-taram—superior; na—not; anyat kiñchit—anything else; asti—there is; dhanañjaya—Arjun, conqueror of wealth; mayi—in me; sarvam—all; idam—which we see; protam—is strung; sūtre—on a thread; maṇi-gaṇāḥ—beads; iva—like
+◈  mattaḥ – than Me; parataraṃ – higher; na anyat – not anything else; 
+◈  kiñcit – whatever; asti – is; dhanañjaya – O Dhananjaya; 
+◈  mayi – in Me; sarvam idam – all this (universe); protam – is strung; 
+◈  sūtre – on a thread; maṇi-gaṇāḥ – clusters of pearls; iva – like.
 {eov}
 
 {sot}

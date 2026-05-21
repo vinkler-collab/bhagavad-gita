@@ -16,11 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययो: |
 प्रणव: सर्ववेदेषु शब्द: खे पौरुषं नृषु || 8||
 
-raso ’ham apsu kaunteya prabhāsmi śhaśhi-sūryayoḥ
-praṇavaḥ sarva-vedeṣhu śhabdaḥ khe pauruṣhaṁ nṛiṣhu
+raso’hamapsu kaunteya 
+prabhāsmi śaśisūryayoḥ | 
+praṇavaḥ sarvavedeṣu 
+śabdaḥ khe pauruṣaṃ nṛṣu ||
 
-rasaḥ—taste; aham—I; apsu—in water; kaunteya—Arjun, the son of Kunti; prabhā—the radiance; asmi—I am; śhaśhi-sūryayoḥ—of the moon and the sun; praṇavaḥ—the sacred syllable Om; sarva—in all; vedeṣhu—Vedas; śhabdaḥ—sound; khe—in ether; pauruṣham—ability; nṛiṣhu—in humans
-{eov}
+◈  rasaḥ – taste; aham – I; apsu – in water; kaunteya – O son of Kunti; 
+◈  prabhā – light; asmi – I am; śaśi-sūryayoḥ – in the moon and the sun; 
+◈  praṇavaḥ – the syllable Om; sarva-vedeṣu – in all the Vedas; 
+◈  śabdaḥ – sound; khe – in ether; pauruṣam – manhood/ability; nṛṣu – in men.{eov}
 
 {sot}
 I am the savour of waters, Ο son of Kunti, the radiance of the sun and moon; I am the syllable Om in all the Vedas, the sound in ether, the manliness in man.
@@ -33,11 +37,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 पुण्यो गन्ध: पृथिव्यां च तेजश्चास्मि विभावसौ |
 जीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु || 9||
 
-puṇyo gandhaḥ pṛithivyāṁ cha tejaśh chāsmi vibhāvasau
-jīvanaṁ sarva-bhūteṣhu tapaśh chāsmi tapasviṣhu
+puṇyo gandhaḥ pṛthivyāṃ ca 
+tejaścāsmi vibhāvasau | 
+jīvanaṃ sarvabhūteṣu 
+tapaścāsmi tapasviṣu ||
 
-puṇyaḥ—pure; gandhaḥ—fragrance; pṛithivyām—of the earth; cha—and; tejaḥ—brilliance; cha—and; asmi—I am; vibhāvasau—in the fire; jīvanam—the life-force; sarva—in all; bhūteṣhu—beings; tapaḥ—penance; cha—and; asmi—I am; tapasviṣhu—of the ascetics
-{eov}
+◈  puṇyaḥ – pure/sweet; gandhaḥ – fragrance; pṛthivyām – in the earth; ca – and; 
+◈  tejaḥ – brilliance/heat; ca – and; asmi – I am; vibhāvasau – in fire; 
+◈  jīvanam – life; sarva-bhūteṣu – in all beings; 
+◈  tapaḥ – austerity; ca – and; asmi – I am; tapasviṣu – in ascetics.{eov}
 
 {sot}
 And, I am the sweet fragrance in the earth, the brilliance in fire, life in all beings, and austerity in ascetics.
@@ -50,11 +58,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् |
 बुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् || 10||
 
-bījaṁ māṁ sarva-bhūtānāṁ viddhi pārtha sanātanam
-buddhir buddhimatām asmi tejas tejasvinām aham
+bījaṃ māṃ sarvabhūtānāṃ 
+viddhi pārtha sanātanam | 
+buddhirbuddhimatāmasmi 
+tejastejasvināmaham ||
 
-bījam—the seed; mām—me; sarva-bhūtānām—of all beings; viddhi—know; pārtha—Arjun, the son of Pritha; sanātanam—the eternal; buddhiḥ—intellect; buddhi-matām—of the intelligent; asmi—(I) am; tejaḥ—splendor; tejasvinām—of the splendid; aham—I
-
+◈  bījam – seed; mām – Me; sarva-bhūtānām – of all beings; 
+◈  viddhi – know; pārtha – O Partha; sanātanam – eternal; 
+◈  buddhiḥ – intellect; buddhimatām – of the intelligent; asmi – I am; 
+◈  tejaḥ – splendor; tejasvinām – of the splendid; aham – I.
 {eov}
 
 {sot}
@@ -68,11 +80,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 बलं बलवतां चाहं कामरागविवर्जितम् |
 धर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ || 11||
 
-balaṁ balavatāṁ chāhaṁ kāma-rāga-vivarjitam
-dharmāviruddho bhūteṣhu kāmo ’smi bharatarṣhabha
+balaṃ balavatāṃ cāhaṃ 
+kāmarāgavivarjitam | 
+dharmāviruddho bhūteṣu 
+kāmo’smi bharatarṣabha ||
 
-balam—strength; bala-vatām—of the strong; cha—and; aham—I; kāma—desire; rāga—passion; vivarjitam—devoid of; dharma-aviruddhaḥ—not conflicting with dharma; bhūteṣhu—in all beings; kāmaḥ—sexual activity; asmi—(I) am; bharata-ṛiṣhabha—Arjun, the best of the Bharats
-{eov}
+◈  balam – strength; balavatām – of the strong; ca – and; aham – I; 
+◈  kāma-rāga-vivarjitam – devoid of desire and attachment; 
+◈  dharma-aviruddhaḥ – not contrary to Dharma; bhūteṣu – in beings; 
+◈  kāmaḥ – desire; asmi – I am; bharata-ṛṣabha – O best among the Bharatas.{eov}
 
 {sot}
 I am the strength of the strong, free from longing and attachment. I am, Ο lord of the Bhāratas, the desire in all beings that is not contrary to dharma.
@@ -85,10 +101,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 ये चैव सात्त्विका भावा राजसास्तामसाश्च ये |
 मत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि || 12||
 
-ye chaiva sāttvikā bhāvā rājasās tāmasāśh cha ye
-matta eveti tān viddhi na tvahaṁ teṣhu te mayi
+ye caiva sāttvikā bhāvā 
+rājasāstāmasāśca ye | 
+matta eveti tānviddhi 
+na tvahaṃ teṣu te mayi ||
 
-ye—whatever; cha—and; eva—certainly; sāttvikāḥ—in the mode of goodness; bhāvāḥ—states of material existence; rājasāḥ—in the mode of passion; tāmasāḥ—in the mode of ignorance; cha—and; ye—whatever; mattaḥ—from me; eva—certainly; iti—thus; tān—those; viddhi—know; na—not; tu—but; aham—I; teṣhu—in them; te—they; mayi—in me
+◈  ye – which; ca – and; eva – certainly; sāttvikāḥ – pure (Sattva); bhāvāḥ – states; 
+◈  rājasāḥ – passionate (Rajas); tāmasāḥ – ignorant (Tamas); ca – and; ye – which; 
+◈  mattaḥ – from Me; eva – only; iti – thus; tān – them; viddhi – know; 
+◈  na – not; tu – but; aham – I; teṣu – in them; te – they; mayi – in Me.
 {eov}
 
 {sot}

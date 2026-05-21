@@ -16,11 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 त्रिभिर्गुणमयैर्भावैरेभि: सर्वमिदं जगत् |
 मोहितं नाभिजानाति मामेभ्य: परमव्ययम् || 13||
 
-tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṁ jagat
-mohitaṁ nābhijānāti māmebhyaḥ param avyayam
+tribhirguṇamayairbhāvair
+ebhiḥ sarvamidaṃ jagat | 
+mohitaṃ nābhijānāti 
+māmebhyaḥ paramavyayam ||
 
-tribhiḥ—by three; guṇa-mayaiḥ—consisting of the modes of material nature; bhāvaiḥ—states; ebhiḥ—all these; sarvam—whole; idam—this; jagat—universe; mohitam—deluded; na—not; abhijānāti—know; mām—me; ebhyaḥ—these; param—the supreme; avyayam—imperishable
-{eov}
+◈  tribhiḥ – by three; guṇa-mayaiḥ – composed of Gunas; bhāvaiḥ – states; 
+◈  ebhiḥ – by these; sarvam – all; idam – this; jagat – world; 
+◈  mohitam – deluded; na abhijānāti – does not know; 
+◈  mām – Me; ebhyaḥ – from these; param – higher; avyayam – inexhaustible/imperishable.{eov}
 
 {sot}
 Deluded by nature composed of these three qualities (Sattva, Rajas, and Tamas) the whole world does not know Me, the Higher and Imperishable.
@@ -33,11 +37,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 दैवी ह्येषा गुणमयी मम माया दुरत्यया |
 मामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते || 14||
 
-daivī hyeṣhā guṇa-mayī mama māyā duratyayā
-mām eva ye prapadyante māyām etāṁ taranti te
+daivī hyeṣā guṇamayī 
+mama māyā duratyayā | 
+māmeva ye prapadyante 
+māyāmetāṃ taranti te ||
 
-daivī—divine; hi—certainly; eṣhā—this; guṇa-mayī—consisting of the three modes of nature; mama—my; māyā—God’s external energy; duratyayā—very difficult to overcome; mām—unto me; eva—certainly; ye—who; prapadyante—surrender; māyām etām—this Maya; taranti—cross over; te—they
-{eov}
+◈  daivī – divine; hi – indeed; eṣā – this; guṇa-mayī – made of Gunas; 
+◈  mama – My; māyā – illusion; duratyayā – difficult to cross; 
+◈  mām – to Me; eva – alone; ye – who; prapadyante – surrender;
+◈  māyām etām – this illusion; taranti – cross over; te – they.{eov}
 
 {sot}
 This divine illusion of Mine caused by the qualities, is difficult to cross over; those who take refuge in Me alone, cross over this illusion.
@@ -50,10 +58,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 न मां दुष्कृतिनो मूढा: प्रपद्यन्ते नराधमा: |
 माययापहृतज्ञाना आसुरं भावमाश्रिता: || 15||
 
-na māṁ duṣhkṛitino mūḍhāḥ prapadyante narādhamāḥ
-māyayāpahṛita-jñānā āsuraṁ bhāvam āśhritāḥ
+na māṃ duṣkṛtino mūḍhāḥ 
+prapadyante narādhamāḥ | 
+māyayāpahṛtajñānā 
+āsuraṃ bhāvamāśritāḥ ||
 
-na—not; mām—unto me; duṣhkṛitinaḥ—the evil doers; mūḍhāḥ—the ignorant; prapadyante—surrender; nara-adhamāḥ—one who lazily follows one’s lower nature; māyayā—by God’s material energy; apahṛita jñānāḥ—those with deluded intellect; āsuram—demoniac; bhāvam—nature; āśhritāḥ—surrender
+◈  na – not; mām – to Me; duṣkṛtinaḥ – evil-doers; mūḍhāḥ – the deluded/foolish; 
+◈  prapadyante – surrender; nara-adhamāḥ – the lowest of men; 
+◈  māyayā – by Maya; apahṛta-jñānāḥ – whose wisdom is carried away; 
+◈  āsuram – demoniac; bhāvam – nature; āśritāḥ – having taken to.
 {eov}
 
 {sot}
@@ -67,10 +80,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 चतुर्विधा भजन्ते मां जना: सुकृतिनोऽर्जुन |
 आर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ || 16||
 
-chatur-vidhā bhajante māṁ janāḥ sukṛitino ’rjuna
-ārto jijñāsur arthārthī jñānī cha bharatarṣhabha
+caturvidhā bhajante māṃ 
+janāḥ sukṛtino’rjuna | 
+ārto jijñāsurarthārthī 
+jñānī ca bharatarṣabha ||
 
-chatuḥ-vidhāḥ—four kinds; bhajante—worship; mām—me; janāḥ—people; su-kṛitinaḥ—those who are pious; arjuna—Arjun; ārtaḥ—the distressed; jijñāsuḥ—the seekers of knowledge; artha-arthī—the seekers of material gain; jñānī—those who are situated in knowledge; cha—and; bharata-ṛiṣhabha—The best amongst the Bharatas, Arjun
+◈  catur-vidhāḥ – four kinds; bhajante – worship; mām – Me; 
+◈  janāḥ – people; sukṛtinaḥ – virtuous; arjuna – O Arjuna; 
+◈  ārtaḥ – the distressed; jijñāsuḥ – the seeker of knowledge; artha-arthī – the seeker of wealth/material gain; 
+◈  jñānī – the man of wisdom; ca – and; bharata-ṛṣabha – O best of the Bharatas.
 {eov}
 
 {sot}

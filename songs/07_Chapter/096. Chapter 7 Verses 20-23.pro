@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 कामैस्तैस्तैर्हृतज्ञाना: प्रपद्यन्तेऽन्यदेवता: |
 तं तं नियममास्थाय प्रकृत्या नियता: स्वया || 20||
 
-kāmais tais tair hṛita-jñānāḥ prapadyante ’nya-devatāḥ
-taṁ taṁ niyamam āsthāya prakṛityā niyatāḥ svayā
+kāmaistaistairhṛtajñānāḥ 
+prapadyante’nyadevatāḥ | 
+taṃ taṃ niyamamāsthāya 
+prakṛtyā niyatāḥ svayā ||
 
-kāmaiḥ—by material desires; taiḥ taiḥ—by various; hṛita-jñānāḥ—whose knowledge has been carried away; prapadyante—surrender; anya—to other; devatāḥ—celestial gods; tam tam—the various; niyamam—rules and regulations; āsthāya—following; prakṛityā—by nature; niyatāḥ—controlled; svayā—by their own
+◈  kāmaiḥ – by desires; taiḥ taiḥ – by various; hṛta-jñānāḥ – whose wisdom is led away; 
+◈  prapadyante – surrender/resort to; anya-devatāḥ – other gods/deities; 
+◈  tam tam – that and that; niyamam – rule/rite; āsthāya – following; 
+◈  prakṛtyā – by nature; niyatāḥ – led/governed; svayā – by their own.
 {eov}
 
 {sot}
@@ -30,10 +35,16 @@ But those whose discrimination has been led astray by various desires resort to 
 
 https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-Verse-21.mp3
 
-yo yo yāṁ yāṁ tanuṁ bhaktaḥ śhraddhayārchitum ichchhati
-tasya tasyāchalāṁ śhraddhāṁ tām eva vidadhāmyaham
+yo yo yāṃ yāṃ tanuṃ bhaktaḥ 
+śraddhayārcitumicchati | 
+tasya tasyācalāṃ śraddhāṃ 
+tāmeva vidadhāmyaham ||
 
-yaḥ yaḥ—whoever; yām yām—whichever; tanum—form; bhaktaḥ—devotee; śhraddhayā—with faith; architum—to worship; ichchhati—desires; tasya tasya—to him; achalām—steady; śhraddhām—faith; tām—in that; eva—certainly; vidadhāmi—bestow; aham—I
+◈  yaḥ yaḥ – whoever; yām yām – whichever; tanum – form/deity; bhaktaḥ – devotee; 
+◈  śraddhayā – with faith; arcitum – to worship; icchati – desires; 
+◈  tasya tasya – of him; acalām – unflinching; śraddhām – faith; 
+◈  tām eva – that very; vidadhāmi – bestow/ordain; aham – I.
+
 {eov}
 
 {sot}
@@ -47,10 +58,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 स तया श्रद्धया युक्तस्तस्याराधनमीहते |
 लभते च तत: कामान्मयैव विहितान्हि तान् || 22||
 
-sa tayā śhraddhayā yuktas tasyārādhanam īhate
-labhate cha tataḥ kāmān mayaiva vihitān hi tān
+sa tayā śraddhayā yuktas
+tasyārādhanamīhate | 
+labhate ca tataḥ kāmān
+mayaiva vihitānhi tān ||
 
-saḥ—he; tayā—with that; śhraddhayā—faith; yuktaḥ—endowed with; tasya—of that; ārādhanam—worship; īhate—tries to engage in; labhate—obtains; cha—and; tataḥ—from that; kāmān—desires; mayā—by me; eva—alone; vihitān—granted; hi—certainly; tān—those
+◈  saḥ – he; tayā – with that; śraddhayā – faith; yuktaḥ – endowed; 
+◈  tasya – of that (deity); ārādhanam – worship; īhate – performs; 
+◈  labhate – obtains; ca – and; tataḥ – from that; kāmān – desires; 
+◈  mayā eva – by Me alone; vihitān – ordained; hi – indeed; tān – those.
 {eov}
 
 {sot}
@@ -64,10 +80,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् |
 देवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि || 23||
 
-antavat tu phalaṁ teṣhāṁ tad bhavatyalpa-medhasām
-devān deva-yajo yānti mad-bhaktā yānti mām api
+antavattu phalaṃ teṣāṃ 
+tadbhavatyalpamedhasām | 
+devāndevayajo yānti 
+madbhaktā yānti māmapi ||
 
-anta-vat—perishable; tu—but; phalam—fruit; teṣhām—by them; tat—that; bhavati—is; alpa-medhasām—people of little understanding; devān—to the celestial gods; deva-yajaḥ—the worshipers of the celestial gods; yānti—go; mat—my; bhaktāḥ—devotees; yānti—go; mām—to me; api—whereas
+◈  antavat – finite/perishable; tu – but; phalam – fruit; teṣām – of them; 
+◈  tat – that; bhavati – is; alpa-medhasām – of those of small intelligence; 
+◈  devān – to the gods; deva-yajaḥ – the worshippers of gods; yānti – go; 
+◈  mat-bhaktāḥ – My devotees; yānti – go; mām api – to Me also.
 {eov}
 
 {sot}

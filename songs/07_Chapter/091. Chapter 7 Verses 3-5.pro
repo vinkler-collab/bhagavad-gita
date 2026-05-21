@@ -16,10 +16,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये |
 यततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वत: || 3||
 
-manuṣhyāṇāṁ sahasreṣhu kaśhchid yatati siddhaye
-yatatām api siddhānāṁ kaśhchin māṁ vetti tattvataḥ
+mmanuṣyāṇāṃ sahasreṣu 
+kaścidyatati siddhaye | 
+yatatāmapi siddhānāṃ 
+kaścinmāṃ vetti tattvataḥ ||
 
-manuṣhyāṇām—of men; sahasreṣhu—out of many thousands; kaśhchit—someone; yatati—strives; siddhaye—for perfection; yatatām—of those who strive; api—even; siddhānām—of those who have achieved perfection; kaśhchit—someone; mām—me; vetti—knows; tattvataḥ—in truth
+◈  manuṣyāṇām – of men; sahasreṣu – among thousands; 
+◈  kaścit – someone; yatati – strives; siddhaye – for perfection; 
+◈  yatatām – of those who strive; api – even; siddhānām – of the perfected ones; 
+◈  kaścit – someone; mām – Me; vetti – knows; tattvataḥ – in truth.
+
 {eov}
 
 {sot}
@@ -33,10 +39,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 भूमिरापोऽनलो वायु: खं मनो बुद्धिरेव च |
 अहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा || 4||
 
-bhūmir-āpo ’nalo vāyuḥ khaṁ mano buddhir eva cha
-ahankāra itīyaṁ me bhinnā prakṛitir aṣhṭadhā
+bhūmirāpo’nalo vāyuḥ 
+khaṃ mano buddhireva ca |
+ahaṅkāra itīyaṃ me 
+bhinnā prakṛtiraṣṭadhā ||
 
-bhūmiḥ—earth; āpaḥ—water; analaḥ—fire; vāyuḥ—air; kham—space; manaḥ—mind; buddhiḥ—intellect; eva—certainly; cha—and; ahankāraḥ—ego; iti—thus; iyam—all these; me—my; bhinnā—divisions; prakṛitiḥ—material energy; aṣhṭadhā—eightfold
+◈  bhūmiḥ – earth; āpaḥ – water; analaḥ – fire; vāyuḥ – air; 
+◈  kham – ether; manaḥ – mind; buddhiḥ – intellect; eva – also; ca – and;
+◈  ahaṅkāraḥ – ego; iti – thus; iyam – this; me – My; 
+◈  bhinnā – divided; prakṛtiḥ – nature; aṣṭadhā – eightfold.
+
 {eov}
 
 {sot}
@@ -50,10 +62,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् |
 जीवभूतां महाबाहो ययेदं धार्यते जगत् || 5||
 
-apareyam itas tvanyāṁ prakṛitiṁ viddhi me parām
-jīva-bhūtāṁ mahā-bāho yayedaṁ dhāryate jagat
+apareyamitastvanyāṃ 
+prakṛtiṃ viddhi me parām | 
+jīvabhūtāṃ mahābāho 
+yayedaṃ dhāryate jagat ||
 
-aparā—inferior; iyam—this; itaḥ—besides this; tu—but; anyām—another; prakṛitim—energy; viddhi—know; me—my; parām—superior; jīva-bhūtām—living beings; mahā-bāho—mighty-armed one; yayā—by whom; idam—this; dhāryate—the basis; jagat—the material world
+◈  aparā – lower; iyam – this; itaḥ – from this; tu – but; anyām – another; 
+◈  prakṛtim – nature; viddhi – know; me – My; parām – higher; 
+◈  jīva-bhūtām – consisting of life/souls; mahābāho – O mighty-armed; 
+◈  yayā – by which; idam – this; dhāryate – is sustained; jagat – the universe.
 {eov}
 
 {sot}

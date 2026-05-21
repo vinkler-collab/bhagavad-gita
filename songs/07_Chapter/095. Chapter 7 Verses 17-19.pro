@@ -16,10 +16,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते |
 प्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रिय: || 17||
 
-teṣhāṁ jñānī nitya-yukta eka-bhaktir viśhiṣhyate
-priyo hi jñānino ’tyartham ahaṁ sa cha mama priyaḥ
+teṣāṃ jñānī nityayukta 
+ekabhaktirviśiṣyate | 
+priyo hi jñānino’tyartham
+ahaṃ sa ca mama priyaḥ ||
 
-teṣhām—amongst these; jñānī—those who are situated in knowledge; nitya-yuktaḥ—ever steadfast; eka—exclusively; bhaktiḥ—devotion; viśhiṣhyate—highest; priyaḥ—very dear; hi—certainly; jñāninaḥ—to the person in knowledge; atyartham—highly; aham—I; saḥ—he; cha—and; mama—to me; priyaḥ—very dear
+teṣām – of them; jñānī – the man of wisdom; nitya-yuktaḥ – ever-steadfast; 
+eka-bhaktiḥ – whose devotion is to the One; viśiṣyate – excels/is best; 
+priyaḥ – dear; hi – indeed; jñāninaḥ – to the wise; atyartham – exceedingly; 
+aham – I; saḥ – he; ca – and; mama – to Me; priyaḥ – dear.
 {eov}
 
 {sot}
@@ -33,11 +38,15 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 उदारा: सर्व एवैते ज्ञानी त्वात्मैव मे मतम् |
 आस्थित: स हि युक्तात्मा मामेवानुत्तमां गतिम् || 18||
 
-udārāḥ sarva evaite jñānī tvātmaiva me matam
-āsthitaḥ sa hi yuktātmā mām evānuttamāṁ gatim
+udārāḥ sarva evaite 
+jñānī tvātmaiva me matam | 
+āsthitaḥ sa hi yuktātmā 
+māmevānuttamāṃ gatim ||
 
-udārāḥ—noble; sarve—all; eva—indeed; ete—these; jñānī—those in knowledge; tu—but; ātmā eva—my very self; me—my; matam—opinion; āsthitaḥ—situated; saḥ—he; hi—certainly; yukta-ātmā—those who are united; mām—in me; eva—certainly; anuttamām—the supreme; gatim—goal
-{eov}
+udārāḥ – noble; sarve – all; eva – indeed; ete – these; 
+jñānī – the wise; tu – but; ātmā eva – My very Self; me matam – My opinion; 
+āsthitaḥ – established; saḥ – he; hi – indeed; yukta-ātmā – steady-minded; 
+mām eva – in Me alone; anuttamām – the supreme; gatim – goal.{eov}
 
 {sot}
 Noble indeed are they all; but the man endowed with wisdom I deem to be My very Self. For, steadfast in mind, he remains fixed in Me alone as the Supreme Goal.
@@ -50,10 +59,16 @@ https://media.vivekavani.com/wp-content/uploads/2022/05/Bhagavad-Gita-Chapter-7-
 बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते |
 वासुदेव: सर्वमिति स महात्मा सुदुर्लभ: || 19||
 
-bahūnāṁ janmanām ante jñānavān māṁ prapadyate
-vāsudevaḥ sarvam iti sa mahātmā su-durlabhaḥ
+bahūnāṃ janmanāmante 
+jñānavānmāṃ prapadyate | 
+vāsudevaḥ sarvamiti sa 
+mahātmā sudurlabhaḥ ||
 
-bahūnām—many; janmanām—births; ante—after; jñāna-vān—one who is endowed with knowledge; mām—unto me; prapadyate—surrenders; vāsudevaḥ—Shree Krishna, the son of Vasudev; sarvam—all; iti—that; saḥ—that; mahā-ātmā—great soul; su-durlabhaḥ—very rare
+◈  bahūnām – of many; janmanām – of births; ante – at the end; 
+◈  jñānavān – the man of wisdom; mām – to Me; prapadyate – surrenders; 
+◈  vāsudevaḥ sarvam – Vasudeva (God) is everything; iti – thus; 
+◈  saḥ – he; mahā-ātmā – great soul; su-durlabhaḥ – very rare.
+
 {eov}
 
 {sot}
